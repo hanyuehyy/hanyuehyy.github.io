@@ -248,6 +248,147 @@
                 grid-template-columns: 1fr;
             }
         }
+
+        /* GitHub热门项目卡片 */
+        .github-card {
+            background: linear-gradient(135deg, #FFF9E6, #FFF3CD);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 15px;
+            border-left: 4px solid #FFC107;
+            transition: all 0.3s ease;
+            display: block;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .github-card:hover {
+            transform: translateX(10px);
+            box-shadow: 0 5px 20px rgba(255, 193, 7, 0.3);
+        }
+
+        .github-card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 10px;
+        }
+
+        .github-card-title {
+            color: #FF8F00;
+            font-size: 1.1em;
+            font-weight: 600;
+            margin: 0;
+        }
+
+        .github-card-stars {
+            background: linear-gradient(135deg, #FFC107, #FF9800);
+            color: white;
+            padding: 4px 10px;
+            border-radius: 15px;
+            font-size: 0.85em;
+            font-weight: 500;
+            white-space: nowrap;
+        }
+
+        .github-card-desc {
+            color: #666;
+            font-size: 0.9em;
+            line-height: 1.5;
+            margin-bottom: 10px;
+        }
+
+        .github-card-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.85em;
+            color: #888;
+        }
+
+        .github-card-lang {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .lang-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: #FFC107;
+        }
+
+        /* AI新闻卡片 */
+        .news-card {
+            background: linear-gradient(135deg, #FFF9E6, #FFF3CD);
+            border-radius: 12px;
+            padding: 18px;
+            margin-bottom: 12px;
+            border-left: 4px solid #FF9800;
+            transition: all 0.3s ease;
+            display: block;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .news-card:hover {
+            transform: translateX(10px);
+            box-shadow: 0 5px 20px rgba(255, 152, 0, 0.3);
+        }
+
+        .news-card-title {
+            color: #333;
+            font-size: 1em;
+            font-weight: 600;
+            margin-bottom: 8px;
+            line-height: 1.4;
+        }
+
+        .news-card-title-cn {
+            color: #FF8F00;
+            font-size: 0.9em;
+            margin-bottom: 8px;
+        }
+
+        .news-card-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.85em;
+            color: #888;
+        }
+
+        .news-score {
+            color: #FF9800;
+            font-weight: 500;
+        }
+
+        /* 加载提示 */
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #FF8F00;
+            font-size: 1.1em;
+        }
+
+        .loading::before {
+            content: '⏳';
+            margin-right: 10px;
+            animation: spin 1s linear infinite;
+            display: inline-block;
+        }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        /* 更新时间 */
+        .update-time {
+            text-align: right;
+            font-size: 0.85em;
+            color: #999;
+            margin-top: 10px;
+        }
     </style>
 </head>
 <body>
@@ -278,26 +419,24 @@
             </div>
         </div>
 
-        <!-- 项目 -->
-        <div class="section">
-            <h2>项目</h2>
-            <div class="projects-grid">
-                <div class="project-card">
-                    <h3>🤖 AI对话助手</h3>
-                    <p>基于大语言模型的智能对话系统，支持多轮对话和上下文理解</p>
-                    <span class="project-tag">LLM</span>
-                </div>
-                <div class="project-card">
-                    <h3>📊 数据分析平台</h3>
-                    <p>自动化数据分析和可视化工具，帮助团队快速洞察数据价值</p>
-                    <span class="project-tag">Data Science</span>
-                </div>
-                <div class="project-card">
-                    <h3>🖼️ 图像识别系统</h3>
-                    <p>基于深度学习的图像分类和目标检测应用</p>
-                    <span class="project-tag">Computer Vision</span>
-                </div>
+        <!-- GitHub热门项目 -->
+        <div class="section" id="github-section">
+            <h2>🔥 GitHub 热门项目</h2>
+            <p style="color: #888; margin-bottom: 20px; font-size: 0.95em;">最近2周 Star 增长最快的开源项目</p>
+            <div id="github-projects">
+                <div class="loading">加载中...</div>
             </div>
+            <div class="update-time" id="github-update-time"></div>
+        </div>
+
+        <!-- AI行业新闻 -->
+        <div class="section" id="news-section">
+            <h2>📰 AI 行业新闻</h2>
+            <p style="color: #888; margin-bottom: 20px; font-size: 0.95em;">来自 Hacker News 的 AI 领域最新动态</p>
+            <div id="ai-news">
+                <div class="loading">加载中...</div>
+            </div>
+            <div class="update-time" id="news-update-time"></div>
         </div>
 
         <!-- 联系方式 -->
@@ -333,5 +472,120 @@
             <p>© 2026 Yuehan | Built with <span>❤</span> and AI</p>
         </div>
     </div>
+
+    <script>
+        // 格式化数字（如 1200 -> 1.2k）
+        function formatNumber(num) {
+            if (num >= 1000) {
+                return (num / 1000).toFixed(1) + 'k';
+            }
+            return num.toString();
+        }
+
+        // 格式化时间
+        function formatTime(isoString) {
+            if (!isoString) return '';
+            const date = new Date(isoString);
+            return date.toLocaleDateString('zh-CN', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
+        // 渲染GitHub项目卡片
+        function renderGitHubProjects(projects) {
+            const container = document.getElementById('github-projects');
+
+            if (!projects || projects.length === 0) {
+                container.innerHTML = '<p style="color: #999; text-align: center;">暂无数据，请稍后再试</p>';
+                return;
+            }
+
+            let html = '';
+            projects.forEach(project => {
+                html += `
+                    <a href="${project.url}" target="_blank" class="github-card">
+                        <div class="github-card-header">
+                            <div class="github-card-title">${project.full_name}</div>
+                            <div class="github-card-stars">⭐ ${formatNumber(project.stars)}</div>
+                        </div>
+                        <div class="github-card-desc">${project.description}</div>
+                        <div class="github-card-meta">
+                            <div class="github-card-lang">
+                                <span class="lang-dot"></span>
+                                ${project.language}
+                            </div>
+                            <div>🍴 ${formatNumber(project.forks)} forks</div>
+                        </div>
+                    </a>
+                `;
+            });
+
+            container.innerHTML = html;
+        }
+
+        // 渲染AI新闻卡片
+        function renderAINews(news) {
+            const container = document.getElementById('ai-news');
+
+            if (!news || news.length === 0) {
+                container.innerHTML = '<p style="color: #999; text-align: center;">暂无数据，请稍后再试</p>';
+                return;
+            }
+
+            let html = '';
+            news.forEach(item => {
+                // 优先显示中文标题，如果没有则显示原标题
+                const title = item.title_cn || item.title;
+                html += `
+                    <a href="${item.url}" target="_blank" class="news-card">
+                        <div class="news-card-title">${title}</div>
+                        ${item.title_cn && item.title_cn !== item.title ? `<div class="news-card-title-cn">${item.title}</div>` : ''}
+                        <div class="news-card-meta">
+                            <span class="news-score">👍 ${item.score} 分</span>
+                            <span>💬 ${item.comments} 评论</span>
+                        </div>
+                    </a>
+                `;
+            });
+
+            container.innerHTML = html;
+        }
+
+        // 加载数据
+        async function loadData() {
+            try {
+                const response = await fetch('data/data.json?t=' + Date.now());
+                if (!response.ok) {
+                    throw new Error('Failed to load data');
+                }
+
+                const data = await response.json();
+
+                // 渲染GitHub项目
+                renderGitHubProjects(data.github_projects);
+                document.getElementById('github-update-time').textContent =
+                    '更新时间：' + formatTime(data.updated_at);
+
+                // 渲染AI新闻
+                renderAINews(data.ai_news);
+                document.getElementById('news-update-time').textContent =
+                    '更新时间：' + formatTime(data.updated_at);
+
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('github-projects').innerHTML =
+                    '<p style="color: #999; text-align: center;">数据加载失败，请稍后再试</p>';
+                document.getElementById('ai-news').innerHTML =
+                    '<p style="color: #999; text-align: center;">数据加载失败，请稍后再试</p>';
+            }
+        }
+
+        // 页面加载完成后加载数据
+        document.addEventListener('DOMContentLoaded', loadData);
+    </script>
 </body>
 </html>

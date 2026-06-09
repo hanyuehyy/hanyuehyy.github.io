@@ -1,0 +1,331 @@
+{
+  "updated_at": "2026-06-09T17:41:11.180083",
+  "github_projects": [
+    {
+      "name": "odysseus",
+      "full_name": "pewdiepie-archdaemon/odysseus",
+      "description": "Self-hosted AI workspace. ",
+      "stars": 64489,
+      "forks": 7897,
+      "language": "Python",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "topics": [],
+      "created_at": "2026-05-31T14:05:51Z",
+      "owner": {
+        "login": "pewdiepie-archdaemon",
+        "avatar_url": "https://avatars.githubusercontent.com/u/229018391?v=4"
+      }
+    },
+    {
+      "name": "chinese-buy-us-stock-guide",
+      "full_name": "zgwl/chinese-buy-us-stock-guide",
+      "description": "美股指南",
+      "stars": 3830,
+      "forks": 596,
+      "language": "Unknown",
+      "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
+      "topics": [],
+      "created_at": "2026-05-30T04:27:25Z",
+      "owner": {
+        "login": "zgwl",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6014068?v=4"
+      }
+    },
+    {
+      "name": "ian-xiaohei-illustrations",
+      "full_name": "helloianneo/ian-xiaohei-illustrations",
+      "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+      "stars": 3589,
+      "forks": 314,
+      "language": "Unknown",
+      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+      "topics": [
+        "ai-agent",
+        "chinese",
+        "codex-skill",
+        "handdrawn",
+        "illustration"
+      ],
+      "created_at": "2026-05-27T22:47:56Z",
+      "owner": {
+        "login": "helloianneo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/89686060?v=4"
+      }
+    },
+    {
+      "name": "guizang-social-card-skill",
+      "full_name": "op7418/guizang-social-card-skill",
+      "description": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对",
+      "stars": 3202,
+      "forks": 295,
+      "language": "HTML",
+      "url": "https://github.com/op7418/guizang-social-card-skill",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "anthropic",
+        "claude-code",
+        "claude-skill"
+      ],
+      "created_at": "2026-05-27T12:05:05Z",
+      "owner": {
+        "login": "op7418",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+      }
+    },
+    {
+      "name": "skylight",
+      "full_name": "cpaczek/skylight",
+      "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+      "stars": 2418,
+      "forks": 238,
+      "language": "TypeScript",
+      "url": "https://github.com/cpaczek/skylight",
+      "topics": [
+        "ads-b",
+        "aircraft",
+        "art-installation",
+        "flight-tracker",
+        "projector"
+      ],
+      "created_at": "2026-06-02T23:40:28Z",
+      "owner": {
+        "login": "cpaczek",
+        "avatar_url": "https://avatars.githubusercontent.com/u/25715982?v=4"
+      }
+    },
+    {
+      "name": "html-video",
+      "full_name": "nexu-io/html-video",
+      "description": "Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
+      "stars": 2396,
+      "forks": 269,
+      "language": "HTML",
+      "url": "https://github.com/nexu-io/html-video",
+      "topics": [
+        "ai-agent",
+        "apache-2",
+        "coding-agent",
+        "css",
+        "ffmpeg"
+      ],
+      "created_at": "2026-05-27T02:08:11Z",
+      "owner": {
+        "login": "nexu-io",
+        "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+      }
+    },
+    {
+      "name": "goose",
+      "full_name": "b-nnett/goose",
+      "description": "Goose Swift proof-of-concept README",
+      "stars": 2329,
+      "forks": 550,
+      "language": "Rust",
+      "url": "https://github.com/b-nnett/goose",
+      "topics": [],
+      "created_at": "2026-06-02T12:16:37Z",
+      "owner": {
+        "login": "b-nnett",
+        "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
+      }
+    },
+    {
+      "name": "WechatOnCloud",
+      "full_name": "Gloridust/WechatOnCloud",
+      "description": "云微WOC，云微信，自由连接",
+      "stars": 2279,
+      "forks": 613,
+      "language": "TypeScript",
+      "url": "https://github.com/Gloridust/WechatOnCloud",
+      "topics": [],
+      "created_at": "2026-05-29T06:14:13Z",
+      "owner": {
+        "login": "Gloridust",
+        "avatar_url": "https://avatars.githubusercontent.com/u/88082356?v=4"
+      }
+    },
+    {
+      "name": "GordenPPTSkill",
+      "full_name": "GordenSun/GordenPPTSkill",
+      "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
+      "stars": 1840,
+      "forks": 172,
+      "language": "Python",
+      "url": "https://github.com/GordenSun/GordenPPTSkill",
+      "topics": [],
+      "created_at": "2026-05-27T10:25:58Z",
+      "owner": {
+        "login": "GordenSun",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3281492?v=4"
+      }
+    },
+    {
+      "name": "ideogram4",
+      "full_name": "ideogram-oss/ideogram4",
+      "description": "Ideogram 4: Open image model at the forefront of design",
+      "stars": 1751,
+      "forks": 167,
+      "language": "Python",
+      "url": "https://github.com/ideogram-oss/ideogram4",
+      "topics": [],
+      "created_at": "2026-05-28T15:56:47Z",
+      "owner": {
+        "login": "ideogram-oss",
+        "avatar_url": "https://avatars.githubusercontent.com/u/288687116?v=4"
+      }
+    }
+  ],
+  "ai_news": [
+    {
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "score": 590,
+      "comments": 450,
+      "author": "unclefuzzy",
+      "time": 1780946087,
+      "hn_url": "https://news.ycombinator.com/item?id=48450142",
+      "title_cn": "【AI, 模型】Apple reveals new AI architecture built around Google Gemini models"
+    },
+    {
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "score": 573,
+      "comments": 531,
+      "author": "0xedb",
+      "time": 1780942673,
+      "hn_url": "https://news.ycombinator.com/item?id=48449084",
+      "title_cn": "【AI】Siri AI"
+    },
+    {
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "score": 568,
+      "comments": 418,
+      "author": "gainsurier",
+      "time": 1780932453,
+      "hn_url": "https://news.ycombinator.com/item?id=48446639",
+      "title_cn": "【模型】MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second"
+    },
+    {
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "score": 559,
+      "comments": 437,
+      "author": "martinald",
+      "time": 1780931623,
+      "hn_url": "https://news.ycombinator.com/item?id=48446428",
+      "title_cn": "【AI】xAI is looking more like a datacentre REIT than a frontier lab"
+    },
+    {
+      "title": "AI is slowing down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "score": 549,
+      "comments": 573,
+      "author": "crescit_eundo",
+      "time": 1780933597,
+      "hn_url": "https://news.ycombinator.com/item?id=48446893",
+      "title_cn": "【AI】AI is slowing down"
+    },
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+      "score": 337,
+      "comments": 282,
+      "author": "hackerBanana",
+      "time": 1780953763,
+      "hn_url": "https://news.ycombinator.com/item?id=48452317",
+      "title_cn": "Confidential submission of draft S-1 to the SEC"
+    },
+    {
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "score": 299,
+      "comments": 75,
+      "author": "hmokiguess",
+      "time": 1780944458,
+      "hn_url": "https://news.ycombinator.com/item?id=48449665",
+      "title_cn": "【AI, 框架】Apple Core AI Framework"
+    },
+    {
+      "title": "FrontierCode",
+      "url": "https://cognition.ai/blog/frontier-code",
+      "score": 189,
+      "comments": 33,
+      "author": "streamer45",
+      "time": 1780951503,
+      "hn_url": "https://news.ycombinator.com/item?id=48451723",
+      "title_cn": "FrontierCode"
+    },
+    {
+      "title": "OCaml Onboarding: Introduction to the Dune build system",
+      "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
+      "score": 160,
+      "comments": 27,
+      "author": "andrewstetsenko",
+      "time": 1780595549,
+      "hn_url": "https://news.ycombinator.com/item?id=48402137",
+      "title_cn": "OCaml Onboarding: Introduction to the Dune build system"
+    },
+    {
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "url": "https://opencv.org/opencv-5/",
+      "score": 158,
+      "comments": 29,
+      "author": "ternaus",
+      "time": 1780725748,
+      "hn_url": "https://news.ycombinator.com/item?id=48421858",
+      "title_cn": "【计算机视觉】OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision"
+    },
+    {
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "score": 120,
+      "comments": 42,
+      "author": "raffael_de",
+      "time": 1780990396,
+      "hn_url": "https://news.ycombinator.com/item?id=48457830",
+      "title_cn": "【AI, 开源, 工具】Microsoft's open source tools were hacked to steal passwords of AI developers"
+    },
+    {
+      "title": "I'm building a parallel internet, and it's called The Thinnernet",
+      "url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
+      "score": 83,
+      "comments": 81,
+      "author": "initramfs",
+      "time": 1780947904,
+      "hn_url": "https://news.ycombinator.com/item?id=48450694",
+      "title_cn": "I'm building a parallel internet, and it's called The Thinnernet"
+    },
+    {
+      "title": "Apple bets cheaper AI will woo small developers",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "score": 64,
+      "comments": 27,
+      "author": "jbernardo95",
+      "time": 1780952520,
+      "hn_url": "https://news.ycombinator.com/item?id=48452000",
+      "title_cn": "【AI】Apple bets cheaper AI will woo small developers"
+    },
+    {
+      "title": "Passing DBs through continuations",
+      "url": "https://remy.wang/blog/cps.html",
+      "score": 56,
+      "comments": 6,
+      "author": "remywang",
+      "time": 1780795060,
+      "hn_url": "https://news.ycombinator.com/item?id=48430821",
+      "title_cn": "Passing DBs through continuations"
+    },
+    {
+      "title": "CRDTs merge concurrent edits. Why not concurrent creation?",
+      "url": "https://loro.dev/blog/mergeable-containers",
+      "score": 18,
+      "comments": 2,
+      "author": "czx111331",
+      "time": 1780980490,
+      "hn_url": "https://news.ycombinator.com/item?id=48456555",
+      "title_cn": "CRDTs merge concurrent edits. Why not concurrent creation?"
+    }
+  ]
+}
