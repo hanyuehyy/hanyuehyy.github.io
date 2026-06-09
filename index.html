@@ -295,7 +295,15 @@
             color: #666;
             font-size: 0.9em;
             line-height: 1.5;
+            margin-bottom: 5px;
+        }
+
+        .github-card-desc-en {
+            color: #999;
+            font-size: 0.8em;
+            line-height: 1.4;
             margin-bottom: 10px;
+            font-style: italic;
         }
 
         .github-card-meta {
@@ -588,13 +596,18 @@
 
             let html = '';
             projects.forEach(project => {
+                // 显示中文描述（如果有），否则显示英文描述
+                const desc = project.description_cn || project.description;
+                const showEnglish = project.description_cn && project.description_cn !== project.description;
+
                 html += `
                     <a href="${project.url}" target="_blank" class="github-card">
                         <div class="github-card-header">
                             <div class="github-card-title">${project.full_name}</div>
                             <div class="github-card-stars">⭐ ${formatNumber(project.stars)}</div>
                         </div>
-                        <div class="github-card-desc">${project.description}</div>
+                        <div class="github-card-desc">${desc}</div>
+                        ${showEnglish ? `<div class="github-card-desc-en">${project.description}</div>` : ''}
                         <div class="github-card-meta">
                             <div class="github-card-lang">
                                 <span class="lang-dot"></span>
