@@ -389,6 +389,76 @@
             color: #999;
             margin-top: 10px;
         }
+
+        /* Tab切换样式 */
+        .tabs-container {
+            background: rgba(255, 255, 255, 0.85);
+            border-radius: 16px;
+            padding: 35px;
+            margin-bottom: 30px;
+            box-shadow: 0 8px 30px rgba(255, 193, 7, 0.15);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .tabs-container:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 45px rgba(255, 193, 7, 0.25);
+        }
+
+        .tabs-header {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 25px;
+            border-bottom: 3px solid #FFC107;
+            padding-bottom: 15px;
+        }
+
+        .tab-button {
+            flex: 1;
+            padding: 15px 25px;
+            border: none;
+            border-radius: 12px 12px 0 0;
+            background: linear-gradient(135deg, #FFF8E1, #FFECB3);
+            color: #F57C00;
+            font-size: 1.1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .tab-button:hover {
+            background: linear-gradient(135deg, #FFE082, #FFD54F);
+        }
+
+        .tab-button.active {
+            background: linear-gradient(135deg, #FFC107, #FF9800);
+            color: white;
+            box-shadow: 0 4px 15px rgba(255, 152, 0, 0.4);
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+            animation: fadeIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .tab-description {
+            color: #888;
+            margin-bottom: 20px;
+            font-size: 0.95em;
+        }
     </style>
 </head>
 <body>
@@ -419,24 +489,34 @@
             </div>
         </div>
 
-        <!-- GitHub热门项目 -->
-        <div class="section" id="github-section">
-            <h2>🔥 GitHub 热门项目</h2>
-            <p style="color: #888; margin-bottom: 20px; font-size: 0.95em;">最近2周 Star 增长最快的开源项目</p>
-            <div id="github-projects">
-                <div class="loading">加载中...</div>
+        <!-- 动态内容区 - Tab切换 -->
+        <div class="tabs-container">
+            <div class="tabs-header">
+                <button class="tab-button active" data-tab="github">
+                    🔥 GitHub 热门项目
+                </button>
+                <button class="tab-button" data-tab="news">
+                    📰 AI 行业新闻
+                </button>
             </div>
-            <div class="update-time" id="github-update-time"></div>
-        </div>
 
-        <!-- AI行业新闻 -->
-        <div class="section" id="news-section">
-            <h2>📰 AI 行业新闻</h2>
-            <p style="color: #888; margin-bottom: 20px; font-size: 0.95em;">来自 Hacker News 的 AI 领域最新动态</p>
-            <div id="ai-news">
-                <div class="loading">加载中...</div>
+            <!-- GitHub热门项目内容 -->
+            <div class="tab-content active" id="tab-github">
+                <p class="tab-description">最近2周 Star 增长最快的开源项目</p>
+                <div id="github-projects">
+                    <div class="loading">加载中...</div>
+                </div>
+                <div class="update-time" id="github-update-time"></div>
             </div>
-            <div class="update-time" id="news-update-time"></div>
+
+            <!-- AI行业新闻内容 -->
+            <div class="tab-content" id="tab-news">
+                <p class="tab-description">来自 Hacker News 的 AI 领域最新动态</p>
+                <div id="ai-news">
+                    <div class="loading">加载中...</div>
+                </div>
+                <div class="update-time" id="news-update-time"></div>
+            </div>
         </div>
 
         <!-- 联系方式 -->
@@ -492,6 +572,26 @@
                 day: 'numeric',
                 hour: '2-digit',
                 minute: '2-digit'
+            });
+        }
+
+        // Tab切换功能
+        function initTabs() {
+            const tabButtons = document.querySelectorAll('.tab-button');
+            const tabContents = document.querySelectorAll('.tab-content');
+
+            tabButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const tabId = button.getAttribute('data-tab');
+
+                    // 移除所有active类
+                    tabButtons.forEach(btn => btn.classList.remove('active'));
+                    tabContents.forEach(content => content.classList.remove('active'));
+
+                    // 添加active类到当前选中的tab
+                    button.classList.add('active');
+                    document.getElementById('tab-' + tabId).classList.add('active');
+                });
             });
         }
 
@@ -584,8 +684,11 @@
             }
         }
 
-        // 页面加载完成后加载数据
-        document.addEventListener('DOMContentLoaded', loadData);
+        // 页面加载完成后初始化
+        document.addEventListener('DOMContentLoaded', () => {
+            initTabs();
+            loadData();
+        });
     </script>
 </body>
 </html>
