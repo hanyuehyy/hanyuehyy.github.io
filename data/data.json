@@ -1,29 +1,13 @@
 {
-  "updated_at": "2026-06-13T04:16:19.122405",
+  "updated_at": "2026-06-14T04:43:47.811017",
   "github_projects": [
-    {
-      "name": "odysseus",
-      "full_name": "pewdiepie-archdaemon/odysseus",
-      "description": "Self-hosted AI workspace. ",
-      "description_cn": "自托管 AI 工作区. ",
-      "stars": 69447,
-      "forks": 8772,
-      "language": "Python",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "topics": [],
-      "created_at": "2026-05-31T14:05:51Z",
-      "owner": {
-        "login": "pewdiepie-archdaemon",
-        "avatar_url": "https://avatars.githubusercontent.com/u/229018391?v=4"
-      }
-    },
     {
       "name": "MiMo-Code",
       "full_name": "XiaomiMiMo/MiMo-Code",
       "description": "No description",
       "description_cn": "",
-      "stars": 7051,
-      "forks": 560,
+      "stars": 8012,
+      "forks": 665,
       "language": "TypeScript",
       "url": "https://github.com/XiaomiMiMo/MiMo-Code",
       "topics": [],
@@ -34,12 +18,28 @@
       }
     },
     {
+      "name": "improve",
+      "full_name": "shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "description_cn": "use your most Capable 模型 to audit your Codebase and write plans for C堆er 模型s to exeCute.",
+      "stars": 3555,
+      "forks": 128,
+      "language": "Unknown",
+      "url": "https://github.com/shadcn/improve",
+      "topics": [],
+      "created_at": "2026-06-10T11:06:58Z",
+      "owner": {
+        "login": "shadcn",
+        "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
+      }
+    },
+    {
       "name": "skylight",
       "full_name": "cpaczek/skylight",
       "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
       "description_cn": "项目 the AIrCraft passing overhead 开启to your Ceiling in real time, from an rtl-sdr — with a live sky 层 (sun, mo开启, stars, iss) and where eaCh plane is headed.",
-      "stars": 2629,
-      "forks": 291,
+      "stars": 2651,
+      "forks": 294,
       "language": "TypeScript",
       "url": "https://github.com/cpaczek/skylight",
       "topics": [
@@ -56,44 +56,12 @@
       }
     },
     {
-      "name": "goose",
-      "full_name": "b-nnett/goose",
-      "description": "Goose Swift proof-of-concept README",
-      "description_cn": "Goose Sw如果t proof-of-C开启Cept readme",
-      "stars": 2483,
-      "forks": 602,
-      "language": "Rust",
-      "url": "https://github.com/b-nnett/goose",
-      "topics": [],
-      "created_at": "2026-06-02T12:16:37Z",
-      "owner": {
-        "login": "b-nnett",
-        "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
-      }
-    },
-    {
-      "name": "improve",
-      "full_name": "shadcn/improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "description_cn": "use your most Capable 模型 to audit your Codebase and write plans for C堆er 模型s to exeCute.",
-      "stars": 2474,
-      "forks": 90,
-      "language": "Unknown",
-      "url": "https://github.com/shadcn/improve",
-      "topics": [],
-      "created_at": "2026-06-10T11:06:58Z",
-      "owner": {
-        "login": "shadcn",
-        "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
-      }
-    },
-    {
       "name": "lottie",
       "full_name": "diffusionstudio/lottie",
       "description": "Generate production-ready Lottie animations with Claude Code or Codex",
       "description_cn": "generate produCti开启-ready lottie 动画s with Claude Code or Codex",
-      "stars": 2424,
-      "forks": 121,
+      "stars": 2560,
+      "forks": 137,
       "language": "TypeScript",
       "url": "https://github.com/diffusionstudio/lottie",
       "topics": [],
@@ -104,12 +72,50 @@
       }
     },
     {
+      "name": "goose",
+      "full_name": "b-nnett/goose",
+      "description": "Goose Swift proof-of-concept README",
+      "description_cn": "Goose Sw如果t proof-of-C开启Cept readme",
+      "stars": 2501,
+      "forks": 611,
+      "language": "Rust",
+      "url": "https://github.com/b-nnett/goose",
+      "topics": [],
+      "created_at": "2026-06-02T12:16:37Z",
+      "owner": {
+        "login": "b-nnett",
+        "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
+      }
+    },
+    {
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description_cn": "makes your AI 智能体 think like the laziest senior dev in the room. the best Code is the Code you never wrote.",
+      "stars": 1654,
+      "forks": 75,
+      "language": "JavaScript",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "created_at": "2026-06-12T00:52:37Z",
+      "owner": {
+        "login": "DietrichGebert",
+        "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
+      }
+    },
+    {
       "name": "noop",
       "full_name": "NoopApp/noop",
       "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
       "description_cn": "离线 whoop Compani开启 — 对 your strap over bluetooth, keep all 数据 开启 your own dev内联缓存e. 否 Cloud, 否 aC计数, 否 subsCrIPti开启.",
-      "stars": 1547,
-      "forks": 692,
+      "stars": 1605,
+      "forks": 703,
       "language": "Swift",
       "url": "https://github.com/NoopApp/noop",
       "topics": [],
@@ -124,8 +130,8 @@
       "full_name": "jd-opensource/JoyAI-Echo",
       "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
       "description_cn": "joyAI-eCho: pushing the fr开启tier of l开启g 音频-visual 生成",
-      "stars": 1508,
-      "forks": 132,
+      "stars": 1538,
+      "forks": 135,
       "language": "Python",
       "url": "https://github.com/jd-opensource/JoyAI-Echo",
       "topics": [],
@@ -140,8 +146,8 @@
       "full_name": "MSNightmare/RoguePlanet",
       "description": "RoguePlanet Windows Defender Vulnerability",
       "description_cn": "rogueplanet windows defender 漏洞",
-      "stars": 1221,
-      "forks": 510,
+      "stars": 1255,
+      "forks": 519,
       "language": "C++",
       "url": "https://github.com/MSNightmare/RoguePlanet",
       "topics": [],
@@ -152,178 +158,174 @@
       }
     },
     {
-      "name": "memory-os",
-      "full_name": "ClaudioDrews/memory-os",
-      "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
-      "description_cn": "a 7-层 内存 operating 系统 for hermes 智能体 — 持久 内存 with qdrant, 结构体ured faCts, fa分支内联缓存 召回率, auto-Curated wiki, and surg内联缓存al C开启文本 injeCti开启. runs 本地ly, any 大语言模型 provider.",
-      "stars": 1093,
-      "forks": 100,
-      "language": "Python",
-      "url": "https://github.com/ClaudioDrews/memory-os",
+      "name": "enableMacosAI",
+      "full_name": "SkyBlue997/enableMacosAI",
+      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "description_cn": "国行 maC 一键开启完整 apple 智能(端侧 + 私有 Cloud Compute 云端)· maCos 27 / apple sil内联缓存开启",
+      "stars": 1042,
+      "forks": 53,
+      "language": "Shell",
+      "url": "https://github.com/SkyBlue997/enableMacosAI",
       "topics": [
-        "ai-memory",
-        "context-injection",
-        "docker",
-        "ground-truth",
-        "hermes-agent"
+        "apple-intelligence"
       ],
-      "created_at": "2026-05-31T19:50:25Z",
+      "created_at": "2026-06-10T13:23:39Z",
       "owner": {
-        "login": "ClaudioDrews",
-        "avatar_url": "https://avatars.githubusercontent.com/u/242654945?v=4"
+        "login": "SkyBlue997",
+        "avatar_url": "https://avatars.githubusercontent.com/u/74125386?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "score": 1359,
-      "comments": 906,
-      "author": "Dylan1312",
-      "time": 1781311890,
-      "hn_url": "https://news.ycombinator.com/item?id=48511072",
-      "title_cn": "Statement on US government directive to suspend access to Fable 5 and Mythos 5"
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "score": 774,
+      "comments": 482,
+      "author": "nl",
+      "time": 1781358896,
+      "hn_url": "https://news.ycombinator.com/item?id=48517377",
+      "title_cn": "Noise infusion banned from statistical products published by Census Bureau"
     },
     {
-      "title": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "score": 379,
-      "comments": 104,
-      "author": "vednig",
-      "time": 1781316864,
-      "hn_url": "https://news.ycombinator.com/item?id=48511908",
-      "title_cn": "【AI, 开源】Open source AI must win"
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "score": 610,
+      "comments": 444,
+      "author": "ls612",
+      "time": 1781369869,
+      "hn_url": "https://news.ycombinator.com/item?id=48519092",
+      "title_cn": "【Anthropic, 模型】Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
     },
     {
-      "title": "\"Don't You Just Upload It to ChatGPT?\"",
-      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-      "score": 355,
-      "comments": 283,
-      "author": "speckx",
-      "time": 1781286766,
-      "hn_url": "https://news.ycombinator.com/item?id=48507278",
-      "title_cn": "【GPT】\"Don't You Just Upload It to ChatGPT?\""
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+      "score": 268,
+      "comments": 130,
+      "author": "austinallegro",
+      "time": 1781380495,
+      "hn_url": "https://news.ycombinator.com/item?id=48520807",
+      "title_cn": "【AI】Police officer investigated for using AI to 'create evidence' in multiple cases"
     },
     {
-      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
-      "url": "https://twitter.com/jsrailton/status/2064661778978533571",
-      "score": 337,
-      "comments": 198,
-      "author": "marc__1",
-      "time": 1781209458,
-      "hn_url": "https://news.ycombinator.com/item?id=48495928",
-      "title_cn": "Malware developers added nuclear and biological weapons text to to their spyware"
+      "title": "AI coding at home without going broke",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "score": 263,
+      "comments": 223,
+      "author": "sbochins",
+      "time": 1781369103,
+      "hn_url": "https://news.ycombinator.com/item?id=48518969",
+      "title_cn": "【AI】AI coding at home without going broke"
     },
     {
-      "title": "Renault: Electric motors with no rare earths",
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "score": 291,
-      "comments": 73,
-      "author": "bestouff",
-      "time": 1781302083,
-      "hn_url": "https://news.ycombinator.com/item?id=48510010",
-      "title_cn": "Renault: Electric motors with no rare earths"
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "score": 250,
+      "comments": 162,
+      "author": "hek2sch",
+      "time": 1781352647,
+      "hn_url": "https://news.ycombinator.com/item?id=48516504",
+      "title_cn": "【AI, 工具】AI OSS tool repo goes archived over night after raising $7.3M Seed"
     },
     {
-      "title": "Palantir loses legal challenge against Swiss investigative magazine",
-      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-      "score": 236,
-      "comments": 50,
-      "author": "sschueller",
-      "time": 1781296776,
-      "hn_url": "https://news.ycombinator.com/item?id=48509182",
-      "title_cn": "【AI】Palantir loses legal challenge against Swiss investigative magazine"
+      "title": "Codex for open source",
+      "url": "https://openai.com/form/codex-for-oss/",
+      "score": 197,
+      "comments": 67,
+      "author": "EvgeniyZh",
+      "time": 1781216403,
+      "hn_url": "https://news.ycombinator.com/item?id=48497195",
+      "title_cn": "【开源】Codex for open source"
     },
     {
-      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
-      "url": "https://piwodlaiwo.github.io/pirates/",
-      "score": 218,
-      "comments": 74,
-      "author": "iweczek",
-      "time": 1781284066,
-      "hn_url": "https://news.ycombinator.com/item?id=48506659",
-      "title_cn": "Pirates, a naval warfare game inspired by Sid Meier's Pirates"
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "url": "https://github.com/Paca-AI/paca",
+      "score": 142,
+      "comments": 54,
+      "author": "pikann22",
+      "time": 1781343865,
+      "hn_url": "https://news.ycombinator.com/item?id=48515385",
+      "title_cn": "【AI】Show HN: Paca – Lightweight Jira alternative for human-AI collaboration"
     },
     {
-      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
-      "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
-      "score": 183,
-      "comments": 69,
-      "author": "jesse_dot_id",
-      "time": 1781312286,
-      "hn_url": "https://news.ycombinator.com/item?id=48511121",
-      "title_cn": "【Claude】We've suspended access to Claude Mythos 5 and Claude Fable 5"
-    },
-    {
-      "title": "Slightly reducing the sloppiness of AI generated front end",
-      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "score": 170,
-      "comments": 112,
-      "author": "FergusArgyll",
-      "time": 1781275718,
-      "hn_url": "https://news.ycombinator.com/item?id=48504912",
-      "title_cn": "【AI】Slightly reducing the sloppiness of AI generated front end"
-    },
-    {
-      "title": "Show HN: Putt.day a daily mini golf game",
-      "url": "https://putt.day/",
+      "title": "The adder at the heart of Intel's 8087 floating-point chip",
+      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
       "score": 102,
-      "comments": 59,
-      "author": "ellg",
-      "time": 1781304966,
-      "hn_url": "https://news.ycombinator.com/item?id=48510341",
-      "title_cn": "【AI】Show HN: Putt.day a daily mini golf game"
+      "comments": 25,
+      "author": "pwg",
+      "time": 1781369382,
+      "hn_url": "https://news.ycombinator.com/item?id=48519011",
+      "title_cn": "The adder at the heart of Intel's 8087 floating-point chip"
     },
     {
-      "title": "As a result of a US Government directive, we are suspending access to Fable 5",
-      "url": "https://twitter.com/ClaudeDevs/status/2065597942602531163",
-      "score": 70,
-      "comments": 16,
-      "author": "plonkus",
-      "time": 1781312561,
-      "hn_url": "https://news.ycombinator.com/item?id=48511168",
-      "title_cn": "As a result of a US Government directive, we are suspending access to Fable 5"
+      "title": "State Attorneys General Are Investigating OpenAI",
+      "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+      "score": 51,
+      "comments": 3,
+      "author": "donohoe",
+      "time": 1781394739,
+      "hn_url": "https://news.ycombinator.com/item?id=48522675",
+      "title_cn": "【AI, OpenAI】State Attorneys General Are Investigating OpenAI"
     },
     {
-      "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
-      "url": "https://bitboard.work/",
-      "score": 38,
-      "comments": 19,
-      "author": "arcb",
-      "time": 1781283483,
-      "hn_url": "https://news.ycombinator.com/item?id=48506545",
-      "title_cn": "【推出】Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents"
+      "title": "C47/R47 Calculators",
+      "url": "https://47calc.com/index.html",
+      "score": 27,
+      "comments": 11,
+      "author": "helterskelter",
+      "time": 1781119673,
+      "hn_url": "https://news.ycombinator.com/item?id=48481385",
+      "title_cn": "C47/R47 Calculators"
     },
     {
-      "title": "Show HN: Turn your name into a tree in an infinite procedural shanshui landscape",
-      "url": "https://landscape.bairui.dev/",
-      "score": 28,
-      "comments": 12,
-      "author": "subairui",
-      "time": 1781102397,
-      "hn_url": "https://news.ycombinator.com/item?id=48477001",
-      "title_cn": "Show HN: Turn your name into a tree in an infinite procedural shanshui landscape"
+      "title": "Ancient genome duplications laid the foundations of complex brains",
+      "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
+      "score": 25,
+      "comments": 1,
+      "author": "hhs",
+      "time": 1781391277,
+      "hn_url": "https://news.ycombinator.com/item?id=48522310",
+      "title_cn": "【AI】Ancient genome duplications laid the foundations of complex brains"
     },
     {
-      "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
-      "url": "https://tectonic-typesetting.github.io/en-US/",
-      "score": 22,
-      "comments": 2,
-      "author": "maxloh",
-      "time": 1781038839,
-      "hn_url": "https://news.ycombinator.com/item?id=48467697",
-      "title_cn": "【AI】Tectonic: A modernized, complete, self-contained TeX/LaTeX engine"
+      "title": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)",
+      "url": "https://jerrylparker.com/blogs/posts/sx-64.html",
+      "score": 23,
+      "comments": 3,
+      "author": "hggh",
+      "time": 1781192787,
+      "hn_url": "https://news.ycombinator.com/item?id=48491968",
+      "title_cn": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)"
     },
     {
-      "title": "A key remapping daemon for Linux",
-      "url": "https://github.com/rvaiya/keyd",
+      "title": "Python 3.14 garbage collection rigamarole",
+      "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
       "score": 19,
-      "comments": 10,
-      "author": "joooscha",
-      "time": 1781112476,
-      "hn_url": "https://news.ycombinator.com/item?id=48479652",
-      "title_cn": "A key remapping daemon for Linux"
+      "comments": 13,
+      "author": "eatonphil",
+      "time": 1781265580,
+      "hn_url": "https://news.ycombinator.com/item?id=48503009",
+      "title_cn": "Python 3.14 garbage collection rigamarole"
+    },
+    {
+      "title": "Apt Encounters of the Third Kind",
+      "url": "https://igor-blue.github.io/2021/03/24/apt1.html",
+      "score": 14,
+      "comments": 3,
+      "author": "ogurechny",
+      "time": 1781403433,
+      "hn_url": "https://news.ycombinator.com/item?id=48523550",
+      "title_cn": "Apt Encounters of the Third Kind"
+    },
+    {
+      "title": "Building a serial and VGA \"everything console\"",
+      "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+      "score": 9,
+      "comments": 0,
+      "author": "classichasclass",
+      "time": 1781404275,
+      "hn_url": "https://news.ycombinator.com/item?id=48523615",
+      "title_cn": "Building a serial and VGA \"everything console\""
     }
   ]
 }
