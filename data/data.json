@@ -1,99 +1,13 @@
 {
-  "updated_at": "2026-06-14T04:43:47.811017",
+  "updated_at": "2026-06-15T04:58:17.168447",
   "github_projects": [
-    {
-      "name": "MiMo-Code",
-      "full_name": "XiaomiMiMo/MiMo-Code",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 8012,
-      "forks": 665,
-      "language": "TypeScript",
-      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-      "topics": [],
-      "created_at": "2026-06-10T11:52:41Z",
-      "owner": {
-        "login": "XiaomiMiMo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
-      }
-    },
-    {
-      "name": "improve",
-      "full_name": "shadcn/improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "description_cn": "use your most Capable 模型 to audit your Codebase and write plans for C堆er 模型s to exeCute.",
-      "stars": 3555,
-      "forks": 128,
-      "language": "Unknown",
-      "url": "https://github.com/shadcn/improve",
-      "topics": [],
-      "created_at": "2026-06-10T11:06:58Z",
-      "owner": {
-        "login": "shadcn",
-        "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
-      }
-    },
-    {
-      "name": "skylight",
-      "full_name": "cpaczek/skylight",
-      "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
-      "description_cn": "项目 the AIrCraft passing overhead 开启to your Ceiling in real time, from an rtl-sdr — with a live sky 层 (sun, mo开启, stars, iss) and where eaCh plane is headed.",
-      "stars": 2651,
-      "forks": 294,
-      "language": "TypeScript",
-      "url": "https://github.com/cpaczek/skylight",
-      "topics": [
-        "ads-b",
-        "aircraft",
-        "art-installation",
-        "flight-tracker",
-        "projector"
-      ],
-      "created_at": "2026-06-02T23:40:28Z",
-      "owner": {
-        "login": "cpaczek",
-        "avatar_url": "https://avatars.githubusercontent.com/u/25715982?v=4"
-      }
-    },
-    {
-      "name": "lottie",
-      "full_name": "diffusionstudio/lottie",
-      "description": "Generate production-ready Lottie animations with Claude Code or Codex",
-      "description_cn": "generate produCti开启-ready lottie 动画s with Claude Code or Codex",
-      "stars": 2560,
-      "forks": 137,
-      "language": "TypeScript",
-      "url": "https://github.com/diffusionstudio/lottie",
-      "topics": [],
-      "created_at": "2026-06-04T13:39:32Z",
-      "owner": {
-        "login": "diffusionstudio",
-        "avatar_url": "https://avatars.githubusercontent.com/u/135729001?v=4"
-      }
-    },
-    {
-      "name": "goose",
-      "full_name": "b-nnett/goose",
-      "description": "Goose Swift proof-of-concept README",
-      "description_cn": "Goose Sw如果t proof-of-C开启Cept readme",
-      "stars": 2501,
-      "forks": 611,
-      "language": "Rust",
-      "url": "https://github.com/b-nnett/goose",
-      "topics": [],
-      "created_at": "2026-06-02T12:16:37Z",
-      "owner": {
-        "login": "b-nnett",
-        "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
-      }
-    },
     {
       "name": "ponytail",
       "full_name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "description_cn": "makes your AI 智能体 think like the laziest senior dev in the room. the best Code is the Code you never wrote.",
-      "stars": 1654,
-      "forks": 75,
+      "stars": 8947,
+      "forks": 381,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail",
       "topics": [
@@ -110,12 +24,98 @@
       }
     },
     {
+      "name": "MiMo-Code",
+      "full_name": "XiaomiMiMo/MiMo-Code",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 8591,
+      "forks": 732,
+      "language": "TypeScript",
+      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+      "topics": [],
+      "created_at": "2026-06-10T11:52:41Z",
+      "owner": {
+        "login": "XiaomiMiMo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
+      }
+    },
+    {
+      "name": "improve",
+      "full_name": "shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "description_cn": "use your most Capable 模型 to audit your Codebase and write plans for C堆er 模型s to exeCute.",
+      "stars": 4455,
+      "forks": 159,
+      "language": "Unknown",
+      "url": "https://github.com/shadcn/improve",
+      "topics": [],
+      "created_at": "2026-06-10T11:06:58Z",
+      "owner": {
+        "login": "shadcn",
+        "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
+      }
+    },
+    {
+      "name": "lottie",
+      "full_name": "diffusionstudio/lottie",
+      "description": "Generate production-ready Lottie animations with Claude Code or Codex",
+      "description_cn": "generate produCti开启-ready lottie 动画s with Claude Code or Codex",
+      "stars": 2733,
+      "forks": 147,
+      "language": "TypeScript",
+      "url": "https://github.com/diffusionstudio/lottie",
+      "topics": [],
+      "created_at": "2026-06-04T13:39:32Z",
+      "owner": {
+        "login": "diffusionstudio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/135729001?v=4"
+      }
+    },
+    {
+      "name": "skylight",
+      "full_name": "cpaczek/skylight",
+      "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+      "description_cn": "项目 the AIrCraft passing overhead 开启to your Ceiling in real time, from an rtl-sdr — with a live sky 层 (sun, mo开启, stars, iss) and where eaCh plane is headed.",
+      "stars": 2694,
+      "forks": 300,
+      "language": "TypeScript",
+      "url": "https://github.com/cpaczek/skylight",
+      "topics": [
+        "ads-b",
+        "aircraft",
+        "art-installation",
+        "flight-tracker",
+        "projector"
+      ],
+      "created_at": "2026-06-02T23:40:28Z",
+      "owner": {
+        "login": "cpaczek",
+        "avatar_url": "https://avatars.githubusercontent.com/u/25715982?v=4"
+      }
+    },
+    {
+      "name": "goose",
+      "full_name": "b-nnett/goose",
+      "description": "Goose Swift proof-of-concept README",
+      "description_cn": "Goose Sw如果t proof-of-C开启Cept readme",
+      "stars": 2515,
+      "forks": 613,
+      "language": "Rust",
+      "url": "https://github.com/b-nnett/goose",
+      "topics": [],
+      "created_at": "2026-06-02T12:16:37Z",
+      "owner": {
+        "login": "b-nnett",
+        "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
+      }
+    },
+    {
       "name": "noop",
       "full_name": "NoopApp/noop",
       "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
       "description_cn": "离线 whoop Compani开启 — 对 your strap over bluetooth, keep all 数据 开启 your own dev内联缓存e. 否 Cloud, 否 aC计数, 否 subsCrIPti开启.",
-      "stars": 1605,
-      "forks": 703,
+      "stars": 1656,
+      "forks": 716,
       "language": "Swift",
       "url": "https://github.com/NoopApp/noop",
       "topics": [],
@@ -130,7 +130,7 @@
       "full_name": "jd-opensource/JoyAI-Echo",
       "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
       "description_cn": "joyAI-eCho: pushing the fr开启tier of l开启g 音频-visual 生成",
-      "stars": 1538,
+      "stars": 1551,
       "forks": 135,
       "language": "Python",
       "url": "https://github.com/jd-opensource/JoyAI-Echo",
@@ -142,12 +142,28 @@
       }
     },
     {
+      "name": "omnigent",
+      "full_name": "omnigent-ai/omnigent",
+      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "description_cn": "a meta-harness for all your AI 智能体s.  omnigent provides a Comm开启 层 over Claude Code, Codex, pi, and the 智能体s you write yourself: swap or Combine harnesses without rewriting, keep them in CheCk with pol内联缓存ies and sandboxing, and Collaborate in real time 开启 the same live 会话, from any dev内联缓存e.",
+      "stars": 1306,
+      "forks": 155,
+      "language": "Python",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "topics": [],
+      "created_at": "2026-06-11T12:18:13Z",
+      "owner": {
+        "login": "omnigent-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/292215228?v=4"
+      }
+    },
+    {
       "name": "RoguePlanet",
       "full_name": "MSNightmare/RoguePlanet",
       "description": "RoguePlanet Windows Defender Vulnerability",
       "description_cn": "rogueplanet windows defender 漏洞",
-      "stars": 1255,
-      "forks": 519,
+      "stars": 1276,
+      "forks": 528,
       "language": "C++",
       "url": "https://github.com/MSNightmare/RoguePlanet",
       "topics": [],
@@ -156,176 +172,158 @@
         "login": "MSNightmare",
         "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
       }
-    },
-    {
-      "name": "enableMacosAI",
-      "full_name": "SkyBlue997/enableMacosAI",
-      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "description_cn": "国行 maC 一键开启完整 apple 智能(端侧 + 私有 Cloud Compute 云端)· maCos 27 / apple sil内联缓存开启",
-      "stars": 1042,
-      "forks": 53,
-      "language": "Shell",
-      "url": "https://github.com/SkyBlue997/enableMacosAI",
-      "topics": [
-        "apple-intelligence"
-      ],
-      "created_at": "2026-06-10T13:23:39Z",
-      "owner": {
-        "login": "SkyBlue997",
-        "avatar_url": "https://avatars.githubusercontent.com/u/74125386?v=4"
-      }
     }
   ],
   "ai_news": [
     {
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "url": "https://desfontain.es/blog/banning-noise.html",
-      "score": 774,
-      "comments": 482,
-      "author": "nl",
-      "time": 1781358896,
-      "hn_url": "https://news.ycombinator.com/item?id=48517377",
-      "title_cn": "Noise infusion banned from statistical products published by Census Bureau"
+      "title": "How to earn a billion dollars",
+      "url": "https://paulgraham.com/earn.html",
+      "score": 514,
+      "comments": 1519,
+      "author": "kingstoned",
+      "time": 1781437848,
+      "hn_url": "https://news.ycombinator.com/item?id=48526360",
+      "title_cn": "How to earn a billion dollars"
     },
     {
-      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "score": 610,
-      "comments": 444,
-      "author": "ls612",
-      "time": 1781369869,
-      "hn_url": "https://news.ycombinator.com/item?id=48519092",
-      "title_cn": "【Anthropic, 模型】Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
+      "title": "Not everyone is using AI for everything",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "score": 443,
+      "comments": 480,
+      "author": "yegg",
+      "time": 1781448269,
+      "hn_url": "https://news.ycombinator.com/item?id=48527700",
+      "title_cn": "【AI】Not everyone is using AI for everything"
     },
     {
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "score": 268,
-      "comments": 130,
-      "author": "austinallegro",
-      "time": 1781380495,
-      "hn_url": "https://news.ycombinator.com/item?id=48520807",
-      "title_cn": "【AI】Police officer investigated for using AI to 'create evidence' in multiple cases"
-    },
-    {
-      "title": "AI coding at home without going broke",
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-      "score": 263,
-      "comments": 223,
-      "author": "sbochins",
-      "time": 1781369103,
-      "hn_url": "https://news.ycombinator.com/item?id=48518969",
-      "title_cn": "【AI】AI coding at home without going broke"
-    },
-    {
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "score": 250,
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "score": 309,
       "comments": 162,
-      "author": "hek2sch",
-      "time": 1781352647,
-      "hn_url": "https://news.ycombinator.com/item?id=48516504",
-      "title_cn": "【AI, 工具】AI OSS tool repo goes archived over night after raising $7.3M Seed"
+      "author": "unrvl22",
+      "time": 1781451451,
+      "hn_url": "https://news.ycombinator.com/item?id=48528371",
+      "title_cn": "【大语言模型, 模型】Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model"
     },
     {
-      "title": "Codex for open source",
-      "url": "https://openai.com/form/codex-for-oss/",
-      "score": 197,
-      "comments": 67,
-      "author": "EvgeniyZh",
-      "time": 1781216403,
-      "hn_url": "https://news.ycombinator.com/item?id=48497195",
-      "title_cn": "【开源】Codex for open source"
+      "title": "Linux 7.1",
+      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
+      "score": 271,
+      "comments": 106,
+      "author": "berlianta",
+      "time": 1781452890,
+      "hn_url": "https://news.ycombinator.com/item?id=48528729",
+      "title_cn": "Linux 7.1"
     },
     {
-      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-      "url": "https://github.com/Paca-AI/paca",
-      "score": 142,
-      "comments": 54,
-      "author": "pikann22",
-      "time": 1781343865,
-      "hn_url": "https://news.ycombinator.com/item?id=48515385",
-      "title_cn": "【AI】Show HN: Paca – Lightweight Jira alternative for human-AI collaboration"
+      "title": "AI is code – and can't be prompted into being smarter",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "score": 116,
+      "comments": 92,
+      "author": "wglb",
+      "time": 1781468274,
+      "hn_url": "https://news.ycombinator.com/item?id=48532178",
+      "title_cn": "【AI】AI is code – and can't be prompted into being smarter"
     },
     {
-      "title": "The adder at the heart of Intel's 8087 floating-point chip",
-      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-      "score": 102,
-      "comments": 25,
-      "author": "pwg",
-      "time": 1781369382,
-      "hn_url": "https://news.ycombinator.com/item?id=48519011",
-      "title_cn": "The adder at the heart of Intel's 8087 floating-point chip"
+      "title": "Perlisisms (1982)",
+      "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+      "score": 103,
+      "comments": 50,
+      "author": "tosh",
+      "time": 1781449016,
+      "hn_url": "https://news.ycombinator.com/item?id=48527820",
+      "title_cn": "Perlisisms (1982)"
     },
     {
-      "title": "State Attorneys General Are Investigating OpenAI",
-      "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
-      "score": 51,
+      "title": "Chaosnet (1981)",
+      "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+      "score": 71,
+      "comments": 7,
+      "author": "RGBCube",
+      "time": 1781464461,
+      "hn_url": "https://news.ycombinator.com/item?id=48531449",
+      "title_cn": "Chaosnet (1981)"
+    },
+    {
+      "title": "Quivers: A year of linear algebra by drawing arrows",
+      "url": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
+      "score": 46,
+      "comments": 6,
+      "author": "ibobev",
+      "time": 1781092641,
+      "hn_url": "https://news.ycombinator.com/item?id=48474982",
+      "title_cn": "Quivers: A year of linear algebra by drawing arrows"
+    },
+    {
+      "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 46,
+      "comments": 4,
+      "author": "mellosouls",
+      "time": 1781449697,
+      "hn_url": "https://news.ycombinator.com/item?id=48527946",
+      "title_cn": "【AI】Ponytail – make your AI agent think like the laziest senior dev in the room"
+    },
+    {
+      "title": "The hallucinogenic mushroom that contains no known psychedelic",
+      "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
+      "score": 45,
+      "comments": 23,
+      "author": "thunderbong",
+      "time": 1781485657,
+      "hn_url": "https://news.ycombinator.com/item?id=48535215",
+      "title_cn": "【AI】The hallucinogenic mushroom that contains no known psychedelic"
+    },
+    {
+      "title": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
+      "url": "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0",
+      "score": 34,
       "comments": 3,
-      "author": "donohoe",
-      "time": 1781394739,
-      "hn_url": "https://news.ycombinator.com/item?id=48522675",
-      "title_cn": "【AI, OpenAI】State Attorneys General Are Investigating OpenAI"
+      "author": "scott_s",
+      "time": 1781100516,
+      "hn_url": "https://news.ycombinator.com/item?id=48476539",
+      "title_cn": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder"
     },
     {
-      "title": "C47/R47 Calculators",
-      "url": "https://47calc.com/index.html",
-      "score": 27,
-      "comments": 11,
-      "author": "helterskelter",
-      "time": 1781119673,
-      "hn_url": "https://news.ycombinator.com/item?id=48481385",
-      "title_cn": "C47/R47 Calculators"
+      "title": "Chopped, Stored, Secured – The Story of the Hash Function",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html",
+      "score": 32,
+      "comments": 7,
+      "author": "denismenace",
+      "time": 1781126830,
+      "hn_url": "https://news.ycombinator.com/item?id=48482951",
+      "title_cn": "Chopped, Stored, Secured – The Story of the Hash Function"
     },
     {
-      "title": "Ancient genome duplications laid the foundations of complex brains",
-      "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
-      "score": 25,
-      "comments": 1,
-      "author": "hhs",
-      "time": 1781391277,
-      "hn_url": "https://news.ycombinator.com/item?id=48522310",
-      "title_cn": "【AI】Ancient genome duplications laid the foundations of complex brains"
-    },
-    {
-      "title": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)",
-      "url": "https://jerrylparker.com/blogs/posts/sx-64.html",
-      "score": 23,
-      "comments": 3,
-      "author": "hggh",
-      "time": 1781192787,
-      "hn_url": "https://news.ycombinator.com/item?id=48491968",
-      "title_cn": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)"
-    },
-    {
-      "title": "Python 3.14 garbage collection rigamarole",
-      "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
-      "score": 19,
-      "comments": 13,
-      "author": "eatonphil",
-      "time": 1781265580,
-      "hn_url": "https://news.ycombinator.com/item?id=48503009",
-      "title_cn": "Python 3.14 garbage collection rigamarole"
-    },
-    {
-      "title": "Apt Encounters of the Third Kind",
-      "url": "https://igor-blue.github.io/2021/03/24/apt1.html",
-      "score": 14,
-      "comments": 3,
-      "author": "ogurechny",
-      "time": 1781403433,
-      "hn_url": "https://news.ycombinator.com/item?id=48523550",
-      "title_cn": "Apt Encounters of the Third Kind"
-    },
-    {
-      "title": "Building a serial and VGA \"everything console\"",
-      "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-      "score": 9,
+      "title": "Inverse Rubric Optimization: A testbed for agent science",
+      "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+      "score": 26,
       "comments": 0,
-      "author": "classichasclass",
-      "time": 1781404275,
-      "hn_url": "https://news.ycombinator.com/item?id=48523615",
-      "title_cn": "Building a serial and VGA \"everything console\""
+      "author": "etherio",
+      "time": 1781142199,
+      "hn_url": "https://news.ycombinator.com/item?id=48485277",
+      "title_cn": "Inverse Rubric Optimization: A testbed for agent science"
+    },
+    {
+      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+      "score": 18,
+      "comments": 5,
+      "author": "joebig",
+      "time": 1781137505,
+      "hn_url": "https://news.ycombinator.com/item?id=48484711",
+      "title_cn": "【AI】A short history of Cerro Torre, the most controversial mountain (2012)"
+    },
+    {
+      "title": "Inside the 24 hours that led to pulling Fable 5",
+      "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
+      "score": 7,
+      "comments": 2,
+      "author": "twostorytower",
+      "time": 1781492881,
+      "hn_url": "https://news.ycombinator.com/item?id=48536112",
+      "title_cn": "Inside the 24 hours that led to pulling Fable 5"
     }
   ]
 }
