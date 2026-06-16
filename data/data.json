@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-15T04:58:17.168447",
+  "updated_at": "2026-06-16T04:58:16.150607",
   "github_projects": [
     {
       "name": "ponytail",
       "full_name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "description_cn": "makes your AI 智能体 think like the laziest senior dev in the room. the best Code is the Code you never wrote.",
-      "stars": 8947,
-      "forks": 381,
+      "stars": 17534,
+      "forks": 742,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail",
       "topics": [
@@ -28,8 +28,8 @@
       "full_name": "XiaomiMiMo/MiMo-Code",
       "description": "No description",
       "description_cn": "",
-      "stars": 8591,
-      "forks": 732,
+      "stars": 9093,
+      "forks": 802,
       "language": "TypeScript",
       "url": "https://github.com/XiaomiMiMo/MiMo-Code",
       "topics": [],
@@ -44,8 +44,8 @@
       "full_name": "shadcn/improve",
       "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "description_cn": "use your most Capable 模型 to audit your Codebase and write plans for C堆er 模型s to exeCute.",
-      "stars": 4455,
-      "forks": 159,
+      "stars": 4896,
+      "forks": 168,
       "language": "Unknown",
       "url": "https://github.com/shadcn/improve",
       "topics": [],
@@ -60,8 +60,8 @@
       "full_name": "diffusionstudio/lottie",
       "description": "Generate production-ready Lottie animations with Claude Code or Codex",
       "description_cn": "generate produCti开启-ready lottie 动画s with Claude Code or Codex",
-      "stars": 2733,
-      "forks": 147,
+      "stars": 3023,
+      "forks": 160,
       "language": "TypeScript",
       "url": "https://github.com/diffusionstudio/lottie",
       "topics": [],
@@ -72,82 +72,12 @@
       }
     },
     {
-      "name": "skylight",
-      "full_name": "cpaczek/skylight",
-      "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
-      "description_cn": "项目 the AIrCraft passing overhead 开启to your Ceiling in real time, from an rtl-sdr — with a live sky 层 (sun, mo开启, stars, iss) and where eaCh plane is headed.",
-      "stars": 2694,
-      "forks": 300,
-      "language": "TypeScript",
-      "url": "https://github.com/cpaczek/skylight",
-      "topics": [
-        "ads-b",
-        "aircraft",
-        "art-installation",
-        "flight-tracker",
-        "projector"
-      ],
-      "created_at": "2026-06-02T23:40:28Z",
-      "owner": {
-        "login": "cpaczek",
-        "avatar_url": "https://avatars.githubusercontent.com/u/25715982?v=4"
-      }
-    },
-    {
-      "name": "goose",
-      "full_name": "b-nnett/goose",
-      "description": "Goose Swift proof-of-concept README",
-      "description_cn": "Goose Sw如果t proof-of-C开启Cept readme",
-      "stars": 2515,
-      "forks": 613,
-      "language": "Rust",
-      "url": "https://github.com/b-nnett/goose",
-      "topics": [],
-      "created_at": "2026-06-02T12:16:37Z",
-      "owner": {
-        "login": "b-nnett",
-        "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
-      }
-    },
-    {
-      "name": "noop",
-      "full_name": "NoopApp/noop",
-      "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-      "description_cn": "离线 whoop Compani开启 — 对 your strap over bluetooth, keep all 数据 开启 your own dev内联缓存e. 否 Cloud, 否 aC计数, 否 subsCrIPti开启.",
-      "stars": 1656,
-      "forks": 716,
-      "language": "Swift",
-      "url": "https://github.com/NoopApp/noop",
-      "topics": [],
-      "created_at": "2026-06-07T17:03:02Z",
-      "owner": {
-        "login": "NoopApp",
-        "avatar_url": "https://avatars.githubusercontent.com/u/291537941?v=4"
-      }
-    },
-    {
-      "name": "JoyAI-Echo",
-      "full_name": "jd-opensource/JoyAI-Echo",
-      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "description_cn": "joyAI-eCho: pushing the fr开启tier of l开启g 音频-visual 生成",
-      "stars": 1551,
-      "forks": 135,
-      "language": "Python",
-      "url": "https://github.com/jd-opensource/JoyAI-Echo",
-      "topics": [],
-      "created_at": "2026-06-02T03:25:51Z",
-      "owner": {
-        "login": "jd-opensource",
-        "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
-      }
-    },
-    {
       "name": "omnigent",
       "full_name": "omnigent-ai/omnigent",
       "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
       "description_cn": "a meta-harness for all your AI 智能体s.  omnigent provides a Comm开启 层 over Claude Code, Codex, pi, and the 智能体s you write yourself: swap or Combine harnesses without rewriting, keep them in CheCk with pol内联缓存ies and sandboxing, and Collaborate in real time 开启 the same live 会话, from any dev内联缓存e.",
-      "stars": 1306,
-      "forks": 155,
+      "stars": 2023,
+      "forks": 247,
       "language": "Python",
       "url": "https://github.com/omnigent-ai/omnigent",
       "topics": [],
@@ -158,12 +88,62 @@
       }
     },
     {
+      "name": "noop",
+      "full_name": "NoopApp/noop",
+      "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+      "description_cn": "离线 whoop Compani开启 — 对 your strap over bluetooth, keep all 数据 开启 your own dev内联缓存e. 否 Cloud, 否 aC计数, 否 subsCrIPti开启.",
+      "stars": 1692,
+      "forks": 726,
+      "language": "Swift",
+      "url": "https://github.com/NoopApp/noop",
+      "topics": [],
+      "created_at": "2026-06-07T17:03:02Z",
+      "owner": {
+        "login": "NoopApp",
+        "avatar_url": "https://avatars.githubusercontent.com/u/291537941?v=4"
+      }
+    },
+    {
+      "name": "kage",
+      "full_name": "tamnd/kage",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "description_cn": "shadow any 网页site for 离线 viewing, with the JavaSCrIPt strIPped out",
+      "stars": 1589,
+      "forks": 37,
+      "language": "Go",
+      "url": "https://github.com/tamnd/kage",
+      "topics": [],
+      "created_at": "2026-06-14T11:21:55Z",
+      "owner": {
+        "login": "tamnd",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
+      }
+    },
+    {
+      "name": "enableMacosAI",
+      "full_name": "SkyBlue997/enableMacosAI",
+      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "description_cn": "国行 maC 一键开启完整 apple 智能(端侧 + 私有 Cloud Compute 云端)· maCos 27 / apple sil内联缓存开启",
+      "stars": 1298,
+      "forks": 70,
+      "language": "Shell",
+      "url": "https://github.com/SkyBlue997/enableMacosAI",
+      "topics": [
+        "apple-intelligence"
+      ],
+      "created_at": "2026-06-10T13:23:39Z",
+      "owner": {
+        "login": "SkyBlue997",
+        "avatar_url": "https://avatars.githubusercontent.com/u/74125386?v=4"
+      }
+    },
+    {
       "name": "RoguePlanet",
       "full_name": "MSNightmare/RoguePlanet",
       "description": "RoguePlanet Windows Defender Vulnerability",
       "description_cn": "rogueplanet windows defender 漏洞",
-      "stars": 1276,
-      "forks": 528,
+      "stars": 1292,
+      "forks": 536,
       "language": "C++",
       "url": "https://github.com/MSNightmare/RoguePlanet",
       "topics": [],
@@ -172,158 +152,174 @@
         "login": "MSNightmare",
         "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
       }
+    },
+    {
+      "name": "aur-malware-check",
+      "full_name": "lenucksi/aur-malware-check",
+      "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+      "description_cn": "检测 工具s for the june 2026 原子-锁file aur supply-责任链 攻击. C开启SOLID原则ated from Comm单元y gists.",
+      "stars": 1203,
+      "forks": 30,
+      "language": "Shell",
+      "url": "https://github.com/lenucksi/aur-malware-check",
+      "topics": [],
+      "created_at": "2026-06-12T13:17:07Z",
+      "owner": {
+        "login": "lenucksi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2451899?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "How to earn a billion dollars",
-      "url": "https://paulgraham.com/earn.html",
-      "score": 514,
-      "comments": 1519,
-      "author": "kingstoned",
-      "time": 1781437848,
-      "hn_url": "https://news.ycombinator.com/item?id=48526360",
-      "title_cn": "How to earn a billion dollars"
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "score": 682,
+      "comments": 142,
+      "author": "tinywind",
+      "time": 1781540153,
+      "hn_url": "https://news.ycombinator.com/item?id=48543475",
+      "title_cn": "【AI】TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)"
     },
     {
-      "title": "Not everyone is using AI for everything",
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "score": 443,
-      "comments": 480,
-      "author": "yegg",
-      "time": 1781448269,
-      "hn_url": "https://news.ycombinator.com/item?id=48527700",
-      "title_cn": "【AI】Not everyone is using AI for everything"
+      "title": "Hetzner Price Adjustment",
+      "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+      "score": 364,
+      "comments": 526,
+      "author": "tuhtah",
+      "time": 1781529579,
+      "hn_url": "https://news.ycombinator.com/item?id=48540844",
+      "title_cn": "Hetzner Price Adjustment"
     },
     {
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "score": 309,
-      "comments": 162,
-      "author": "unrvl22",
-      "time": 1781451451,
-      "hn_url": "https://news.ycombinator.com/item?id=48528371",
-      "title_cn": "【大语言模型, 模型】Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model"
+      "title": "My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "score": 274,
+      "comments": 51,
+      "author": "rsgm",
+      "time": 1781536180,
+      "hn_url": "https://news.ycombinator.com/item?id=48542433",
+      "title_cn": "【AI】My Homelab AI Dev Platform"
     },
     {
-      "title": "Linux 7.1",
-      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
-      "score": 271,
-      "comments": 106,
-      "author": "berlianta",
-      "time": 1781452890,
-      "hn_url": "https://news.ycombinator.com/item?id=48528729",
-      "title_cn": "Linux 7.1"
+      "title": "Game Engine White Papers Commander Keen",
+      "url": "https://forgottenbytes.net/commander_keen.html",
+      "score": 178,
+      "comments": 58,
+      "author": "mfiguiere",
+      "time": 1781545959,
+      "hn_url": "https://news.ycombinator.com/item?id=48544781",
+      "title_cn": "Game Engine White Papers Commander Keen"
     },
     {
-      "title": "AI is code – and can't be prompted into being smarter",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-      "score": 116,
-      "comments": 92,
-      "author": "wglb",
-      "time": 1781468274,
-      "hn_url": "https://news.ycombinator.com/item?id=48532178",
-      "title_cn": "【AI】AI is code – and can't be prompted into being smarter"
+      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+      "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+      "score": 134,
+      "comments": 55,
+      "author": "ilreb",
+      "time": 1781578077,
+      "hn_url": "https://news.ycombinator.com/item?id=48549918",
+      "title_cn": "【AI】Microsoft turns to AWS as GitHub faces AI capacity crunch"
     },
     {
-      "title": "Perlisisms (1982)",
-      "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-      "score": 103,
-      "comments": 50,
-      "author": "tosh",
-      "time": 1781449016,
-      "hn_url": "https://news.ycombinator.com/item?id=48527820",
-      "title_cn": "Perlisisms (1982)"
+      "title": "Peopleless economy? Not technically impossible",
+      "url": "https://gmalandrakis.com/writings/ad-economicum.html",
+      "score": 128,
+      "comments": 246,
+      "author": "l0new0lf-G",
+      "time": 1781557836,
+      "hn_url": "https://news.ycombinator.com/item?id=48547062",
+      "title_cn": "Peopleless economy? Not technically impossible"
     },
     {
-      "title": "Chaosnet (1981)",
-      "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
-      "score": 71,
-      "comments": 7,
-      "author": "RGBCube",
-      "time": 1781464461,
-      "hn_url": "https://news.ycombinator.com/item?id=48531449",
-      "title_cn": "Chaosnet (1981)"
+      "title": "How memory safety CVEs differ between Rust and C/C++",
+      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+      "score": 124,
+      "comments": 123,
+      "author": "nicoburns",
+      "time": 1781539862,
+      "hn_url": "https://news.ycombinator.com/item?id=48543392",
+      "title_cn": "How memory safety CVEs differ between Rust and C/C++"
     },
     {
-      "title": "Quivers: A year of linear algebra by drawing arrows",
-      "url": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
-      "score": 46,
-      "comments": 6,
-      "author": "ibobev",
-      "time": 1781092641,
-      "hn_url": "https://news.ycombinator.com/item?id=48474982",
-      "title_cn": "Quivers: A year of linear algebra by drawing arrows"
+      "title": "Why I email complete strangers",
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+      "score": 108,
+      "comments": 49,
+      "author": "karakoram",
+      "time": 1781560630,
+      "hn_url": "https://news.ycombinator.com/item?id=48547566",
+      "title_cn": "【AI】Why I email complete strangers"
     },
     {
-      "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 46,
-      "comments": 4,
-      "author": "mellosouls",
-      "time": 1781449697,
-      "hn_url": "https://news.ycombinator.com/item?id=48527946",
-      "title_cn": "【AI】Ponytail – make your AI agent think like the laziest senior dev in the room"
+      "title": "Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "score": 106,
+      "comments": 68,
+      "author": "Mustan",
+      "time": 1781545284,
+      "hn_url": "https://news.ycombinator.com/item?id=48544637",
+      "title_cn": "【Claude】Claude Corps"
     },
     {
-      "title": "The hallucinogenic mushroom that contains no known psychedelic",
-      "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
-      "score": 45,
-      "comments": 23,
-      "author": "thunderbong",
-      "time": 1781485657,
-      "hn_url": "https://news.ycombinator.com/item?id=48535215",
-      "title_cn": "【AI】The hallucinogenic mushroom that contains no known psychedelic"
+      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "url": "https://fata.dev",
+      "score": 91,
+      "comments": 48,
+      "author": "djoume",
+      "time": 1781179023,
+      "hn_url": "https://news.ycombinator.com/item?id=48489163",
+      "title_cn": "【AI】Show HN: Fata – Spaced repetition to fight skill rot from AI coding"
     },
     {
-      "title": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
-      "url": "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0",
-      "score": 34,
-      "comments": 3,
-      "author": "scott_s",
-      "time": 1781100516,
-      "hn_url": "https://news.ycombinator.com/item?id=48476539",
-      "title_cn": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder"
+      "title": "Cohere's First Model for Developers",
+      "url": "https://cohere.com/blog/north-mini-code",
+      "score": 49,
+      "comments": 11,
+      "author": "hmokiguess",
+      "time": 1781183745,
+      "hn_url": "https://news.ycombinator.com/item?id=48489934",
+      "title_cn": "【模型】Cohere's First Model for Developers"
     },
     {
-      "title": "Chopped, Stored, Secured – The Story of the Hash Function",
-      "url": "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html",
-      "score": 32,
-      "comments": 7,
-      "author": "denismenace",
-      "time": 1781126830,
-      "hn_url": "https://news.ycombinator.com/item?id=48482951",
-      "title_cn": "Chopped, Stored, Secured – The Story of the Hash Function"
+      "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+      "url": "https://grassdx.com/",
+      "score": 47,
+      "comments": 49,
+      "author": "andrewbr",
+      "time": 1781546160,
+      "hn_url": "https://news.ycombinator.com/item?id=48544823",
+      "title_cn": "【AI】Show HN: Veterinarian turned founder, AI lawn diagnosis"
     },
     {
-      "title": "Inverse Rubric Optimization: A testbed for agent science",
-      "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+      "title": "An O(x)Caml book that runs",
+      "url": "https://kcsrk.info/ocaml/oxcaml/teaching/nptel/llm/2026/06/13/an-oxcaml-book-that-runs/",
+      "score": 42,
+      "comments": 13,
+      "author": "anirudh24seven",
+      "time": 1781356264,
+      "hn_url": "https://news.ycombinator.com/item?id=48516964",
+      "title_cn": "An O(x)Caml book that runs"
+    },
+    {
+      "title": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
+      "url": "https://shonczinner.github.io/posts/embedding-prediction/",
       "score": 26,
-      "comments": 0,
-      "author": "etherio",
-      "time": 1781142199,
-      "hn_url": "https://news.ycombinator.com/item?id=48485277",
-      "title_cn": "Inverse Rubric Optimization: A testbed for agent science"
+      "comments": 6,
+      "author": "Anon84",
+      "time": 1781186859,
+      "hn_url": "https://news.ycombinator.com/item?id=48490578",
+      "title_cn": "【模型】The 90-year-old idea behind JEPA models: Canonical Correlation Analysis"
     },
     {
-      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
-      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
-      "score": 18,
-      "comments": 5,
-      "author": "joebig",
-      "time": 1781137505,
-      "hn_url": "https://news.ycombinator.com/item?id=48484711",
-      "title_cn": "【AI】A short history of Cerro Torre, the most controversial mountain (2012)"
-    },
-    {
-      "title": "Inside the 24 hours that led to pulling Fable 5",
-      "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
-      "score": 7,
-      "comments": 2,
-      "author": "twostorytower",
-      "time": 1781492881,
-      "hn_url": "https://news.ycombinator.com/item?id=48536112",
-      "title_cn": "Inside the 24 hours that led to pulling Fable 5"
+      "title": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
+      "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
+      "score": 20,
+      "comments": 7,
+      "author": "spking",
+      "time": 1781582748,
+      "hn_url": "https://news.ycombinator.com/item?id=48550465",
+      "title_cn": "【AI, OpenAI】OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B"
     }
   ]
 }
