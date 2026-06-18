@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-17T04:43:42.907876",
+  "updated_at": "2026-06-18T04:27:09.626883",
   "github_projects": [
     {
       "name": "ponytail",
       "full_name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "description_cn": "makes your AI 智能体 think like the laziest senior dev in the room. the best Code is the Code you never wrote.",
-      "stars": 26335,
-      "forks": 1166,
+      "stars": 32542,
+      "forks": 1468,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail",
       "topics": [
@@ -26,13 +26,19 @@
     {
       "name": "MiMo-Code",
       "full_name": "XiaomiMiMo/MiMo-Code",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 9403,
-      "forks": 838,
+      "description": "MiMo Code: Where Models and Agents Co-Evolve",
+      "description_cn": "mimo Code: where 模型s and 智能体s Co-evolve",
+      "stars": 9617,
+      "forks": 870,
       "language": "TypeScript",
       "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-      "topics": [],
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "mimo",
+        "mimo-code"
+      ],
       "created_at": "2026-06-10T11:52:41Z",
       "owner": {
         "login": "XiaomiMiMo",
@@ -44,8 +50,8 @@
       "full_name": "shadcn/improve",
       "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "description_cn": "use your most Capable 模型 to audit your Codebase and write plans for C堆er 模型s to exeCute.",
-      "stars": 5031,
-      "forks": 178,
+      "stars": 5255,
+      "forks": 198,
       "language": "Unknown",
       "url": "https://github.com/shadcn/improve",
       "topics": [],
@@ -56,36 +62,20 @@
       }
     },
     {
-      "name": "lottie",
-      "full_name": "diffusionstudio/lottie",
-      "description": "Generate production-ready Lottie animations with Claude Code or Codex",
-      "description_cn": "generate produCti开启-ready lottie 动画s with Claude Code or Codex",
-      "stars": 3299,
-      "forks": 173,
-      "language": "TypeScript",
-      "url": "https://github.com/diffusionstudio/lottie",
-      "topics": [],
-      "created_at": "2026-06-04T13:39:32Z",
-      "owner": {
-        "login": "diffusionstudio",
-        "avatar_url": "https://avatars.githubusercontent.com/u/135729001?v=4"
-      }
-    },
-    {
       "name": "omnigent",
       "full_name": "omnigent-ai/omnigent",
-      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-      "description_cn": "a meta-harness for all your AI 智能体s.  omnigent provides a Comm开启 层 over Claude Code, Codex, pi, and the 智能体s you write yourself: swap or Combine harnesses without rewriting, keep them in CheCk with pol内联缓存ies and sandboxing, and Collaborate in real time 开启 the same live 会话, from any dev内联缓存e.",
-      "stars": 2923,
-      "forks": 337,
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "description_cn": "omnigent is an 开源 AI 智能体 框架 and meta-harness: orChestrate Claude Code, Codex, Cursor, pi, and Custom 智能体s — swap harnesses without rewriting, enforCe pol内联缓存ies and sandboxing, and Collaborate in real time from any dev内联缓存e.",
+      "stars": 3574,
+      "forks": 396,
       "language": "Python",
       "url": "https://github.com/omnigent-ai/omnigent",
       "topics": [
+        "agent-framework",
+        "agent-governance",
+        "agent-orchestration",
         "agents",
-        "ai",
-        "ai-agents",
-        "developer-tools",
-        "llm"
+        "ai"
       ],
       "created_at": "2026-06-11T12:18:13Z",
       "owner": {
@@ -98,8 +88,8 @@
       "full_name": "tamnd/kage",
       "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
       "description_cn": "shadow any 网页site for 离线 viewing, with the JavaSCrIPt strIPped out",
-      "stars": 1783,
-      "forks": 51,
+      "stars": 1870,
+      "forks": 59,
       "language": "Go",
       "url": "https://github.com/tamnd/kage",
       "topics": [],
@@ -110,62 +100,12 @@
       }
     },
     {
-      "name": "noop",
-      "full_name": "NoopApp/noop",
-      "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-      "description_cn": "离线 whoop Compani开启 — 对 your strap over bluetooth, keep all 数据 开启 your own dev内联缓存e. 否 Cloud, 否 aC计数, 否 subsCrIPti开启.",
-      "stars": 1721,
-      "forks": 733,
-      "language": "Swift",
-      "url": "https://github.com/NoopApp/noop",
-      "topics": [],
-      "created_at": "2026-06-07T17:03:02Z",
-      "owner": {
-        "login": "NoopApp",
-        "avatar_url": "https://avatars.githubusercontent.com/u/291537941?v=4"
-      }
-    },
-    {
-      "name": "aur-malware-check",
-      "full_name": "lenucksi/aur-malware-check",
-      "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
-      "description_cn": "检测 工具s for the june 2026 原子-锁file aur supply-责任链 攻击. C开启SOLID原则ated from Comm单元y gists.",
-      "stars": 1357,
-      "forks": 30,
-      "language": "Shell",
-      "url": "https://github.com/lenucksi/aur-malware-check",
-      "topics": [],
-      "created_at": "2026-06-12T13:17:07Z",
-      "owner": {
-        "login": "lenucksi",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2451899?v=4"
-      }
-    },
-    {
-      "name": "enableMacosAI",
-      "full_name": "SkyBlue997/enableMacosAI",
-      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "description_cn": "国行 maC 一键开启完整 apple 智能(端侧 + 私有 Cloud Compute 云端)· maCos 27 / apple sil内联缓存开启",
-      "stars": 1345,
-      "forks": 73,
-      "language": "Shell",
-      "url": "https://github.com/SkyBlue997/enableMacosAI",
-      "topics": [
-        "apple-intelligence"
-      ],
-      "created_at": "2026-06-10T13:23:39Z",
-      "owner": {
-        "login": "SkyBlue997",
-        "avatar_url": "https://avatars.githubusercontent.com/u/74125386?v=4"
-      }
-    },
-    {
       "name": "baoyu-design",
       "full_name": "JimLiu/baoyu-design",
       "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "description_cn": "run Claude design 本地ly as an 智能体 skill — Cursor, Claude Code & more. produCe polished ui moCkups, 原型s, deCks & w中间表示eframes as self-C开启tAIned HTML, without Claude.AI/design. best with opus 4.8.",
-      "stars": 1316,
-      "forks": 96,
+      "stars": 1491,
+      "forks": 109,
       "language": "JavaScript",
       "url": "https://github.com/JimLiu/baoyu-design",
       "topics": [
@@ -180,158 +120,224 @@
         "login": "JimLiu",
         "avatar_url": "https://avatars.githubusercontent.com/u/648674?v=4"
       }
+    },
+    {
+      "name": "aur-malware-check",
+      "full_name": "lenucksi/aur-malware-check",
+      "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+      "description_cn": "检测 工具s for the june 2026 原子-锁file aur supply-责任链 攻击. C开启SOLID原则ated from Comm单元y gists.",
+      "stars": 1467,
+      "forks": 32,
+      "language": "Shell",
+      "url": "https://github.com/lenucksi/aur-malware-check",
+      "topics": [],
+      "created_at": "2026-06-12T13:17:07Z",
+      "owner": {
+        "login": "lenucksi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2451899?v=4"
+      }
+    },
+    {
+      "name": "enableMacosAI",
+      "full_name": "SkyBlue997/enableMacosAI",
+      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "description_cn": "国行 maC 一键开启完整 apple 智能(端侧 + 私有 Cloud Compute 云端)· maCos 27 / apple sil内联缓存开启",
+      "stars": 1380,
+      "forks": 76,
+      "language": "Shell",
+      "url": "https://github.com/SkyBlue997/enableMacosAI",
+      "topics": [
+        "apple-intelligence"
+      ],
+      "created_at": "2026-06-10T13:23:39Z",
+      "owner": {
+        "login": "SkyBlue997",
+        "avatar_url": "https://avatars.githubusercontent.com/u/74125386?v=4"
+      }
+    },
+    {
+      "name": "RoguePlanet",
+      "full_name": "MSNightmare/RoguePlanet",
+      "description": "RoguePlanet Windows Defender Vulnerability",
+      "description_cn": "rogueplanet windows defender 漏洞",
+      "stars": 1306,
+      "forks": 543,
+      "language": "C++",
+      "url": "https://github.com/MSNightmare/RoguePlanet",
+      "topics": [],
+      "created_at": "2026-06-09T19:10:18Z",
+      "owner": {
+        "login": "MSNightmare",
+        "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
+      }
+    },
+    {
+      "name": "coreai-models",
+      "full_name": "apple/coreai-models",
+      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "description_cn": "模型 导出 reCIPes, Pyth开启 primitives, and Sw如果t 运行时 utilities for 开启-dev内联缓存e AI",
+      "stars": 1057,
+      "forks": 80,
+      "language": "Swift",
+      "url": "https://github.com/apple/coreai-models",
+      "topics": [],
+      "created_at": "2026-06-08T04:32:27Z",
+      "owner": {
+        "login": "apple",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+      }
     }
   ],
   "ai_news": [
     {
       "title": "Running local models is good now",
       "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "score": 1127,
-      "comments": 458,
+      "score": 1520,
+      "comments": 584,
       "author": "jfb",
       "time": 1781620617,
       "hn_url": "https://news.ycombinator.com/item?id=48555993",
       "title_cn": "【模型】Running local models is good now"
     },
     {
-      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "score": 871,
-      "comments": 426,
-      "author": "apitman",
-      "time": 1781585895,
-      "hn_url": "https://news.ycombinator.com/item?id=48550779",
-      "title_cn": "【AI】I admire Fabrice Bellard. He is almost certainly a better overall programmer"
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "score": 820,
+      "comments": 392,
+      "author": "himata4113",
+      "time": 1781687520,
+      "hn_url": "https://news.ycombinator.com/item?id=48567759",
+      "title_cn": "【模型】GLM-5.2 is the new leading open weights model on Artificial Analysis"
     },
     {
-      "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
-      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-      "score": 558,
-      "comments": 330,
-      "author": "_tk_",
-      "time": 1781601969,
-      "hn_url": "https://news.ycombinator.com/item?id=48552687",
-      "title_cn": "【AI】Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers"
+      "title": "AI demands more engineering discipline. Not less",
+      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+      "score": 353,
+      "comments": 177,
+      "author": "BerislavLopac",
+      "time": 1781706044,
+      "hn_url": "https://news.ycombinator.com/item?id=48570948",
+      "title_cn": "【AI】AI demands more engineering discipline. Not less"
     },
     {
-      "title": "Apple is about to make Hide My Email useless",
-      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
-      "score": 432,
-      "comments": 272,
-      "author": "SXX",
-      "time": 1781635041,
-      "hn_url": "https://news.ycombinator.com/item?id=48559935",
-      "title_cn": "【AI】Apple is about to make Hide My Email useless"
+      "title": "Midjourney Medical",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "score": 287,
+      "comments": 238,
+      "author": "ricochet11",
+      "time": 1781747991,
+      "hn_url": "https://news.ycombinator.com/item?id=48579650",
+      "title_cn": "Midjourney Medical"
     },
     {
-      "title": "But yak shaving is fun (2019)",
-      "url": "https://parksb.github.io/en/article/32.html",
-      "score": 231,
-      "comments": 70,
-      "author": "parksb",
-      "time": 1781619986,
-      "hn_url": "https://news.ycombinator.com/item?id=48555838",
-      "title_cn": "But yak shaving is fun (2019)"
+      "title": "The founder's playbook: Building an AI-native startup",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "score": 218,
+      "comments": 155,
+      "author": "e2e4",
+      "time": 1781679882,
+      "hn_url": "https://news.ycombinator.com/item?id=48566832",
+      "title_cn": "【AI, 创业公司】The founder's playbook: Building an AI-native startup"
     },
     {
-      "title": "Has AI already killed self-help nonfiction books?",
-      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-      "score": 209,
-      "comments": 222,
-      "author": "imakwana",
-      "time": 1781629865,
-      "hn_url": "https://news.ycombinator.com/item?id=48558489",
-      "title_cn": "【AI】Has AI already killed self-help nonfiction books?"
+      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+      "score": 197,
+      "comments": 178,
+      "author": "Usu",
+      "time": 1781730007,
+      "hn_url": "https://news.ycombinator.com/item?id=48576824",
+      "title_cn": "【Claude, 机器人】A robot is sprinting towards you. Do you want it running on Claude or Grok?"
     },
     {
-      "title": "The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat",
-      "url": "https://www.rferl.org/a/the-manhoff-archive/28359558.html",
-      "score": 171,
-      "comments": 62,
-      "author": "Cider9986",
-      "time": 1781398748,
-      "hn_url": "https://news.ycombinator.com/item?id=48523126",
-      "title_cn": "The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat"
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "score": 168,
+      "comments": 84,
+      "author": "zachdive",
+      "time": 1781712844,
+      "hn_url": "https://news.ycombinator.com/item?id=48572553",
+      "title_cn": "【AI, 推出】Launch HN: Adam (YC W25) – Open-Source AI CAD"
     },
     {
-      "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "score": 158,
-      "comments": 143,
-      "author": "root-parent",
-      "time": 1781632442,
-      "hn_url": "https://news.ycombinator.com/item?id=48559188",
-      "title_cn": "【GPT, 模型】GPT‑NL: a sovereign language model for the Netherlands"
-    },
-    {
-      "title": "Humiliating IIS servers for fun and jail time",
-      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-      "score": 149,
-      "comments": 30,
-      "author": "denysvitali",
-      "time": 1781650414,
-      "hn_url": "https://news.ycombinator.com/item?id=48563394",
-      "title_cn": "【AI】Humiliating IIS servers for fun and jail time"
-    },
-    {
-      "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-      "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+      "title": "Abandoned and Little-Known Airfields",
+      "url": "https://airfields-freeman.com/",
       "score": 144,
-      "comments": 22,
+      "comments": 53,
+      "author": "wizardforhire",
+      "time": 1781465121,
+      "hn_url": "https://news.ycombinator.com/item?id=48531590",
+      "title_cn": "【AI】Abandoned and Little-Known Airfields"
+    },
+    {
+      "title": "TREX: An AI code reviewer that runs your code",
+      "url": "https://www.greptile.com/blog/trex-code-execution",
+      "score": 54,
+      "comments": 10,
+      "author": "dakshgupta",
+      "time": 1781710141,
+      "hn_url": "https://news.ycombinator.com/item?id=48571851",
+      "title_cn": "【AI】TREX: An AI code reviewer that runs your code"
+    },
+    {
+      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
+      "score": 51,
+      "comments": 20,
       "author": "ilreb",
-      "time": 1781615715,
-      "hn_url": "https://news.ycombinator.com/item?id=48554814",
-      "title_cn": "【机器人, 模型】Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence"
+      "time": 1781717660,
+      "hn_url": "https://news.ycombinator.com/item?id=48573757",
+      "title_cn": "【AI】Using AI to improve a challenging reaction in medicinal chemistry"
     },
     {
-      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-      "score": 117,
-      "comments": 36,
-      "author": "alok-g",
-      "time": 1781651744,
-      "hn_url": "https://news.ycombinator.com/item?id=48563609",
-      "title_cn": "【AI】Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More"
+      "title": "Language Courses in the Public Domain",
+      "url": "https://fsi-languages.yojik.eu/",
+      "score": 36,
+      "comments": 0,
+      "author": "hggh",
+      "time": 1781708473,
+      "hn_url": "https://news.ycombinator.com/item?id=48571482",
+      "title_cn": "【AI】Language Courses in the Public Domain"
     },
     {
-      "title": "SubQ 1.1 Small",
-      "url": "https://subq.ai/subq-1-1-small-technical-report",
-      "score": 116,
-      "comments": 48,
-      "author": "EDM115",
-      "time": 1781621410,
-      "hn_url": "https://news.ycombinator.com/item?id=48556163",
-      "title_cn": "SubQ 1.1 Small"
+      "title": "[x86] AI Compute Extensions (ACE) Specification",
+      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "score": 18,
+      "comments": 6,
+      "author": "matt_d",
+      "time": 1781749921,
+      "hn_url": "https://news.ycombinator.com/item?id=48579913",
+      "title_cn": "【AI】[x86] AI Compute Extensions (ACE) Specification"
     },
     {
-      "title": "NLnet announces funding for 67 more open-source projects",
-      "url": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
-      "score": 99,
-      "comments": 15,
-      "author": "laurenth",
-      "time": 1781651529,
-      "hn_url": "https://news.ycombinator.com/item?id=48563569",
-      "title_cn": "【融资】NLnet announces funding for 67 more open-source projects"
+      "title": "I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 TPS",
+      "url": "https://point.free/blog/delete-12-flags/",
+      "score": 10,
+      "comments": 1,
+      "author": "cafkafk",
+      "time": 1781508462,
+      "hn_url": "https://news.ycombinator.com/item?id=48537763",
+      "title_cn": "【AI】I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 TPS"
     },
     {
-      "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
-      "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
-      "score": 66,
-      "comments": 18,
-      "author": "slymax",
-      "time": 1781660422,
-      "hn_url": "https://news.ycombinator.com/item?id=48564696",
-      "title_cn": "【AI】Stop Killing Games fails to secure EU law despite 1.3M signatures"
+      "title": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
+      "url": "https://blitzgraph.com",
+      "score": 8,
+      "comments": 2,
+      "author": "lveillard",
+      "time": 1781624462,
+      "hn_url": "https://news.ycombinator.com/item?id=48557002",
+      "title_cn": "【大语言模型】Show HN: BlitzGraph – Supabase for graphs, built for LLM agents"
     },
     {
-      "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
-      "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
-      "score": 38,
-      "comments": 30,
-      "author": "TechApocalypse",
-      "time": 1781664449,
-      "hn_url": "https://news.ycombinator.com/item?id=48565130",
-      "title_cn": "【AI, OpenAI】Leaked OpenAI financials show $38.5B loss and compute burn"
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "score": 4,
+      "comments": 0,
+      "author": "alphabettsy",
+      "time": 1781751860,
+      "hn_url": "https://news.ycombinator.com/item?id=48580209",
+      "title_cn": "【工具】Local Qwen isn't a worse Opus, it's a different tool"
     }
   ]
 }
