@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-19T04:55:00.531591",
+  "updated_at": "2026-06-20T04:09:38.694640",
   "github_projects": [
     {
       "name": "ponytail",
       "full_name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "description_cn": "makes your AI 智能体 think like the laziest senior dev in the room. the best Code is the Code you never wrote.",
-      "stars": 37387,
-      "forks": 1751,
+      "stars": 40300,
+      "forks": 1918,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail",
       "topics": [
@@ -28,8 +28,8 @@
       "full_name": "XiaomiMiMo/MiMo-Code",
       "description": "MiMo Code: Where Models and Agents Co-Evolve",
       "description_cn": "mimo Code: where 模型s and 智能体s Co-evolve",
-      "stars": 9819,
-      "forks": 899,
+      "stars": 9958,
+      "forks": 917,
       "language": "TypeScript",
       "url": "https://github.com/XiaomiMiMo/MiMo-Code",
       "topics": [
@@ -50,8 +50,8 @@
       "full_name": "shadcn/improve",
       "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "description_cn": "use your most Capable 模型 to audit your Codebase and write plans for C堆er 模型s to exeCute.",
-      "stars": 5496,
-      "forks": 212,
+      "stars": 5666,
+      "forks": 219,
       "language": "Unknown",
       "url": "https://github.com/shadcn/improve",
       "topics": [],
@@ -66,8 +66,8 @@
       "full_name": "omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "description_cn": "omnigent is an 开源 AI 智能体 框架 and meta-harness: orChestrate Claude Code, Codex, Cursor, pi, and Custom 智能体s — swap harnesses without rewriting, enforCe pol内联缓存ies and sandboxing, and Collaborate in real time from any dev内联缓存e.",
-      "stars": 3828,
-      "forks": 426,
+      "stars": 4069,
+      "forks": 461,
       "language": "Python",
       "url": "https://github.com/omnigent-ai/omnigent",
       "topics": [
@@ -88,8 +88,8 @@
       "full_name": "tamnd/kage",
       "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
       "description_cn": "shadow any 网页site for 离线 viewing, with the JavaSCrIPt strIPped out",
-      "stars": 2017,
-      "forks": 63,
+      "stars": 2103,
+      "forks": 64,
       "language": "Go",
       "url": "https://github.com/tamnd/kage",
       "topics": [],
@@ -100,12 +100,52 @@
       }
     },
     {
+      "name": "skills",
+      "full_name": "BuilderIO/skills",
+      "description": "Skills for coding agents",
+      "description_cn": "skills for Coding 智能体s",
+      "stars": 1940,
+      "forks": 101,
+      "language": "JavaScript",
+      "url": "https://github.com/BuilderIO/skills",
+      "topics": [
+        "skills"
+      ],
+      "created_at": "2026-06-10T16:04:20Z",
+      "owner": {
+        "login": "BuilderIO",
+        "avatar_url": "https://avatars.githubusercontent.com/u/35700027?v=4"
+      }
+    },
+    {
+      "name": "eve",
+      "full_name": "vercel/eve",
+      "description": "The Framework for Building Agents",
+      "description_cn": "the 框架 for building 智能体s",
+      "stars": 1664,
+      "forks": 106,
+      "language": "TypeScript",
+      "url": "https://github.com/vercel/eve",
+      "topics": [
+        "agent",
+        "framework",
+        "harness",
+        "javascript",
+        "markdown"
+      ],
+      "created_at": "2026-06-16T10:51:20Z",
+      "owner": {
+        "login": "vercel",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14985020?v=4"
+      }
+    },
+    {
       "name": "baoyu-design",
       "full_name": "JimLiu/baoyu-design",
       "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "description_cn": "run Claude design 本地ly as an 智能体 skill — Cursor, Claude Code & more. produCe polished ui moCkups, 原型s, deCks & w中间表示eframes as self-C开启tAIned HTML, without Claude.AI/design. best with opus 4.8.",
-      "stars": 1569,
-      "forks": 118,
+      "stars": 1640,
+      "forks": 125,
       "language": "JavaScript",
       "url": "https://github.com/JimLiu/baoyu-design",
       "topics": [
@@ -126,8 +166,8 @@
       "full_name": "lenucksi/aur-malware-check",
       "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
       "description_cn": "检测 工具s for the june 2026 原子-锁file aur supply-责任链 攻击. C开启SOLID原则ated from Comm单元y gists.",
-      "stars": 1547,
-      "forks": 31,
+      "stars": 1597,
+      "forks": 35,
       "language": "Shell",
       "url": "https://github.com/lenucksi/aur-malware-check",
       "topics": [],
@@ -138,212 +178,172 @@
       }
     },
     {
-      "name": "eve",
-      "full_name": "vercel/eve",
-      "description": "The Framework for Building Agents",
-      "description_cn": "the 框架 for building 智能体s",
-      "stars": 1426,
-      "forks": 84,
+      "name": "devspace",
+      "full_name": "Waishnav/devspace",
+      "description": "Turn ChatGPT into Codex",
+      "description_cn": "turn ChatGPT into Codex",
+      "stars": 1442,
+      "forks": 131,
       "language": "TypeScript",
-      "url": "https://github.com/vercel/eve",
-      "topics": [
-        "agent",
-        "framework",
-        "harness",
-        "javascript",
-        "markdown"
-      ],
-      "created_at": "2026-06-16T10:51:20Z",
-      "owner": {
-        "login": "vercel",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14985020?v=4"
-      }
-    },
-    {
-      "name": "enableMacosAI",
-      "full_name": "SkyBlue997/enableMacosAI",
-      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "description_cn": "国行 maC 一键开启完整 apple 智能(端侧 + 私有 Cloud Compute 云端)· maCos 27 / apple sil内联缓存开启",
-      "stars": 1417,
-      "forks": 79,
-      "language": "Shell",
-      "url": "https://github.com/SkyBlue997/enableMacosAI",
-      "topics": [
-        "apple-intelligence"
-      ],
-      "created_at": "2026-06-10T13:23:39Z",
-      "owner": {
-        "login": "SkyBlue997",
-        "avatar_url": "https://avatars.githubusercontent.com/u/74125386?v=4"
-      }
-    },
-    {
-      "name": "RoguePlanet",
-      "full_name": "MSNightmare/RoguePlanet",
-      "description": "RoguePlanet Windows Defender Vulnerability",
-      "description_cn": "rogueplanet windows defender 漏洞",
-      "stars": 1316,
-      "forks": 544,
-      "language": "C++",
-      "url": "https://github.com/MSNightmare/RoguePlanet",
+      "url": "https://github.com/Waishnav/devspace",
       "topics": [],
-      "created_at": "2026-06-09T19:10:18Z",
+      "created_at": "2026-06-14T16:57:27Z",
       "owner": {
-        "login": "MSNightmare",
-        "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
+        "login": "Waishnav",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86405648?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Midjourney Medical",
-      "url": "https://www.midjourney.com/medical/blogpost",
-      "score": 1292,
-      "comments": 845,
-      "author": "ricochet11",
-      "time": 1781747991,
-      "hn_url": "https://news.ycombinator.com/item?id=48579650",
-      "title_cn": "Midjourney Medical"
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "score": 710,
+      "comments": 325,
+      "author": "ck2",
+      "time": 1781886500,
+      "hn_url": "https://news.ycombinator.com/item?id=48600312",
+      "title_cn": "【AI】Hyundai buys Boston Dynamics"
     },
     {
-      "title": "Swiss parliament lifts ban on new nuclear power plants",
-      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-      "score": 730,
-      "comments": 616,
-      "author": "leonidasrup",
-      "time": 1781792227,
-      "hn_url": "https://news.ycombinator.com/item?id=48585746",
-      "title_cn": "Swiss parliament lifts ban on new nuclear power plants"
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "score": 550,
+      "comments": 341,
+      "author": "philonoist",
+      "time": 1781850957,
+      "hn_url": "https://news.ycombinator.com/item?id=48595511",
+      "title_cn": "【AI】Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28"
     },
     {
-      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
-      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-      "score": 428,
-      "comments": 239,
-      "author": "frou_dh",
-      "time": 1781784653,
-      "hn_url": "https://news.ycombinator.com/item?id=48584135",
-      "title_cn": "【AI】Emacs 31 is around the corner: The changes I'm daily driving"
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "score": 510,
+      "comments": 350,
+      "author": "ilreb",
+      "time": 1781884995,
+      "hn_url": "https://news.ycombinator.com/item?id=48600093",
+      "title_cn": "【AI】Norway imposes near ban on AI in elementary school"
     },
     {
-      "title": "The founder of Craigslist has given away half a billion dollars",
-      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
-      "score": 345,
-      "comments": 261,
-      "author": "Tomte",
-      "time": 1781801725,
-      "hn_url": "https://news.ycombinator.com/item?id=48588216",
-      "title_cn": "【AI】The founder of Craigslist has given away half a billion dollars"
+      "title": "DuckDB Internals Part 1",
+      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "score": 444,
+      "comments": 133,
+      "author": "marklit",
+      "time": 1781608028,
+      "hn_url": "https://news.ycombinator.com/item?id=48553388",
+      "title_cn": "DuckDB Internals Part 1"
     },
     {
-      "title": "Noam Shazeer Joins OpenAI",
-      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-      "score": 308,
-      "comments": 296,
-      "author": "lukasgross",
-      "time": 1781742366,
-      "hn_url": "https://news.ycombinator.com/item?id=48578913",
-      "title_cn": "【AI, OpenAI】Noam Shazeer Joins OpenAI"
+      "title": "The AirPods Effect",
+      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "score": 388,
+      "comments": 694,
+      "author": "herbertl",
+      "time": 1781824115,
+      "hn_url": "https://news.ycombinator.com/item?id=48592832",
+      "title_cn": "【AI】The AirPods Effect"
     },
     {
-      "title": "Dutch Railways offers unlimited off-peak train travel nationwide for €49/month",
-      "url": "https://www.ns.nl/en/season-tickets/dal-vrij",
-      "score": 209,
-      "comments": 99,
-      "author": "felipevb",
-      "time": 1781541894,
-      "hn_url": "https://news.ycombinator.com/item?id=48543872",
-      "title_cn": "【AI】Dutch Railways offers unlimited off-peak train travel nationwide for €49/month"
+      "title": "A new bill takes aim at government pressure to silence lawful online speech",
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "score": 254,
+      "comments": 122,
+      "author": "hn_acker",
+      "time": 1781890468,
+      "hn_url": "https://news.ycombinator.com/item?id=48600950",
+      "title_cn": "【AI】A new bill takes aim at government pressure to silence lawful online speech"
     },
     {
-      "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-      "url": "https://gerrymandle.cc/",
-      "score": 152,
-      "comments": 66,
-      "author": "realmofthemad",
-      "time": 1781792185,
-      "hn_url": "https://news.ycombinator.com/item?id=48585739",
-      "title_cn": "【AI】Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts"
-    },
-    {
-      "title": "Zero-Touch OAuth for MCP",
-      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "score": 148,
-      "comments": 58,
-      "author": "niyikiza",
-      "time": 1781819650,
-      "hn_url": "https://news.ycombinator.com/item?id=48592163",
-      "title_cn": "Zero-Touch OAuth for MCP"
-    },
-    {
-      "title": "Emacs, how it all started for me",
-      "url": "https://xvw.lol/en/articles/emacs-start.html",
-      "score": 142,
-      "comments": 65,
-      "author": "nukifw",
-      "time": 1781537527,
-      "hn_url": "https://news.ycombinator.com/item?id=48542784",
-      "title_cn": "Emacs, how it all started for me"
-    },
-    {
-      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "score": 104,
-      "comments": 88,
-      "author": "dstala",
-      "time": 1781786649,
-      "hn_url": "https://news.ycombinator.com/item?id=48584484",
-      "title_cn": "【Anthropic】The Korean telecom giant at the center of Anthropic's Mythos controversy"
-    },
-    {
-      "title": "How Japan's railways stayed one while splitting apart",
-      "url": "https://arun.is/blog/jr-logo/",
-      "score": 69,
-      "comments": 48,
-      "author": "ddrmaxgt37",
-      "time": 1781705038,
-      "hn_url": "https://news.ycombinator.com/item?id=48570730",
-      "title_cn": "【AI】How Japan's railways stayed one while splitting apart"
-    },
-    {
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-      "score": 52,
-      "comments": 13,
-      "author": "lumpa",
-      "time": 1781831187,
-      "hn_url": "https://news.ycombinator.com/item?id=48593731",
-      "title_cn": "Datasette Apps: Host custom HTML applications inside Datasette"
-    },
-    {
-      "title": "If your product is Great, it doesn't need to be Good (2010)",
-      "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
-      "score": 47,
-      "comments": 31,
-      "author": "skogstokig",
-      "time": 1781544412,
-      "hn_url": "https://news.ycombinator.com/item?id=48544429",
-      "title_cn": "If your product is Great, it doesn't need to be Good (2010)"
+      "title": "Zen and the Art of Machine Learning Research",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "score": 243,
+      "comments": 86,
+      "author": "jxmorris12",
+      "time": 1781570750,
+      "hn_url": "https://news.ycombinator.com/item?id=48549118",
+      "title_cn": "【机器学习】Zen and the Art of Machine Learning Research"
     },
     {
       "title": "Building a robotics research setup that lives next to my desk",
       "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-      "score": 36,
-      "comments": 5,
+      "score": 125,
+      "comments": 43,
       "author": "mplappert",
       "time": 1781794313,
       "hn_url": "https://news.ycombinator.com/item?id=48586329",
       "title_cn": "【机器人】Building a robotics research setup that lives next to my desk"
     },
     {
-      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-      "score": 18,
-      "comments": 4,
-      "author": "marklit",
-      "time": 1781608028,
-      "hn_url": "https://news.ycombinator.com/item?id=48553388",
-      "title_cn": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)"
+      "title": "John Jumper to join Anthropic",
+      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+      "score": 88,
+      "comments": 60,
+      "author": "artninja1988",
+      "time": 1781891580,
+      "hn_url": "https://news.ycombinator.com/item?id=48601162",
+      "title_cn": "【Anthropic】John Jumper to join Anthropic"
+    },
+    {
+      "title": "Egyptian Fractions",
+      "url": "https://blog.plover.com/math/egyptian-fractions.html",
+      "score": 73,
+      "comments": 3,
+      "author": "luu",
+      "time": 1781566674,
+      "hn_url": "https://news.ycombinator.com/item?id=48548612",
+      "title_cn": "Egyptian Fractions"
+    },
+    {
+      "title": "Surprising Economics of Load-Balanced Systems",
+      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+      "score": 60,
+      "comments": 17,
+      "author": "KraftyOne",
+      "time": 1781901059,
+      "hn_url": "https://news.ycombinator.com/item?id=48602918",
+      "title_cn": "Surprising Economics of Load-Balanced Systems"
+    },
+    {
+      "title": "Digital Printing of Arabic: explaining the problem",
+      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+      "score": 32,
+      "comments": 7,
+      "author": "a_t48",
+      "time": 1781648584,
+      "hn_url": "https://news.ycombinator.com/item?id=48563047",
+      "title_cn": "【AI】Digital Printing of Arabic: explaining the problem"
+    },
+    {
+      "title": "Aikido Code Audit",
+      "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+      "score": 26,
+      "comments": 8,
+      "author": "ilreb",
+      "time": 1781913294,
+      "hn_url": "https://news.ycombinator.com/item?id=48604741",
+      "title_cn": "【AI】Aikido Code Audit"
+    },
+    {
+      "title": "Data Compression Explained",
+      "url": "https://mattmahoney.net/dc/dce.html",
+      "score": 24,
+      "comments": 0,
+      "author": "mtdewcmu",
+      "time": 1781646717,
+      "hn_url": "https://news.ycombinator.com/item?id=48562662",
+      "title_cn": "【AI】Data Compression Explained"
+    },
+    {
+      "title": "Meet Nikolai Evreinov, the 19th century Nathan Fielder",
+      "url": "https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/",
+      "score": 5,
+      "comments": 0,
+      "author": "adrianhon",
+      "time": 1781622030,
+      "hn_url": "https://news.ycombinator.com/item?id=48556335",
+      "title_cn": "【AI】Meet Nikolai Evreinov, the 19th century Nathan Fielder"
     }
   ]
 }
