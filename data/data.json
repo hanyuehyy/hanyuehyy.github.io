@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-22T04:59:39.695332",
+  "updated_at": "2026-06-23T03:59:42.955763",
   "github_projects": [
     {
       "name": "ponytail",
       "full_name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "description_cn": "makes your AI 智能体 think like the laziest senior dev in the room. the best Code is the Code you never wrote.",
-      "stars": 46881,
-      "forks": 2309,
+      "stars": 50225,
+      "forks": 2470,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail",
       "topics": [
@@ -28,8 +28,8 @@
       "full_name": "XiaomiMiMo/MiMo-Code",
       "description": "MiMo Code: Where Models and Agents Co-Evolve",
       "description_cn": "mimo Code: where 模型s and 智能体s Co-evolve",
-      "stars": 10219,
-      "forks": 951,
+      "stars": 10372,
+      "forks": 969,
       "language": "TypeScript",
       "url": "https://github.com/XiaomiMiMo/MiMo-Code",
       "topics": [
@@ -50,8 +50,8 @@
       "full_name": "shadcn/improve",
       "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "description_cn": "use your most Capable 模型 to audit your Codebase and write plans for C堆er 模型s to exeCute.",
-      "stars": 5888,
-      "forks": 235,
+      "stars": 5997,
+      "forks": 239,
       "language": "Unknown",
       "url": "https://github.com/shadcn/improve",
       "topics": [],
@@ -66,8 +66,8 @@
       "full_name": "omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "description_cn": "omnigent is an 开源 AI 智能体 框架 and meta-harness: orChestrate Claude Code, Codex, Cursor, pi, and Custom 智能体s — swap harnesses without rewriting, enforCe pol内联缓存ies and sandboxing, and Collaborate in real time from any dev内联缓存e.",
-      "stars": 4354,
-      "forks": 495,
+      "stars": 4479,
+      "forks": 515,
       "language": "Python",
       "url": "https://github.com/omnigent-ai/omnigent",
       "topics": [
@@ -88,8 +88,8 @@
       "full_name": "BuilderIO/skills",
       "description": "Skills for coding agents",
       "description_cn": "skills for Coding 智能体s",
-      "stars": 2347,
-      "forks": 127,
+      "stars": 2461,
+      "forks": 130,
       "language": "JavaScript",
       "url": "https://github.com/BuilderIO/skills",
       "topics": [
@@ -102,28 +102,12 @@
       }
     },
     {
-      "name": "kage",
-      "full_name": "tamnd/kage",
-      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
-      "description_cn": "shadow any 网页site for 离线 viewing, with the JavaSCrIPt strIPped out",
-      "stars": 2242,
-      "forks": 73,
-      "language": "Go",
-      "url": "https://github.com/tamnd/kage",
-      "topics": [],
-      "created_at": "2026-06-14T11:21:55Z",
-      "owner": {
-        "login": "tamnd",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
-      }
-    },
-    {
       "name": "eve",
       "full_name": "vercel/eve",
       "description": "The Framework for Building Agents",
       "description_cn": "the 框架 for building 智能体s",
-      "stars": 2116,
-      "forks": 150,
+      "stars": 2301,
+      "forks": 164,
       "language": "TypeScript",
       "url": "https://github.com/vercel/eve",
       "topics": [
@@ -140,12 +124,28 @@
       }
     },
     {
+      "name": "kage",
+      "full_name": "tamnd/kage",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "description_cn": "shadow any 网页site for 离线 viewing, with the JavaSCrIPt strIPped out",
+      "stars": 2298,
+      "forks": 77,
+      "language": "Go",
+      "url": "https://github.com/tamnd/kage",
+      "topics": [],
+      "created_at": "2026-06-14T11:21:55Z",
+      "owner": {
+        "login": "tamnd",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
+      }
+    },
+    {
       "name": "devspace",
       "full_name": "Waishnav/devspace",
-      "description": "Turn ChatGPT into Codex and enjoy 2x rate limits :)",
-      "description_cn": "turn ChatGPT into Codex and enjoy 2x rate limits :)",
-      "stars": 1986,
-      "forks": 201,
+      "description": "Turn ChatGPT into Codex and enjoy ChatGPT usage separately :)",
+      "description_cn": "turn ChatGPT into Codex and enjoy ChatGPT usage separately :)",
+      "stars": 2171,
+      "forks": 228,
       "language": "TypeScript",
       "url": "https://github.com/Waishnav/devspace",
       "topics": [],
@@ -156,13 +156,29 @@
       }
     },
     {
+      "name": "Cowart",
+      "full_name": "zhongerxin/Cowart",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 2072,
+      "forks": 159,
+      "language": "JavaScript",
+      "url": "https://github.com/zhongerxin/Cowart",
+      "topics": [],
+      "created_at": "2026-06-18T16:08:30Z",
+      "owner": {
+        "login": "zhongerxin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8215057?v=4"
+      }
+    },
+    {
       "name": "aur-malware-check",
       "full_name": "lenucksi/aur-malware-check",
       "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
       "description_cn": "检测 工具s for the june 2026 原子-锁file aur supply-责任链 攻击. C开启SOLID原则ated from Comm单元y gists.",
-      "stars": 1682,
+      "stars": 1714,
       "forks": 38,
-      "language": "Shell",
+      "language": "Python",
       "url": "https://github.com/lenucksi/aur-malware-check",
       "topics": [],
       "created_at": "2026-06-12T13:17:07Z",
@@ -170,176 +186,158 @@
         "login": "lenucksi",
         "avatar_url": "https://avatars.githubusercontent.com/u/2451899?v=4"
       }
-    },
-    {
-      "name": "enableMacosAI",
-      "full_name": "SkyBlue997/enableMacosAI",
-      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "description_cn": "国行 maC 一键开启完整 apple 智能(端侧 + 私有 Cloud Compute 云端)· maCos 27 / apple sil内联缓存开启",
-      "stars": 1475,
-      "forks": 80,
-      "language": "Shell",
-      "url": "https://github.com/SkyBlue997/enableMacosAI",
-      "topics": [
-        "apple-intelligence"
-      ],
-      "created_at": "2026-06-10T13:23:39Z",
-      "owner": {
-        "login": "SkyBlue997",
-        "avatar_url": "https://avatars.githubusercontent.com/u/74125386?v=4"
-      }
     }
   ],
   "ai_news": [
     {
-      "title": "Identity verification on Claude",
-      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "score": 646,
-      "comments": 553,
-      "author": "bathory",
-      "time": 1782045853,
-      "hn_url": "https://news.ycombinator.com/item?id=48618455",
-      "title_cn": "【Claude】Identity verification on Claude"
+      "title": "Codex logging bug may write TBs to local SSDs",
+      "url": "https://github.com/openai/codex/issues/28224",
+      "score": 473,
+      "comments": 258,
+      "author": "vantareed",
+      "time": 1782113417,
+      "hn_url": "https://news.ycombinator.com/item?id=48626930",
+      "title_cn": "Codex logging bug may write TBs to local SSDs"
     },
     {
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "score": 281,
-      "comments": 102,
-      "author": "T-A",
-      "time": 1782077383,
-      "hn_url": "https://news.ycombinator.com/item?id=48622778",
-      "title_cn": "【AI, 模型】Apertus – Open Foundation Model for Sovereign AI"
+      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+      "score": 367,
+      "comments": 221,
+      "author": "geox",
+      "time": 1782155208,
+      "hn_url": "https://news.ycombinator.com/item?id=48634585",
+      "title_cn": "【AI】Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040"
     },
     {
-      "title": "JSON-LD explained for personal websites",
-      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "score": 187,
-      "comments": 56,
-      "author": "ethanhawksley",
-      "time": 1782067907,
-      "hn_url": "https://news.ycombinator.com/item?id=48621517",
-      "title_cn": "【AI】JSON-LD explained for personal websites"
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "score": 288,
+      "comments": 200,
+      "author": "0o_MrPatrick_o0",
+      "time": 1782138166,
+      "hn_url": "https://news.ycombinator.com/item?id=48630535",
+      "title_cn": "【Claude】The text in Claude Code’s “Extended Thinking” output"
     },
     {
-      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-      "url": "https://norvig.com/lispy.html",
-      "score": 171,
-      "comments": 56,
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "score": 249,
+      "comments": 65,
+      "author": "DSemba",
+      "time": 1782136382,
+      "hn_url": "https://news.ycombinator.com/item?id=48630171",
+      "title_cn": "【AI, 模型】Moebius: 0.2B image inpainting model with 10B-level performance"
+    },
+    {
+      "title": "Runing GLM-5.2 on local hardware",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "score": 237,
+      "comments": 108,
+      "author": "TechTechTech",
+      "time": 1782163261,
+      "hn_url": "https://news.ycombinator.com/item?id=48636377",
+      "title_cn": "Runing GLM-5.2 on local hardware"
+    },
+    {
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "score": 216,
+      "comments": 96,
       "author": "tosh",
-      "time": 1782056193,
-      "hn_url": "https://news.ycombinator.com/item?id=48619831",
-      "title_cn": "(How to Write a (Lisp) Interpreter (In Python)) (2010)"
+      "time": 1781884463,
+      "hn_url": "https://news.ycombinator.com/item?id=48599998",
+      "title_cn": "【AI】Munich 1991: The Roots of the Current AI Boom"
     },
     {
-      "title": "Everything is logarithms",
-      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-      "score": 162,
-      "comments": 35,
-      "author": "E-Reverance",
-      "time": 1782076232,
-      "hn_url": "https://news.ycombinator.com/item?id=48622626",
-      "title_cn": "Everything is logarithms"
+      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+      "url": "https://puzzlelair.com/",
+      "score": 156,
+      "comments": 105,
+      "author": "HaxleRose",
+      "time": 1782131026,
+      "hn_url": "https://news.ycombinator.com/item?id=48629213",
+      "title_cn": "Show HN: Got sick of ads, so I made my own logic puzzle site"
     },
     {
-      "title": "There is minimal downside to switching to open models",
-      "url": "https://www.marble.onl/posts/cancel_claude.html",
-      "score": 121,
-      "comments": 67,
-      "author": "amarble",
-      "time": 1782075361,
-      "hn_url": "https://news.ycombinator.com/item?id=48622518",
-      "title_cn": "【模型】There is minimal downside to switching to open models"
-    },
-    {
-      "title": "The case against geometric algebra (2024)",
-      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-      "score": 121,
-      "comments": 116,
-      "author": "Hbruz0",
-      "time": 1782040015,
-      "hn_url": "https://news.ycombinator.com/item?id=48617782",
-      "title_cn": "【AI】The case against geometric algebra (2024)"
-    },
-    {
-      "title": "The Doom Justifies the Valuation",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html",
-      "score": 95,
-      "comments": 90,
-      "author": "inatreecrown2",
-      "time": 1782089107,
-      "hn_url": "https://news.ycombinator.com/item?id=48624195",
-      "title_cn": "The Doom Justifies the Valuation"
-    },
-    {
-      "title": "Show HN: Recall – Local project memory for Claude Code",
-      "url": "https://github.com/raiyanyahya/recall",
+      "title": "Finding the Best Dog Treat with Statistics",
+      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
       "score": 91,
-      "comments": 61,
-      "author": "mateenah",
-      "time": 1782075937,
-      "hn_url": "https://news.ycombinator.com/item?id=48622590",
-      "title_cn": "【Claude】Show HN: Recall – Local project memory for Claude Code"
+      "comments": 32,
+      "author": "wespiser_2018",
+      "time": 1782150408,
+      "hn_url": "https://news.ycombinator.com/item?id=48633410",
+      "title_cn": "Finding the Best Dog Treat with Statistics"
     },
     {
-      "title": "I was wrong about the Midjourney ultra-sound scanner",
-      "url": "https://twitter.com/MattZirwas/status/2068365802491834541",
-      "score": 73,
-      "comments": 45,
-      "author": "MrBuddyCasino",
-      "time": 1782046508,
-      "hn_url": "https://news.ycombinator.com/item?id=48618536",
-      "title_cn": "I was wrong about the Midjourney ultra-sound scanner"
+      "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
+      "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
+      "score": 81,
+      "comments": 19,
+      "author": "Jimmc414",
+      "time": 1782135616,
+      "hn_url": "https://news.ycombinator.com/item?id=48629982",
+      "title_cn": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)"
     },
     {
-      "title": "Sakana Fugu",
-      "url": "https://sakana.ai/fugu/",
+      "title": "In praise of memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "score": 70,
+      "comments": 25,
+      "author": "j03b",
+      "time": 1782177305,
+      "hn_url": "https://news.ycombinator.com/item?id=48638886",
+      "title_cn": "【AI】In praise of memcached"
+    },
+    {
+      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
       "score": 65,
-      "comments": 29,
-      "author": "Finbarr",
-      "time": 1782094098,
-      "hn_url": "https://news.ycombinator.com/item?id=48624782",
-      "title_cn": "Sakana Fugu"
+      "comments": 71,
+      "author": "Vaslo",
+      "time": 1782004341,
+      "hn_url": "https://news.ycombinator.com/item?id=48614715",
+      "title_cn": "【AI】Polymarket has flooded social media with deceptive videos by paid creators"
     },
     {
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "score": 64,
-      "comments": 10,
-      "author": "dev-experiments",
-      "time": 1782082523,
-      "hn_url": "https://news.ycombinator.com/item?id=48623434",
-      "title_cn": "【大语言模型】Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions"
+      "title": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
+      "url": "https://github.com/Amal-David/pagecast",
+      "score": 37,
+      "comments": 9,
+      "author": "amaldavid",
+      "time": 1781811774,
+      "hn_url": "https://news.ycombinator.com/item?id=48590505",
+      "title_cn": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages"
     },
     {
-      "title": "My 1992 view of the problems of computer programming in 1992",
-      "url": "https://blog.plover.com/prog/fortran-i.html",
-      "score": 30,
-      "comments": 4,
-      "author": "pavel_lishin",
-      "time": 1782077651,
-      "hn_url": "https://news.ycombinator.com/item?id=48622814",
-      "title_cn": "My 1992 view of the problems of computer programming in 1992"
+      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "url": "https://arxiv.org/abs/2606.16140",
+      "score": 35,
+      "comments": 12,
+      "author": "timhigins",
+      "time": 1782180085,
+      "hn_url": "https://news.ycombinator.com/item?id=48639240",
+      "title_cn": "【模型】VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO"
     },
     {
-      "title": "Show HN: HN Game Stories – mini-documentary of games that hit the front page",
-      "url": "https://video.intellios.ai",
-      "score": 5,
+      "title": "How do flocking birds and schools of fish move?",
+      "url": "https://www.nyu.edu/about/news-publications/news/2026/june/how-do-flocking-birds-and-schools-of-fish-move--new-research-off.html",
+      "score": 15,
+      "comments": 5,
+      "author": "hhs",
+      "time": 1781908650,
+      "hn_url": "https://news.ycombinator.com/item?id=48604115",
+      "title_cn": "How do flocking birds and schools of fish move?"
+    },
+    {
+      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+      "url": "https://arxiv.org/abs/2606.03748",
+      "score": 9,
       "comments": 0,
-      "author": "coolwulf",
-      "time": 1781998316,
-      "hn_url": "https://news.ycombinator.com/item?id=48614087",
-      "title_cn": "Show HN: HN Game Stories – mini-documentary of games that hit the front page"
-    },
-    {
-      "title": "Danish privacy activist Lars Andersen raided by police",
-      "url": "https://xcancel.com/LarsAnders1620/status/2068208864747540516#m",
-      "score": 4,
-      "comments": 0,
-      "author": "I_am_tiberius",
-      "time": 1782103826,
-      "hn_url": "https://news.ycombinator.com/item?id=48625823",
-      "title_cn": "【AI】Danish privacy activist Lars Andersen raided by police"
+      "author": "teleforce",
+      "time": 1782181680,
+      "hn_url": "https://news.ycombinator.com/item?id=48639434",
+      "title_cn": "【模型】Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models"
     }
   ]
 }
