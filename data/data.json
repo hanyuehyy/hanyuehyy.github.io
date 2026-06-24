@@ -1,343 +1,156 @@
 {
-  "updated_at": "2026-06-23T03:59:42.955763",
-  "github_projects": [
-    {
-      "name": "ponytail",
-      "full_name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "description_cn": "makes your AI 智能体 think like the laziest senior dev in the room. the best Code is the Code you never wrote.",
-      "stars": 50225,
-      "forks": 2470,
-      "language": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin"
-      ],
-      "created_at": "2026-06-12T00:52:37Z",
-      "owner": {
-        "login": "DietrichGebert",
-        "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
-      }
-    },
-    {
-      "name": "MiMo-Code",
-      "full_name": "XiaomiMiMo/MiMo-Code",
-      "description": "MiMo Code: Where Models and Agents Co-Evolve",
-      "description_cn": "mimo Code: where 模型s and 智能体s Co-evolve",
-      "stars": 10372,
-      "forks": 969,
-      "language": "TypeScript",
-      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "cli",
-        "mimo",
-        "mimo-code"
-      ],
-      "created_at": "2026-06-10T11:52:41Z",
-      "owner": {
-        "login": "XiaomiMiMo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
-      }
-    },
-    {
-      "name": "improve",
-      "full_name": "shadcn/improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "description_cn": "use your most Capable 模型 to audit your Codebase and write plans for C堆er 模型s to exeCute.",
-      "stars": 5997,
-      "forks": 239,
-      "language": "Unknown",
-      "url": "https://github.com/shadcn/improve",
-      "topics": [],
-      "created_at": "2026-06-10T11:06:58Z",
-      "owner": {
-        "login": "shadcn",
-        "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
-      }
-    },
-    {
-      "name": "omnigent",
-      "full_name": "omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "description_cn": "omnigent is an 开源 AI 智能体 框架 and meta-harness: orChestrate Claude Code, Codex, Cursor, pi, and Custom 智能体s — swap harnesses without rewriting, enforCe pol内联缓存ies and sandboxing, and Collaborate in real time from any dev内联缓存e.",
-      "stars": 4479,
-      "forks": 515,
-      "language": "Python",
-      "url": "https://github.com/omnigent-ai/omnigent",
-      "topics": [
-        "agent-framework",
-        "agent-governance",
-        "agent-orchestration",
-        "agents",
-        "ai"
-      ],
-      "created_at": "2026-06-11T12:18:13Z",
-      "owner": {
-        "login": "omnigent-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/292215228?v=4"
-      }
-    },
-    {
-      "name": "skills",
-      "full_name": "BuilderIO/skills",
-      "description": "Skills for coding agents",
-      "description_cn": "skills for Coding 智能体s",
-      "stars": 2461,
-      "forks": 130,
-      "language": "JavaScript",
-      "url": "https://github.com/BuilderIO/skills",
-      "topics": [
-        "skills"
-      ],
-      "created_at": "2026-06-10T16:04:20Z",
-      "owner": {
-        "login": "BuilderIO",
-        "avatar_url": "https://avatars.githubusercontent.com/u/35700027?v=4"
-      }
-    },
-    {
-      "name": "eve",
-      "full_name": "vercel/eve",
-      "description": "The Framework for Building Agents",
-      "description_cn": "the 框架 for building 智能体s",
-      "stars": 2301,
-      "forks": 164,
-      "language": "TypeScript",
-      "url": "https://github.com/vercel/eve",
-      "topics": [
-        "agent",
-        "framework",
-        "harness",
-        "javascript",
-        "markdown"
-      ],
-      "created_at": "2026-06-16T10:51:20Z",
-      "owner": {
-        "login": "vercel",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14985020?v=4"
-      }
-    },
-    {
-      "name": "kage",
-      "full_name": "tamnd/kage",
-      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
-      "description_cn": "shadow any 网页site for 离线 viewing, with the JavaSCrIPt strIPped out",
-      "stars": 2298,
-      "forks": 77,
-      "language": "Go",
-      "url": "https://github.com/tamnd/kage",
-      "topics": [],
-      "created_at": "2026-06-14T11:21:55Z",
-      "owner": {
-        "login": "tamnd",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
-      }
-    },
-    {
-      "name": "devspace",
-      "full_name": "Waishnav/devspace",
-      "description": "Turn ChatGPT into Codex and enjoy ChatGPT usage separately :)",
-      "description_cn": "turn ChatGPT into Codex and enjoy ChatGPT usage separately :)",
-      "stars": 2171,
-      "forks": 228,
-      "language": "TypeScript",
-      "url": "https://github.com/Waishnav/devspace",
-      "topics": [],
-      "created_at": "2026-06-14T16:57:27Z",
-      "owner": {
-        "login": "Waishnav",
-        "avatar_url": "https://avatars.githubusercontent.com/u/86405648?v=4"
-      }
-    },
-    {
-      "name": "Cowart",
-      "full_name": "zhongerxin/Cowart",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 2072,
-      "forks": 159,
-      "language": "JavaScript",
-      "url": "https://github.com/zhongerxin/Cowart",
-      "topics": [],
-      "created_at": "2026-06-18T16:08:30Z",
-      "owner": {
-        "login": "zhongerxin",
-        "avatar_url": "https://avatars.githubusercontent.com/u/8215057?v=4"
-      }
-    },
-    {
-      "name": "aur-malware-check",
-      "full_name": "lenucksi/aur-malware-check",
-      "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
-      "description_cn": "检测 工具s for the june 2026 原子-锁file aur supply-责任链 攻击. C开启SOLID原则ated from Comm单元y gists.",
-      "stars": 1714,
-      "forks": 38,
-      "language": "Python",
-      "url": "https://github.com/lenucksi/aur-malware-check",
-      "topics": [],
-      "created_at": "2026-06-12T13:17:07Z",
-      "owner": {
-        "login": "lenucksi",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2451899?v=4"
-      }
-    }
-  ],
+  "updated_at": "2026-06-24T04:01:48.342962",
+  "github_projects": [],
   "ai_news": [
     {
-      "title": "Codex logging bug may write TBs to local SSDs",
-      "url": "https://github.com/openai/codex/issues/28224",
-      "score": 473,
-      "comments": 258,
-      "author": "vantareed",
-      "time": 1782113417,
-      "hn_url": "https://news.ycombinator.com/item?id=48626930",
-      "title_cn": "Codex logging bug may write TBs to local SSDs"
+      "title": "The deadly rise of giant trucks and SUVs",
+      "url": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html",
+      "score": 402,
+      "comments": 670,
+      "author": "xnx",
+      "time": 1782081752,
+      "hn_url": "https://news.ycombinator.com/item?id=48623347",
+      "title_cn": "The deadly rise of giant trucks and SUVs"
     },
     {
-      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-      "score": 367,
-      "comments": 221,
-      "author": "geox",
-      "time": 1782155208,
-      "hn_url": "https://news.ycombinator.com/item?id=48634585",
-      "title_cn": "【AI】Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040"
+      "title": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "score": 349,
+      "comments": 101,
+      "author": "futohq",
+      "time": 1782237022,
+      "hn_url": "https://news.ycombinator.com/item?id=48648619",
+      "title_cn": "【模型】FUTO Swipe – A new swipe typing model"
     },
     {
-      "title": "The text in Claude Code’s “Extended Thinking” output",
-      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-      "score": 288,
-      "comments": 200,
-      "author": "0o_MrPatrick_o0",
-      "time": 1782138166,
-      "hn_url": "https://news.ycombinator.com/item?id=48630535",
-      "title_cn": "【Claude】The text in Claude Code’s “Extended Thinking” output"
+      "title": "AI's Affordability Crisis",
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "score": 265,
+      "comments": 350,
+      "author": "ilreb",
+      "time": 1782227477,
+      "hn_url": "https://news.ycombinator.com/item?id=48646276",
+      "title_cn": "【AI】AI's Affordability Crisis"
     },
     {
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "url": "https://hustvl.github.io/Moebius/",
-      "score": 249,
-      "comments": 65,
-      "author": "DSemba",
-      "time": 1782136382,
-      "hn_url": "https://news.ycombinator.com/item?id=48630171",
-      "title_cn": "【AI, 模型】Moebius: 0.2B image inpainting model with 10B-level performance"
+      "title": "Don't verify email addresses by sending spam to them",
+      "url": "https://milek7.pl/mailverifyspam/",
+      "score": 155,
+      "comments": 49,
+      "author": "garaetjjte",
+      "time": 1782246229,
+      "hn_url": "https://news.ycombinator.com/item?id=48650837",
+      "title_cn": "【AI】Don't verify email addresses by sending spam to them"
     },
     {
-      "title": "Runing GLM-5.2 on local hardware",
-      "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "score": 237,
-      "comments": 108,
-      "author": "TechTechTech",
-      "time": 1782163261,
-      "hn_url": "https://news.ycombinator.com/item?id=48636377",
-      "title_cn": "Runing GLM-5.2 on local hardware"
+      "title": "Trains halted across Germany because of communication system problem",
+      "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
+      "score": 148,
+      "comments": 146,
+      "author": "sva_",
+      "time": 1782249584,
+      "hn_url": "https://news.ycombinator.com/item?id=48651613",
+      "title_cn": "【AI】Trains halted across Germany because of communication system problem"
     },
     {
-      "title": "Munich 1991: The Roots of the Current AI Boom",
-      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "score": 216,
-      "comments": 96,
-      "author": "tosh",
-      "time": 1781884463,
-      "hn_url": "https://news.ycombinator.com/item?id=48599998",
-      "title_cn": "【AI】Munich 1991: The Roots of the Current AI Boom"
+      "title": "The Low-Tech AI of Elden Ring",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "score": 119,
+      "comments": 59,
+      "author": "g0xA52A2A",
+      "time": 1782214850,
+      "hn_url": "https://news.ycombinator.com/item?id=48643489",
+      "title_cn": "【AI】The Low-Tech AI of Elden Ring"
     },
     {
-      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
-      "url": "https://puzzlelair.com/",
-      "score": 156,
-      "comments": 105,
-      "author": "HaxleRose",
-      "time": 1782131026,
-      "hn_url": "https://news.ycombinator.com/item?id=48629213",
-      "title_cn": "Show HN: Got sick of ads, so I made my own logic puzzle site"
-    },
-    {
-      "title": "Finding the Best Dog Treat with Statistics",
-      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
-      "score": 91,
-      "comments": 32,
-      "author": "wespiser_2018",
-      "time": 1782150408,
-      "hn_url": "https://news.ycombinator.com/item?id=48633410",
-      "title_cn": "Finding the Best Dog Treat with Statistics"
-    },
-    {
-      "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
-      "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
-      "score": 81,
-      "comments": 19,
+      "title": "Millimeter wave technology drills 100 meters into granite",
+      "url": "https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/",
+      "score": 107,
+      "comments": 27,
       "author": "Jimmc414",
-      "time": 1782135616,
-      "hn_url": "https://news.ycombinator.com/item?id=48629982",
-      "title_cn": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)"
+      "time": 1781979895,
+      "hn_url": "https://news.ycombinator.com/item?id=48611585",
+      "title_cn": "Millimeter wave technology drills 100 meters into granite"
     },
     {
-      "title": "In praise of memcached",
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
-      "score": 70,
-      "comments": 25,
-      "author": "j03b",
-      "time": 1782177305,
-      "hn_url": "https://news.ycombinator.com/item?id=48638886",
-      "title_cn": "【AI】In praise of memcached"
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "score": 98,
+      "comments": 19,
+      "author": "givinguflac",
+      "time": 1781792618,
+      "hn_url": "https://news.ycombinator.com/item?id=48585852",
+      "title_cn": "Usbliter8: an A12/A13 SecureROM Exploit"
     },
     {
-      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
-      "score": 65,
-      "comments": 71,
-      "author": "Vaslo",
-      "time": 1782004341,
-      "hn_url": "https://news.ycombinator.com/item?id=48614715",
-      "title_cn": "【AI】Polymarket has flooded social media with deceptive videos by paid creators"
+      "title": "Rhombus Language 1.0",
+      "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+      "score": 96,
+      "comments": 16,
+      "author": "Decabytes",
+      "time": 1782150640,
+      "hn_url": "https://news.ycombinator.com/item?id=48633473",
+      "title_cn": "Rhombus Language 1.0"
     },
     {
-      "title": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
-      "url": "https://github.com/Amal-David/pagecast",
-      "score": 37,
-      "comments": 9,
-      "author": "amaldavid",
-      "time": 1781811774,
-      "hn_url": "https://news.ycombinator.com/item?id=48590505",
-      "title_cn": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages"
+      "title": "QSOE: QNX-inspired OS with dual-kernel architecture",
+      "url": "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html",
+      "score": 30,
+      "comments": 11,
+      "author": "ymz5",
+      "time": 1782136017,
+      "hn_url": "https://news.ycombinator.com/item?id=48630085",
+      "title_cn": "QSOE: QNX-inspired OS with dual-kernel architecture"
     },
     {
-      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-      "url": "https://arxiv.org/abs/2606.16140",
-      "score": 35,
-      "comments": 12,
-      "author": "timhigins",
-      "time": 1782180085,
-      "hn_url": "https://news.ycombinator.com/item?id=48639240",
-      "title_cn": "【模型】VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO"
+      "title": "Show HN: RLM-based local debugger for AI agent traces",
+      "url": "https://github.com/context-labs/halo",
+      "score": 14,
+      "comments": 4,
+      "author": "mikepollard_dev",
+      "time": 1782238912,
+      "hn_url": "https://news.ycombinator.com/item?id=48649137",
+      "title_cn": "【AI】Show HN: RLM-based local debugger for AI agent traces"
     },
     {
-      "title": "How do flocking birds and schools of fish move?",
-      "url": "https://www.nyu.edu/about/news-publications/news/2026/june/how-do-flocking-birds-and-schools-of-fish-move--new-research-off.html",
-      "score": 15,
+      "title": "Congress Clears Housing Bill, Cementing a Rare Bipartisan Feat",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/congress-housing-bill.html",
+      "score": 11,
       "comments": 5,
-      "author": "hhs",
-      "time": 1781908650,
-      "hn_url": "https://news.ycombinator.com/item?id=48604115",
-      "title_cn": "How do flocking birds and schools of fish move?"
+      "author": "mikhael",
+      "time": 1782268755,
+      "hn_url": "https://news.ycombinator.com/item?id=48654472",
+      "title_cn": "Congress Clears Housing Bill, Cementing a Rare Bipartisan Feat"
     },
     {
-      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
-      "url": "https://arxiv.org/abs/2606.03748",
+      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
       "score": 9,
       "comments": 0,
-      "author": "teleforce",
-      "time": 1782181680,
-      "hn_url": "https://news.ycombinator.com/item?id=48639434",
-      "title_cn": "【模型】Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models"
+      "author": "ilreb",
+      "time": 1782267151,
+      "hn_url": "https://news.ycombinator.com/item?id=48654274",
+      "title_cn": "【Transformer模型, 扩散模型】DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers"
+    },
+    {
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "score": 7,
+      "comments": 0,
+      "author": "ilreb",
+      "time": 1782267707,
+      "hn_url": "https://news.ycombinator.com/item?id=48654351",
+      "title_cn": "【模型】Qwen-AgentWorld: Language World Models for General Agents"
+    },
+    {
+      "title": "The Teensy Executable Revisited",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
+      "score": 4,
+      "comments": 0,
+      "author": "ankitg12",
+      "time": 1782268213,
+      "hn_url": "https://news.ycombinator.com/item?id=48654411",
+      "title_cn": "The Teensy Executable Revisited"
     }
   ]
 }
