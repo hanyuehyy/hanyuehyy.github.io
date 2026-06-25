@@ -1,156 +1,335 @@
 {
-  "updated_at": "2026-06-24T04:01:48.342962",
-  "github_projects": [],
+  "updated_at": "2026-06-25T04:02:18.494157",
+  "github_projects": [
+    {
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description_cn": "makes your AI 智能体 think like the laziest senior dev in the room. the best Code is the Code you never wrote.",
+      "stars": 55698,
+      "forks": 2813,
+      "language": "JavaScript",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "created_at": "2026-06-12T00:52:37Z",
+      "owner": {
+        "login": "DietrichGebert",
+        "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
+      }
+    },
+    {
+      "name": "Unlimited-OCR",
+      "full_name": "baidu/Unlimited-OCR",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "description_cn": "unlimited oCr works: welCome the era of 单样本 l开启g-horiz开启 parsing.",
+      "stars": 6633,
+      "forks": 530,
+      "language": "Python",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "topics": [],
+      "created_at": "2026-06-18T08:40:15Z",
+      "owner": {
+        "login": "baidu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13245940?v=4"
+      }
+    },
+    {
+      "name": "Cowart",
+      "full_name": "zhongerxin/Cowart",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 2719,
+      "forks": 214,
+      "language": "JavaScript",
+      "url": "https://github.com/zhongerxin/Cowart",
+      "topics": [],
+      "created_at": "2026-06-18T16:08:30Z",
+      "owner": {
+        "login": "zhongerxin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8215057?v=4"
+      }
+    },
+    {
+      "name": "eve",
+      "full_name": "vercel/eve",
+      "description": "The Framework for Building Agents",
+      "description_cn": "the 框架 for building 智能体s",
+      "stars": 2542,
+      "forks": 190,
+      "language": "TypeScript",
+      "url": "https://github.com/vercel/eve",
+      "topics": [
+        "agent",
+        "framework",
+        "harness",
+        "javascript",
+        "markdown"
+      ],
+      "created_at": "2026-06-16T10:51:20Z",
+      "owner": {
+        "login": "vercel",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14985020?v=4"
+      }
+    },
+    {
+      "name": "kage",
+      "full_name": "tamnd/kage",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "description_cn": "shadow any 网页site for 离线 viewing, with the JavaSCrIPt strIPped out",
+      "stars": 2397,
+      "forks": 78,
+      "language": "Go",
+      "url": "https://github.com/tamnd/kage",
+      "topics": [],
+      "created_at": "2026-06-14T11:21:55Z",
+      "owner": {
+        "login": "tamnd",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
+      }
+    },
+    {
+      "name": "devspace",
+      "full_name": "Waishnav/devspace",
+      "description": "Turn ChatGPT into Codex and enjoy ChatGPT usage separately :)",
+      "description_cn": "turn ChatGPT into Codex and enjoy ChatGPT usage separately :)",
+      "stars": 2389,
+      "forks": 247,
+      "language": "TypeScript",
+      "url": "https://github.com/Waishnav/devspace",
+      "topics": [],
+      "created_at": "2026-06-14T16:57:27Z",
+      "owner": {
+        "login": "Waishnav",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86405648?v=4"
+      }
+    },
+    {
+      "name": "aur-malware-check",
+      "full_name": "lenucksi/aur-malware-check",
+      "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+      "description_cn": "检测 工具s for the june 2026 原子-锁file aur supply-责任链 攻击. C开启SOLID原则ated from Comm单元y gists.",
+      "stars": 1772,
+      "forks": 38,
+      "language": "Python",
+      "url": "https://github.com/lenucksi/aur-malware-check",
+      "topics": [],
+      "created_at": "2026-06-12T13:17:07Z",
+      "owner": {
+        "login": "lenucksi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2451899?v=4"
+      }
+    },
+    {
+      "name": "loop-library",
+      "full_name": "Forward-Future/loop-library",
+      "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
+      "description_cn": "a 库 of praCt内联缓存al AI-智能体 循环s and an installable skill for finding, Adapting, and designing repea表 智能体 工作流s.",
+      "stars": 1600,
+      "forks": 134,
+      "language": "JavaScript",
+      "url": "https://github.com/Forward-Future/loop-library",
+      "topics": [
+        "agent-skills",
+        "agentic-workflows",
+        "ai-agents",
+        "automation",
+        "codex"
+      ],
+      "created_at": "2026-06-12T14:44:22Z",
+      "owner": {
+        "login": "Forward-Future",
+        "avatar_url": "https://avatars.githubusercontent.com/u/259970374?v=4"
+      }
+    },
+    {
+      "name": "codex-orange-book",
+      "full_name": "bozhouDev/codex-orange-book",
+      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "description_cn": "",
+      "stars": 1540,
+      "forks": 160,
+      "language": "HTML",
+      "url": "https://github.com/bozhouDev/codex-orange-book",
+      "topics": [],
+      "created_at": "2026-06-23T02:36:54Z",
+      "owner": {
+        "login": "bozhouDev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/259759010?v=4"
+      }
+    },
+    {
+      "name": "IPA-Download",
+      "full_name": "EEliberto/IPA-Download",
+      "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+      "description_cn": "",
+      "stars": 1323,
+      "forks": 77,
+      "language": "Swift",
+      "url": "https://github.com/EEliberto/IPA-Download",
+      "topics": [],
+      "created_at": "2026-06-13T08:32:39Z",
+      "owner": {
+        "login": "EEliberto",
+        "avatar_url": "https://avatars.githubusercontent.com/u/74881807?v=4"
+      }
+    }
+  ],
   "ai_news": [
     {
-      "title": "The deadly rise of giant trucks and SUVs",
-      "url": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html",
-      "score": 402,
-      "comments": 670,
-      "author": "xnx",
-      "time": 1782081752,
-      "hn_url": "https://news.ycombinator.com/item?id=48623347",
-      "title_cn": "The deadly rise of giant trucks and SUVs"
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "score": 592,
+      "comments": 347,
+      "author": "jamdesk",
+      "time": 1782323220,
+      "hn_url": "https://news.ycombinator.com/item?id=48663324",
+      "title_cn": "【AI, OpenAI】OpenAI unveils its first custom chip, built by Broadcom"
     },
     {
-      "title": "FUTO Swipe – A new swipe typing model",
-      "url": "https://swipe.futo.tech/",
-      "score": 349,
-      "comments": 101,
-      "author": "futohq",
-      "time": 1782237022,
-      "hn_url": "https://news.ycombinator.com/item?id=48648619",
-      "title_cn": "【模型】FUTO Swipe – A new swipe typing model"
-    },
-    {
-      "title": "AI's Affordability Crisis",
-      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-      "score": 265,
-      "comments": 350,
-      "author": "ilreb",
-      "time": 1782227477,
-      "hn_url": "https://news.ycombinator.com/item?id=48646276",
-      "title_cn": "【AI】AI's Affordability Crisis"
-    },
-    {
-      "title": "Don't verify email addresses by sending spam to them",
-      "url": "https://milek7.pl/mailverifyspam/",
-      "score": 155,
-      "comments": 49,
-      "author": "garaetjjte",
-      "time": 1782246229,
-      "hn_url": "https://news.ycombinator.com/item?id=48650837",
-      "title_cn": "【AI】Don't verify email addresses by sending spam to them"
-    },
-    {
-      "title": "Trains halted across Germany because of communication system problem",
-      "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
-      "score": 148,
-      "comments": 146,
-      "author": "sva_",
-      "time": 1782249584,
-      "hn_url": "https://news.ycombinator.com/item?id=48651613",
-      "title_cn": "【AI】Trains halted across Germany because of communication system problem"
-    },
-    {
-      "title": "The Low-Tech AI of Elden Ring",
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-      "score": 119,
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
+      "score": 360,
       "comments": 59,
-      "author": "g0xA52A2A",
-      "time": 1782214850,
-      "hn_url": "https://news.ycombinator.com/item?id=48643489",
-      "title_cn": "【AI】The Low-Tech AI of Elden Ring"
+      "author": "doener",
+      "time": 1782312101,
+      "hn_url": "https://news.ycombinator.com/item?id=48660711",
+      "title_cn": "【AI, 大语言模型, 框架】RubyLLM: A Ruby framework for all major AI providers"
     },
     {
-      "title": "Millimeter wave technology drills 100 meters into granite",
-      "url": "https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/",
-      "score": 107,
-      "comments": 27,
-      "author": "Jimmc414",
-      "time": 1781979895,
-      "hn_url": "https://news.ycombinator.com/item?id=48611585",
-      "title_cn": "Millimeter wave technology drills 100 meters into granite"
+      "title": "Krea 2: SOTA open-weights 12B image model",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report",
+      "score": 356,
+      "comments": 38,
+      "author": "mattnewton",
+      "time": 1782228681,
+      "hn_url": "https://news.ycombinator.com/item?id=48646659",
+      "title_cn": "【模型】Krea 2: SOTA open-weights 12B image model"
     },
     {
-      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
-      "url": "https://ps.tc/pages/blog-usbliter8.html",
-      "score": 98,
-      "comments": 19,
-      "author": "givinguflac",
-      "time": 1781792618,
-      "hn_url": "https://news.ycombinator.com/item?id=48585852",
-      "title_cn": "Usbliter8: an A12/A13 SecureROM Exploit"
+      "title": "45°C cooling design cuts data center water use to near zero",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "score": 235,
+      "comments": 164,
+      "author": "nitin_flanker",
+      "time": 1782310211,
+      "hn_url": "https://news.ycombinator.com/item?id=48660178",
+      "title_cn": "45°C cooling design cuts data center water use to near zero"
     },
     {
-      "title": "Rhombus Language 1.0",
-      "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-      "score": 96,
-      "comments": 16,
-      "author": "Decabytes",
-      "time": 1782150640,
-      "hn_url": "https://news.ycombinator.com/item?id=48633473",
-      "title_cn": "Rhombus Language 1.0"
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "url": "https://www.greptile.com/blog/prs-on-openclaw",
+      "score": 191,
+      "comments": 112,
+      "author": "dakshgupta",
+      "time": 1782311532,
+      "hn_url": "https://news.ycombinator.com/item?id=48660579",
+      "title_cn": "【AI】PR spam today looks like email spam in the early 2000s"
     },
     {
-      "title": "QSOE: QNX-inspired OS with dual-kernel architecture",
-      "url": "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html",
-      "score": 30,
-      "comments": 11,
-      "author": "ymz5",
-      "time": 1782136017,
-      "hn_url": "https://news.ycombinator.com/item?id=48630085",
-      "title_cn": "QSOE: QNX-inspired OS with dual-kernel architecture"
+      "title": "Computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "score": 189,
+      "comments": 117,
+      "author": "swolpers",
+      "time": 1782321694,
+      "hn_url": "https://news.ycombinator.com/item?id=48662999",
+      "title_cn": "Computer use in Gemini 3.5 Flash"
     },
     {
-      "title": "Show HN: RLM-based local debugger for AI agent traces",
-      "url": "https://github.com/context-labs/halo",
+      "title": "Qualcomm to Acquire Modular",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "score": 165,
+      "comments": 39,
+      "author": "timmyd",
+      "time": 1782308956,
+      "hn_url": "https://news.ycombinator.com/item?id=48659798",
+      "title_cn": "Qualcomm to Acquire Modular"
+    },
+    {
+      "title": "GLM-5.2 is a step change for open agents",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "score": 150,
+      "comments": 90,
+      "author": "vantareed",
+      "time": 1782185008,
+      "hn_url": "https://news.ycombinator.com/item?id=48639840",
+      "title_cn": "GLM-5.2 is a step change for open agents"
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "score": 148,
+      "comments": 270,
+      "author": "htrp",
+      "time": 1782330481,
+      "hn_url": "https://news.ycombinator.com/item?id=48664814",
+      "title_cn": "【AI, Anthropic, Claude】Anthropic says Alibaba illicitly extracted Claude AI model capabilities"
+    },
+    {
+      "title": "Running Windows Games on a Hobby OS with Wine",
+      "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
+      "score": 100,
+      "comments": 32,
+      "author": "avaliosdev",
+      "time": 1782311910,
+      "hn_url": "https://news.ycombinator.com/item?id=48660671",
+      "title_cn": "Running Windows Games on a Hobby OS with Wine"
+    },
+    {
+      "title": "Pull request limits are cutting down the noise",
+      "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+      "score": 82,
+      "comments": 40,
+      "author": "ingve",
+      "time": 1781863390,
+      "hn_url": "https://news.ycombinator.com/item?id=48596834",
+      "title_cn": "Pull request limits are cutting down the noise"
+    },
+    {
+      "title": "How the Fifth Lateran Council unlocked financial theory",
+      "url": "https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/",
+      "score": 58,
+      "comments": 9,
+      "author": "momentmaker",
+      "time": 1781982065,
+      "hn_url": "https://news.ycombinator.com/item?id=48611940",
+      "title_cn": "How the Fifth Lateran Council unlocked financial theory"
+    },
+    {
+      "title": "What I'm Finding About LLM Code Style and Token Costs",
+      "url": "https://www.jimmont.com/llm-style-token-costs",
+      "score": 17,
+      "comments": 7,
+      "author": "jimmont",
+      "time": 1782348760,
+      "hn_url": "https://news.ycombinator.com/item?id=48667409",
+      "title_cn": "【大语言模型】What I'm Finding About LLM Code Style and Token Costs"
+    },
+    {
+      "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going",
+      "url": "https://victorribeiro.com/wordit/",
       "score": 14,
-      "comments": 4,
-      "author": "mikepollard_dev",
-      "time": 1782238912,
-      "hn_url": "https://news.ycombinator.com/item?id=48649137",
-      "title_cn": "【AI】Show HN: RLM-based local debugger for AI agent traces"
+      "comments": 12,
+      "author": "atum47",
+      "time": 1782241056,
+      "hn_url": "https://news.ycombinator.com/item?id=48649697",
+      "title_cn": "【AI】Show HN: Wordit – Change One Letter, Keep the Chain Going"
     },
     {
-      "title": "Congress Clears Housing Bill, Cementing a Rare Bipartisan Feat",
-      "url": "https://www.nytimes.com/2026/06/23/us/politics/congress-housing-bill.html",
-      "score": 11,
-      "comments": 5,
-      "author": "mikhael",
-      "time": 1782268755,
-      "hn_url": "https://news.ycombinator.com/item?id=48654472",
-      "title_cn": "Congress Clears Housing Bill, Cementing a Rare Bipartisan Feat"
-    },
-    {
-      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
-      "score": 9,
-      "comments": 0,
-      "author": "ilreb",
-      "time": 1782267151,
-      "hn_url": "https://news.ycombinator.com/item?id=48654274",
-      "title_cn": "【Transformer模型, 扩散模型】DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers"
-    },
-    {
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://arxiv.org/abs/2606.24597",
-      "score": 7,
-      "comments": 0,
-      "author": "ilreb",
-      "time": 1782267707,
-      "hn_url": "https://news.ycombinator.com/item?id=48654351",
-      "title_cn": "【模型】Qwen-AgentWorld: Language World Models for General Agents"
-    },
-    {
-      "title": "The Teensy Executable Revisited",
-      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
+      "title": "Optimizing [sqlx:test] rebuild time",
+      "url": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
       "score": 4,
       "comments": 0,
-      "author": "ankitg12",
-      "time": 1782268213,
-      "hn_url": "https://news.ycombinator.com/item?id=48654411",
-      "title_cn": "The Teensy Executable Revisited"
+      "author": "ibobev",
+      "time": 1782117589,
+      "hn_url": "https://news.ycombinator.com/item?id=48627471",
+      "title_cn": "Optimizing [sqlx:test] rebuild time"
     }
   ]
 }
