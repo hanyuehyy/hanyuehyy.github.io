@@ -1,35 +1,13 @@
 {
-  "updated_at": "2026-06-25T04:02:18.494157",
+  "updated_at": "2026-06-26T04:09:40.749285",
   "github_projects": [
-    {
-      "name": "ponytail",
-      "full_name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "description_cn": "makes your AI 智能体 think like the laziest senior dev in the room. the best Code is the Code you never wrote.",
-      "stars": 55698,
-      "forks": 2813,
-      "language": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin"
-      ],
-      "created_at": "2026-06-12T00:52:37Z",
-      "owner": {
-        "login": "DietrichGebert",
-        "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
-      }
-    },
     {
       "name": "Unlimited-OCR",
       "full_name": "baidu/Unlimited-OCR",
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "description_cn": "unlimited oCr works: welCome the era of 单样本 l开启g-horiz开启 parsing.",
-      "stars": 6633,
-      "forks": 530,
+      "stars": 9029,
+      "forks": 694,
       "language": "Python",
       "url": "https://github.com/baidu/Unlimited-OCR",
       "topics": [],
@@ -44,8 +22,8 @@
       "full_name": "zhongerxin/Cowart",
       "description": "No description",
       "description_cn": "",
-      "stars": 2719,
-      "forks": 214,
+      "stars": 2941,
+      "forks": 228,
       "language": "JavaScript",
       "url": "https://github.com/zhongerxin/Cowart",
       "topics": [],
@@ -60,8 +38,8 @@
       "full_name": "vercel/eve",
       "description": "The Framework for Building Agents",
       "description_cn": "the 框架 for building 智能体s",
-      "stars": 2542,
-      "forks": 190,
+      "stars": 2614,
+      "forks": 197,
       "language": "TypeScript",
       "url": "https://github.com/vercel/eve",
       "topics": [
@@ -78,28 +56,12 @@
       }
     },
     {
-      "name": "kage",
-      "full_name": "tamnd/kage",
-      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
-      "description_cn": "shadow any 网页site for 离线 viewing, with the JavaSCrIPt strIPped out",
-      "stars": 2397,
-      "forks": 78,
-      "language": "Go",
-      "url": "https://github.com/tamnd/kage",
-      "topics": [],
-      "created_at": "2026-06-14T11:21:55Z",
-      "owner": {
-        "login": "tamnd",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
-      }
-    },
-    {
       "name": "devspace",
       "full_name": "Waishnav/devspace",
       "description": "Turn ChatGPT into Codex and enjoy ChatGPT usage separately :)",
       "description_cn": "turn ChatGPT into Codex and enjoy ChatGPT usage separately :)",
-      "stars": 2389,
-      "forks": 247,
+      "stars": 2505,
+      "forks": 257,
       "language": "TypeScript",
       "url": "https://github.com/Waishnav/devspace",
       "topics": [],
@@ -110,41 +72,19 @@
       }
     },
     {
-      "name": "aur-malware-check",
-      "full_name": "lenucksi/aur-malware-check",
-      "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
-      "description_cn": "检测 工具s for the june 2026 原子-锁file aur supply-责任链 攻击. C开启SOLID原则ated from Comm单元y gists.",
-      "stars": 1772,
-      "forks": 38,
-      "language": "Python",
-      "url": "https://github.com/lenucksi/aur-malware-check",
+      "name": "kage",
+      "full_name": "tamnd/kage",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "description_cn": "shadow any 网页site for 离线 viewing, with the JavaSCrIPt strIPped out",
+      "stars": 2471,
+      "forks": 80,
+      "language": "Go",
+      "url": "https://github.com/tamnd/kage",
       "topics": [],
-      "created_at": "2026-06-12T13:17:07Z",
+      "created_at": "2026-06-14T11:21:55Z",
       "owner": {
-        "login": "lenucksi",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2451899?v=4"
-      }
-    },
-    {
-      "name": "loop-library",
-      "full_name": "Forward-Future/loop-library",
-      "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
-      "description_cn": "a 库 of praCt内联缓存al AI-智能体 循环s and an installable skill for finding, Adapting, and designing repea表 智能体 工作流s.",
-      "stars": 1600,
-      "forks": 134,
-      "language": "JavaScript",
-      "url": "https://github.com/Forward-Future/loop-library",
-      "topics": [
-        "agent-skills",
-        "agentic-workflows",
-        "ai-agents",
-        "automation",
-        "codex"
-      ],
-      "created_at": "2026-06-12T14:44:22Z",
-      "owner": {
-        "login": "Forward-Future",
-        "avatar_url": "https://avatars.githubusercontent.com/u/259970374?v=4"
+        "login": "tamnd",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
       }
     },
     {
@@ -152,8 +92,8 @@
       "full_name": "bozhouDev/codex-orange-book",
       "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "description_cn": "",
-      "stars": 1540,
-      "forks": 160,
+      "stars": 2001,
+      "forks": 199,
       "language": "HTML",
       "url": "https://github.com/bozhouDev/codex-orange-book",
       "topics": [],
@@ -168,8 +108,8 @@
       "full_name": "EEliberto/IPA-Download",
       "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
       "description_cn": "",
-      "stars": 1323,
-      "forks": 77,
+      "stars": 1361,
+      "forks": 80,
       "language": "Swift",
       "url": "https://github.com/EEliberto/IPA-Download",
       "topics": [],
@@ -178,158 +118,221 @@
         "login": "EEliberto",
         "avatar_url": "https://avatars.githubusercontent.com/u/74881807?v=4"
       }
+    },
+    {
+      "name": "zhengxi-views",
+      "full_name": "lyra81604/zhengxi-views",
+      "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+      "description_cn": "",
+      "stars": 1043,
+      "forks": 124,
+      "language": "Python",
+      "url": "https://github.com/lyra81604/zhengxi-views",
+      "topics": [
+        "agent-skill",
+        "chinese-funds",
+        "funds",
+        "investing"
+      ],
+      "created_at": "2026-06-20T04:27:07Z",
+      "owner": {
+        "login": "lyra81604",
+        "avatar_url": "https://avatars.githubusercontent.com/u/235843849?v=4"
+      }
+    },
+    {
+      "name": "agent-apprenticeship",
+      "full_name": "Forsy-AI/agent-apprenticeship",
+      "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+      "description_cn": "the living eCo系统 where AI 智能体s learn from real-world work through iterative 工作流 循环s, reusable experienCe, and ColleCtive 训练 signal exChange.",
+      "stars": 945,
+      "forks": 47,
+      "language": "Unknown",
+      "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+      "topics": [
+        "agent-apprenticeship",
+        "agent-economy",
+        "agent-experience",
+        "agent-learning",
+        "agent-traces"
+      ],
+      "created_at": "2026-06-19T16:19:37Z",
+      "owner": {
+        "login": "Forsy-AI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/273874842?v=4"
+      }
+    },
+    {
+      "name": "cnfast",
+      "full_name": "aidenybai/cnfast",
+      "description": "Fast drop in replacement for `cn`",
+      "description_cn": "快速 丢弃 in replaCement for `Cn`",
+      "stars": 935,
+      "forks": 9,
+      "language": "TypeScript",
+      "url": "https://github.com/aidenybai/cnfast",
+      "topics": [
+        "clsx",
+        "cn",
+        "tailwindcss"
+      ],
+      "created_at": "2026-06-19T19:46:29Z",
+      "owner": {
+        "login": "aidenybai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38025074?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 592,
-      "comments": 347,
-      "author": "jamdesk",
-      "time": 1782323220,
-      "hn_url": "https://news.ycombinator.com/item?id=48663324",
-      "title_cn": "【AI, OpenAI】OpenAI unveils its first custom chip, built by Broadcom"
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "score": 664,
+      "comments": 957,
+      "author": "virgildotcodes",
+      "time": 1782392576,
+      "hn_url": "https://news.ycombinator.com/item?id=48672732",
+      "title_cn": "【AI】Apple raises prices of MacBooks, iPads"
     },
     {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
-      "score": 360,
-      "comments": 59,
-      "author": "doener",
-      "time": 1782312101,
-      "hn_url": "https://news.ycombinator.com/item?id=48660711",
-      "title_cn": "【AI, 大语言模型, 框架】RubyLLM: A Ruby framework for all major AI providers"
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "score": 226,
+      "comments": 108,
+      "author": "engomez",
+      "time": 1782403486,
+      "hn_url": "https://news.ycombinator.com/item?id=48675435",
+      "title_cn": "【AI, 开源】Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion"
     },
     {
-      "title": "Krea 2: SOTA open-weights 12B image model",
-      "url": "https://www.krea.ai/blog/krea-2-technical-report",
-      "score": 356,
-      "comments": 38,
-      "author": "mattnewton",
-      "time": 1782228681,
-      "hn_url": "https://news.ycombinator.com/item?id=48646659",
-      "title_cn": "【模型】Krea 2: SOTA open-weights 12B image model"
+      "title": "AI children's books, body horror edition",
+      "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+      "score": 157,
+      "comments": 51,
+      "author": "surprisetalk",
+      "time": 1782436514,
+      "hn_url": "https://news.ycombinator.com/item?id=48681250",
+      "title_cn": "【AI】AI children's books, body horror edition"
     },
     {
-      "title": "45°C cooling design cuts data center water use to near zero",
-      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "score": 235,
-      "comments": 164,
-      "author": "nitin_flanker",
-      "time": 1782310211,
-      "hn_url": "https://news.ycombinator.com/item?id=48660178",
-      "title_cn": "45°C cooling design cuts data center water use to near zero"
+      "title": "The unbearable cheapness of open weight models",
+      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+      "score": 149,
+      "comments": 140,
+      "author": "ddxv",
+      "time": 1782355889,
+      "hn_url": "https://news.ycombinator.com/item?id=48668255",
+      "title_cn": "【模型】The unbearable cheapness of open weight models"
     },
     {
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "score": 191,
-      "comments": 112,
-      "author": "dakshgupta",
-      "time": 1782311532,
-      "hn_url": "https://news.ycombinator.com/item?id=48660579",
-      "title_cn": "【AI】PR spam today looks like email spam in the early 2000s"
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "score": 139,
+      "comments": 89,
+      "author": "scrlk",
+      "time": 1782409124,
+      "hn_url": "https://news.ycombinator.com/item?id=48676795",
+      "title_cn": "【AI】Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line"
     },
     {
-      "title": "Computer use in Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "score": 189,
-      "comments": 117,
-      "author": "swolpers",
-      "time": 1782321694,
-      "hn_url": "https://news.ycombinator.com/item?id=48662999",
-      "title_cn": "Computer use in Gemini 3.5 Flash"
+      "title": "Political bias in AI: Where the AI models stand",
+      "url": "https://trakkr.ai/bias",
+      "score": 126,
+      "comments": 245,
+      "author": "mektrik",
+      "time": 1782392911,
+      "hn_url": "https://news.ycombinator.com/item?id=48672779",
+      "title_cn": "【AI, 模型】Political bias in AI: Where the AI models stand"
     },
     {
-      "title": "Qualcomm to Acquire Modular",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "score": 165,
-      "comments": 39,
-      "author": "timmyd",
-      "time": 1782308956,
-      "hn_url": "https://news.ycombinator.com/item?id=48659798",
-      "title_cn": "Qualcomm to Acquire Modular"
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "score": 125,
+      "comments": 31,
+      "author": "babelfish",
+      "time": 1782420602,
+      "hn_url": "https://news.ycombinator.com/item?id=48679007",
+      "title_cn": "Un-0: Generating Images with Coupled Oscillators"
     },
     {
-      "title": "GLM-5.2 is a step change for open agents",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "score": 150,
-      "comments": 90,
-      "author": "vantareed",
-      "time": 1782185008,
-      "hn_url": "https://news.ycombinator.com/item?id=48639840",
-      "title_cn": "GLM-5.2 is a step change for open agents"
+      "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+      "url": "https://github.com/decrazyo/anes",
+      "score": 109,
+      "comments": 34,
+      "author": "zdw",
+      "time": 1782256895,
+      "hn_url": "https://news.ycombinator.com/item?id=48652997",
+      "title_cn": "【AI】Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs"
     },
     {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 148,
-      "comments": 270,
-      "author": "htrp",
-      "time": 1782330481,
-      "hn_url": "https://news.ycombinator.com/item?id=48664814",
-      "title_cn": "【AI, Anthropic, Claude】Anthropic says Alibaba illicitly extracted Claude AI model capabilities"
+      "title": "An oral history of Bank Python (2021)",
+      "url": "https://calpaterson.com/bank-python.html",
+      "score": 83,
+      "comments": 27,
+      "author": "tosh",
+      "time": 1782418475,
+      "hn_url": "https://news.ycombinator.com/item?id=48678645",
+      "title_cn": "An oral history of Bank Python (2021)"
     },
     {
-      "title": "Running Windows Games on a Hobby OS with Wine",
-      "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-      "score": 100,
-      "comments": 32,
-      "author": "avaliosdev",
-      "time": 1782311910,
-      "hn_url": "https://news.ycombinator.com/item?id=48660671",
-      "title_cn": "Running Windows Games on a Hobby OS with Wine"
+      "title": "Early adversity leaves lasting molecular imprint across the body: primate study",
+      "url": "https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html",
+      "score": 77,
+      "comments": 45,
+      "author": "gmays",
+      "time": 1782010853,
+      "hn_url": "https://news.ycombinator.com/item?id=48615277",
+      "title_cn": "Early adversity leaves lasting molecular imprint across the body: primate study"
     },
     {
-      "title": "Pull request limits are cutting down the noise",
-      "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
-      "score": 82,
-      "comments": 40,
-      "author": "ingve",
-      "time": 1781863390,
-      "hn_url": "https://news.ycombinator.com/item?id=48596834",
-      "title_cn": "Pull request limits are cutting down the noise"
+      "title": "The annotated PyTorch training loop",
+      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+      "score": 66,
+      "comments": 14,
+      "author": "smaddrellmander",
+      "time": 1782171899,
+      "hn_url": "https://news.ycombinator.com/item?id=48638120",
+      "title_cn": "【AI, PyTorch, 训练】The annotated PyTorch training loop"
     },
     {
-      "title": "How the Fifth Lateran Council unlocked financial theory",
-      "url": "https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/",
-      "score": 58,
-      "comments": 9,
-      "author": "momentmaker",
-      "time": 1781982065,
-      "hn_url": "https://news.ycombinator.com/item?id=48611940",
-      "title_cn": "How the Fifth Lateran Council unlocked financial theory"
+      "title": "What is the mechanical world picture?",
+      "url": "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html",
+      "score": 16,
+      "comments": 1,
+      "author": "danielam",
+      "time": 1782230483,
+      "hn_url": "https://news.ycombinator.com/item?id=48647099",
+      "title_cn": "What is the mechanical world picture?"
     },
     {
-      "title": "What I'm Finding About LLM Code Style and Token Costs",
-      "url": "https://www.jimmont.com/llm-style-token-costs",
-      "score": 17,
-      "comments": 7,
-      "author": "jimmont",
-      "time": 1782348760,
-      "hn_url": "https://news.ycombinator.com/item?id=48667409",
-      "title_cn": "【大语言模型】What I'm Finding About LLM Code Style and Token Costs"
+      "title": "Eyewitness at the Triangle (1911)",
+      "url": "http://trianglefire.ilr.cornell.edu/index.html",
+      "score": 13,
+      "comments": 0,
+      "author": "NaOH",
+      "time": 1782176038,
+      "hn_url": "https://news.ycombinator.com/item?id=48638710",
+      "title_cn": "Eyewitness at the Triangle (1911)"
     },
     {
-      "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going",
-      "url": "https://victorribeiro.com/wordit/",
-      "score": 14,
-      "comments": 12,
-      "author": "atum47",
-      "time": 1782241056,
-      "hn_url": "https://news.ycombinator.com/item?id=48649697",
-      "title_cn": "【AI】Show HN: Wordit – Change One Letter, Keep the Chain Going"
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "score": 8,
+      "comments": 0,
+      "author": "cuchoi",
+      "time": 1782440963,
+      "hn_url": "https://news.ycombinator.com/item?id=48681687",
+      "title_cn": "【AI】What happened after 2k people tried to hack my AI assistant"
     },
     {
-      "title": "Optimizing [sqlx:test] rebuild time",
-      "url": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
+      "title": "Doing a masters while working in Spain",
+      "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
       "score": 4,
       "comments": 0,
-      "author": "ibobev",
-      "time": 1782117589,
-      "hn_url": "https://news.ycombinator.com/item?id=48627471",
-      "title_cn": "Optimizing [sqlx:test] rebuild time"
+      "author": "MHard",
+      "time": 1782114243,
+      "hn_url": "https://news.ycombinator.com/item?id=48627027",
+      "title_cn": "【AI】Doing a masters while working in Spain"
     }
   ]
 }
