@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-27T03:55:21.746727",
+  "updated_at": "2026-06-28T04:17:56.567288",
   "github_projects": [
     {
       "name": "Unlimited-OCR",
       "full_name": "baidu/Unlimited-OCR",
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "description_cn": "unlimited oCr works: welCome the era of 单样本 l开启g-horiz开启 parsing.",
-      "stars": 10491,
-      "forks": 797,
+      "stars": 11128,
+      "forks": 856,
       "language": "Python",
       "url": "https://github.com/baidu/Unlimited-OCR",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "zhongerxin/Cowart",
       "description": "No description",
       "description_cn": "",
-      "stars": 3076,
-      "forks": 238,
+      "stars": 3178,
+      "forks": 243,
       "language": "JavaScript",
       "url": "https://github.com/zhongerxin/Cowart",
       "topics": [],
@@ -38,8 +38,8 @@
       "full_name": "vercel/eve",
       "description": "The Framework for Building Agents",
       "description_cn": "the 框架 for building 智能体s",
-      "stars": 2679,
-      "forks": 201,
+      "stars": 2812,
+      "forks": 208,
       "language": "TypeScript",
       "url": "https://github.com/vercel/eve",
       "topics": [
@@ -56,44 +56,12 @@
       }
     },
     {
-      "name": "devspace",
-      "full_name": "Waishnav/devspace",
-      "description": "Turn ChatGPT into Codex and enjoy ChatGPT usage separately :)",
-      "description_cn": "turn ChatGPT into Codex and enjoy ChatGPT usage separately :)",
-      "stars": 2575,
-      "forks": 267,
-      "language": "TypeScript",
-      "url": "https://github.com/Waishnav/devspace",
-      "topics": [],
-      "created_at": "2026-06-14T16:57:27Z",
-      "owner": {
-        "login": "Waishnav",
-        "avatar_url": "https://avatars.githubusercontent.com/u/86405648?v=4"
-      }
-    },
-    {
-      "name": "kage",
-      "full_name": "tamnd/kage",
-      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
-      "description_cn": "shadow any 网页site for 离线 viewing, with the JavaSCrIPt strIPped out",
-      "stars": 2499,
-      "forks": 85,
-      "language": "Go",
-      "url": "https://github.com/tamnd/kage",
-      "topics": [],
-      "created_at": "2026-06-14T11:21:55Z",
-      "owner": {
-        "login": "tamnd",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1218621?v=4"
-      }
-    },
-    {
       "name": "codex-orange-book",
       "full_name": "bozhouDev/codex-orange-book",
       "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "description_cn": "",
-      "stars": 2155,
-      "forks": 219,
+      "stars": 2220,
+      "forks": 221,
       "language": "HTML",
       "url": "https://github.com/bozhouDev/codex-orange-book",
       "topics": [],
@@ -104,12 +72,44 @@
       }
     },
     {
+      "name": "DeepSpec",
+      "full_name": "deepseek-ai/DeepSpec",
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "description_cn": "deepspeC: a full-栈 Codebase for 训练 and evaluating speCulative deCoding alGorithms",
+      "stars": 1455,
+      "forks": 122,
+      "language": "Python",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "topics": [],
+      "created_at": "2026-06-26T12:36:05Z",
+      "owner": {
+        "login": "deepseek-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+      }
+    },
+    {
+      "name": "exploitarium",
+      "full_name": "bikini/exploitarium",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "description_cn": "a single arChive of 公开 利用 poCs and 漏洞 re搜索 writeups. at the time i post these, n开启e have been reported. feel 免费 to report them yourself and take Credit for the Cve 如果 handed out lulz. please do 否t abuse these. i do this so to allure people into the field, and i've always found this is the most 高效 way.",
+      "stars": 1293,
+      "forks": 274,
+      "language": "Python",
+      "url": "https://github.com/bikini/exploitarium",
+      "topics": [],
+      "created_at": "2026-06-23T05:14:11Z",
+      "owner": {
+        "login": "bikini",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63224111?v=4"
+      }
+    },
+    {
       "name": "zhengxi-views",
       "full_name": "lyra81604/zhengxi-views",
       "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "description_cn": "",
-      "stars": 1063,
-      "forks": 125,
+      "stars": 1080,
+      "forks": 127,
       "language": "Python",
       "url": "https://github.com/lyra81604/zhengxi-views",
       "topics": [
@@ -125,12 +125,28 @@
       }
     },
     {
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description_cn": "a Coding-智能体 skill for 多-phase 安全 audits with independently ver如果ied, maChine-reAdable findings",
+      "stars": 1001,
+      "forks": 71,
+      "language": "JavaScript",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "topics": [],
+      "created_at": "2026-06-18T14:08:44Z",
+      "owner": {
+        "login": "cloudflare",
+        "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
+      }
+    },
+    {
       "name": "agent-apprenticeship",
       "full_name": "Forsy-AI/agent-apprenticeship",
       "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
       "description_cn": "the living eCo系统 where AI 智能体s run 自动化 工作流 循环s 开启 any 任务, improve through exeCuti开启, and turn eaCh run into reusable work experienCe + 数据 to improve 未来 智能体s.",
-      "stars": 976,
-      "forks": 47,
+      "stars": 1001,
+      "forks": 49,
       "language": "Unknown",
       "url": "https://github.com/Forsy-AI/agent-apprenticeship",
       "topics": [
@@ -147,27 +163,11 @@
       }
     },
     {
-      "name": "security-audit-skill",
-      "full_name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "description_cn": "a Coding-智能体 skill for 多-phase 安全 audits with independently ver如果ied, maChine-reAdable findings",
-      "stars": 967,
-      "forks": 70,
-      "language": "JavaScript",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "topics": [],
-      "created_at": "2026-06-18T14:08:44Z",
-      "owner": {
-        "login": "cloudflare",
-        "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
-      }
-    },
-    {
       "name": "cnfast",
       "full_name": "aidenybai/cnfast",
       "description": "Fast drop in replacement for `cn`",
       "description_cn": "快速 丢弃 in replaCement for `Cn`",
-      "stars": 965,
+      "stars": 984,
       "forks": 9,
       "language": "TypeScript",
       "url": "https://github.com/aidenybai/cnfast",
@@ -187,152 +187,152 @@
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 887,
-      "comments": 537,
+      "score": 1108,
+      "comments": 722,
       "author": "minimaxir",
       "time": 1782493615,
       "hn_url": "https://news.ycombinator.com/item?id=48689028",
       "title_cn": "【GPT, 模型】Previewing GPT‑5.6 Sol: a next-generation model"
     },
     {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "score": 886,
-      "comments": 967,
-      "author": "alain94040",
-      "time": 1782498194,
-      "hn_url": "https://news.ycombinator.com/item?id=48690101",
-      "title_cn": "【GPT】U.S. government will decide who gets to use GPT-5.6"
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "score": 739,
+      "comments": 306,
+      "author": "aurenvale",
+      "time": 1782551932,
+      "hn_url": "https://news.ycombinator.com/item?id=48696585",
+      "title_cn": "【大语言模型, 推理】DSpark: Speculative decoding accelerates LLM inference [pdf]"
     },
     {
-      "title": "Incident CVE-2026-LGTM",
-      "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-      "score": 524,
-      "comments": 86,
-      "author": "mooreds",
-      "time": 1782478687,
-      "hn_url": "https://news.ycombinator.com/item?id=48686093",
-      "title_cn": "Incident CVE-2026-LGTM"
-    },
-    {
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "score": 278,
-      "comments": 274,
-      "author": "bobrenjc93",
-      "time": 1782514108,
-      "hn_url": "https://news.ycombinator.com/item?id=48692995",
-      "title_cn": "【AI, Anthropic, 发布】U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations"
-    },
-    {
-      "title": "Ultrasound imaging of the brain",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "score": 251,
-      "comments": 100,
-      "author": "rossant",
-      "time": 1782474671,
-      "hn_url": "https://news.ycombinator.com/item?id=48685558",
-      "title_cn": "【AI】Ultrasound imaging of the brain"
-    },
-    {
-      "title": "OpenAI leans toward waiting until next year for IPO",
-      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-      "score": 157,
+      "title": "AI learns the “dark art” of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "score": 205,
       "comments": 136,
-      "author": "mfiguiere",
-      "time": 1782419765,
-      "hn_url": "https://news.ycombinator.com/item?id=48678873",
-      "title_cn": "【AI, OpenAI】OpenAI leans toward waiting until next year for IPO"
+      "author": "Brajeshwar",
+      "time": 1782309736,
+      "hn_url": "https://news.ycombinator.com/item?id=48660021",
+      "title_cn": "【AI】AI learns the “dark art” of RFIC design"
     },
     {
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "url": "https://github.com/workweave/router",
-      "score": 154,
-      "comments": 91,
-      "author": "adchurch",
-      "time": 1782492011,
-      "hn_url": "https://news.ycombinator.com/item?id=48688700",
-      "title_cn": "【Claude, 模型】Show HN: Smart model routing directly in Claude, Codex and Cursor"
+      "title": "Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "score": 173,
+      "comments": 144,
+      "author": "bogdiyan",
+      "time": 1782565821,
+      "hn_url": "https://news.ycombinator.com/item?id=48697958",
+      "title_cn": "【AI, 模型, 推出】Asian AI startups launch Mythos-like models"
     },
     {
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "score": 141,
-      "comments": 118,
-      "author": "kkm",
-      "time": 1782508487,
-      "hn_url": "https://news.ycombinator.com/item?id=48692058",
-      "title_cn": "【大语言模型】The gap between open weights LLMs and closed source LLMs"
+      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+      "score": 173,
+      "comments": 96,
+      "author": "bushwart",
+      "time": 1782326532,
+      "hn_url": "https://news.ycombinator.com/item?id=48664063",
+      "title_cn": "【AI】Reducing tick density along recreational trails in Ottawa, Canada"
     },
     {
-      "title": "What Is a Nomogram and Why Would It Interest Me?",
-      "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-      "score": 96,
-      "comments": 18,
-      "author": "Eridanus2",
-      "time": 1782494665,
-      "hn_url": "https://news.ycombinator.com/item?id=48689277",
-      "title_cn": "What Is a Nomogram and Why Would It Interest Me?"
+      "title": "What Ozempic does to the gut-brain axis",
+      "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+      "score": 112,
+      "comments": 251,
+      "author": "randycupertino",
+      "time": 1782596046,
+      "hn_url": "https://news.ycombinator.com/item?id=48701984",
+      "title_cn": "【AI】What Ozempic does to the gut-brain axis"
     },
     {
-      "title": "The National Parks Were Reportedly Told to Stay Silent on Deaths",
-      "url": "https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook",
-      "score": 86,
-      "comments": 40,
-      "author": "LostMyLogin",
-      "time": 1782508760,
-      "hn_url": "https://news.ycombinator.com/item?id=48692098",
-      "title_cn": "The National Parks Were Reportedly Told to Stay Silent on Deaths"
+      "title": "Response to AI slop is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "score": 101,
+      "comments": 62,
+      "author": "herbertl",
+      "time": 1782610090,
+      "hn_url": "https://news.ycombinator.com/item?id=48703452",
+      "title_cn": "【AI】Response to AI slop is from Robin Williams"
     },
     {
-      "title": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "score": 71,
-      "comments": 33,
-      "author": "rbanffy",
-      "time": 1782513411,
-      "hn_url": "https://news.ycombinator.com/item?id=48692883",
-      "title_cn": "【AI】AI in mathematics is forcing big questions"
+      "title": "Choosing a Public DNS Resolver",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "score": 94,
+      "comments": 28,
+      "author": "pawal",
+      "time": 1782598288,
+      "hn_url": "https://news.ycombinator.com/item?id=48702273",
+      "title_cn": "Choosing a Public DNS Resolver"
     },
     {
-      "title": "Modern GPU Programming for MLSys",
-      "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
-      "score": 68,
-      "comments": 15,
-      "author": "crowwork",
-      "time": 1782214705,
-      "hn_url": "https://news.ycombinator.com/item?id=48643459",
-      "title_cn": "Modern GPU Programming for MLSys"
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "score": 67,
+      "comments": 4,
+      "author": "jakogut",
+      "time": 1782607612,
+      "hn_url": "https://news.ycombinator.com/item?id=48703258",
+      "title_cn": "AMD Strix Halo RDMA Cluster Setup Guide"
     },
     {
-      "title": "The Nationwide Backlash Against Cameras Watching Your Car",
-      "url": "https://www.wsj.com/us-news/the-nationwide-backlash-against-cameras-watching-your-car-401a656a",
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
       "score": 33,
-      "comments": 6,
-      "author": "JumpCrisscross",
-      "time": 1782509036,
-      "hn_url": "https://news.ycombinator.com/item?id=48692157",
-      "title_cn": "【AI】The Nationwide Backlash Against Cameras Watching Your Car"
+      "comments": 7,
+      "author": "speckx",
+      "time": 1782616153,
+      "hn_url": "https://news.ycombinator.com/item?id=48703968",
+      "title_cn": "【AI】Ford hired AI and sacked humans. It backfired badly"
     },
     {
-      "title": "Show HN: Hacker News on a train station-style flip board",
-      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "title": "The eerie interface of man and machine (Life Magazine, October 1967)",
+      "url": "https://blog.jgc.org/2026/06/the-eerie-interface-of-man-and-machine.html",
+      "score": 32,
+      "comments": 1,
+      "author": "Brajeshwar",
+      "time": 1782314712,
+      "hn_url": "https://news.ycombinator.com/item?id=48661381",
+      "title_cn": "The eerie interface of man and machine (Life Magazine, October 1967)"
+    },
+    {
+      "title": "Space Shuttle Endeavour's 20-story vertical display",
+      "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
       "score": 31,
-      "comments": 3,
-      "author": "PaybackTony",
-      "time": 1782521019,
-      "hn_url": "https://news.ycombinator.com/item?id=48693912",
-      "title_cn": "【AI】Show HN: Hacker News on a train station-style flip board"
+      "comments": 6,
+      "author": "uticus",
+      "time": 1782478188,
+      "hn_url": "https://news.ycombinator.com/item?id=48686032",
+      "title_cn": "Space Shuttle Endeavour's 20-story vertical display"
     },
     {
-      "title": "AgentKits – 60 production-ready AI agent blueprints with guardrails",
-      "url": "https://www.agent-kits.com",
-      "score": 13,
+      "title": "I built a 100% local network privacy appliance to stop smart home spying",
+      "url": "https://www.edgedefenseai.com/",
+      "score": 9,
+      "comments": 1,
+      "author": "arundass",
+      "time": 1782611594,
+      "hn_url": "https://news.ycombinator.com/item?id=48703602",
+      "title_cn": "I built a 100% local network privacy appliance to stop smart home spying"
+    },
+    {
+      "title": "The Unglamorous Side of Rust Web Development",
+      "url": "https://blog.jetbrains.com/rust/2026/06/25/rust-web-development-2026/",
+      "score": 7,
+      "comments": 1,
+      "author": "vilasa",
+      "time": 1782617200,
+      "hn_url": "https://news.ycombinator.com/item?id=48704040",
+      "title_cn": "The Unglamorous Side of Rust Web Development"
+    },
+    {
+      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+      "score": 6,
       "comments": 0,
-      "author": "stoicstoic",
-      "time": 1782508774,
-      "hn_url": "https://news.ycombinator.com/item?id=48692101",
-      "title_cn": "【AI】AgentKits – 60 production-ready AI agent blueprints with guardrails"
+      "author": "NaOH",
+      "time": 1782236401,
+      "hn_url": "https://news.ycombinator.com/item?id=48648493",
+      "title_cn": "【AI】Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them"
     }
   ]
 }
