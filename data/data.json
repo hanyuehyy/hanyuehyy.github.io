@@ -1,29 +1,13 @@
 {
-  "updated_at": "2026-07-01T04:20:22.924055",
+  "updated_at": "2026-07-02T03:59:55.034474",
   "github_projects": [
-    {
-      "name": "Unlimited-OCR",
-      "full_name": "baidu/Unlimited-OCR",
-      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "description_cn": "unlimited oCr works: welCome the era of 单样本 l开启g-horiz开启 parsing.",
-      "stars": 12560,
-      "forks": 988,
-      "language": "Python",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "topics": [],
-      "created_at": "2026-06-18T08:40:15Z",
-      "owner": {
-        "login": "baidu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/13245940?v=4"
-      }
-    },
     {
       "name": "DeepSpec",
       "full_name": "deepseek-ai/DeepSpec",
       "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "description_cn": "deepspeC: a full-栈 Codebase for 训练 and evaluating speCulative deCoding alGorithms",
-      "stars": 5394,
-      "forks": 430,
+      "stars": 5776,
+      "forks": 465,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/DeepSpec",
       "topics": [],
@@ -34,28 +18,12 @@
       }
     },
     {
-      "name": "Cowart",
-      "full_name": "zhongerxin/Cowart",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 3532,
-      "forks": 278,
-      "language": "JavaScript",
-      "url": "https://github.com/zhongerxin/Cowart",
-      "topics": [],
-      "created_at": "2026-06-18T16:08:30Z",
-      "owner": {
-        "login": "zhongerxin",
-        "avatar_url": "https://avatars.githubusercontent.com/u/8215057?v=4"
-      }
-    },
-    {
       "name": "exploitarium",
       "full_name": "bikini/exploitarium",
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "description_cn": "a single arChive of 公开 利用 poCs and 漏洞 re搜索 writeups. at the time i post these, n开启e have been reported. feel 免费 to report them yourself and take Credit for the Cve 如果 handed out lulz. please do 否t abuse these. i do this so to allure people into the field, and i've always found this is the most 高效 way.",
-      "stars": 3029,
-      "forks": 897,
+      "stars": 3288,
+      "forks": 968,
       "language": "Python",
       "url": "https://github.com/bikini/exploitarium",
       "topics": [],
@@ -70,8 +38,8 @@
       "full_name": "bozhouDev/codex-orange-book",
       "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "description_cn": "",
-      "stars": 2460,
-      "forks": 245,
+      "stars": 2503,
+      "forks": 247,
       "language": "HTML",
       "url": "https://github.com/bozhouDev/codex-orange-book",
       "topics": [],
@@ -82,28 +50,12 @@
       }
     },
     {
-      "name": "security-audit-skill",
-      "full_name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "description_cn": "a Coding-智能体 skill for 多-phase 安全 audits with independently ver如果ied, maChine-reAdable findings",
-      "stars": 2124,
-      "forks": 150,
-      "language": "JavaScript",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "topics": [],
-      "created_at": "2026-06-18T14:08:44Z",
-      "owner": {
-        "login": "cloudflare",
-        "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
-      }
-    },
-    {
       "name": "wloc",
       "full_name": "Yu9191/wloc",
       "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "description_cn": "修改 apple 网络定位（gs-loC）返回坐标 · 支持 surge / quantumult x / lo开启 / stash · 快捷指令一键设置/恢复定位",
-      "stars": 2026,
-      "forks": 273,
+      "stars": 2396,
+      "forks": 320,
       "language": "JavaScript",
       "url": "https://github.com/Yu9191/wloc",
       "topics": [],
@@ -118,8 +70,8 @@
       "full_name": "baairon/torlink",
       "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
       "description_cn": "a sleek, zero-集合up torrent finder and down加载器 that lives right in your ter最小al.",
-      "stars": 1785,
-      "forks": 115,
+      "stars": 2333,
+      "forks": 154,
       "language": "TypeScript",
       "url": "https://github.com/baairon/torlink",
       "topics": [
@@ -140,8 +92,8 @@
       "full_name": "Krishnagangwal/CS-Fundamentals",
       "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
       "description_cn": "Curated Cs fundamentals for plaCement prep: dsa,Computer 网络s, dbms & SQL, oops, operating 系统s, 系统 design & software 引擎ering",
-      "stars": 1238,
-      "forks": 98,
+      "stars": 1343,
+      "forks": 108,
       "language": "Unknown",
       "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
       "topics": [],
@@ -152,11 +104,33 @@
       }
     },
     {
+      "name": "agent-apprenticeship",
+      "full_name": "Forsy-AI/agent-apprenticeship",
+      "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
+      "description_cn": "the living eCo系统 where AI 智能体s run 自动化 工作流 循环s 开启 any 任务, improve through exeCuti开启, and turn eaCh run into reusable work experienCe + 数据 to improve 未来 智能体s.",
+      "stars": 1143,
+      "forks": 50,
+      "language": "Unknown",
+      "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+      "topics": [
+        "agent-apprenticeship",
+        "agent-economy",
+        "agent-experience",
+        "agent-learning",
+        "agent-traces"
+      ],
+      "created_at": "2026-06-19T16:19:37Z",
+      "owner": {
+        "login": "Forsy-AI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/273874842?v=4"
+      }
+    },
+    {
       "name": "zhengxi-views",
       "full_name": "lyra81604/zhengxi-views",
       "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "description_cn": "",
-      "stars": 1129,
+      "stars": 1138,
       "forks": 129,
       "language": "Python",
       "url": "https://github.com/lyra81604/zhengxi-views",
@@ -171,158 +145,194 @@
         "login": "lyra81604",
         "avatar_url": "https://avatars.githubusercontent.com/u/235843849?v=4"
       }
+    },
+    {
+      "name": "cnfast",
+      "full_name": "aidenybai/cnfast",
+      "description": "Fast drop in replacement for `cn`",
+      "description_cn": "快速 丢弃 in replaCement for `Cn`",
+      "stars": 1049,
+      "forks": 10,
+      "language": "TypeScript",
+      "url": "https://github.com/aidenybai/cnfast",
+      "topics": [
+        "clsx",
+        "cn",
+        "tailwindcss"
+      ],
+      "created_at": "2026-06-19T19:46:29Z",
+      "owner": {
+        "login": "aidenybai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38025074?v=4"
+      }
+    },
+    {
+      "name": "Codex-5.5-codex-instruct-5.5",
+      "full_name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 1032,
+      "forks": 319,
+      "language": "Python",
+      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "topics": [],
+      "created_at": "2026-06-28T10:24:42Z",
+      "owner": {
+        "login": "yynxxxxx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/139136586?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 1546,
-      "comments": 445,
-      "author": "kirushik",
-      "time": 1782834264,
-      "hn_url": "https://news.ycombinator.com/item?id=48734373",
-      "title_cn": "【Claude】Claude Code is steganographically marking requests"
-    },
-    {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 965,
-      "comments": 547,
-      "author": "marinesebastian",
-      "time": 1782842392,
-      "hn_url": "https://news.ycombinator.com/item?id=48736605",
-      "title_cn": "【Claude】Claude Sonnet 5"
-    },
-    {
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 405,
-      "comments": 190,
+      "score": 924,
+      "comments": 642,
       "author": "Pragmata",
       "time": 1782863712,
       "hn_url": "https://news.ycombinator.com/item?id=48740771",
       "title_cn": "【Claude】Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5"
     },
     {
-      "title": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
-      "score": 398,
-      "comments": 127,
-      "author": "lebovic",
-      "time": 1782839261,
-      "hn_url": "https://news.ycombinator.com/item?id=48735770",
-      "title_cn": "【Claude】Claude Science"
+      "title": "Fable 5 Is Back",
+      "url": "https://twitter.com/claudeai/status/2072402636813607381",
+      "score": 346,
+      "comments": 329,
+      "author": "mfiguiere",
+      "time": 1782934557,
+      "hn_url": "https://news.ycombinator.com/item?id=48752030",
+      "title_cn": "Fable 5 Is Back"
     },
     {
-      "title": "Nano Banana 2 Lite",
-      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "score": 328,
-      "comments": 131,
-      "author": "minimaxir",
-      "time": 1782838117,
-      "hn_url": "https://news.ycombinator.com/item?id=48735444",
-      "title_cn": "Nano Banana 2 Lite"
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "score": 313,
+      "comments": 102,
+      "author": "ledoge",
+      "time": 1782915028,
+      "hn_url": "https://news.ycombinator.com/item?id=48747116",
+      "title_cn": "FFmpeg 9.1's new AAC encoder"
     },
     {
-      "title": "Knoppix",
-      "url": "https://www.knopper.net/knoppix/index-en.html",
-      "score": 274,
-      "comments": 106,
-      "author": "hoangvmpc",
-      "time": 1782824041,
-      "hn_url": "https://news.ycombinator.com/item?id=48732056",
-      "title_cn": "Knoppix"
-    },
-    {
-      "title": "Have you restarted your computer this week?",
-      "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
-      "score": 133,
+      "title": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "score": 268,
       "comments": 236,
-      "author": "surprisetalk",
-      "time": 1782828929,
-      "hn_url": "https://news.ycombinator.com/item?id=48733043",
-      "title_cn": "Have you restarted your computer this week?"
+      "author": "chvid",
+      "time": 1782943416,
+      "hn_url": "https://news.ycombinator.com/item?id=48753715",
+      "title_cn": "ZCode – Harness for GLM-5.2"
     },
     {
-      "title": "Leanstral 1.5",
-      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-      "score": 126,
-      "comments": 30,
-      "author": "vetronauta",
-      "time": 1782852296,
-      "hn_url": "https://news.ycombinator.com/item?id=48738938",
-      "title_cn": "Leanstral 1.5"
+      "title": "Newly discovered spider builds spring loaded snare to catch ants",
+      "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+      "score": 245,
+      "comments": 59,
+      "author": "chimpanzee",
+      "time": 1782677156,
+      "hn_url": "https://news.ycombinator.com/item?id=48711052",
+      "title_cn": "Newly discovered spider builds spring loaded snare to catch ants"
     },
     {
-      "title": "From brain waves to words: a new path to communication without surgery",
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-      "score": 124,
-      "comments": 66,
-      "author": "alok-g",
-      "time": 1782854953,
-      "hn_url": "https://news.ycombinator.com/item?id=48739466",
-      "title_cn": "【AI】From brain waves to words: a new path to communication without surgery"
+      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
+      "url": "https://www.weaverobotics.com/isaac-1",
+      "score": 106,
+      "comments": 147,
+      "author": "ryanmerket",
+      "time": 1782929538,
+      "hn_url": "https://news.ycombinator.com/item?id=48750989",
+      "title_cn": "【机器人, 推出】Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries"
     },
     {
-      "title": "I built a 10 inch mini rack from aluminium extrusions",
-      "url": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
-      "score": 78,
-      "comments": 35,
-      "author": "louwrentius",
-      "time": 1782603945,
-      "hn_url": "https://news.ycombinator.com/item?id=48702917",
-      "title_cn": "I built a 10 inch mini rack from aluminium extrusions"
+      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "score": 91,
+      "comments": 10,
+      "author": "devicelimit",
+      "time": 1782953281,
+      "hn_url": "https://news.ycombinator.com/item?id=48755005",
+      "title_cn": "【机器人】Building an Open-Source Robot Vacuum – Meet Oomwoo"
     },
     {
-      "title": "TabFM: A zero-shot foundation model for tabular data",
-      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+      "title": "Hanami 3.0: In Full Bloom",
+      "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
+      "score": 83,
+      "comments": 26,
+      "author": "PuercoPop",
+      "time": 1782927660,
+      "hn_url": "https://news.ycombinator.com/item?id=48750527",
+      "title_cn": "Hanami 3.0: In Full Bloom"
+    },
+    {
+      "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+      "score": 79,
+      "comments": 56,
+      "author": "consumer451",
+      "time": 1782944867,
+      "hn_url": "https://news.ycombinator.com/item?id=48753979",
+      "title_cn": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance"
+    },
+    {
+      "title": "Qualcomm Linux 2.0",
+      "url": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
+      "score": 65,
+      "comments": 22,
+      "author": "gilgamesh3",
+      "time": 1782939702,
+      "hn_url": "https://news.ycombinator.com/item?id=48753069",
+      "title_cn": "Qualcomm Linux 2.0"
+    },
+    {
+      "title": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019",
+      "url": "https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study",
+      "score": 57,
+      "comments": 20,
+      "author": "simonebrunozzi",
+      "time": 1782926951,
+      "hn_url": "https://news.ycombinator.com/item?id=48750373",
+      "title_cn": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019"
+    },
+    {
+      "title": "The <Usermedia> HTML Element",
+      "url": "https://developer.chrome.com/blog/usermedia-html-element",
       "score": 53,
-      "comments": 6,
-      "author": "brandonb",
-      "time": 1782857318,
-      "hn_url": "https://news.ycombinator.com/item?id=48739919",
-      "title_cn": "【模型】TabFM: A zero-shot foundation model for tabular data"
+      "comments": 23,
+      "author": "twapi",
+      "time": 1782950175,
+      "hn_url": "https://news.ycombinator.com/item?id=48754700",
+      "title_cn": "The <Usermedia> HTML Element"
     },
     {
-      "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
-      "url": "https://hatari.frama.io/hatari/online/hatari.html",
-      "score": 44,
-      "comments": 4,
-      "author": "gregsadetsky",
-      "time": 1782858863,
-      "hn_url": "https://news.ycombinator.com/item?id=48740135",
-      "title_cn": "Hatari – Online Atari ST/STE/TT/Falcon Emulator"
+      "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "score": 30,
+      "comments": 5,
+      "author": "handfuloflight",
+      "time": 1782939112,
+      "hn_url": "https://news.ycombinator.com/item?id=48752949",
+      "title_cn": "【AI】OpenWiki: CLI that writes and maintains agent documentation for your codebase"
     },
     {
-      "title": "Redeploying Fable 5",
-      "url": "https://www.anthropic.com/news/redeploying-fable-5",
-      "score": 32,
-      "comments": 4,
-      "author": "meetpateltech",
-      "time": 1782875500,
-      "hn_url": "https://news.ycombinator.com/item?id=48741853",
-      "title_cn": "Redeploying Fable 5"
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
+      "score": 12,
+      "comments": 8,
+      "author": "matt_d",
+      "time": 1782960916,
+      "hn_url": "https://news.ycombinator.com/item?id=48755928",
+      "title_cn": "【基准测试】Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers"
     },
     {
-      "title": "Americans see their country's past, present and future",
-      "url": "https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future",
-      "score": 9,
-      "comments": 1,
-      "author": "andsoitis",
-      "time": 1782869061,
-      "hn_url": "https://news.ycombinator.com/item?id=48741360",
-      "title_cn": "Americans see their country's past, present and future"
-    },
-    {
-      "title": "Segmenting Robot Video into Actionable Subtasks",
-      "url": "https://macrodata.co/blog/annotating-robot-video-subtasks",
-      "score": 4,
-      "comments": 0,
-      "author": "tomaspduarte",
-      "time": 1782762771,
-      "hn_url": "https://news.ycombinator.com/item?id=48724274",
-      "title_cn": "【机器人】Segmenting Robot Video into Actionable Subtasks"
+      "title": "Show HN: Meow – The 4th and final JavaScript runtime and toolchain",
+      "url": "https://meow.style",
+      "score": 11,
+      "comments": 5,
+      "author": "ccheshirecat",
+      "time": 1782961869,
+      "hn_url": "https://news.ycombinator.com/item?id=48756038",
+      "title_cn": "【AI, 工具】Show HN: Meow – The 4th and final JavaScript runtime and toolchain"
     }
   ]
 }
