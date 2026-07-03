@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-02T03:59:55.034474",
+  "updated_at": "2026-07-03T03:44:00.490595",
   "github_projects": [
     {
       "name": "DeepSpec",
       "full_name": "deepseek-ai/DeepSpec",
       "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "description_cn": "deepspeC: a full-栈 Codebase for 训练 and evaluating speCulative deCoding alGorithms",
-      "stars": 5776,
-      "forks": 465,
+      "stars": 5890,
+      "forks": 479,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/DeepSpec",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "bikini/exploitarium",
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "description_cn": "a single arChive of 公开 利用 poCs and 漏洞 re搜索 writeups. at the time i post these, n开启e have been reported. feel 免费 to report them yourself and take Credit for the Cve 如果 handed out lulz. please do 否t abuse these. i do this so to allure people into the field, and i've always found this is the most 高效 way.",
-      "stars": 3288,
-      "forks": 968,
+      "stars": 3495,
+      "forks": 1018,
       "language": "Python",
       "url": "https://github.com/bikini/exploitarium",
       "topics": [],
@@ -34,44 +34,12 @@
       }
     },
     {
-      "name": "codex-orange-book",
-      "full_name": "bozhouDev/codex-orange-book",
-      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "description_cn": "",
-      "stars": 2503,
-      "forks": 247,
-      "language": "HTML",
-      "url": "https://github.com/bozhouDev/codex-orange-book",
-      "topics": [],
-      "created_at": "2026-06-23T02:36:54Z",
-      "owner": {
-        "login": "bozhouDev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/259759010?v=4"
-      }
-    },
-    {
-      "name": "wloc",
-      "full_name": "Yu9191/wloc",
-      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "description_cn": "修改 apple 网络定位（gs-loC）返回坐标 · 支持 surge / quantumult x / lo开启 / stash · 快捷指令一键设置/恢复定位",
-      "stars": 2396,
-      "forks": 320,
-      "language": "JavaScript",
-      "url": "https://github.com/Yu9191/wloc",
-      "topics": [],
-      "created_at": "2026-06-24T06:15:30Z",
-      "owner": {
-        "login": "Yu9191",
-        "avatar_url": "https://avatars.githubusercontent.com/u/132221547?v=4"
-      }
-    },
-    {
       "name": "torlink",
       "full_name": "baairon/torlink",
       "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
       "description_cn": "a sleek, zero-集合up torrent finder and down加载器 that lives right in your ter最小al.",
-      "stars": 2333,
-      "forks": 154,
+      "stars": 2584,
+      "forks": 169,
       "language": "TypeScript",
       "url": "https://github.com/baairon/torlink",
       "topics": [
@@ -88,12 +56,44 @@
       }
     },
     {
+      "name": "wloc",
+      "full_name": "Yu9191/wloc",
+      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "description_cn": "修改 apple 网络定位（gs-loC）返回坐标 · 支持 surge / quantumult x / lo开启 / stash · 快捷指令一键设置/恢复定位",
+      "stars": 2579,
+      "forks": 345,
+      "language": "JavaScript",
+      "url": "https://github.com/Yu9191/wloc",
+      "topics": [],
+      "created_at": "2026-06-24T06:15:30Z",
+      "owner": {
+        "login": "Yu9191",
+        "avatar_url": "https://avatars.githubusercontent.com/u/132221547?v=4"
+      }
+    },
+    {
+      "name": "codex-orange-book",
+      "full_name": "bozhouDev/codex-orange-book",
+      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "description_cn": "",
+      "stars": 2545,
+      "forks": 252,
+      "language": "HTML",
+      "url": "https://github.com/bozhouDev/codex-orange-book",
+      "topics": [],
+      "created_at": "2026-06-23T02:36:54Z",
+      "owner": {
+        "login": "bozhouDev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/259759010?v=4"
+      }
+    },
+    {
       "name": "CS-Fundamentals",
       "full_name": "Krishnagangwal/CS-Fundamentals",
       "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
       "description_cn": "Curated Cs fundamentals for plaCement prep: dsa,Computer 网络s, dbms & SQL, oops, operating 系统s, 系统 design & software 引擎ering",
-      "stars": 1343,
-      "forks": 108,
+      "stars": 1441,
+      "forks": 118,
       "language": "Unknown",
       "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
       "topics": [],
@@ -104,25 +104,19 @@
       }
     },
     {
-      "name": "agent-apprenticeship",
-      "full_name": "Forsy-AI/agent-apprenticeship",
-      "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
-      "description_cn": "the living eCo系统 where AI 智能体s run 自动化 工作流 循环s 开启 any 任务, improve through exeCuti开启, and turn eaCh run into reusable work experienCe + 数据 to improve 未来 智能体s.",
-      "stars": 1143,
-      "forks": 50,
-      "language": "Unknown",
-      "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-      "topics": [
-        "agent-apprenticeship",
-        "agent-economy",
-        "agent-experience",
-        "agent-learning",
-        "agent-traces"
-      ],
-      "created_at": "2026-06-19T16:19:37Z",
+      "name": "openwiki",
+      "full_name": "langchain-ai/openwiki",
+      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+      "description_cn": "openwiki is a 命令行工具 that writes and mAIntAIns 智能体 文档 for your Codebase.",
+      "stars": 1233,
+      "forks": 96,
+      "language": "TypeScript",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "topics": [],
+      "created_at": "2026-06-22T23:48:26Z",
       "owner": {
-        "login": "Forsy-AI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/273874842?v=4"
+        "login": "langchain-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/126733545?v=4"
       }
     },
     {
@@ -130,7 +124,7 @@
       "full_name": "lyra81604/zhengxi-views",
       "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "description_cn": "",
-      "stars": 1138,
+      "stars": 1145,
       "forks": 129,
       "language": "Python",
       "url": "https://github.com/lyra81604/zhengxi-views",
@@ -147,23 +141,19 @@
       }
     },
     {
-      "name": "cnfast",
-      "full_name": "aidenybai/cnfast",
-      "description": "Fast drop in replacement for `cn`",
-      "description_cn": "快速 丢弃 in replaCement for `Cn`",
-      "stars": 1049,
-      "forks": 10,
-      "language": "TypeScript",
-      "url": "https://github.com/aidenybai/cnfast",
-      "topics": [
-        "clsx",
-        "cn",
-        "tailwindcss"
-      ],
-      "created_at": "2026-06-19T19:46:29Z",
+      "name": "ios-location-spoofer",
+      "full_name": "mekos2772/ios-location-spoofer",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "description_cn": "standal开启e ios app to spoof gps loCati开启 without jAIl分支eak. inCludes shadowroCket/surge/lo开启/qx/stash module.",
+      "stars": 1140,
+      "forks": 159,
+      "language": "JavaScript",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "topics": [],
+      "created_at": "2026-06-30T11:20:30Z",
       "owner": {
-        "login": "aidenybai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/38025074?v=4"
+        "login": "mekos2772",
+        "avatar_url": "https://avatars.githubusercontent.com/u/119464194?v=4"
       }
     },
     {
@@ -171,8 +161,8 @@
       "full_name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "description": "No description",
       "description_cn": "",
-      "stars": 1032,
-      "forks": 319,
+      "stars": 1121,
+      "forks": 341,
       "language": "Python",
       "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "topics": [],
@@ -185,154 +175,154 @@
   ],
   "ai_news": [
     {
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 924,
-      "comments": 642,
-      "author": "Pragmata",
-      "time": 1782863712,
-      "hn_url": "https://news.ycombinator.com/item?id=48740771",
-      "title_cn": "【Claude】Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5"
+      "title": "Android Developer Verification: Threat masquerading as protection",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "score": 1585,
+      "comments": 682,
+      "author": "drewfax",
+      "time": 1782961215,
+      "hn_url": "https://news.ycombinator.com/item?id=48755965",
+      "title_cn": "Android Developer Verification: Threat masquerading as protection"
     },
     {
-      "title": "Fable 5 Is Back",
-      "url": "https://twitter.com/claudeai/status/2072402636813607381",
-      "score": 346,
-      "comments": 329,
-      "author": "mfiguiere",
-      "time": 1782934557,
-      "hn_url": "https://news.ycombinator.com/item?id=48752030",
-      "title_cn": "Fable 5 Is Back"
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "score": 601,
+      "comments": 224,
+      "author": "mgh2",
+      "time": 1783004546,
+      "hn_url": "https://news.ycombinator.com/item?id=48762725",
+      "title_cn": "【AI】Spain Orders Blacklist of Palantir from Public and Private Companies"
     },
     {
-      "title": "FFmpeg 9.1's new AAC encoder",
-      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-      "score": 313,
-      "comments": 102,
-      "author": "ledoge",
-      "time": 1782915028,
-      "hn_url": "https://news.ycombinator.com/item?id=48747116",
-      "title_cn": "FFmpeg 9.1's new AAC encoder"
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "score": 362,
+      "comments": 191,
+      "author": "mushstory",
+      "time": 1782999821,
+      "hn_url": "https://news.ycombinator.com/item?id=48761536",
+      "title_cn": "【AI】AI can't be listed as inventor on patent applications, Japan's top court rules"
     },
     {
-      "title": "ZCode – Harness for GLM-5.2",
-      "url": "https://zcode.z.ai/en",
-      "score": 268,
-      "comments": 236,
-      "author": "chvid",
-      "time": 1782943416,
-      "hn_url": "https://news.ycombinator.com/item?id=48753715",
-      "title_cn": "ZCode – Harness for GLM-5.2"
+      "title": "Reality has a surprising amount of detail (2017)",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "score": 168,
+      "comments": 61,
+      "author": "vinhnx",
+      "time": 1782603385,
+      "hn_url": "https://news.ycombinator.com/item?id=48702874",
+      "title_cn": "【AI】Reality has a surprising amount of detail (2017)"
     },
     {
-      "title": "Newly discovered spider builds spring loaded snare to catch ants",
-      "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
-      "score": 245,
-      "comments": 59,
-      "author": "chimpanzee",
-      "time": 1782677156,
-      "hn_url": "https://news.ycombinator.com/item?id=48711052",
-      "title_cn": "Newly discovered spider builds spring loaded snare to catch ants"
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "url": "https://arxiv.org/abs/2607.01232",
+      "score": 137,
+      "comments": 34,
+      "author": "tcp_handshaker",
+      "time": 1782994224,
+      "hn_url": "https://news.ycombinator.com/item?id=48760201",
+      "title_cn": "【AI, Transformer模型】Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train"
     },
     {
-      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-      "url": "https://www.weaverobotics.com/isaac-1",
-      "score": 106,
-      "comments": 147,
-      "author": "ryanmerket",
-      "time": 1782929538,
-      "hn_url": "https://news.ycombinator.com/item?id=48750989",
-      "title_cn": "【机器人, 推出】Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries"
+      "title": "NSA tries to weaken mlkem standardisation?",
+      "url": "https://nsa.2026.action.cr.yp.to",
+      "score": 112,
+      "comments": 69,
+      "author": "SuperSandro2000",
+      "time": 1782995588,
+      "hn_url": "https://news.ycombinator.com/item?id=48760490",
+      "title_cn": "NSA tries to weaken mlkem standardisation?"
     },
     {
-      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
-      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "score": 91,
-      "comments": 10,
-      "author": "devicelimit",
-      "time": 1782953281,
-      "hn_url": "https://news.ycombinator.com/item?id=48755005",
-      "title_cn": "【机器人】Building an Open-Source Robot Vacuum – Meet Oomwoo"
+      "title": "24-bit/192kHz music downloads and why they make no sense (2012)",
+      "url": "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm",
+      "score": 100,
+      "comments": 214,
+      "author": "Kaapeine",
+      "time": 1783009489,
+      "hn_url": "https://news.ycombinator.com/item?id=48763790",
+      "title_cn": "24-bit/192kHz music downloads and why they make no sense (2012)"
     },
     {
-      "title": "Hanami 3.0: In Full Bloom",
-      "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
-      "score": 83,
-      "comments": 26,
-      "author": "PuercoPop",
-      "time": 1782927660,
-      "hn_url": "https://news.ycombinator.com/item?id=48750527",
-      "title_cn": "Hanami 3.0: In Full Bloom"
+      "title": "Claude-real-video － any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "score": 93,
+      "comments": 29,
+      "author": "cortexosmain",
+      "time": 1783019412,
+      "hn_url": "https://news.ycombinator.com/item?id=48766005",
+      "title_cn": "【大语言模型, Claude】Claude-real-video － any LLM can watch a video"
     },
     {
-      "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-      "score": 79,
-      "comments": 56,
-      "author": "consumer451",
-      "time": 1782944867,
-      "hn_url": "https://news.ycombinator.com/item?id=48753979",
-      "title_cn": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance"
+      "title": "The short leash AI coding method for beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "score": 77,
+      "comments": 78,
+      "author": "Riseed",
+      "time": 1783019517,
+      "hn_url": "https://news.ycombinator.com/item?id=48766026",
+      "title_cn": "【AI】The short leash AI coding method for beating Fable"
     },
     {
-      "title": "Qualcomm Linux 2.0",
-      "url": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
-      "score": 65,
-      "comments": 22,
-      "author": "gilgamesh3",
-      "time": 1782939702,
-      "hn_url": "https://news.ycombinator.com/item?id=48753069",
-      "title_cn": "Qualcomm Linux 2.0"
+      "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
+      "url": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
+      "score": 64,
+      "comments": 31,
+      "author": "FireBeyond",
+      "time": 1783032244,
+      "hn_url": "https://news.ycombinator.com/item?id=48768336",
+      "title_cn": "Mystery identity of 'Green Boots' climber is finally solved after DNA test"
     },
     {
-      "title": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019",
-      "url": "https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study",
-      "score": 57,
-      "comments": 20,
-      "author": "simonebrunozzi",
-      "time": 1782926951,
-      "hn_url": "https://news.ycombinator.com/item?id=48750373",
-      "title_cn": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019"
+      "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
+      "url": "https://apple.github.io/foundationdb/flow.html",
+      "score": 43,
+      "comments": 6,
+      "author": "sourdecor",
+      "time": 1783003316,
+      "hn_url": "https://news.ycombinator.com/item?id=48762372",
+      "title_cn": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11"
     },
     {
-      "title": "The <Usermedia> HTML Element",
-      "url": "https://developer.chrome.com/blog/usermedia-html-element",
-      "score": 53,
-      "comments": 23,
-      "author": "twapi",
-      "time": 1782950175,
-      "hn_url": "https://news.ycombinator.com/item?id=48754700",
-      "title_cn": "The <Usermedia> HTML Element"
-    },
-    {
-      "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
-      "url": "https://github.com/langchain-ai/openwiki",
-      "score": 30,
+      "title": "Client-side load balancing at a million requests per second",
+      "url": "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html",
+      "score": 40,
       "comments": 5,
-      "author": "handfuloflight",
-      "time": 1782939112,
-      "hn_url": "https://news.ycombinator.com/item?id=48752949",
-      "title_cn": "【AI】OpenWiki: CLI that writes and maintains agent documentation for your codebase"
+      "author": "cjbooms",
+      "time": 1782905741,
+      "hn_url": "https://news.ycombinator.com/item?id=48745118",
+      "title_cn": "Client-side load balancing at a million requests per second"
     },
     {
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "score": 12,
-      "comments": 8,
-      "author": "matt_d",
-      "time": 1782960916,
-      "hn_url": "https://news.ycombinator.com/item?id=48755928",
-      "title_cn": "【基准测试】Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers"
+      "title": "Zuckerberg says AI agent development going slower than expected",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "score": 36,
+      "comments": 36,
+      "author": "cwwc",
+      "time": 1783024686,
+      "hn_url": "https://news.ycombinator.com/item?id=48767058",
+      "title_cn": "【AI】Zuckerberg says AI agent development going slower than expected"
     },
     {
-      "title": "Show HN: Meow – The 4th and final JavaScript runtime and toolchain",
-      "url": "https://meow.style",
-      "score": 11,
-      "comments": 5,
-      "author": "ccheshirecat",
-      "time": 1782961869,
-      "hn_url": "https://news.ycombinator.com/item?id=48756038",
-      "title_cn": "【AI, 工具】Show HN: Meow – The 4th and final JavaScript runtime and toolchain"
+      "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
+      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
+      "score": 28,
+      "comments": 14,
+      "author": "HardwareLust",
+      "time": 1782349913,
+      "hn_url": "https://news.ycombinator.com/item?id=48667568",
+      "title_cn": "【AI】A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time"
+    },
+    {
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+      "score": 6,
+      "comments": 1,
+      "author": "1vuio0pswjnm7",
+      "time": 1783042960,
+      "hn_url": "https://news.ycombinator.com/item?id=48769696",
+      "title_cn": "【AI】AI is 'not smart' so what's next in artificial intelligence?"
     }
   ]
 }
