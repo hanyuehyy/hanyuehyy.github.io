@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-03T03:44:00.490595",
+  "updated_at": "2026-07-04T03:36:46.800614",
   "github_projects": [
     {
       "name": "DeepSpec",
       "full_name": "deepseek-ai/DeepSpec",
       "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "description_cn": "deepspeC: a full-栈 Codebase for 训练 and evaluating speCulative deCoding alGorithms",
-      "stars": 5890,
-      "forks": 479,
+      "stars": 6064,
+      "forks": 509,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/DeepSpec",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "bikini/exploitarium",
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "description_cn": "a single arChive of 公开 利用 poCs and 漏洞 re搜索 writeups. at the time i post these, n开启e have been reported. feel 免费 to report them yourself and take Credit for the Cve 如果 handed out lulz. please do 否t abuse these. i do this so to allure people into the field, and i've always found this is the most 高效 way.",
-      "stars": 3495,
-      "forks": 1018,
+      "stars": 3607,
+      "forks": 1049,
       "language": "Python",
       "url": "https://github.com/bikini/exploitarium",
       "topics": [],
@@ -38,8 +38,8 @@
       "full_name": "baairon/torlink",
       "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
       "description_cn": "a sleek, zero-集合up torrent finder and down加载器 that lives right in your ter最小al.",
-      "stars": 2584,
-      "forks": 169,
+      "stars": 2854,
+      "forks": 187,
       "language": "TypeScript",
       "url": "https://github.com/baairon/torlink",
       "topics": [
@@ -60,8 +60,8 @@
       "full_name": "Yu9191/wloc",
       "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "description_cn": "修改 apple 网络定位（gs-loC）返回坐标 · 支持 surge / quantumult x / lo开启 / stash · 快捷指令一键设置/恢复定位",
-      "stars": 2579,
-      "forks": 345,
+      "stars": 2829,
+      "forks": 395,
       "language": "JavaScript",
       "url": "https://github.com/Yu9191/wloc",
       "topics": [],
@@ -76,8 +76,8 @@
       "full_name": "bozhouDev/codex-orange-book",
       "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "description_cn": "",
-      "stars": 2545,
-      "forks": 252,
+      "stars": 2586,
+      "forks": 257,
       "language": "HTML",
       "url": "https://github.com/bozhouDev/codex-orange-book",
       "topics": [],
@@ -88,28 +88,12 @@
       }
     },
     {
-      "name": "CS-Fundamentals",
-      "full_name": "Krishnagangwal/CS-Fundamentals",
-      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
-      "description_cn": "Curated Cs fundamentals for plaCement prep: dsa,Computer 网络s, dbms & SQL, oops, operating 系统s, 系统 design & software 引擎ering",
-      "stars": 1441,
-      "forks": 118,
-      "language": "Unknown",
-      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
-      "topics": [],
-      "created_at": "2026-06-28T07:08:15Z",
-      "owner": {
-        "login": "Krishnagangwal",
-        "avatar_url": "https://avatars.githubusercontent.com/u/175389609?v=4"
-      }
-    },
-    {
       "name": "openwiki",
       "full_name": "langchain-ai/openwiki",
       "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
       "description_cn": "openwiki is a 命令行工具 that writes and mAIntAIns 智能体 文档 for your Codebase.",
-      "stars": 1233,
-      "forks": 96,
+      "stars": 1849,
+      "forks": 150,
       "language": "TypeScript",
       "url": "https://github.com/langchain-ai/openwiki",
       "topics": [],
@@ -120,24 +104,35 @@
       }
     },
     {
-      "name": "zhengxi-views",
-      "full_name": "lyra81604/zhengxi-views",
-      "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-      "description_cn": "",
-      "stars": 1145,
-      "forks": 129,
-      "language": "Python",
-      "url": "https://github.com/lyra81604/zhengxi-views",
-      "topics": [
-        "agent-skill",
-        "chinese-funds",
-        "funds",
-        "investing"
-      ],
-      "created_at": "2026-06-20T04:27:07Z",
+      "name": "CS-Fundamentals",
+      "full_name": "Krishnagangwal/CS-Fundamentals",
+      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+      "description_cn": "Curated Cs fundamentals for plaCement prep: dsa,Computer 网络s, dbms & SQL, oops, operating 系统s, 系统 design & software 引擎ering",
+      "stars": 1514,
+      "forks": 127,
+      "language": "Unknown",
+      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+      "topics": [],
+      "created_at": "2026-06-28T07:08:15Z",
       "owner": {
-        "login": "lyra81604",
-        "avatar_url": "https://avatars.githubusercontent.com/u/235843849?v=4"
+        "login": "Krishnagangwal",
+        "avatar_url": "https://avatars.githubusercontent.com/u/175389609?v=4"
+      }
+    },
+    {
+      "name": "Codex-5.5-codex-instruct-5.5",
+      "full_name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 1303,
+      "forks": 378,
+      "language": "Python",
+      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "topics": [],
+      "created_at": "2026-06-28T10:24:42Z",
+      "owner": {
+        "login": "yynxxxxx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/139136586?v=4"
       }
     },
     {
@@ -145,8 +140,8 @@
       "full_name": "mekos2772/ios-location-spoofer",
       "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "description_cn": "standal开启e ios app to spoof gps loCati开启 without jAIl分支eak. inCludes shadowroCket/surge/lo开启/qx/stash module.",
-      "stars": 1140,
-      "forks": 159,
+      "stars": 1264,
+      "forks": 186,
       "language": "JavaScript",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "topics": [],
@@ -157,172 +152,172 @@
       }
     },
     {
-      "name": "Codex-5.5-codex-instruct-5.5",
-      "full_name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "name": "Ornith-1",
+      "full_name": "deepreinforce-ai/Ornith-1",
       "description": "No description",
       "description_cn": "",
-      "stars": 1121,
-      "forks": 341,
-      "language": "Python",
-      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "stars": 1117,
+      "forks": 106,
+      "language": "Unknown",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "topics": [],
-      "created_at": "2026-06-28T10:24:42Z",
+      "created_at": "2026-06-21T06:43:42Z",
       "owner": {
-        "login": "yynxxxxx",
-        "avatar_url": "https://avatars.githubusercontent.com/u/139136586?v=4"
+        "login": "deepreinforce-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/221260191?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 1585,
-      "comments": 682,
-      "author": "drewfax",
-      "time": 1782961215,
-      "hn_url": "https://news.ycombinator.com/item?id=48755965",
-      "title_cn": "Android Developer Verification: Threat masquerading as protection"
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "score": 298,
+      "comments": 132,
+      "author": "livestyle",
+      "time": 1783091023,
+      "hn_url": "https://news.ycombinator.com/item?id=48775921",
+      "title_cn": "【大语言模型】Jamesob's guide to running SOTA LLMs locally"
     },
     {
-      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-      "score": 601,
-      "comments": 224,
-      "author": "mgh2",
-      "time": 1783004546,
-      "hn_url": "https://news.ycombinator.com/item?id=48762725",
-      "title_cn": "【AI】Spain Orders Blacklist of Palantir from Public and Private Companies"
-    },
-    {
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "score": 362,
-      "comments": 191,
-      "author": "mushstory",
-      "time": 1782999821,
-      "hn_url": "https://news.ycombinator.com/item?id=48761536",
-      "title_cn": "【AI】AI can't be listed as inventor on patent applications, Japan's top court rules"
-    },
-    {
-      "title": "Reality has a surprising amount of detail (2017)",
-      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-      "score": 168,
-      "comments": 61,
-      "author": "vinhnx",
-      "time": 1782603385,
-      "hn_url": "https://news.ycombinator.com/item?id=48702874",
-      "title_cn": "【AI】Reality has a surprising amount of detail (2017)"
-    },
-    {
-      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-      "url": "https://arxiv.org/abs/2607.01232",
-      "score": 137,
-      "comments": 34,
-      "author": "tcp_handshaker",
-      "time": 1782994224,
-      "hn_url": "https://news.ycombinator.com/item?id=48760201",
-      "title_cn": "【AI, Transformer模型】Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train"
-    },
-    {
-      "title": "NSA tries to weaken mlkem standardisation?",
-      "url": "https://nsa.2026.action.cr.yp.to",
-      "score": 112,
+      "title": "Espionage Against the European Parliament",
+      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "score": 294,
       "comments": 69,
-      "author": "SuperSandro2000",
-      "time": 1782995588,
-      "hn_url": "https://news.ycombinator.com/item?id=48760490",
-      "title_cn": "NSA tries to weaken mlkem standardisation?"
+      "author": "ledoge",
+      "time": 1783111106,
+      "hn_url": "https://news.ycombinator.com/item?id=48779683",
+      "title_cn": "【AI】Espionage Against the European Parliament"
     },
     {
-      "title": "24-bit/192kHz music downloads and why they make no sense (2012)",
-      "url": "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm",
-      "score": 100,
-      "comments": 214,
-      "author": "Kaapeine",
-      "time": 1783009489,
-      "hn_url": "https://news.ycombinator.com/item?id=48763790",
-      "title_cn": "24-bit/192kHz music downloads and why they make no sense (2012)"
+      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+      "url": "https://github.com/teamchong/pxpipe",
+      "score": 244,
+      "comments": 87,
+      "author": "dimitropoulos",
+      "time": 1783093849,
+      "hn_url": "https://news.ycombinator.com/item?id=48776464",
+      "title_cn": "【模型】60% Fable cost cut by converting code to images and having the model OCR it"
     },
     {
-      "title": "Claude-real-video － any LLM can watch a video",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "score": 93,
-      "comments": 29,
-      "author": "cortexosmain",
-      "time": 1783019412,
-      "hn_url": "https://news.ycombinator.com/item?id=48766005",
-      "title_cn": "【大语言模型, Claude】Claude-real-video － any LLM can watch a video"
+      "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "score": 178,
+      "comments": 83,
+      "author": "theanonymousone",
+      "time": 1783100770,
+      "hn_url": "https://news.ycombinator.com/item?id=48777728",
+      "title_cn": "【GPT】I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)"
     },
     {
-      "title": "The short leash AI coding method for beating Fable",
-      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-      "score": 77,
-      "comments": 78,
-      "author": "Riseed",
-      "time": 1783019517,
-      "hn_url": "https://news.ycombinator.com/item?id=48766026",
-      "title_cn": "【AI】The short leash AI coding method for beating Fable"
+      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "score": 126,
+      "comments": 33,
+      "author": "latchkey",
+      "time": 1783115346,
+      "hn_url": "https://news.ycombinator.com/item?id=48780417",
+      "title_cn": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell"
     },
     {
-      "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
-      "url": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
-      "score": 64,
+      "title": "Leanstral 1.5: Proof abundance for all",
+      "url": "https://mistral.ai/news/leanstral-1-5/",
+      "score": 114,
       "comments": 31,
-      "author": "FireBeyond",
-      "time": 1783032244,
-      "hn_url": "https://news.ycombinator.com/item?id=48768336",
-      "title_cn": "Mystery identity of 'Green Boots' climber is finally solved after DNA test"
+      "author": "programLyrique",
+      "time": 1783117990,
+      "hn_url": "https://news.ycombinator.com/item?id=48780801",
+      "title_cn": "Leanstral 1.5: Proof abundance for all"
     },
     {
-      "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
-      "url": "https://apple.github.io/foundationdb/flow.html",
-      "score": 43,
+      "title": "Applied Category Theory Course (2018)",
+      "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+      "score": 71,
+      "comments": 7,
+      "author": "measurablefunc",
+      "time": 1783111320,
+      "hn_url": "https://news.ycombinator.com/item?id=48779723",
+      "title_cn": "Applied Category Theory Course (2018)"
+    },
+    {
+      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "score": 64,
+      "comments": 13,
+      "author": "cubefox",
+      "time": 1783113376,
+      "hn_url": "https://news.ycombinator.com/item?id=48780056",
+      "title_cn": "【Claude, 发布】New serious vulnerabilities spiked around release of Claude Mythos Preview"
+    },
+    {
+      "title": "Software, from First Principles",
+      "url": "https://fazamhd.com/mental-models/software/",
+      "score": 57,
+      "comments": 12,
+      "author": "faza",
+      "time": 1783114135,
+      "hn_url": "https://news.ycombinator.com/item?id=48780224",
+      "title_cn": "Software, from First Principles"
+    },
+    {
+      "title": "The circuit that lets your brain think and see",
+      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+      "score": 53,
+      "comments": 10,
+      "author": "hhs",
+      "time": 1783119377,
+      "hn_url": "https://news.ycombinator.com/item?id=48780996",
+      "title_cn": "【AI】The circuit that lets your brain think and see"
+    },
+    {
+      "title": "Soatok's Informal Guide to Threat Models",
+      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+      "score": 42,
+      "comments": 2,
+      "author": "zdw",
+      "time": 1783125349,
+      "hn_url": "https://news.ycombinator.com/item?id=48781597",
+      "title_cn": "【模型】Soatok's Informal Guide to Threat Models"
+    },
+    {
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+      "url": "https://mrbruh.com/msicenter/",
+      "score": 35,
+      "comments": 8,
+      "author": "MrBruh",
+      "time": 1783126664,
+      "hn_url": "https://news.ycombinator.com/item?id=48781688",
+      "title_cn": "【AI】MSI Center – How to gain SYSTEM privileges in seconds"
+    },
+    {
+      "title": "Dispersion loss counteracts embedding condensation in small language models",
+      "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
+      "score": 26,
       "comments": 6,
-      "author": "sourdecor",
-      "time": 1783003316,
-      "hn_url": "https://news.ycombinator.com/item?id=48762372",
-      "title_cn": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11"
+      "author": "E-Reverance",
+      "time": 1783118147,
+      "hn_url": "https://news.ycombinator.com/item?id=48780826",
+      "title_cn": "【模型】Dispersion loss counteracts embedding condensation in small language models"
     },
     {
-      "title": "Client-side load balancing at a million requests per second",
-      "url": "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html",
-      "score": 40,
-      "comments": 5,
-      "author": "cjbooms",
-      "time": 1782905741,
-      "hn_url": "https://news.ycombinator.com/item?id=48745118",
-      "title_cn": "Client-side load balancing at a million requests per second"
-    },
-    {
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "score": 36,
-      "comments": 36,
-      "author": "cwwc",
-      "time": 1783024686,
-      "hn_url": "https://news.ycombinator.com/item?id=48767058",
-      "title_cn": "【AI】Zuckerberg says AI agent development going slower than expected"
-    },
-    {
-      "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
-      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
-      "score": 28,
-      "comments": 14,
-      "author": "HardwareLust",
-      "time": 1782349913,
-      "hn_url": "https://news.ycombinator.com/item?id=48667568",
-      "title_cn": "【AI】A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time"
-    },
-    {
-      "title": "AI is 'not smart' so what's next in artificial intelligence?",
-      "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
-      "score": 6,
+      "title": "The Trans-America Trail Guide",
+      "url": "https://transamtrail.com/plan/",
+      "score": 9,
       "comments": 1,
-      "author": "1vuio0pswjnm7",
-      "time": 1783042960,
-      "hn_url": "https://news.ycombinator.com/item?id=48769696",
-      "title_cn": "【AI】AI is 'not smart' so what's next in artificial intelligence?"
+      "author": "e-dant",
+      "time": 1783121092,
+      "hn_url": "https://news.ycombinator.com/item?id=48781199",
+      "title_cn": "【AI】The Trans-America Trail Guide"
+    },
+    {
+      "title": "Save Claude Code Tokens with Smart Routing",
+      "url": "https://github.com/regolo-ai/brick-SR1",
+      "score": 8,
+      "comments": 0,
+      "author": "FrancescoMassa",
+      "time": 1783118364,
+      "hn_url": "https://news.ycombinator.com/item?id=48780858",
+      "title_cn": "【Claude】Save Claude Code Tokens with Smart Routing"
     }
   ]
 }
