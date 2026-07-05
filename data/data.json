@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-04T03:36:46.800614",
+  "updated_at": "2026-07-05T03:55:37.928220",
   "github_projects": [
     {
       "name": "DeepSpec",
       "full_name": "deepseek-ai/DeepSpec",
       "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "description_cn": "deepspeC: a full-栈 Codebase for 训练 and evaluating speCulative deCoding alGorithms",
-      "stars": 6064,
-      "forks": 509,
+      "stars": 6188,
+      "forks": 525,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/DeepSpec",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "bikini/exploitarium",
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "description_cn": "a single arChive of 公开 利用 poCs and 漏洞 re搜索 writeups. at the time i post these, n开启e have been reported. feel 免费 to report them yourself and take Credit for the Cve 如果 handed out lulz. please do 否t abuse these. i do this so to allure people into the field, and i've always found this is the most 高效 way.",
-      "stars": 3607,
-      "forks": 1049,
+      "stars": 3652,
+      "forks": 1056,
       "language": "Python",
       "url": "https://github.com/bikini/exploitarium",
       "topics": [],
@@ -34,12 +34,28 @@
       }
     },
     {
+      "name": "openwiki",
+      "full_name": "langchain-ai/openwiki",
+      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+      "description_cn": "openwiki is a 命令行工具 that writes and mAIntAIns 智能体 文档 for your Codebase.",
+      "stars": 3365,
+      "forks": 268,
+      "language": "TypeScript",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "topics": [],
+      "created_at": "2026-06-22T23:48:26Z",
+      "owner": {
+        "login": "langchain-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/126733545?v=4"
+      }
+    },
+    {
       "name": "torlink",
       "full_name": "baairon/torlink",
       "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
       "description_cn": "a sleek, zero-集合up torrent finder and down加载器 that lives right in your ter最小al.",
-      "stars": 2854,
-      "forks": 187,
+      "stars": 2972,
+      "forks": 199,
       "language": "TypeScript",
       "url": "https://github.com/baairon/torlink",
       "topics": [
@@ -60,8 +76,8 @@
       "full_name": "Yu9191/wloc",
       "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "description_cn": "修改 apple 网络定位（gs-loC）返回坐标 · 支持 surge / quantumult x / lo开启 / stash · 快捷指令一键设置/恢复定位",
-      "stars": 2829,
-      "forks": 395,
+      "stars": 2949,
+      "forks": 413,
       "language": "JavaScript",
       "url": "https://github.com/Yu9191/wloc",
       "topics": [],
@@ -76,8 +92,8 @@
       "full_name": "bozhouDev/codex-orange-book",
       "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "description_cn": "",
-      "stars": 2586,
-      "forks": 257,
+      "stars": 2627,
+      "forks": 258,
       "language": "HTML",
       "url": "https://github.com/bozhouDev/codex-orange-book",
       "topics": [],
@@ -88,28 +104,12 @@
       }
     },
     {
-      "name": "openwiki",
-      "full_name": "langchain-ai/openwiki",
-      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
-      "description_cn": "openwiki is a 命令行工具 that writes and mAIntAIns 智能体 文档 for your Codebase.",
-      "stars": 1849,
-      "forks": 150,
-      "language": "TypeScript",
-      "url": "https://github.com/langchain-ai/openwiki",
-      "topics": [],
-      "created_at": "2026-06-22T23:48:26Z",
-      "owner": {
-        "login": "langchain-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/126733545?v=4"
-      }
-    },
-    {
       "name": "CS-Fundamentals",
       "full_name": "Krishnagangwal/CS-Fundamentals",
       "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
       "description_cn": "Curated Cs fundamentals for plaCement prep: dsa,Computer 网络s, dbms & SQL, oops, operating 系统s, 系统 design & software 引擎ering",
-      "stars": 1514,
-      "forks": 127,
+      "stars": 1584,
+      "forks": 137,
       "language": "Unknown",
       "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
       "topics": [],
@@ -124,8 +124,8 @@
       "full_name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "description": "No description",
       "description_cn": "",
-      "stars": 1303,
-      "forks": 378,
+      "stars": 1380,
+      "forks": 392,
       "language": "Python",
       "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "topics": [],
@@ -136,12 +136,33 @@
       }
     },
     {
+      "name": "gitfut",
+      "full_name": "Younesfdj/gitfut",
+      "description": "Your GitHub stats, turned into a World-Cup-style player card ",
+      "description_cn": "your github stats, turned into a world-Cup-style p层 Card ",
+      "stars": 1293,
+      "forks": 57,
+      "language": "TypeScript",
+      "url": "https://github.com/Younesfdj/gitfut",
+      "topics": [
+        "fifa-19",
+        "fut-card",
+        "github-stats-card",
+        "world-cup-2026"
+      ],
+      "created_at": "2026-06-24T01:17:51Z",
+      "owner": {
+        "login": "Younesfdj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/113609638?v=4"
+      }
+    },
+    {
       "name": "ios-location-spoofer",
       "full_name": "mekos2772/ios-location-spoofer",
       "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "description_cn": "standal开启e ios app to spoof gps loCati开启 without jAIl分支eak. inCludes shadowroCket/surge/lo开启/qx/stash module.",
-      "stars": 1264,
-      "forks": 186,
+      "stars": 1290,
+      "forks": 192,
       "language": "JavaScript",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "topics": [],
@@ -150,174 +171,158 @@
         "login": "mekos2772",
         "avatar_url": "https://avatars.githubusercontent.com/u/119464194?v=4"
       }
-    },
-    {
-      "name": "Ornith-1",
-      "full_name": "deepreinforce-ai/Ornith-1",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 1117,
-      "forks": 106,
-      "language": "Unknown",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "topics": [],
-      "created_at": "2026-06-21T06:43:42Z",
-      "owner": {
-        "login": "deepreinforce-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/221260191?v=4"
-      }
     }
   ],
   "ai_news": [
     {
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "url": "https://github.com/jamesob/local-llm",
-      "score": 298,
-      "comments": 132,
-      "author": "livestyle",
-      "time": 1783091023,
-      "hn_url": "https://news.ycombinator.com/item?id=48775921",
-      "title_cn": "【大语言模型】Jamesob's guide to running SOTA LLMs locally"
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "score": 404,
+      "comments": 154,
+      "author": "asronline",
+      "time": 1783194070,
+      "hn_url": "https://news.ycombinator.com/item?id=48788283",
+      "title_cn": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable"
     },
     {
-      "title": "Espionage Against the European Parliament",
-      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
-      "score": 294,
-      "comments": 69,
-      "author": "ledoge",
-      "time": 1783111106,
-      "hn_url": "https://news.ycombinator.com/item?id=48779683",
-      "title_cn": "【AI】Espionage Against the European Parliament"
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "score": 280,
+      "comments": 129,
+      "author": "chatmasta",
+      "time": 1783173820,
+      "hn_url": "https://news.ycombinator.com/item?id=48785485",
+      "title_cn": "Potential session/cache leakage between workspace instances or consumer accounts"
     },
     {
-      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
-      "url": "https://github.com/teamchong/pxpipe",
-      "score": 244,
-      "comments": 87,
-      "author": "dimitropoulos",
-      "time": 1783093849,
-      "hn_url": "https://news.ycombinator.com/item?id=48776464",
-      "title_cn": "【模型】60% Fable cost cut by converting code to images and having the model OCR it"
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "score": 181,
+      "comments": 58,
+      "author": "maille",
+      "time": 1783201869,
+      "hn_url": "https://news.ycombinator.com/item?id=48789428",
+      "title_cn": "【GPT】GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance"
     },
     {
-      "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-      "score": 178,
-      "comments": 83,
-      "author": "theanonymousone",
-      "time": 1783100770,
-      "hn_url": "https://news.ycombinator.com/item?id=48777728",
-      "title_cn": "【GPT】I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)"
+      "title": "What ORMs have taught me: just learn SQL (2014)",
+      "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
+      "score": 137,
+      "comments": 180,
+      "author": "ciconia",
+      "time": 1782879241,
+      "hn_url": "https://news.ycombinator.com/item?id=48742175",
+      "title_cn": "What ORMs have taught me: just learn SQL (2014)"
     },
     {
-      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "score": 126,
-      "comments": 33,
-      "author": "latchkey",
-      "time": 1783115346,
-      "hn_url": "https://news.ycombinator.com/item?id=48780417",
-      "title_cn": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell"
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "score": 120,
+      "comments": 38,
+      "author": "leemoore",
+      "time": 1783196182,
+      "hn_url": "https://news.ycombinator.com/item?id=48788599",
+      "title_cn": "【模型, 工具】Better Models: Worse Tools"
     },
     {
-      "title": "Leanstral 1.5: Proof abundance for all",
-      "url": "https://mistral.ai/news/leanstral-1-5/",
-      "score": 114,
-      "comments": 31,
-      "author": "programLyrique",
-      "time": 1783117990,
-      "hn_url": "https://news.ycombinator.com/item?id=48780801",
-      "title_cn": "Leanstral 1.5: Proof abundance for all"
-    },
-    {
-      "title": "Applied Category Theory Course (2018)",
-      "url": "https://math.ucr.edu/home/baez/act_course/index.html",
-      "score": 71,
-      "comments": 7,
-      "author": "measurablefunc",
-      "time": 1783111320,
-      "hn_url": "https://news.ycombinator.com/item?id=48779723",
-      "title_cn": "Applied Category Theory Course (2018)"
-    },
-    {
-      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "score": 64,
-      "comments": 13,
-      "author": "cubefox",
-      "time": 1783113376,
-      "hn_url": "https://news.ycombinator.com/item?id=48780056",
-      "title_cn": "【Claude, 发布】New serious vulnerabilities spiked around release of Claude Mythos Preview"
-    },
-    {
-      "title": "Software, from First Principles",
-      "url": "https://fazamhd.com/mental-models/software/",
-      "score": 57,
-      "comments": 12,
-      "author": "faza",
-      "time": 1783114135,
-      "hn_url": "https://news.ycombinator.com/item?id=48780224",
-      "title_cn": "Software, from First Principles"
-    },
-    {
-      "title": "The circuit that lets your brain think and see",
-      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-      "score": 53,
-      "comments": 10,
-      "author": "hhs",
-      "time": 1783119377,
-      "hn_url": "https://news.ycombinator.com/item?id=48780996",
-      "title_cn": "【AI】The circuit that lets your brain think and see"
-    },
-    {
-      "title": "Soatok's Informal Guide to Threat Models",
-      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-      "score": 42,
-      "comments": 2,
-      "author": "zdw",
-      "time": 1783125349,
-      "hn_url": "https://news.ycombinator.com/item?id=48781597",
-      "title_cn": "【模型】Soatok's Informal Guide to Threat Models"
-    },
-    {
-      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "url": "https://mrbruh.com/msicenter/",
-      "score": 35,
-      "comments": 8,
-      "author": "MrBruh",
-      "time": 1783126664,
-      "hn_url": "https://news.ycombinator.com/item?id=48781688",
-      "title_cn": "【AI】MSI Center – How to gain SYSTEM privileges in seconds"
-    },
-    {
-      "title": "Dispersion loss counteracts embedding condensation in small language models",
-      "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
-      "score": 26,
-      "comments": 6,
-      "author": "E-Reverance",
-      "time": 1783118147,
-      "hn_url": "https://news.ycombinator.com/item?id=48780826",
-      "title_cn": "【模型】Dispersion loss counteracts embedding condensation in small language models"
-    },
-    {
-      "title": "The Trans-America Trail Guide",
-      "url": "https://transamtrail.com/plan/",
-      "score": 9,
-      "comments": 1,
-      "author": "e-dant",
-      "time": 1783121092,
-      "hn_url": "https://news.ycombinator.com/item?id=48781199",
-      "title_cn": "【AI】The Trans-America Trail Guide"
-    },
-    {
-      "title": "Save Claude Code Tokens with Smart Routing",
-      "url": "https://github.com/regolo-ai/brick-SR1",
-      "score": 8,
+      "title": "The Common Lisp Cookbook – LispWorks Review",
+      "url": "https://lispcookbook.github.io/cl-cookbook/lispworks.html",
+      "score": 100,
       "comments": 0,
-      "author": "FrancescoMassa",
-      "time": 1783118364,
-      "hn_url": "https://news.ycombinator.com/item?id=48780858",
-      "title_cn": "【Claude】Save Claude Code Tokens with Smart Routing"
+      "author": "AlexeyBrin",
+      "time": 1783166261,
+      "hn_url": "https://news.ycombinator.com/item?id=48784759",
+      "title_cn": "The Common Lisp Cookbook – LispWorks Review"
+    },
+    {
+      "title": "Designing DB partitions you don't have to babysit",
+      "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
+      "score": 60,
+      "comments": 11,
+      "author": "rtolkachev",
+      "time": 1782911116,
+      "hn_url": "https://news.ycombinator.com/item?id=48746090",
+      "title_cn": "Designing DB partitions you don't have to babysit"
+    },
+    {
+      "title": "Meta's Un-Stable Signature",
+      "url": "https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html",
+      "score": 40,
+      "comments": 2,
+      "author": "ementally",
+      "time": 1782927058,
+      "hn_url": "https://news.ycombinator.com/item?id=48750405",
+      "title_cn": "Meta's Un-Stable Signature"
+    },
+    {
+      "title": "EndBASIC 0.14: Are we multimedia yet?",
+      "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+      "score": 28,
+      "comments": 3,
+      "author": "jmmv",
+      "time": 1783184898,
+      "hn_url": "https://news.ycombinator.com/item?id=48786970",
+      "title_cn": "EndBASIC 0.14: Are we multimedia yet?"
+    },
+    {
+      "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+      "score": 20,
+      "comments": 1,
+      "author": "mhb",
+      "time": 1783019034,
+      "hn_url": "https://news.ycombinator.com/item?id=48765920",
+      "title_cn": "【AI】Atomic Force Microscope high-speed video, stainless etching, bacteria, and more"
+    },
+    {
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "url": "https://arxiv.org/abs/2606.26967",
+      "score": 20,
+      "comments": 1,
+      "author": "logickkk1",
+      "time": 1783197519,
+      "hn_url": "https://news.ycombinator.com/item?id=48788849",
+      "title_cn": "【AI】Protocol Prying: Vulnerability Research in AirDrop and Quick Share"
+    },
+    {
+      "title": "Drone Autonomy Crash Course",
+      "url": "https://www.cggonzalez.com/blog/index.html",
+      "score": 18,
+      "comments": 1,
+      "author": "cgg1",
+      "time": 1783207335,
+      "hn_url": "https://news.ycombinator.com/item?id=48789965",
+      "title_cn": "Drone Autonomy Crash Course"
+    },
+    {
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+      "score": 12,
+      "comments": 0,
+      "author": "Buckwheat469",
+      "time": 1783207553,
+      "hn_url": "https://news.ycombinator.com/item?id=48789986",
+      "title_cn": "【大语言模型】Mapping with In-Memory Layers to Reduce LLM Overload"
+    },
+    {
+      "title": "Heuristics for lab robotics, and where its future may go",
+      "url": "https://www.owlposting.com/p/heuristics-for-lab-robotics-and-where",
+      "score": 10,
+      "comments": 2,
+      "author": "abhishaike",
+      "time": 1783088439,
+      "hn_url": "https://news.ycombinator.com/item?id=48775412",
+      "title_cn": "【机器人】Heuristics for lab robotics, and where its future may go"
+    },
+    {
+      "title": "Exploiting LLM Agent Supply Chains via Payload-Less Skills",
+      "url": "https://arxiv.org/abs/2605.14460",
+      "score": 4,
+      "comments": 0,
+      "author": "_pdp_",
+      "time": 1783202461,
+      "hn_url": "https://news.ycombinator.com/item?id=48789488",
+      "title_cn": "【AI, 大语言模型】Exploiting LLM Agent Supply Chains via Payload-Less Skills"
     }
   ]
 }
