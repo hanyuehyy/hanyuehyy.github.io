@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-07T03:53:01.345930",
+  "updated_at": "2026-07-08T03:20:00.166534",
   "github_projects": [
     {
       "name": "DeepSpec",
       "full_name": "deepseek-ai/DeepSpec",
       "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "description_cn": "deepspeC: a full-栈 Codebase for 训练 and evaluating speCulative deCoding alGorithms",
-      "stars": 6333,
-      "forks": 550,
+      "stars": 6409,
+      "forks": 564,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/DeepSpec",
       "topics": [],
@@ -18,50 +18,12 @@
       }
     },
     {
-      "name": "torlink",
-      "full_name": "baairon/torlink",
-      "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
-      "description_cn": "a sleek, zero-集合up torrent finder and down加载器 that lives right in your ter最小al.",
-      "stars": 3197,
-      "forks": 213,
-      "language": "TypeScript",
-      "url": "https://github.com/baairon/torlink",
-      "topics": [
-        "downloader",
-        "magnet-links",
-        "p2p",
-        "torrent",
-        "torrent-client"
-      ],
-      "created_at": "2026-06-25T12:37:15Z",
-      "owner": {
-        "login": "baairon",
-        "avatar_url": "https://avatars.githubusercontent.com/u/97924486?v=4"
-      }
-    },
-    {
-      "name": "wloc",
-      "full_name": "Yu9191/wloc",
-      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "description_cn": "修改 apple 网络定位（gs-loC）返回坐标 · 支持 surge / quantumult x / lo开启 / stash · 快捷指令一键设置/恢复定位",
-      "stars": 3164,
-      "forks": 441,
-      "language": "JavaScript",
-      "url": "https://github.com/Yu9191/wloc",
-      "topics": [],
-      "created_at": "2026-06-24T06:15:30Z",
-      "owner": {
-        "login": "Yu9191",
-        "avatar_url": "https://avatars.githubusercontent.com/u/132221547?v=4"
-      }
-    },
-    {
       "name": "T3MP3ST",
       "full_name": "elder-plinius/T3MP3ST",
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "description_cn": "aut开启omous red 团队ing platform; 多-智能体 关闭ensive-安全 meta-harness",
-      "stars": 2708,
-      "forks": 638,
+      "stars": 3351,
+      "forks": 762,
       "language": "TypeScript",
       "url": "https://github.com/elder-plinius/T3MP3ST",
       "topics": [
@@ -78,12 +40,34 @@
       }
     },
     {
+      "name": "torlink",
+      "full_name": "baairon/torlink",
+      "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
+      "description_cn": "a sleek, zero-集合up torrent finder and down加载器 that lives right in your ter最小al.",
+      "stars": 3254,
+      "forks": 217,
+      "language": "TypeScript",
+      "url": "https://github.com/baairon/torlink",
+      "topics": [
+        "downloader",
+        "magnet-links",
+        "p2p",
+        "torrent",
+        "torrent-client"
+      ],
+      "created_at": "2026-06-25T12:37:15Z",
+      "owner": {
+        "login": "baairon",
+        "avatar_url": "https://avatars.githubusercontent.com/u/97924486?v=4"
+      }
+    },
+    {
       "name": "CS-Fundamentals",
       "full_name": "Krishnagangwal/CS-Fundamentals",
       "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
       "description_cn": "Curated Cs fundamentals for plaCement prep: dsa,Computer 网络s, dbms & SQL, oops, operating 系统s, 系统 design & software 引擎ering",
-      "stars": 1710,
-      "forks": 157,
+      "stars": 1780,
+      "forks": 167,
       "language": "Unknown",
       "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
       "topics": [],
@@ -94,49 +78,12 @@
       }
     },
     {
-      "name": "gitfut",
-      "full_name": "Younesfdj/gitfut",
-      "description": "Your GitHub stats, turned into a World-Cup-style player card ",
-      "description_cn": "your github stats, turned into a world-Cup-style p层 Card ",
-      "stars": 1634,
-      "forks": 73,
-      "language": "TypeScript",
-      "url": "https://github.com/Younesfdj/gitfut",
-      "topics": [
-        "fifa-19",
-        "fut-card",
-        "github-stats-card",
-        "world-cup-2026"
-      ],
-      "created_at": "2026-06-24T01:17:51Z",
-      "owner": {
-        "login": "Younesfdj",
-        "avatar_url": "https://avatars.githubusercontent.com/u/113609638?v=4"
-      }
-    },
-    {
-      "name": "skills",
-      "full_name": "davidondrej/skills",
-      "description": "access to david ondrej's personal agent skills",
-      "description_cn": "aCCess to david 开启drej's pers开启al 智能体 skills",
-      "stars": 1523,
-      "forks": 206,
-      "language": "Unknown",
-      "url": "https://github.com/davidondrej/skills",
-      "topics": [],
-      "created_at": "2026-06-24T12:32:04Z",
-      "owner": {
-        "login": "davidondrej",
-        "avatar_url": "https://avatars.githubusercontent.com/u/131768515?v=4"
-      }
-    },
-    {
       "name": "Codex-5.5-codex-instruct-5.5",
       "full_name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "description": "No description",
       "description_cn": "",
-      "stars": 1518,
-      "forks": 432,
+      "stars": 1608,
+      "forks": 444,
       "language": "Python",
       "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "topics": [],
@@ -151,8 +98,8 @@
       "full_name": "mekos2772/ios-location-spoofer",
       "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "description_cn": "standal开启e ios app to spoof gps loCati开启 without jAIl分支eak. inCludes shadowroCket/surge/lo开启/qx/stash module.",
-      "stars": 1453,
-      "forks": 226,
+      "stars": 1514,
+      "forks": 233,
       "language": "JavaScript",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "topics": [],
@@ -163,12 +110,34 @@
       }
     },
     {
+      "name": "openscience",
+      "full_name": "synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "description_cn": "the 开源 AI workbenCh for sCient如果内联缓存 re搜索",
+      "stars": 1421,
+      "forks": 198,
+      "language": "TypeScript",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "bun",
+        "cli"
+      ],
+      "created_at": "2026-07-03T15:06:45Z",
+      "owner": {
+        "login": "synthetic-sciences",
+        "avatar_url": "https://avatars.githubusercontent.com/u/220546587?v=4"
+      }
+    },
+    {
       "name": "claude-real-video",
       "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
       "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "description_cn": "let Claude (or any 大语言模型) aCtually watCh a 视频 — sCene-aware, dedupl内联缓存ated frames + transCrIPt, from a url or 本地 file. runs 本地ly, mit.",
-      "stars": 1272,
-      "forks": 78,
+      "stars": 1364,
+      "forks": 92,
       "language": "Python",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "topics": [],
@@ -177,158 +146,196 @@
         "login": "HUANGCHIHHUNGLeo",
         "avatar_url": "https://avatars.githubusercontent.com/u/207666334?v=4"
       }
+    },
+    {
+      "name": "Generals-Mac-iOS-iPad",
+      "full_name": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+      "description_cn": "命令 & C开启quer generals: zero hour running natively 开启 maCos, IPh开启e & IPad — real 引擎 (ea gpl v3 sourCe, via generalsx), dxvk/moltenvk renderer, rts touCh C开启trols. 否 game as集合s inCluded.",
+      "stars": 1298,
+      "forks": 104,
+      "language": "C++",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+      "topics": [
+        "apple-silicon",
+        "command-and-conquer",
+        "dxvk",
+        "game-port",
+        "generals-zero-hour"
+      ],
+      "created_at": "2026-07-04T02:59:39Z",
+      "owner": {
+        "login": "ammaarreshi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/159876365?v=4"
+      }
+    },
+    {
+      "name": "local-llm",
+      "full_name": "jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "description_cn": "everything i k否w about running 大语言模型s 本地ly",
+      "stars": 1192,
+      "forks": 72,
+      "language": "Shell",
+      "url": "https://github.com/jamesob/local-llm",
+      "topics": [],
+      "created_at": "2026-07-03T13:06:03Z",
+      "owner": {
+        "login": "jamesob",
+        "avatar_url": "https://avatars.githubusercontent.com/u/73197?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "score": 300,
-      "comments": 106,
-      "author": "in-silico",
-      "time": 1783359848,
-      "hn_url": "https://news.ycombinator.com/item?id=48808002",
-      "title_cn": "【模型】A global workspace in language models"
+      "title": "Chat Control passed first round in EU Parliament",
+      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "score": 537,
+      "comments": 237,
+      "author": "miroljub",
+      "time": 1783437375,
+      "hn_url": "https://news.ycombinator.com/item?id=48819008",
+      "title_cn": "Chat Control passed first round in EU Parliament"
     },
     {
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "score": 290,
-      "comments": 213,
-      "author": "LabsLucas",
-      "time": 1783350078,
-      "hn_url": "https://news.ycombinator.com/item?id=48805624",
-      "title_cn": "【AI】AMD Ryzen AI Halo – $4k AI Dev Kit"
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "score": 474,
+      "comments": 151,
+      "author": "gasull",
+      "time": 1783434195,
+      "hn_url": "https://news.ycombinator.com/item?id=48818311",
+      "title_cn": "【AI】Chat Control 1.0 and 2.0 Explained"
     },
     {
-      "title": "Aluminum foil (2021)",
-      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-      "score": 253,
-      "comments": 108,
-      "author": "firephox",
-      "time": 1783344537,
-      "hn_url": "https://news.ycombinator.com/item?id=48804297",
-      "title_cn": "Aluminum foil (2021)"
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
+      "score": 391,
+      "comments": 64,
+      "author": "notmcrowley",
+      "time": 1783439893,
+      "hn_url": "https://news.ycombinator.com/item?id=48819608",
+      "title_cn": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format"
     },
     {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
       "score": 223,
-      "comments": 146,
-      "author": "martinald",
-      "time": 1783368895,
-      "hn_url": "https://news.ycombinator.com/item?id=48809877",
-      "title_cn": "【AI】GLM 5.2 and the coming AI margin collapse"
+      "comments": 50,
+      "author": "xinit",
+      "time": 1783449869,
+      "hn_url": "https://news.ycombinator.com/item?id=48821848",
+      "title_cn": "【AI】Show HN: Davit, a Apple Containers UI"
     },
     {
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "score": 139,
-      "comments": 36,
-      "author": "maxloh",
-      "time": 1783356464,
-      "hn_url": "https://news.ycombinator.com/item?id=48807225",
-      "title_cn": "【AI】OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files"
+      "title": "Why skilled workers come to Germany and then leave again",
+      "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+      "score": 195,
+      "comments": 493,
+      "author": "theanonymousone",
+      "time": 1783420979,
+      "hn_url": "https://news.ycombinator.com/item?id=48815982",
+      "title_cn": "【AI】Why skilled workers come to Germany and then leave again"
     },
     {
-      "title": "Kani: A Model Checker for Rust",
-      "url": "https://arxiv.org/abs/2607.01504",
-      "score": 130,
-      "comments": 7,
-      "author": "Jimmc414",
-      "time": 1783353204,
-      "hn_url": "https://news.ycombinator.com/item?id=48806410",
-      "title_cn": "【模型】Kani: A Model Checker for Rust"
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "score": 108,
+      "comments": 27,
+      "author": "segmenta",
+      "time": 1783440644,
+      "hn_url": "https://news.ycombinator.com/item?id=48819808",
+      "title_cn": "【Claude】Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop"
     },
     {
-      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-      "url": "https://ternlight-demo.vercel.app/",
-      "score": 119,
-      "comments": 34,
-      "author": "soycaporal",
-      "time": 1783379191,
-      "hn_url": "https://news.ycombinator.com/item?id=48811644",
-      "title_cn": "【模型】Ternlight – 7 MB embedding model that runs in browser (WASM)"
+      "title": "Automating AI Away",
+      "url": "https://replicated.live/blog/away",
+      "score": 107,
+      "comments": 50,
+      "author": "gritzko",
+      "time": 1783437068,
+      "hn_url": "https://news.ycombinator.com/item?id=48818937",
+      "title_cn": "【AI】Automating AI Away"
     },
     {
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "score": 63,
-      "comments": 6,
-      "author": "emil_sorensen",
-      "time": 1783366104,
-      "hn_url": "https://news.ycombinator.com/item?id=48809354",
-      "title_cn": "Pruning RAG context down to what the answer actually needs"
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "score": 91,
+      "comments": 9,
+      "author": "duha",
+      "time": 1783449395,
+      "hn_url": "https://news.ycombinator.com/item?id=48821749",
+      "title_cn": "【AI】AI Meets Cryptography 1: What AI Found in Cloudflare's Circl"
     },
     {
-      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
-      "score": 60,
+      "title": "We're extending access to Fable 5 on all paid plans through July 12",
+      "url": "https://twitter.com/claudeai/status/2074548242386178258",
+      "score": 78,
       "comments": 54,
-      "author": "u1hcw9nx",
-      "time": 1783372163,
-      "hn_url": "https://news.ycombinator.com/item?id=48810533",
-      "title_cn": "【AI】AI: The ROI Runway Could Be Long Outside the Tech Sector"
+      "author": "minimaxir",
+      "time": 1783446290,
+      "hn_url": "https://news.ycombinator.com/item?id=48821102",
+      "title_cn": "【AI】We're extending access to Fable 5 on all paid plans through July 12"
     },
     {
-      "title": "M/PC – A Concatenative OS",
-      "url": "https://wiki.xxiivv.com/site/m_pc.html",
-      "score": 45,
-      "comments": 5,
-      "author": "caminanteblanco",
-      "time": 1783368526,
-      "hn_url": "https://news.ycombinator.com/item?id=48809810",
-      "title_cn": "M/PC – A Concatenative OS"
+      "title": "Camera with transparent display launches for the equivalent of $29",
+      "url": "https://www.notebookcheck.net/Camera-with-transparent-display-launches-for-the-equivalent-of-29.1334495.0.html",
+      "score": 66,
+      "comments": 41,
+      "author": "yread",
+      "time": 1783112076,
+      "hn_url": "https://news.ycombinator.com/item?id=48779844",
+      "title_cn": "【推出】Camera with transparent display launches for the equivalent of $29"
     },
     {
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "score": 54,
+      "comments": 9,
+      "author": "miniBill",
+      "time": 1783469331,
+      "hn_url": "https://news.ycombinator.com/item?id=48825749",
+      "title_cn": "【AI】Tenda firmware (multiple versions) contains hidden authentication backdoor"
+    },
+    {
+      "title": "IEEE Rolls Out Large Language Models Training Course",
+      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
       "score": 43,
-      "comments": 10,
-      "author": "sscaryterry",
-      "time": 1783382394,
-      "hn_url": "https://news.ycombinator.com/item?id=48812055",
-      "title_cn": "【AI, 模型】Small AI Models Gain Traction In places with unreliable networks"
+      "comments": 7,
+      "author": "JeanKage",
+      "time": 1782884482,
+      "hn_url": "https://news.ycombinator.com/item?id=48742703",
+      "title_cn": "【AI, 模型, 训练】IEEE Rolls Out Large Language Models Training Course"
     },
     {
-      "title": "Poly/ML – A Standard ML Implementation",
-      "url": "https://github.com/polyml/polyml",
-      "score": 31,
-      "comments": 6,
-      "author": "Lyngbakr",
-      "time": 1783376886,
-      "hn_url": "https://news.ycombinator.com/item?id=48811317",
-      "title_cn": "Poly/ML – A Standard ML Implementation"
+      "title": "First Principles of Model Routing",
+      "url": "https://try.works/first-principles-of-model-routing",
+      "score": 27,
+      "comments": 12,
+      "author": "try-working",
+      "time": 1783056972,
+      "hn_url": "https://news.ycombinator.com/item?id=48771200",
+      "title_cn": "【模型】First Principles of Model Routing"
     },
     {
-      "title": "Evaluation order and nontermination in query languages",
-      "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
-      "score": 26,
-      "comments": 2,
-      "author": "luu",
-      "time": 1782976138,
-      "hn_url": "https://news.ycombinator.com/item?id=48757619",
-      "title_cn": "Evaluation order and nontermination in query languages"
+      "title": "Show HN: Free Mermaid Diagram Editor",
+      "url": "https://moxiedocs.com/mermaid-diagram-editor",
+      "score": 17,
+      "comments": 4,
+      "author": "ghosts_",
+      "time": 1783466976,
+      "hn_url": "https://news.ycombinator.com/item?id=48825430",
+      "title_cn": "【AI】Show HN: Free Mermaid Diagram Editor"
     },
     {
-      "title": "Taiganet.com, Home of the WS4000 Simulator",
-      "url": "https://www.taiganet.com/",
-      "score": 19,
-      "comments": 3,
-      "author": "Aloha",
-      "time": 1783371984,
-      "hn_url": "https://news.ycombinator.com/item?id=48810501",
-      "title_cn": "【AI】Taiganet.com, Home of the WS4000 Simulator"
-    },
-    {
-      "title": "Giving a domain a hill to climb: benchmarking as data activation",
-      "url": "https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/",
-      "score": 6,
-      "comments": 2,
-      "author": "galsapir",
-      "time": 1783110760,
-      "hn_url": "https://news.ycombinator.com/item?id=48779632",
-      "title_cn": "【AI, 基准测试】Giving a domain a hill to climb: benchmarking as data activation"
+      "title": "Git Hash Chain Malleability",
+      "url": "https://arxiv.org/abs/2607.02820",
+      "score": 9,
+      "comments": 5,
+      "author": "xqb64",
+      "time": 1783466463,
+      "hn_url": "https://news.ycombinator.com/item?id=48825356",
+      "title_cn": "【AI】Git Hash Chain Malleability"
     }
   ]
 }
