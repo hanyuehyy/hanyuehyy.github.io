@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-07-11T03:14:28.122848",
+  "updated_at": "2026-07-12T03:25:55.540359",
   "github_projects": [
+    {
+      "name": "X4G",
+      "full_name": "x4gKing/X4G",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 4510,
+      "forks": 8527,
+      "language": "Python",
+      "url": "https://github.com/x4gKing/X4G",
+      "topics": [],
+      "created_at": "2026-07-04T06:43:51Z",
+      "owner": {
+        "login": "x4gKing",
+        "avatar_url": "https://avatars.githubusercontent.com/u/298382259?v=4"
+      }
+    },
     {
       "name": "T3MP3ST",
       "full_name": "elder-plinius/T3MP3ST",
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "description_cn": "aut开启omous red 团队ing platform; 多-智能体 关闭ensive-安全 meta-harness",
-      "stars": 4336,
-      "forks": 925,
+      "stars": 4441,
+      "forks": 945,
       "language": "TypeScript",
       "url": "https://github.com/elder-plinius/T3MP3ST",
       "topics": [
@@ -24,28 +40,12 @@
       }
     },
     {
-      "name": "X4G",
-      "full_name": "x4gKing/X4G",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 4053,
-      "forks": 7687,
-      "language": "Python",
-      "url": "https://github.com/x4gKing/X4G",
-      "topics": [],
-      "created_at": "2026-07-04T06:43:51Z",
-      "owner": {
-        "login": "x4gKing",
-        "avatar_url": "https://avatars.githubusercontent.com/u/298382259?v=4"
-      }
-    },
-    {
       "name": "colibri",
       "full_name": "JustVugg/colibri",
       "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "description_cn": "run glm-5.2 (744b moe) 开启 a 25gb-ram 消费者 maChine — 纯 C, zero deps, experts streamed from disk. tiny 引擎, immense 模型. 🐦",
-      "stars": 2283,
-      "forks": 159,
+      "stars": 4156,
+      "forks": 352,
       "language": "C",
       "url": "https://github.com/JustVugg/colibri",
       "topics": [],
@@ -60,8 +60,8 @@
       "full_name": "withmarbleapp/os-taxonomy",
       "description": "No description",
       "description_cn": "",
-      "stars": 2168,
-      "forks": 390,
+      "stars": 2443,
+      "forks": 457,
       "language": "JavaScript",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "topics": [],
@@ -76,8 +76,8 @@
       "full_name": "synthetic-sciences/openscience",
       "description": "The open-source AI workbench for scientific research",
       "description_cn": "the 开源 AI workbenCh for sCient如果内联缓存 re搜索",
-      "stars": 2088,
-      "forks": 297,
+      "stars": 2185,
+      "forks": 309,
       "language": "TypeScript",
       "url": "https://github.com/synthetic-sciences/openscience",
       "topics": [
@@ -94,28 +94,12 @@
       }
     },
     {
-      "name": "CS-Fundamentals",
-      "full_name": "Krishnagangwal/CS-Fundamentals",
-      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
-      "description_cn": "Curated Cs fundamentals for plaCement prep: dsa,Computer 网络s, dbms & SQL, oops, operating 系统s, 系统 design & software 引擎ering",
-      "stars": 1901,
-      "forks": 179,
-      "language": "Unknown",
-      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
-      "topics": [],
-      "created_at": "2026-06-28T07:08:15Z",
-      "owner": {
-        "login": "Krishnagangwal",
-        "avatar_url": "https://avatars.githubusercontent.com/u/175389609?v=4"
-      }
-    },
-    {
       "name": "ios-location-spoofer",
       "full_name": "mekos2772/ios-location-spoofer",
       "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "description_cn": "standal开启e ios app to spoof gps loCati开启 without jAIl分支eak. inCludes shadowroCket/surge/lo开启/qx/stash module.",
-      "stars": 1881,
-      "forks": 274,
+      "stars": 1916,
+      "forks": 285,
       "language": "JavaScript",
       "url": "https://github.com/mekos2772/ios-location-spoofer",
       "topics": [],
@@ -130,8 +114,8 @@
       "full_name": "isjiamu/gzh-design-skill",
       "description": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
       "description_cn": "把 markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。an AI-智能体 skill that turns markdown into p抽象语法树e-ready we聊天 art内联缓存le HTML.",
-      "stars": 1837,
-      "forks": 206,
+      "stars": 1913,
+      "forks": 213,
       "language": "HTML",
       "url": "https://github.com/isjiamu/gzh-design-skill",
       "topics": [
@@ -152,8 +136,8 @@
       "full_name": "xuchonglang/investing-for-beginners",
       "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
       "description_cn": "",
-      "stars": 1768,
-      "forks": 106,
+      "stars": 1816,
+      "forks": 109,
       "language": "Unknown",
       "url": "https://github.com/xuchonglang/investing-for-beginners",
       "topics": [
@@ -170,172 +154,192 @@
       }
     },
     {
-      "name": "Codex-5.5-codex-instruct-5.5",
-      "full_name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 1745,
-      "forks": 465,
-      "language": "Python",
-      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "topics": [],
-      "created_at": "2026-06-28T10:24:42Z",
+      "name": "knockoff",
+      "full_name": "Shpigford/knockoff",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "description_cn": "Chrome 扩展 that filters pseudo-分支and junk out of amaz开启. buy from real, established 分支ands.",
+      "stars": 1776,
+      "forks": 58,
+      "language": "JavaScript",
+      "url": "https://github.com/Shpigford/knockoff",
+      "topics": [
+        "amazon",
+        "browser-extension",
+        "chrome-extension"
+      ],
+      "created_at": "2026-07-06T15:06:06Z",
       "owner": {
-        "login": "yynxxxxx",
-        "avatar_url": "https://avatars.githubusercontent.com/u/139136586?v=4"
+        "login": "Shpigford",
+        "avatar_url": "https://avatars.githubusercontent.com/u/35243?v=4"
+      }
+    },
+    {
+      "name": "claude-real-video",
+      "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "description_cn": "let Claude (or any 大语言模型) aCtually watCh a 视频 — sCene-aware, dedupl内联缓存ated frames + transCrIPt, from a url or 本地 file. runs 本地ly, mit.",
+      "stars": 1518,
+      "forks": 114,
+      "language": "Python",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "topics": [],
+      "created_at": "2026-06-30T10:55:02Z",
+      "owner": {
+        "login": "HUANGCHIHHUNGLeo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/207666334?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1520,
-      "comments": 1081,
-      "author": "logickkk1",
-      "time": 1783616654,
-      "hn_url": "https://news.ycombinator.com/item?id=48849066",
-      "title_cn": "【GPT】GPT-5.6"
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "score": 277,
+      "comments": 92,
+      "author": "speckx",
+      "time": 1783789403,
+      "hn_url": "https://news.ycombinator.com/item?id=48873692",
+      "title_cn": "【AI】Female US rower completes historic solo journey from California to Hawaii"
     },
     {
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 640,
-      "comments": 312,
-      "author": "stock_toaster",
-      "time": 1783716429,
-      "hn_url": "https://news.ycombinator.com/item?id=48865019",
-      "title_cn": "【AI, OpenAI】Apple sues OpenAI, accuses ex-employees of stealing trade secrets"
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "url": "https://www.mixfont.com/ghost-font",
+      "score": 201,
+      "comments": 147,
+      "author": "justswim",
+      "time": 1783762613,
+      "hn_url": "https://news.ycombinator.com/item?id=48870381",
+      "title_cn": "【AI】Ghost Font: A font that humans can read but AI cannot"
     },
     {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 371,
-      "comments": 300,
-      "author": "scrlk",
-      "time": 1783708159,
-      "hn_url": "https://news.ycombinator.com/item?id=48863490",
-      "title_cn": "【GPT】GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]"
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "score": 175,
+      "comments": 59,
+      "author": "adletbalzhanov",
+      "time": 1783790509,
+      "hn_url": "https://news.ycombinator.com/item?id=48873836",
+      "title_cn": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom"
     },
     {
-      "title": "How the terrorist group Boko Haram uses frontier AI",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "score": 188,
-      "comments": 158,
-      "author": "imustachyou",
-      "time": 1783709366,
-      "hn_url": "https://news.ycombinator.com/item?id=48863707",
-      "title_cn": "【AI】How the terrorist group Boko Haram uses frontier AI"
+      "title": "Stop Telling Me to Ask an LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "score": 169,
+      "comments": 95,
+      "author": "theorchid",
+      "time": 1783808928,
+      "hn_url": "https://news.ycombinator.com/item?id=48876441",
+      "title_cn": "【大语言模型】Stop Telling Me to Ask an LLM"
     },
     {
-      "title": "AI 2040: Plan A",
-      "url": "https://ai-2040.com/",
-      "score": 170,
-      "comments": 171,
-      "author": "kschaul",
-      "time": 1783614104,
-      "hn_url": "https://news.ycombinator.com/item?id=48848425",
-      "title_cn": "【AI】AI 2040: Plan A"
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "score": 131,
+      "comments": 32,
+      "author": "tionis",
+      "time": 1783809537,
+      "hn_url": "https://news.ycombinator.com/item?id=48876505",
+      "title_cn": "【AI, 大语言模型】Mesh LLM: distributed AI computing on iroh"
     },
     {
-      "title": "Lost city discovered beneath Egypt's desert with ancient church",
-      "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
-      "score": 165,
-      "comments": 76,
-      "author": "Bender",
-      "time": 1783341177,
-      "hn_url": "https://news.ycombinator.com/item?id=48803707",
-      "title_cn": "Lost city discovered beneath Egypt's desert with ancient church"
+      "title": "Weightlifting beats running for blood sugar control, researchers find (2025)",
+      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+      "score": 125,
+      "comments": 65,
+      "author": "sublinear",
+      "time": 1783810182,
+      "hn_url": "https://news.ycombinator.com/item?id=48876593",
+      "title_cn": "Weightlifting beats running for blood sugar control, researchers find (2025)"
     },
     {
-      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "score": 161,
-      "comments": 127,
-      "author": "simonebrunozzi",
-      "time": 1783701472,
-      "hn_url": "https://news.ycombinator.com/item?id=48862252",
-      "title_cn": "【AI】Snails' teeth beats spider silk as nature's strongest material (2015)"
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "score": 97,
+      "comments": 60,
+      "author": "wolfi1",
+      "time": 1783783572,
+      "hn_url": "https://news.ycombinator.com/item?id=48872858",
+      "title_cn": "The early History of the Singular Value Decomposition (1993) [pdf]"
     },
     {
-      "title": "Punk, or why I don't stream anymore",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
-      "score": 145,
-      "comments": 185,
-      "author": "surprisetalk",
-      "time": 1783690219,
-      "hn_url": "https://news.ycombinator.com/item?id=48859671",
-      "title_cn": "Punk, or why I don't stream anymore"
-    },
-    {
-      "title": "A love letter to flashcards",
-      "url": "https://lesleylai.info/en/flashcards/",
-      "score": 134,
-      "comments": 84,
-      "author": "surprisetalk",
-      "time": 1783697444,
-      "hn_url": "https://news.ycombinator.com/item?id=48861319",
-      "title_cn": "A love letter to flashcards"
-    },
-    {
-      "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
-      "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-      "score": 90,
-      "comments": 102,
-      "author": "aviaviavi",
-      "time": 1783690241,
-      "hn_url": "https://news.ycombinator.com/item?id=48859673",
-      "title_cn": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
-    },
-    {
-      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-      "url": "https://github.com/Rodiun/frugon",
-      "score": 57,
-      "comments": 10,
-      "author": "jarodrh",
-      "time": 1783426854,
-      "hn_url": "https://news.ycombinator.com/item?id=48816724",
-      "title_cn": "【大语言模型, 模型】Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)"
-    },
-    {
-      "title": "Show HN: Reviving my 2001 college band with AI",
-      "url": "https://www.fadingmaize.com",
-      "score": 53,
+      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "score": 96,
       "comments": 56,
-      "author": "jacobgraf",
-      "time": 1783626577,
-      "hn_url": "https://news.ycombinator.com/item?id=48851476",
-      "title_cn": "【AI】Show HN: Reviving my 2001 college band with AI"
+      "author": "jason_s",
+      "time": 1783790632,
+      "hn_url": "https://news.ycombinator.com/item?id=48873855",
+      "title_cn": "【AI】Reverse centaurs are the answer to the AI paradox (2025)"
     },
     {
-      "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "score": 43,
-      "comments": 9,
-      "author": "djfergus",
-      "time": 1783716182,
-      "hn_url": "https://news.ycombinator.com/item?id=48864969",
-      "title_cn": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years"
+      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "score": 81,
+      "comments": 38,
+      "author": "jhoho",
+      "time": 1783818590,
+      "hn_url": "https://news.ycombinator.com/item?id=48877371",
+      "title_cn": "【AI】What xAI's Grok Build CLI Actually Sends to xAI"
     },
     {
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-      "score": 30,
-      "comments": 10,
-      "author": "cdrnsf",
-      "time": 1783730436,
-      "hn_url": "https://news.ycombinator.com/item?id=48867233",
-      "title_cn": "【AI】Meta pulls new AI image feature after days of backlash"
+      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+      "url": "https://nagylukas.github.io/orbit.html",
+      "score": 63,
+      "comments": 17,
+      "author": "lukas9",
+      "time": 1783787942,
+      "hn_url": "https://news.ycombinator.com/item?id=48873501",
+      "title_cn": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects"
     },
     {
-      "title": "Materials innovation has a scale-up problem, not discovery",
-      "url": "https://www.atomscale.ai/updates/our-thesis-atom-to-scale",
-      "score": 26,
-      "comments": 10,
-      "author": "groznyj",
-      "time": 1783710216,
-      "hn_url": "https://news.ycombinator.com/item?id=48863849",
-      "title_cn": "Materials innovation has a scale-up problem, not discovery"
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "score": 51,
+      "comments": 28,
+      "author": "msephton",
+      "time": 1783721085,
+      "hn_url": "https://news.ycombinator.com/item?id=48865903",
+      "title_cn": "【AI】AI Can't Recreate the Thrust Game (But It Can Help You Understand It)"
+    },
+    {
+      "title": "A dock that wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "score": 37,
+      "comments": 28,
+      "author": "ingve",
+      "time": 1783817290,
+      "hn_url": "https://news.ycombinator.com/item?id=48877269",
+      "title_cn": "A dock that wakes up reliably"
+    },
+    {
+      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "url": "https://github.com/sqlsure/sqlsure",
+      "score": 22,
+      "comments": 1,
+      "author": "tejusarora",
+      "time": 1783800222,
+      "hn_url": "https://news.ycombinator.com/item?id=48875342",
+      "title_cn": "【AI】Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL"
+    },
+    {
+      "title": "Wealthy AI workers send San Francisco house prices soaring",
+      "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
+      "score": 19,
+      "comments": 7,
+      "author": "root-parent",
+      "time": 1783800398,
+      "hn_url": "https://news.ycombinator.com/item?id=48875371",
+      "title_cn": "【AI】Wealthy AI workers send San Francisco house prices soaring"
+    },
+    {
+      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+      "score": 8,
+      "comments": 1,
+      "author": "marzukia",
+      "time": 1783810446,
+      "hn_url": "https://news.ycombinator.com/item?id=48876619",
+      "title_cn": "【AI】Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio"
     }
   ]
 }
