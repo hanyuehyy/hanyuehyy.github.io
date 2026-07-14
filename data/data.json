@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-13T03:29:05.337103",
+  "updated_at": "2026-07-14T02:51:10.546065",
   "github_projects": [
     {
       "name": "colibri",
       "full_name": "JustVugg/colibri",
       "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "description_cn": "run glm-5.2 (744b moe) 开启 a 25gb-ram 消费者 maChine — 纯 C, zero deps, experts streamed from disk. tiny 引擎, immense 模型. 🐦",
-      "stars": 6795,
-      "forks": 570,
+      "stars": 10012,
+      "forks": 787,
       "language": "C",
       "url": "https://github.com/JustVugg/colibri",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "x4gKing/X4G",
       "description": "No description",
       "description_cn": "",
-      "stars": 4858,
-      "forks": 9141,
+      "stars": 5050,
+      "forks": 9415,
       "language": "Python",
       "url": "https://github.com/x4gKing/X4G",
       "topics": [],
@@ -38,8 +38,8 @@
       "full_name": "elder-plinius/T3MP3ST",
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "description_cn": "aut开启omous red 团队ing platform; 多-智能体 关闭ensive-安全 meta-harness",
-      "stars": 4539,
-      "forks": 968,
+      "stars": 4642,
+      "forks": 980,
       "language": "TypeScript",
       "url": "https://github.com/elder-plinius/T3MP3ST",
       "topics": [
@@ -60,8 +60,8 @@
       "full_name": "withmarbleapp/os-taxonomy",
       "description": "No description",
       "description_cn": "",
-      "stars": 2739,
-      "forks": 499,
+      "stars": 2937,
+      "forks": 522,
       "language": "JavaScript",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "topics": [],
@@ -76,8 +76,8 @@
       "full_name": "synthetic-sciences/openscience",
       "description": "The open-source AI workbench for scientific research",
       "description_cn": "the 开源 AI workbenCh for sCient如果内联缓存 re搜索",
-      "stars": 2285,
-      "forks": 323,
+      "stars": 2369,
+      "forks": 340,
       "language": "TypeScript",
       "url": "https://github.com/synthetic-sciences/openscience",
       "topics": [
@@ -98,8 +98,8 @@
       "full_name": "isjiamu/gzh-design-skill",
       "description": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
       "description_cn": "把 markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。an AI-智能体 skill that turns markdown into p抽象语法树e-ready we聊天 art内联缓存le HTML.",
-      "stars": 2001,
-      "forks": 225,
+      "stars": 2074,
+      "forks": 237,
       "language": "HTML",
       "url": "https://github.com/isjiamu/gzh-design-skill",
       "topics": [
@@ -116,28 +116,12 @@
       }
     },
     {
-      "name": "ios-location-spoofer",
-      "full_name": "mekos2772/ios-location-spoofer",
-      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "description_cn": "standal开启e ios app to spoof gps loCati开启 without jAIl分支eak. inCludes shadowroCket/surge/lo开启/qx/stash module.",
-      "stars": 1950,
-      "forks": 292,
-      "language": "JavaScript",
-      "url": "https://github.com/mekos2772/ios-location-spoofer",
-      "topics": [],
-      "created_at": "2026-06-30T11:20:30Z",
-      "owner": {
-        "login": "mekos2772",
-        "avatar_url": "https://avatars.githubusercontent.com/u/119464194?v=4"
-      }
-    },
-    {
       "name": "investing-for-beginners",
       "full_name": "xuchonglang/investing-for-beginners",
       "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
       "description_cn": "",
-      "stars": 1850,
-      "forks": 115,
+      "stars": 1937,
+      "forks": 119,
       "language": "Unknown",
       "url": "https://github.com/xuchonglang/investing-for-beginners",
       "topics": [
@@ -158,14 +142,16 @@
       "full_name": "Shpigford/knockoff",
       "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
       "description_cn": "Chrome 扩展 that filters pseudo-分支and junk out of amaz开启. buy from real, established 分支ands.",
-      "stars": 1827,
-      "forks": 59,
+      "stars": 1875,
+      "forks": 62,
       "language": "JavaScript",
       "url": "https://github.com/Shpigford/knockoff",
       "topics": [
         "amazon",
         "browser-extension",
-        "chrome-extension"
+        "chrome-extension",
+        "firefox-addon",
+        "ios-extension"
       ],
       "created_at": "2026-07-06T15:06:06Z",
       "owner": {
@@ -174,172 +160,194 @@
       }
     },
     {
-      "name": "claude-real-video",
-      "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
-      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "description_cn": "let Claude (or any 大语言模型) aCtually watCh a 视频 — sCene-aware, dedupl内联缓存ated frames + transCrIPt, from a url or 本地 file. runs 本地ly, mit.",
-      "stars": 1564,
-      "forks": 119,
-      "language": "Python",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "name": "scroll-world",
+      "full_name": "oso95/scroll-world",
+      "description": "A skill that turn any brand into a scrollable 3D world",
+      "description_cn": "a skill that turn any 分支and into a sCrollable 3D world",
+      "stars": 1641,
+      "forks": 215,
+      "language": "JavaScript",
+      "url": "https://github.com/oso95/scroll-world",
       "topics": [],
-      "created_at": "2026-06-30T10:55:02Z",
+      "created_at": "2026-07-06T21:28:58Z",
       "owner": {
-        "login": "HUANGCHIHHUNGLeo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/207666334?v=4"
+        "login": "oso95",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86410452?v=4"
+      }
+    },
+    {
+      "name": "riddle",
+      "full_name": "MaximeRivest/riddle",
+      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "description_cn": "the diary of tom riddle for the remarkable paper pro — write with your pen, the 页 drinks your ink and answers in a flowing hand",
+      "stars": 1526,
+      "forks": 135,
+      "language": "Rust",
+      "url": "https://github.com/MaximeRivest/riddle",
+      "topics": [
+        "appload",
+        "eink",
+        "quill",
+        "remagic-app",
+        "remarkable-customization"
+      ],
+      "created_at": "2026-07-05T15:48:08Z",
+      "owner": {
+        "login": "MaximeRivest",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10967951?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 489,
-      "comments": 274,
-      "author": "systima",
-      "time": 1783880751,
-      "hn_url": "https://news.ycombinator.com/item?id=48883275",
-      "title_cn": "【Claude】Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "score": 466,
+      "comments": 188,
+      "author": "get-inscribe",
+      "time": 1783958768,
+      "hn_url": "https://news.ycombinator.com/item?id=48894752",
+      "title_cn": "【AI, 基准测试, API】Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor"
     },
     {
-      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "score": 409,
-      "comments": 160,
-      "author": "jhoho",
-      "time": 1783818590,
-      "hn_url": "https://news.ycombinator.com/item?id=48877371",
-      "title_cn": "【AI】What xAI's Grok build CLI sends to xAI: A wire-level analysis"
+      "title": "Telegram's t.me domain has been suspended",
+      "url": "https://www.whois.com/whois/t.me",
+      "score": 269,
+      "comments": 191,
+      "author": "Tiberium",
+      "time": 1783972345,
+      "hn_url": "https://news.ycombinator.com/item?id=48897878",
+      "title_cn": "【AI】Telegram's t.me domain has been suspended"
     },
     {
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "score": 350,
-      "comments": 210,
-      "author": "therepanic",
-      "time": 1783881116,
-      "hn_url": "https://news.ycombinator.com/item?id=48883343",
-      "title_cn": "【大语言模型】I love LLMs, I hate hype"
-    },
-    {
-      "title": "The shingles vaccine may reduce the risk of dementia",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-      "score": 219,
-      "comments": 180,
-      "author": "saikatsg",
-      "time": 1783869839,
-      "hn_url": "https://news.ycombinator.com/item?id=48881874",
-      "title_cn": "The shingles vaccine may reduce the risk of dementia"
-    },
-    {
-      "title": "Don't you mean extinct?",
-      "url": "https://fabiensanglard.net/extinct/index.html",
-      "score": 187,
-      "comments": 117,
-      "author": "zdw",
-      "time": 1783869440,
-      "hn_url": "https://news.ycombinator.com/item?id=48881830",
-      "title_cn": "Don't you mean extinct?"
-    },
-    {
-      "title": "Tiny Emulators",
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "score": 167,
-      "comments": 10,
-      "author": "naves",
-      "time": 1783887785,
-      "hn_url": "https://news.ycombinator.com/item?id=48884395",
-      "title_cn": "Tiny Emulators"
-    },
-    {
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "score": 152,
+      "title": "The art and engineering of Sega CD Silpheed",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "score": 234,
       "comments": 50,
-      "author": "brryant",
-      "time": 1783876387,
-      "hn_url": "https://news.ycombinator.com/item?id=48882716",
-      "title_cn": "【AI, GPT】Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper"
+      "author": "ibobev",
+      "time": 1783954353,
+      "hn_url": "https://news.ycombinator.com/item?id=48893639",
+      "title_cn": "The art and engineering of Sega CD Silpheed"
     },
     {
-      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "score": 122,
-      "comments": 44,
-      "author": "ranger_danger",
-      "time": 1783529638,
-      "hn_url": "https://news.ycombinator.com/item?id=48834309",
-      "title_cn": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years"
-    },
-    {
-      "title": "I Learned to Read Again",
-      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-      "score": 109,
-      "comments": 48,
-      "author": "georgex7",
-      "time": 1783880535,
-      "hn_url": "https://news.ycombinator.com/item?id=48883238",
-      "title_cn": "【AI】I Learned to Read Again"
-    },
-    {
-      "title": "Against Usefulness",
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "score": 88,
-      "comments": 23,
-      "author": "supo",
-      "time": 1783878427,
-      "hn_url": "https://news.ycombinator.com/item?id=48882956",
-      "title_cn": "【AI】Against Usefulness"
-    },
-    {
-      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "score": 86,
-      "comments": 64,
-      "author": "adunk",
-      "time": 1783879481,
-      "hn_url": "https://news.ycombinator.com/item?id=48883090",
-      "title_cn": "【大语言模型】Mechanistic interpretability researchers applying causality theory to LLMs"
-    },
-    {
-      "title": "Why Vanilla JavaScript",
-      "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
-      "score": 81,
-      "comments": 39,
-      "author": "guseyn",
-      "time": 1783896831,
-      "hn_url": "https://news.ycombinator.com/item?id=48885705",
-      "title_cn": "Why Vanilla JavaScript"
-    },
-    {
-      "title": "Designing and assembling my first PCB",
-      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "title": "Show HN: I implemented a neural network in SQL",
+      "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
       "score": 65,
-      "comments": 12,
-      "author": "tadasv",
-      "time": 1783897016,
-      "hn_url": "https://news.ycombinator.com/item?id=48885728",
-      "title_cn": "Designing and assembling my first PCB"
+      "comments": 13,
+      "author": "alxmrs",
+      "time": 1783972810,
+      "hn_url": "https://news.ycombinator.com/item?id=48897975",
+      "title_cn": "【神经网络】Show HN: I implemented a neural network in SQL"
     },
     {
-      "title": "The One-Step Trap (In AI Research)",
-      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-      "score": 47,
+      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "url": "https://github.com/jbwinters/jacquard-lang",
+      "score": 56,
+      "comments": 24,
+      "author": "jbwinters",
+      "time": 1783958162,
+      "hn_url": "https://news.ycombinator.com/item?id=48894630",
+      "title_cn": "【AI】Show HN: Jacquard, a programming language for AI-written, human-reviewed code"
+    },
+    {
+      "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+      "url": "https://arxiv.org/abs/2607.01418",
+      "score": 31,
+      "comments": 17,
+      "author": "softwaredoug",
+      "time": 1783979031,
+      "hn_url": "https://news.ycombinator.com/item?id=48899321",
+      "title_cn": "【Claude】A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI"
+    },
+    {
+      "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
+      "url": "https://hackney.app/",
+      "score": 26,
+      "comments": 20,
+      "author": "griffinli",
+      "time": 1783954043,
+      "hn_url": "https://news.ycombinator.com/item?id=48893550",
+      "title_cn": "【机器人】Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices"
+    },
+    {
+      "title": "The Difference Between Watercolor and Gouache Paints",
+      "url": "https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963",
+      "score": 22,
+      "comments": 2,
+      "author": "ynac",
+      "time": 1783704988,
+      "hn_url": "https://news.ycombinator.com/item?id=48862854",
+      "title_cn": "【AI】The Difference Between Watercolor and Gouache Paints"
+    },
+    {
+      "title": "Turn your singing voice into printable notes (in the browser)",
+      "url": "https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html",
+      "score": 20,
       "comments": 9,
-      "author": "jxmorris12",
-      "time": 1783881675,
-      "hn_url": "https://news.ycombinator.com/item?id=48883415",
-      "title_cn": "【AI】The One-Step Trap (In AI Research)"
+      "author": "busssard",
+      "time": 1783987836,
+      "hn_url": "https://news.ycombinator.com/item?id=48900686",
+      "title_cn": "Turn your singing voice into printable notes (in the browser)"
     },
     {
-      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
-      "url": "https://nanduruganesh.github.io/flash-msa/",
-      "score": 29,
+      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+      "score": 19,
+      "comments": 16,
+      "author": "detkin",
+      "time": 1783985212,
+      "hn_url": "https://news.ycombinator.com/item?id=48900319",
+      "title_cn": "【AI】Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder"
+    },
+    {
+      "title": "Fundamentals of Wireless Communication",
+      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "score": 14,
+      "comments": 2,
+      "author": "teleforce",
+      "time": 1783995019,
+      "hn_url": "https://news.ycombinator.com/item?id=48901454",
+      "title_cn": "Fundamentals of Wireless Communication"
+    },
+    {
+      "title": "The AI Whale Fall and Open Source",
+      "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
+      "score": 14,
+      "comments": 5,
+      "author": "ai_critic",
+      "time": 1783984602,
+      "hn_url": "https://news.ycombinator.com/item?id=48900231",
+      "title_cn": "【AI, 开源】The AI Whale Fall and Open Source"
+    },
+    {
+      "title": "Building Food Metadata with LLM Juries",
+      "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+      "score": 10,
+      "comments": 0,
+      "author": "tie-in",
+      "time": 1783993309,
+      "hn_url": "https://news.ycombinator.com/item?id=48901275",
+      "title_cn": "【大语言模型】Building Food Metadata with LLM Juries"
+    },
+    {
+      "title": "What will be left for us to work on?",
+      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "score": 6,
+      "comments": 0,
+      "author": "randomwalker",
+      "time": 1783993480,
+      "hn_url": "https://news.ycombinator.com/item?id=48901292",
+      "title_cn": "What will be left for us to work on?"
+    },
+    {
+      "title": "Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup)",
+      "url": "https://github.com/DaqulaLin/MemStitch",
+      "score": 6,
       "comments": 1,
-      "author": "rawsh",
-      "time": 1783889203,
-      "hn_url": "https://news.ycombinator.com/item?id=48884618",
-      "title_cn": "【AI, 训练】Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels"
+      "author": "daqulalin",
+      "time": 1783991042,
+      "hn_url": "https://news.ycombinator.com/item?id=48901051",
+      "title_cn": "【大语言模型】Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup)"
     }
   ]
 }
