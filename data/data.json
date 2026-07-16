@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-15T02:49:53.703561",
+  "updated_at": "2026-07-16T02:56:37.982108",
   "github_projects": [
     {
       "name": "X4G",
       "full_name": "x4gKing/X4G",
       "description": "No description",
       "description_cn": "",
-      "stars": 5290,
-      "forks": 9804,
+      "stars": 5495,
+      "forks": 10136,
       "language": "Python",
       "url": "https://github.com/x4gKing/X4G",
       "topics": [],
@@ -18,25 +18,19 @@
       }
     },
     {
-      "name": "T3MP3ST",
-      "full_name": "elder-plinius/T3MP3ST",
-      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-      "description_cn": "aut开启omous red 团队ing platform; 多-智能体 关闭ensive-安全 meta-harness",
-      "stars": 4723,
-      "forks": 996,
-      "language": "TypeScript",
-      "url": "https://github.com/elder-plinius/T3MP3ST",
-      "topics": [
-        "agents",
-        "ai",
-        "multi-agent",
-        "offensive-security",
-        "redteam"
-      ],
-      "created_at": "2026-07-02T17:53:55Z",
+      "name": "grok-build",
+      "full_name": "xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "description_cn": "spaCexAI's Coding 智能体 harness and tui. fullsCreen, mouse inter活跃, extensible.",
+      "stars": 4482,
+      "forks": 655,
+      "language": "Rust",
+      "url": "https://github.com/xai-org/grok-build",
+      "topics": [],
+      "created_at": "2026-07-14T20:04:23Z",
       "owner": {
-        "login": "elder-plinius",
-        "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
+        "login": "xai-org",
+        "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
       }
     },
     {
@@ -44,8 +38,8 @@
       "full_name": "withmarbleapp/os-taxonomy",
       "description": "No description",
       "description_cn": "",
-      "stars": 3057,
-      "forks": 533,
+      "stars": 3137,
+      "forks": 543,
       "language": "JavaScript",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "topics": [],
@@ -56,12 +50,28 @@
       }
     },
     {
+      "name": "scroll-world",
+      "full_name": "oso95/scroll-world",
+      "description": "A skill that turn any brand into a scrollable 3D world",
+      "description_cn": "a skill that turn any 分支and into a sCrollable 3D world",
+      "stars": 2578,
+      "forks": 311,
+      "language": "JavaScript",
+      "url": "https://github.com/oso95/scroll-world",
+      "topics": [],
+      "created_at": "2026-07-06T21:28:58Z",
+      "owner": {
+        "login": "oso95",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86410452?v=4"
+      }
+    },
+    {
       "name": "openscience",
       "full_name": "synthetic-sciences/openscience",
       "description": "The open-source AI workbench for scientific research",
       "description_cn": "the 开源 AI workbenCh for sCient如果内联缓存 re搜索",
-      "stars": 2420,
-      "forks": 352,
+      "stars": 2471,
+      "forks": 356,
       "language": "TypeScript",
       "url": "https://github.com/synthetic-sciences/openscience",
       "topics": [
@@ -78,28 +88,12 @@
       }
     },
     {
-      "name": "scroll-world",
-      "full_name": "oso95/scroll-world",
-      "description": "A skill that turn any brand into a scrollable 3D world",
-      "description_cn": "a skill that turn any 分支and into a sCrollable 3D world",
-      "stars": 2242,
-      "forks": 269,
-      "language": "JavaScript",
-      "url": "https://github.com/oso95/scroll-world",
-      "topics": [],
-      "created_at": "2026-07-06T21:28:58Z",
-      "owner": {
-        "login": "oso95",
-        "avatar_url": "https://avatars.githubusercontent.com/u/86410452?v=4"
-      }
-    },
-    {
       "name": "investing-for-beginners",
       "full_name": "xuchonglang/investing-for-beginners",
       "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
       "description_cn": "",
-      "stars": 1985,
-      "forks": 125,
+      "stars": 2034,
+      "forks": 129,
       "language": "Unknown",
       "url": "https://github.com/xuchonglang/investing-for-beginners",
       "topics": [
@@ -120,8 +114,8 @@
       "full_name": "Shpigford/knockoff",
       "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
       "description_cn": "Chrome 扩展 that filters pseudo-分支and junk out of amaz开启. buy from real, established 分支ands.",
-      "stars": 1903,
-      "forks": 64,
+      "stars": 1916,
+      "forks": 67,
       "language": "JavaScript",
       "url": "https://github.com/Shpigford/knockoff",
       "topics": [
@@ -142,8 +136,8 @@
       "full_name": "MaximeRivest/riddle",
       "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
       "description_cn": "the diary of tom riddle for the remarkable paper pro — write with your pen, the 页 drinks your ink and answers in a flowing hand",
-      "stars": 1571,
-      "forks": 139,
+      "stars": 1613,
+      "forks": 142,
       "language": "Rust",
       "url": "https://github.com/MaximeRivest/riddle",
       "topics": [
@@ -160,12 +154,28 @@
       }
     },
     {
+      "name": "local-llm",
+      "full_name": "jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "description_cn": "everything i k否w about running 大语言模型s 本地ly",
+      "stars": 1512,
+      "forks": 96,
+      "language": "Shell",
+      "url": "https://github.com/jamesob/local-llm",
+      "topics": [],
+      "created_at": "2026-07-03T13:06:03Z",
+      "owner": {
+        "login": "jamesob",
+        "avatar_url": "https://avatars.githubusercontent.com/u/73197?v=4"
+      }
+    },
+    {
       "name": "Generals-Mac-iOS-iPad",
       "full_name": "ammaarreshi/Generals-Mac-iOS-iPad",
       "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
       "description_cn": "命令 & C开启quer generals: zero hour running natively 开启 maCos, IPh开启e & IPad — real 引擎 (ea gpl v3 sourCe, via generalsx), dxvk/moltenvk renderer, rts touCh C开启trols. 否 game as集合s inCluded.",
-      "stars": 1448,
-      "forks": 119,
+      "stars": 1454,
+      "forks": 121,
       "language": "C++",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
       "topics": [
@@ -180,174 +190,158 @@
         "login": "ammaarreshi",
         "avatar_url": "https://avatars.githubusercontent.com/u/159876365?v=4"
       }
-    },
-    {
-      "name": "local-llm",
-      "full_name": "jamesob/local-llm",
-      "description": "Everything I know about running LLMs locally",
-      "description_cn": "everything i k否w about running 大语言模型s 本地ly",
-      "stars": 1403,
-      "forks": 84,
-      "language": "Shell",
-      "url": "https://github.com/jamesob/local-llm",
-      "topics": [],
-      "created_at": "2026-07-03T13:06:03Z",
-      "owner": {
-        "login": "jamesob",
-        "avatar_url": "https://avatars.githubusercontent.com/u/73197?v=4"
-      }
     }
   ],
   "ai_news": [
     {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "score": 457,
-      "comments": 170,
-      "author": "xenova",
-      "time": 1784051448,
-      "hn_url": "https://news.ycombinator.com/item?id=48910545",
-      "title_cn": "【AI, 模型】Bonsai 27B: A 27B-Class model that runs on a phone"
-    },
-    {
-      "title": "How to stop Claude from saying load-bearing",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 446,
-      "comments": 508,
-      "author": "shintoist",
-      "time": 1784029562,
-      "hn_url": "https://news.ycombinator.com/item?id=48905248",
-      "title_cn": "【Claude】How to stop Claude from saying load-bearing"
-    },
-    {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 387,
-      "comments": 389,
-      "author": "yenniejun111",
-      "time": 1784042293,
-      "hn_url": "https://news.ycombinator.com/item?id=48908178",
-      "title_cn": "【AI】Are we offloading too much of our thinking to AI?"
-    },
-    {
-      "title": "Australian energy retailers must offer three hours of free daytime electricity",
-      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "score": 268,
-      "comments": 352,
-      "author": "i2oc",
-      "time": 1784003508,
-      "hn_url": "https://news.ycombinator.com/item?id=48902320",
-      "title_cn": "【AI】Australian energy retailers must offer three hours of free daytime electricity"
-    },
-    {
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "score": 265,
-      "comments": 114,
-      "author": "Synthetic7346",
-      "time": 1784051915,
-      "hn_url": "https://news.ycombinator.com/item?id=48910676",
-      "title_cn": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left"
-    },
-    {
-      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-      "url": "https://github.com/juggler-ai/juggler",
-      "score": 187,
-      "comments": 80,
-      "author": "julesrms",
-      "time": 1783880895,
-      "hn_url": "https://news.ycombinator.com/item?id=48883305",
-      "title_cn": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE"
-    },
-    {
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "url": "https://2b2t.place/1million",
-      "score": 172,
-      "comments": 57,
-      "author": "_____k",
-      "time": 1783780339,
-      "hn_url": "https://news.ycombinator.com/item?id=48872401",
-      "title_cn": "【AI】The largest available Minecraft world, totalling 15 TB"
-    },
-    {
-      "title": "Demis Hassabis has a plan to harness AI safely",
-      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-      "score": 137,
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "score": 741,
       "comments": 185,
-      "author": "asiergoni",
-      "time": 1784020807,
-      "hn_url": "https://news.ycombinator.com/item?id=48904095",
-      "title_cn": "【AI】Demis Hassabis has a plan to harness AI safely"
+      "author": "vimarsh6739",
+      "time": 1784139165,
+      "hn_url": "https://news.ycombinator.com/item?id=48924912",
+      "title_cn": "【模型】Inkling: Our Open-Weights Model"
     },
     {
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "score": 99,
-      "comments": 50,
-      "author": "1vuio0pswjnm7",
-      "time": 1784066316,
-      "hn_url": "https://news.ycombinator.com/item?id=48913443",
-      "title_cn": "【AI】Financing the AI boom: from cash flows to debt [pdf]"
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "score": 293,
+      "comments": 334,
+      "author": "skp1995",
+      "time": 1784147098,
+      "hn_url": "https://news.ycombinator.com/item?id=48926590",
+      "title_cn": "【开源】Grok Build is open source"
     },
     {
-      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-      "url": "https://gwern.net/guardian-angel",
-      "score": 59,
-      "comments": 10,
-      "author": "andsoitis",
-      "time": 1784033429,
-      "hn_url": "https://news.ycombinator.com/item?id=48906041",
-      "title_cn": "【大语言模型】Guardian Angels: LLM Personalization for Productivity and Security"
+      "title": "Towards a harness that can do anything",
+      "url": "https://eardatasci.github.io/c/ambiance/index.html",
+      "score": 174,
+      "comments": 89,
+      "author": "evakhoury",
+      "time": 1784124508,
+      "hn_url": "https://news.ycombinator.com/item?id=48921077",
+      "title_cn": "Towards a harness that can do anything"
     },
     {
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "url": "https://www.benjamin-bai.com/projects/lemario",
-      "score": 57,
-      "comments": 7,
-      "author": "kevinjosethomas",
-      "time": 1784068247,
-      "hn_url": "https://news.ycombinator.com/item?id=48913763",
-      "title_cn": "【AI, 模型, 训练】LeMario: Training a JEPA World Model on Super Mario Bros"
+      "title": "Briar is in maintenance mode",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "score": 151,
+      "comments": 96,
+      "author": "ristello",
+      "time": 1784118807,
+      "hn_url": "https://news.ycombinator.com/item?id=48919869",
+      "title_cn": "【AI】Briar is in maintenance mode"
     },
     {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "score": 47,
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "url": "https://brainless.swerdlow.dev",
+      "score": 102,
+      "comments": 20,
+      "author": "benswerd",
+      "time": 1784144573,
+      "hn_url": "https://news.ycombinator.com/item?id=48926085",
+      "title_cn": "【AI, Claude】Brainless: Shadcn components that look like Claude Code, Codex and Grok"
+    },
+    {
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "score": 98,
+      "comments": 44,
+      "author": "bilsbie",
+      "time": 1784150196,
+      "hn_url": "https://news.ycombinator.com/item?id=48927095",
+      "title_cn": "【AI, 开源】Governments, companies, nonprofits should invest in free, open source AI [pdf]"
+    },
+    {
+      "title": "Book prizes don't work how you think",
+      "url": "https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think",
+      "score": 86,
+      "comments": 41,
+      "author": "samclemens",
+      "time": 1784067541,
+      "hn_url": "https://news.ycombinator.com/item?id=48913653",
+      "title_cn": "Book prizes don't work how you think"
+    },
+    {
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "score": 56,
       "comments": 19,
-      "author": "jervant",
-      "time": 1784077706,
-      "hn_url": "https://news.ycombinator.com/item?id=48915004",
-      "title_cn": "【AI】TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access"
+      "author": "gregsadetsky",
+      "time": 1784154207,
+      "hn_url": "https://news.ycombinator.com/item?id=48927915",
+      "title_cn": "【大语言模型】LLM Networking with MikroTik"
     },
     {
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "url": "https://agnost.ai",
-      "score": 46,
-      "comments": 34,
-      "author": "laalshaitaan",
-      "time": 1784045178,
-      "hn_url": "https://news.ycombinator.com/item?id=48908950",
-      "title_cn": "【AI, 推出】Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations"
+      "title": "MITS: Rockets, Calculators, and Personal Computers",
+      "url": "https://www.abortretry.fail/p/micro-instrumentation-and-telemetry",
+      "score": 38,
+      "comments": 3,
+      "author": "BirAdam",
+      "time": 1783948834,
+      "hn_url": "https://news.ycombinator.com/item?id=48892273",
+      "title_cn": "MITS: Rockets, Calculators, and Personal Computers"
     },
     {
-      "title": "House Votes for Permanent Daylight Saving Time",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html",
-      "score": 13,
+      "title": "P2P local file transfer based on WebRTC",
+      "url": "https://pairdrop.net/",
+      "score": 37,
+      "comments": 16,
+      "author": "halb",
+      "time": 1784154128,
+      "hn_url": "https://news.ycombinator.com/item?id=48927900",
+      "title_cn": "P2P local file transfer based on WebRTC"
+    },
+    {
+      "title": "Nul Characters in Strings in SQLite",
+      "url": "https://sqlite.org/nulinstr.html",
+      "score": 33,
+      "comments": 9,
+      "author": "basilikum",
+      "time": 1784156625,
+      "hn_url": "https://news.ycombinator.com/item?id=48928343",
+      "title_cn": "Nul Characters in Strings in SQLite"
+    },
+    {
+      "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
+      "url": "https://github.com/projectargus-cc/libargus.cc",
+      "score": 31,
       "comments": 4,
-      "author": "donohoe",
-      "time": 1784076930,
-      "hn_url": "https://news.ycombinator.com/item?id=48914917",
-      "title_cn": "House Votes for Permanent Daylight Saving Time"
+      "author": "KingJoker",
+      "time": 1784040046,
+      "hn_url": "https://news.ycombinator.com/item?id=48907681",
+      "title_cn": "【大语言模型】Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)"
     },
     {
-      "title": "Legal AI, not a coding agent with scaffolding",
-      "url": "https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding",
-      "score": 6,
+      "title": "Job queues are deceptively tricky",
+      "url": "https://typesanitizer.com/blog/job-queues.html",
+      "score": 30,
+      "comments": 4,
+      "author": "ingve",
+      "time": 1784017676,
+      "hn_url": "https://news.ycombinator.com/item?id=48903733",
+      "title_cn": "Job queues are deceptively tricky"
+    },
+    {
+      "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
+      "url": "https://github.com/1ay1/agentty",
+      "score": 14,
       "comments": 0,
-      "author": "alansaber",
-      "time": 1784073117,
-      "hn_url": "https://news.ycombinator.com/item?id=48914472",
-      "title_cn": "【AI】Legal AI, not a coding agent with scaffolding"
+      "author": "tfeayush",
+      "time": 1784154624,
+      "hn_url": "https://news.ycombinator.com/item?id=48928002",
+      "title_cn": "【Claude】Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary"
+    },
+    {
+      "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
+      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
+      "score": 7,
+      "comments": 0,
+      "author": "gslin",
+      "time": 1784159099,
+      "hn_url": "https://news.ycombinator.com/item?id=48928703",
+      "title_cn": "11,700 Free Photos from John Margolies' Archive of Americana Architecture"
     }
   ]
 }
