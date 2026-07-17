@@ -1,29 +1,13 @@
 {
-  "updated_at": "2026-07-16T02:56:37.982108",
+  "updated_at": "2026-07-17T03:13:38.499622",
   "github_projects": [
-    {
-      "name": "X4G",
-      "full_name": "x4gKing/X4G",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 5495,
-      "forks": 10136,
-      "language": "Python",
-      "url": "https://github.com/x4gKing/X4G",
-      "topics": [],
-      "created_at": "2026-07-04T06:43:51Z",
-      "owner": {
-        "login": "x4gKing",
-        "avatar_url": "https://avatars.githubusercontent.com/u/298382259?v=4"
-      }
-    },
     {
       "name": "grok-build",
       "full_name": "xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "description_cn": "spaCexAI's Coding 智能体 harness and tui. fullsCreen, mouse inter活跃, extensible.",
-      "stars": 4482,
-      "forks": 655,
+      "stars": 12835,
+      "forks": 2277,
       "language": "Rust",
       "url": "https://github.com/xai-org/grok-build",
       "topics": [],
@@ -34,12 +18,44 @@
       }
     },
     {
+      "name": "Codex-Dream-Skin",
+      "full_name": "Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "description_cn": "Codex dream skin",
+      "stars": 6106,
+      "forks": 707,
+      "language": "JavaScript",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "topics": [],
+      "created_at": "2026-07-15T12:34:51Z",
+      "owner": {
+        "login": "Fei-Away",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100042407?v=4"
+      }
+    },
+    {
+      "name": "X4G",
+      "full_name": "x4gKing/X4G",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 5674,
+      "forks": 10470,
+      "language": "Python",
+      "url": "https://github.com/x4gKing/X4G",
+      "topics": [],
+      "created_at": "2026-07-04T06:43:51Z",
+      "owner": {
+        "login": "x4gKing",
+        "avatar_url": "https://avatars.githubusercontent.com/u/298382259?v=4"
+      }
+    },
+    {
       "name": "os-taxonomy",
       "full_name": "withmarbleapp/os-taxonomy",
       "description": "No description",
       "description_cn": "",
-      "stars": 3137,
-      "forks": 543,
+      "stars": 3208,
+      "forks": 551,
       "language": "JavaScript",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "topics": [],
@@ -54,8 +70,8 @@
       "full_name": "oso95/scroll-world",
       "description": "A skill that turn any brand into a scrollable 3D world",
       "description_cn": "a skill that turn any 分支and into a sCrollable 3D world",
-      "stars": 2578,
-      "forks": 311,
+      "stars": 2958,
+      "forks": 368,
       "language": "JavaScript",
       "url": "https://github.com/oso95/scroll-world",
       "topics": [],
@@ -66,55 +82,11 @@
       }
     },
     {
-      "name": "openscience",
-      "full_name": "synthetic-sciences/openscience",
-      "description": "The open-source AI workbench for scientific research",
-      "description_cn": "the 开源 AI workbenCh for sCient如果内联缓存 re搜索",
-      "stars": 2471,
-      "forks": 356,
-      "language": "TypeScript",
-      "url": "https://github.com/synthetic-sciences/openscience",
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "bun",
-        "cli"
-      ],
-      "created_at": "2026-07-03T15:06:45Z",
-      "owner": {
-        "login": "synthetic-sciences",
-        "avatar_url": "https://avatars.githubusercontent.com/u/220546587?v=4"
-      }
-    },
-    {
-      "name": "investing-for-beginners",
-      "full_name": "xuchonglang/investing-for-beginners",
-      "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-      "description_cn": "",
-      "stars": 2034,
-      "forks": 129,
-      "language": "Unknown",
-      "url": "https://github.com/xuchonglang/investing-for-beginners",
-      "topics": [
-        "chinese",
-        "cryptocurrency",
-        "investing",
-        "options",
-        "xiaoyinsi"
-      ],
-      "created_at": "2026-07-03T03:56:00Z",
-      "owner": {
-        "login": "xuchonglang",
-        "avatar_url": "https://avatars.githubusercontent.com/u/34959353?v=4"
-      }
-    },
-    {
       "name": "knockoff",
       "full_name": "Shpigford/knockoff",
       "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
       "description_cn": "Chrome 扩展 that filters pseudo-分支and junk out of amaz开启. buy from real, established 分支ands.",
-      "stars": 1916,
+      "stars": 1927,
       "forks": 67,
       "language": "JavaScript",
       "url": "https://github.com/Shpigford/knockoff",
@@ -132,12 +104,28 @@
       }
     },
     {
+      "name": "gpt-5.6-instruct",
+      "full_name": "MDX-Tom/gpt-5.6-instruct",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "description_cn": "a Codex 命令行工具 jAIl分支eak prompt and test paCk for GPT-5.6-sol. 针对 GPT-5.6 系列的 Codex 命令行工具 破甲提示词与测试包。",
+      "stars": 1708,
+      "forks": 330,
+      "language": "Python",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "topics": [],
+      "created_at": "2026-07-11T09:44:24Z",
+      "owner": {
+        "login": "MDX-Tom",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6468993?v=4"
+      }
+    },
+    {
       "name": "riddle",
       "full_name": "MaximeRivest/riddle",
       "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
       "description_cn": "the diary of tom riddle for the remarkable paper pro — write with your pen, the 页 drinks your ink and answers in a flowing hand",
-      "stars": 1613,
-      "forks": 142,
+      "stars": 1638,
+      "forks": 145,
       "language": "Rust",
       "url": "https://github.com/MaximeRivest/riddle",
       "topics": [
@@ -154,27 +142,11 @@
       }
     },
     {
-      "name": "local-llm",
-      "full_name": "jamesob/local-llm",
-      "description": "Everything I know about running LLMs locally",
-      "description_cn": "everything i k否w about running 大语言模型s 本地ly",
-      "stars": 1512,
-      "forks": 96,
-      "language": "Shell",
-      "url": "https://github.com/jamesob/local-llm",
-      "topics": [],
-      "created_at": "2026-07-03T13:06:03Z",
-      "owner": {
-        "login": "jamesob",
-        "avatar_url": "https://avatars.githubusercontent.com/u/73197?v=4"
-      }
-    },
-    {
       "name": "Generals-Mac-iOS-iPad",
       "full_name": "ammaarreshi/Generals-Mac-iOS-iPad",
       "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
       "description_cn": "命令 & C开启quer generals: zero hour running natively 开启 maCos, IPh开启e & IPad — real 引擎 (ea gpl v3 sourCe, via generalsx), dxvk/moltenvk renderer, rts touCh C开启trols. 否 game as集合s inCluded.",
-      "stars": 1454,
+      "stars": 1468,
       "forks": 121,
       "language": "C++",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
@@ -190,158 +162,180 @@
         "login": "ammaarreshi",
         "avatar_url": "https://avatars.githubusercontent.com/u/159876365?v=4"
       }
+    },
+    {
+      "name": "fable-method",
+      "full_name": "Sahir619/fable-method",
+      "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+      "description_cn": "the fable 工作流: how Claude fable 5 worked, distilled into skills any 模型 Can run, with the eval that keeps it h开启est. think / aCt / prove.",
+      "stars": 1300,
+      "forks": 183,
+      "language": "Python",
+      "url": "https://github.com/Sahir619/fable-method",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-md"
+      ],
+      "created_at": "2026-07-06T22:35:18Z",
+      "owner": {
+        "login": "Sahir619",
+        "avatar_url": "https://avatars.githubusercontent.com/u/94783820?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 741,
-      "comments": 185,
-      "author": "vimarsh6739",
-      "time": 1784139165,
-      "hn_url": "https://news.ycombinator.com/item?id=48924912",
-      "title_cn": "【模型】Inkling: Our Open-Weights Model"
+      "title": "The lost joy of music piracy",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "score": 774,
+      "comments": 523,
+      "author": "mcgin",
+      "time": 1784177181,
+      "hn_url": "https://news.ycombinator.com/item?id=48930454",
+      "title_cn": "The lost joy of music piracy"
     },
     {
-      "title": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "score": 293,
-      "comments": 334,
-      "author": "skp1995",
-      "time": 1784147098,
-      "hn_url": "https://news.ycombinator.com/item?id=48926590",
-      "title_cn": "【开源】Grok Build is open source"
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "score": 259,
+      "comments": 130,
+      "author": "xnx",
+      "time": 1784218093,
+      "hn_url": "https://news.ycombinator.com/item?id=48936451",
+      "title_cn": "NotebookLM is now Gemini Notebook"
     },
     {
-      "title": "Towards a harness that can do anything",
-      "url": "https://eardatasci.github.io/c/ambiance/index.html",
-      "score": 174,
-      "comments": 89,
-      "author": "evakhoury",
-      "time": 1784124508,
-      "hn_url": "https://news.ycombinator.com/item?id=48921077",
-      "title_cn": "Towards a harness that can do anything"
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "score": 200,
+      "comments": 204,
+      "author": "JeremyTheo",
+      "time": 1784203141,
+      "hn_url": "https://news.ycombinator.com/item?id=48933310",
+      "title_cn": "【大语言模型】The LLM Critics Are Right. I Use LLMs Anyway"
     },
     {
-      "title": "Briar is in maintenance mode",
-      "url": "https://briarproject.org/news/2026-maintenance-mode/",
-      "score": 151,
-      "comments": 96,
-      "author": "ristello",
-      "time": 1784118807,
-      "hn_url": "https://news.ycombinator.com/item?id=48919869",
-      "title_cn": "【AI】Briar is in maintenance mode"
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "score": 176,
+      "comments": 67,
+      "author": "minimaxir",
+      "time": 1784233095,
+      "hn_url": "https://news.ycombinator.com/item?id=48939662",
+      "title_cn": "【AI, 模型】LM Studio Bionic: the AI agent for open models"
     },
     {
-      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-      "url": "https://brainless.swerdlow.dev",
-      "score": 102,
-      "comments": 20,
-      "author": "benswerd",
-      "time": 1784144573,
-      "hn_url": "https://news.ycombinator.com/item?id=48926085",
-      "title_cn": "【AI, Claude】Brainless: Shadcn components that look like Claude Code, Codex and Grok"
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "score": 163,
+      "comments": 110,
+      "author": "uneven9434",
+      "time": 1784220097,
+      "hn_url": "https://news.ycombinator.com/item?id=48936880",
+      "title_cn": "【机器学习, 大语言模型】Detecting LLM-Generated Texts with “Classical” Machine Learning"
     },
     {
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "score": 98,
-      "comments": 44,
-      "author": "bilsbie",
-      "time": 1784150196,
-      "hn_url": "https://news.ycombinator.com/item?id=48927095",
-      "title_cn": "【AI, 开源】Governments, companies, nonprofits should invest in free, open source AI [pdf]"
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "score": 158,
+      "comments": 163,
+      "author": "hershyb_",
+      "time": 1784232203,
+      "hn_url": "https://news.ycombinator.com/item?id=48939524",
+      "title_cn": "【AI, GPT, Claude】$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol"
     },
     {
-      "title": "Book prizes don't work how you think",
-      "url": "https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think",
-      "score": 86,
-      "comments": 41,
-      "author": "samclemens",
-      "time": 1784067541,
-      "hn_url": "https://news.ycombinator.com/item?id=48913653",
-      "title_cn": "Book prizes don't work how you think"
-    },
-    {
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "score": 56,
-      "comments": 19,
-      "author": "gregsadetsky",
-      "time": 1784154207,
-      "hn_url": "https://news.ycombinator.com/item?id=48927915",
-      "title_cn": "【大语言模型】LLM Networking with MikroTik"
-    },
-    {
-      "title": "MITS: Rockets, Calculators, and Personal Computers",
-      "url": "https://www.abortretry.fail/p/micro-instrumentation-and-telemetry",
-      "score": 38,
+      "title": "Mathematics of Data Science",
+      "url": "https://arxiv.org/abs/2607.11938",
+      "score": 109,
       "comments": 3,
-      "author": "BirAdam",
-      "time": 1783948834,
-      "hn_url": "https://news.ycombinator.com/item?id=48892273",
-      "title_cn": "MITS: Rockets, Calculators, and Personal Computers"
+      "author": "Anon84",
+      "time": 1784234328,
+      "hn_url": "https://news.ycombinator.com/item?id=48939896",
+      "title_cn": "【数据科学】Mathematics of Data Science"
     },
     {
-      "title": "P2P local file transfer based on WebRTC",
-      "url": "https://pairdrop.net/",
-      "score": 37,
-      "comments": 16,
-      "author": "halb",
-      "time": 1784154128,
-      "hn_url": "https://news.ycombinator.com/item?id=48927900",
-      "title_cn": "P2P local file transfer based on WebRTC"
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "score": 102,
+      "comments": 55,
+      "author": "zhinit",
+      "time": 1784214780,
+      "hn_url": "https://news.ycombinator.com/item?id=48935687",
+      "title_cn": "【AI, 模型】How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM"
     },
     {
-      "title": "Nul Characters in Strings in SQLite",
-      "url": "https://sqlite.org/nulinstr.html",
-      "score": 33,
-      "comments": 9,
-      "author": "basilikum",
-      "time": 1784156625,
-      "hn_url": "https://news.ycombinator.com/item?id=48928343",
-      "title_cn": "Nul Characters in Strings in SQLite"
+      "title": "The privacy problems hidden in your period tracker",
+      "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
+      "score": 77,
+      "comments": 42,
+      "author": "tchalla",
+      "time": 1784232958,
+      "hn_url": "https://news.ycombinator.com/item?id=48939641",
+      "title_cn": "The privacy problems hidden in your period tracker"
     },
     {
-      "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
-      "url": "https://github.com/projectargus-cc/libargus.cc",
-      "score": 31,
-      "comments": 4,
-      "author": "KingJoker",
-      "time": 1784040046,
-      "hn_url": "https://news.ycombinator.com/item?id=48907681",
-      "title_cn": "【大语言模型】Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)"
+      "title": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "score": 65,
+      "comments": 10,
+      "author": "mustaphah",
+      "time": 1784240842,
+      "hn_url": "https://news.ycombinator.com/item?id=48941104",
+      "title_cn": "The Little Book of Reinforcement Learning"
     },
     {
-      "title": "Job queues are deceptively tricky",
-      "url": "https://typesanitizer.com/blog/job-queues.html",
-      "score": 30,
-      "comments": 4,
-      "author": "ingve",
-      "time": 1784017676,
-      "hn_url": "https://news.ycombinator.com/item?id=48903733",
-      "title_cn": "Job queues are deceptively tricky"
-    },
-    {
-      "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
-      "url": "https://github.com/1ay1/agentty",
-      "score": 14,
+      "title": "Abstracting Effects with Continuations",
+      "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+      "score": 41,
       "comments": 0,
-      "author": "tfeayush",
-      "time": 1784154624,
-      "hn_url": "https://news.ycombinator.com/item?id=48928002",
-      "title_cn": "【Claude】Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary"
+      "author": "crowdhailer",
+      "time": 1784198499,
+      "hn_url": "https://news.ycombinator.com/item?id=48932722",
+      "title_cn": "Abstracting Effects with Continuations"
     },
     {
-      "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
-      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
-      "score": 7,
+      "title": "Canada says bridge tolls won't be split with U.S. until $6.4B of debt is repaid",
+      "url": "https://www.cbc.ca/news/canada/windsor/carney-presser-gord-bridge-9.7272695",
+      "score": 32,
+      "comments": 2,
+      "author": "geox",
+      "time": 1784250585,
+      "hn_url": "https://news.ycombinator.com/item?id=48942286",
+      "title_cn": "【AI】Canada says bridge tolls won't be split with U.S. until $6.4B of debt is repaid"
+    },
+    {
+      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+      "url": "https://timelinescan.com/",
+      "score": 28,
+      "comments": 29,
+      "author": "HoserHoser",
+      "time": 1784233547,
+      "hn_url": "https://news.ycombinator.com/item?id=48939764",
+      "title_cn": "【AI】Timeline Scan – AI fixes the dates on your scanned photos"
+    },
+    {
+      "title": "Simulating everything, sort of: The promise and limits of world models",
+      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "score": 10,
       "comments": 0,
-      "author": "gslin",
-      "time": 1784159099,
-      "hn_url": "https://news.ycombinator.com/item?id=48928703",
-      "title_cn": "11,700 Free Photos from John Margolies' Archive of Americana Architecture"
+      "author": "LorenDB",
+      "time": 1783964073,
+      "hn_url": "https://news.ycombinator.com/item?id=48896044",
+      "title_cn": "【模型】Simulating everything, sort of: The promise and limits of world models"
+    },
+    {
+      "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "score": 5,
+      "comments": 0,
+      "author": "olalonde",
+      "time": 1784246869,
+      "hn_url": "https://news.ycombinator.com/item?id=48941908",
+      "title_cn": "【模型】Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data"
     }
   ]
 }
