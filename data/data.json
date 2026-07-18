@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-17T03:13:38.499622",
+  "updated_at": "2026-07-18T02:51:02.753713",
   "github_projects": [
     {
       "name": "grok-build",
       "full_name": "xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "description_cn": "spaCexAI's Coding 智能体 harness and tui. fullsCreen, mouse inter活跃, extensible.",
-      "stars": 12835,
-      "forks": 2277,
+      "stars": 16687,
+      "forks": 3070,
       "language": "Rust",
       "url": "https://github.com/xai-org/grok-build",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "description_cn": "Codex dream skin",
-      "stars": 6106,
-      "forks": 707,
+      "stars": 8780,
+      "forks": 932,
       "language": "JavaScript",
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "topics": [],
@@ -34,44 +34,12 @@
       }
     },
     {
-      "name": "X4G",
-      "full_name": "x4gKing/X4G",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 5674,
-      "forks": 10470,
-      "language": "Python",
-      "url": "https://github.com/x4gKing/X4G",
-      "topics": [],
-      "created_at": "2026-07-04T06:43:51Z",
-      "owner": {
-        "login": "x4gKing",
-        "avatar_url": "https://avatars.githubusercontent.com/u/298382259?v=4"
-      }
-    },
-    {
-      "name": "os-taxonomy",
-      "full_name": "withmarbleapp/os-taxonomy",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 3208,
-      "forks": 551,
-      "language": "JavaScript",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "topics": [],
-      "created_at": "2026-07-08T09:27:48Z",
-      "owner": {
-        "login": "withmarbleapp",
-        "avatar_url": "https://avatars.githubusercontent.com/u/233045934?v=4"
-      }
-    },
-    {
       "name": "scroll-world",
       "full_name": "oso95/scroll-world",
       "description": "A skill that turn any brand into a scrollable 3D world",
       "description_cn": "a skill that turn any 分支and into a sCrollable 3D world",
-      "stars": 2958,
-      "forks": 368,
+      "stars": 3252,
+      "forks": 416,
       "language": "JavaScript",
       "url": "https://github.com/oso95/scroll-world",
       "topics": [],
@@ -82,12 +50,28 @@
       }
     },
     {
+      "name": "os-taxonomy",
+      "full_name": "withmarbleapp/os-taxonomy",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 3241,
+      "forks": 562,
+      "language": "JavaScript",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "topics": [],
+      "created_at": "2026-07-08T09:27:48Z",
+      "owner": {
+        "login": "withmarbleapp",
+        "avatar_url": "https://avatars.githubusercontent.com/u/233045934?v=4"
+      }
+    },
+    {
       "name": "knockoff",
       "full_name": "Shpigford/knockoff",
       "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
       "description_cn": "Chrome 扩展 that filters pseudo-分支and junk out of amaz开启. buy from real, established 分支ands.",
-      "stars": 1927,
-      "forks": 67,
+      "stars": 1937,
+      "forks": 70,
       "language": "JavaScript",
       "url": "https://github.com/Shpigford/knockoff",
       "topics": [
@@ -108,8 +92,8 @@
       "full_name": "MDX-Tom/gpt-5.6-instruct",
       "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "description_cn": "a Codex 命令行工具 jAIl分支eak prompt and test paCk for GPT-5.6-sol. 针对 GPT-5.6 系列的 Codex 命令行工具 破甲提示词与测试包。",
-      "stars": 1708,
-      "forks": 330,
+      "stars": 1892,
+      "forks": 356,
       "language": "Python",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
       "topics": [],
@@ -124,8 +108,8 @@
       "full_name": "MaximeRivest/riddle",
       "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
       "description_cn": "the diary of tom riddle for the remarkable paper pro — write with your pen, the 页 drinks your ink and answers in a flowing hand",
-      "stars": 1638,
-      "forks": 145,
+      "stars": 1656,
+      "forks": 150,
       "language": "Rust",
       "url": "https://github.com/MaximeRivest/riddle",
       "topics": [
@@ -142,34 +126,12 @@
       }
     },
     {
-      "name": "Generals-Mac-iOS-iPad",
-      "full_name": "ammaarreshi/Generals-Mac-iOS-iPad",
-      "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
-      "description_cn": "命令 & C开启quer generals: zero hour running natively 开启 maCos, IPh开启e & IPad — real 引擎 (ea gpl v3 sourCe, via generalsx), dxvk/moltenvk renderer, rts touCh C开启trols. 否 game as集合s inCluded.",
-      "stars": 1468,
-      "forks": 121,
-      "language": "C++",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
-      "topics": [
-        "apple-silicon",
-        "command-and-conquer",
-        "dxvk",
-        "game-port",
-        "generals-zero-hour"
-      ],
-      "created_at": "2026-07-04T02:59:39Z",
-      "owner": {
-        "login": "ammaarreshi",
-        "avatar_url": "https://avatars.githubusercontent.com/u/159876365?v=4"
-      }
-    },
-    {
       "name": "fable-method",
       "full_name": "Sahir619/fable-method",
       "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "description_cn": "the fable 工作流: how Claude fable 5 worked, distilled into skills any 模型 Can run, with the eval that keeps it h开启est. think / aCt / prove.",
-      "stars": 1300,
-      "forks": 183,
+      "stars": 1654,
+      "forks": 231,
       "language": "Python",
       "url": "https://github.com/Sahir619/fable-method",
       "topics": [
@@ -184,158 +146,190 @@
         "login": "Sahir619",
         "avatar_url": "https://avatars.githubusercontent.com/u/94783820?v=4"
       }
+    },
+    {
+      "name": "lingbot-world-v2",
+      "full_name": "Robbyant/lingbot-world-v2",
+      "description": "Infinite Worlds with Versatile Interactions",
+      "description_cn": "无穷大inite worlds with versatile interaCti开启s",
+      "stars": 1282,
+      "forks": 78,
+      "language": "Python",
+      "url": "https://github.com/Robbyant/lingbot-world-v2",
+      "topics": [],
+      "created_at": "2026-07-08T09:24:50Z",
+      "owner": {
+        "login": "Robbyant",
+        "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
+      }
+    },
+    {
+      "name": "aval",
+      "full_name": "pixel-point/aval",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "description_cn": "a 新 开源 format for inter活跃 视频 开启 the 网页, with a built-in 状态 maChine, frame-aCCurate 转换s, and paCked-alpha transparenCy.",
+      "stars": 1165,
+      "forks": 63,
+      "language": "TypeScript",
+      "url": "https://github.com/pixel-point/aval",
+      "topics": [],
+      "created_at": "2026-07-13T07:42:51Z",
+      "owner": {
+        "login": "pixel-point",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29034027?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "The lost joy of music piracy",
-      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "score": 774,
-      "comments": 523,
-      "author": "mcgin",
-      "time": 1784177181,
-      "hn_url": "https://news.ycombinator.com/item?id=48930454",
-      "title_cn": "The lost joy of music piracy"
+      "title": "The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "score": 380,
+      "comments": 278,
+      "author": "rellem",
+      "time": 1784298670,
+      "hn_url": "https://news.ycombinator.com/item?id=48947825",
+      "title_cn": "【AI, 开源】The state of open source AI"
     },
     {
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "score": 259,
-      "comments": 130,
-      "author": "xnx",
-      "time": 1784218093,
-      "hn_url": "https://news.ycombinator.com/item?id=48936451",
-      "title_cn": "NotebookLM is now Gemini Notebook"
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "score": 378,
+      "comments": 324,
+      "author": "merksittich",
+      "time": 1784289759,
+      "hn_url": "https://news.ycombinator.com/item?id=48946303",
+      "title_cn": "【AI, OpenAI】Apple targets dozens of OpenAI employees with legal letters"
     },
     {
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "score": 200,
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "score": 316,
       "comments": 204,
-      "author": "JeremyTheo",
-      "time": 1784203141,
-      "hn_url": "https://news.ycombinator.com/item?id=48933310",
-      "title_cn": "【大语言模型】The LLM Critics Are Right. I Use LLMs Anyway"
+      "author": "gnabgib",
+      "time": 1784327190,
+      "hn_url": "https://news.ycombinator.com/item?id=48952880",
+      "title_cn": "【AI】Kaiser nurses say AI, workplace surveillance are making their jobs, care worse"
     },
     {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 176,
-      "comments": 67,
-      "author": "minimaxir",
-      "time": 1784233095,
-      "hn_url": "https://news.ycombinator.com/item?id=48939662",
-      "title_cn": "【AI, 模型】LM Studio Bionic: the AI agent for open models"
+      "title": "Camera Chase Vehicle",
+      "url": "https://transistor-man.com/gimbal_camera_rover.html",
+      "score": 211,
+      "comments": 22,
+      "author": "geerlingguy",
+      "time": 1783649875,
+      "hn_url": "https://news.ycombinator.com/item?id=48854988",
+      "title_cn": "Camera Chase Vehicle"
     },
     {
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "score": 163,
-      "comments": 110,
-      "author": "uneven9434",
-      "time": 1784220097,
-      "hn_url": "https://news.ycombinator.com/item?id=48936880",
-      "title_cn": "【机器学习, 大语言模型】Detecting LLM-Generated Texts with “Classical” Machine Learning"
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "score": 172,
+      "comments": 54,
+      "author": "st_goliath",
+      "time": 1784317262,
+      "hn_url": "https://news.ycombinator.com/item?id=48951461",
+      "title_cn": "The Zilog Z80 has turned 50"
     },
     {
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "score": 158,
-      "comments": 163,
-      "author": "hershyb_",
-      "time": 1784232203,
-      "hn_url": "https://news.ycombinator.com/item?id=48939524",
-      "title_cn": "【AI, GPT, Claude】$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol"
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "score": 145,
+      "comments": 176,
+      "author": "letmevoteplease",
+      "time": 1784327755,
+      "hn_url": "https://news.ycombinator.com/item?id=48952939",
+      "title_cn": "【AI】Texas wins court order to suspend domain name for violating age-verification law"
     },
     {
-      "title": "Mathematics of Data Science",
-      "url": "https://arxiv.org/abs/2607.11938",
-      "score": 109,
-      "comments": 3,
-      "author": "Anon84",
-      "time": 1784234328,
-      "hn_url": "https://news.ycombinator.com/item?id=48939896",
-      "title_cn": "【数据科学】Mathematics of Data Science"
+      "title": "Frame – Linux X server in Assembly",
+      "url": "https://isene.org/2026/07/Frame.html",
+      "score": 138,
+      "comments": 93,
+      "author": "guybedo",
+      "time": 1784302282,
+      "hn_url": "https://news.ycombinator.com/item?id=48948597",
+      "title_cn": "Frame – Linux X server in Assembly"
     },
     {
-      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-      "score": 102,
-      "comments": 55,
-      "author": "zhinit",
-      "time": 1784214780,
-      "hn_url": "https://news.ycombinator.com/item?id=48935687",
-      "title_cn": "【AI, 模型】How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM"
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "score": 129,
+      "comments": 68,
+      "author": "hmm37",
+      "time": 1784323373,
+      "hn_url": "https://news.ycombinator.com/item?id=48952439",
+      "title_cn": "【AI】FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again"
     },
     {
-      "title": "The privacy problems hidden in your period tracker",
-      "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
-      "score": 77,
-      "comments": 42,
-      "author": "tchalla",
-      "time": 1784232958,
-      "hn_url": "https://news.ycombinator.com/item?id=48939641",
-      "title_cn": "The privacy problems hidden in your period tracker"
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "score": 85,
+      "comments": 6,
+      "author": "duha",
+      "time": 1784298095,
+      "hn_url": "https://news.ycombinator.com/item?id=48947714",
+      "title_cn": "【AI】AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM"
     },
     {
-      "title": "The Little Book of Reinforcement Learning",
-      "url": "https://github.com/alxndrTL/little-book-rl/",
-      "score": 65,
-      "comments": 10,
-      "author": "mustaphah",
-      "time": 1784240842,
-      "hn_url": "https://news.ycombinator.com/item?id=48941104",
-      "title_cn": "The Little Book of Reinforcement Learning"
+      "title": "Painting the sides of railroad rails white to reduce derailment",
+      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+      "score": 53,
+      "comments": 19,
+      "author": "zdw",
+      "time": 1784319179,
+      "hn_url": "https://news.ycombinator.com/item?id=48951780",
+      "title_cn": "【AI】Painting the sides of railroad rails white to reduce derailment"
     },
     {
-      "title": "Abstracting Effects with Continuations",
-      "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-      "score": 41,
-      "comments": 0,
-      "author": "crowdhailer",
-      "time": 1784198499,
-      "hn_url": "https://news.ycombinator.com/item?id=48932722",
-      "title_cn": "Abstracting Effects with Continuations"
+      "title": "A grumpy screed about AI in software engineering",
+      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+      "score": 44,
+      "comments": 37,
+      "author": "ssutch3",
+      "time": 1784335208,
+      "hn_url": "https://news.ycombinator.com/item?id=48953924",
+      "title_cn": "【AI】A grumpy screed about AI in software engineering"
     },
     {
-      "title": "Canada says bridge tolls won't be split with U.S. until $6.4B of debt is repaid",
-      "url": "https://www.cbc.ca/news/canada/windsor/carney-presser-gord-bridge-9.7272695",
-      "score": 32,
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "score": 34,
+      "comments": 5,
+      "author": "BadChemical",
+      "time": 1784324563,
+      "hn_url": "https://news.ycombinator.com/item?id=48952565",
+      "title_cn": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years"
+    },
+    {
+      "title": "Nadella Blasts AI Industry's Double Standard",
+      "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
+      "score": 16,
+      "comments": 4,
+      "author": "nittanymount",
+      "time": 1784334526,
+      "hn_url": "https://news.ycombinator.com/item?id=48953857",
+      "title_cn": "【AI】Nadella Blasts AI Industry's Double Standard"
+    },
+    {
+      "title": "The Largest Vocabulary in Hip Hop (2017)",
+      "url": "https://pudding.cool/2017/02/vocabulary/index.html",
+      "score": 6,
       "comments": 2,
-      "author": "geox",
-      "time": 1784250585,
-      "hn_url": "https://news.ycombinator.com/item?id=48942286",
-      "title_cn": "【AI】Canada says bridge tolls won't be split with U.S. until $6.4B of debt is repaid"
+      "author": "cdrnsf",
+      "time": 1784330792,
+      "hn_url": "https://news.ycombinator.com/item?id=48953404",
+      "title_cn": "The Largest Vocabulary in Hip Hop (2017)"
     },
     {
-      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
-      "url": "https://timelinescan.com/",
-      "score": 28,
-      "comments": 29,
-      "author": "HoserHoser",
-      "time": 1784233547,
-      "hn_url": "https://news.ycombinator.com/item?id=48939764",
-      "title_cn": "【AI】Timeline Scan – AI fixes the dates on your scanned photos"
-    },
-    {
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-      "score": 10,
+      "title": "Claude Code(Fable) refused my slow down instruction",
+      "url": "https://qusaisuwan.github.io/cc-incident/index.html",
+      "score": 4,
       "comments": 0,
-      "author": "LorenDB",
-      "time": 1783964073,
-      "hn_url": "https://news.ycombinator.com/item?id=48896044",
-      "title_cn": "【模型】Simulating everything, sort of: The promise and limits of world models"
-    },
-    {
-      "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "score": 5,
-      "comments": 0,
-      "author": "olalonde",
-      "time": 1784246869,
-      "hn_url": "https://news.ycombinator.com/item?id=48941908",
-      "title_cn": "【模型】Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data"
+      "author": "qusaisuwan",
+      "time": 1784331596,
+      "hn_url": "https://news.ycombinator.com/item?id=48953519",
+      "title_cn": "【Claude】Claude Code(Fable) refused my slow down instruction"
     }
   ]
 }
