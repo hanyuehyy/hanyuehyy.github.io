@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-18T02:51:02.753713",
+  "updated_at": "2026-07-19T03:22:15.206108",
   "github_projects": [
     {
       "name": "grok-build",
       "full_name": "xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "description_cn": "spaCexAI's Coding 智能体 harness and tui. fullsCreen, mouse inter活跃, extensible.",
-      "stars": 16687,
-      "forks": 3070,
+      "stars": 19019,
+      "forks": 3433,
       "language": "Rust",
       "url": "https://github.com/xai-org/grok-build",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "description_cn": "Codex dream skin",
-      "stars": 8780,
-      "forks": 932,
+      "stars": 9809,
+      "forks": 1022,
       "language": "JavaScript",
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "topics": [],
@@ -38,8 +38,8 @@
       "full_name": "oso95/scroll-world",
       "description": "A skill that turn any brand into a scrollable 3D world",
       "description_cn": "a skill that turn any 分支and into a sCrollable 3D world",
-      "stars": 3252,
-      "forks": 416,
+      "stars": 3623,
+      "forks": 451,
       "language": "JavaScript",
       "url": "https://github.com/oso95/scroll-world",
       "topics": [],
@@ -54,8 +54,8 @@
       "full_name": "withmarbleapp/os-taxonomy",
       "description": "No description",
       "description_cn": "",
-      "stars": 3241,
-      "forks": 562,
+      "stars": 3272,
+      "forks": 567,
       "language": "JavaScript",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "topics": [],
@@ -66,11 +66,27 @@
       }
     },
     {
+      "name": "gpt-5.6-instruct",
+      "full_name": "MDX-Tom/gpt-5.6-instruct",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "description_cn": "a Codex 命令行工具 jAIl分支eak prompt and test paCk for GPT-5.6-sol. 针对 GPT-5.6 系列的 Codex 命令行工具 破甲提示词与测试包。",
+      "stars": 2055,
+      "forks": 383,
+      "language": "Python",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "topics": [],
+      "created_at": "2026-07-11T09:44:24Z",
+      "owner": {
+        "login": "MDX-Tom",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6468993?v=4"
+      }
+    },
+    {
       "name": "knockoff",
       "full_name": "Shpigford/knockoff",
       "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
       "description_cn": "Chrome 扩展 that filters pseudo-分支and junk out of amaz开启. buy from real, established 分支ands.",
-      "stars": 1937,
+      "stars": 1940,
       "forks": 70,
       "language": "JavaScript",
       "url": "https://github.com/Shpigford/knockoff",
@@ -88,50 +104,12 @@
       }
     },
     {
-      "name": "gpt-5.6-instruct",
-      "full_name": "MDX-Tom/gpt-5.6-instruct",
-      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "description_cn": "a Codex 命令行工具 jAIl分支eak prompt and test paCk for GPT-5.6-sol. 针对 GPT-5.6 系列的 Codex 命令行工具 破甲提示词与测试包。",
-      "stars": 1892,
-      "forks": 356,
-      "language": "Python",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "topics": [],
-      "created_at": "2026-07-11T09:44:24Z",
-      "owner": {
-        "login": "MDX-Tom",
-        "avatar_url": "https://avatars.githubusercontent.com/u/6468993?v=4"
-      }
-    },
-    {
-      "name": "riddle",
-      "full_name": "MaximeRivest/riddle",
-      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-      "description_cn": "the diary of tom riddle for the remarkable paper pro — write with your pen, the 页 drinks your ink and answers in a flowing hand",
-      "stars": 1656,
-      "forks": 150,
-      "language": "Rust",
-      "url": "https://github.com/MaximeRivest/riddle",
-      "topics": [
-        "appload",
-        "eink",
-        "quill",
-        "remagic-app",
-        "remarkable-customization"
-      ],
-      "created_at": "2026-07-05T15:48:08Z",
-      "owner": {
-        "login": "MaximeRivest",
-        "avatar_url": "https://avatars.githubusercontent.com/u/10967951?v=4"
-      }
-    },
-    {
       "name": "fable-method",
       "full_name": "Sahir619/fable-method",
       "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "description_cn": "the fable 工作流: how Claude fable 5 worked, distilled into skills any 模型 Can run, with the eval that keeps it h开启est. think / aCt / prove.",
-      "stars": 1654,
-      "forks": 231,
+      "stars": 1705,
+      "forks": 238,
       "language": "Python",
       "url": "https://github.com/Sahir619/fable-method",
       "topics": [
@@ -152,8 +130,8 @@
       "full_name": "Robbyant/lingbot-world-v2",
       "description": "Infinite Worlds with Versatile Interactions",
       "description_cn": "无穷大inite worlds with versatile interaCti开启s",
-      "stars": 1282,
-      "forks": 78,
+      "stars": 1295,
+      "forks": 79,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-world-v2",
       "topics": [],
@@ -164,12 +142,28 @@
       }
     },
     {
+      "name": "Aether",
+      "full_name": "CluvexStudio/Aether",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 1256,
+      "forks": 76,
+      "language": "Rust",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "topics": [],
+      "created_at": "2026-07-14T14:20:44Z",
+      "owner": {
+        "login": "CluvexStudio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/125141320?v=4"
+      }
+    },
+    {
       "name": "aval",
       "full_name": "pixel-point/aval",
       "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "description_cn": "a 新 开源 format for inter活跃 视频 开启 the 网页, with a built-in 状态 maChine, frame-aCCurate 转换s, and paCked-alpha transparenCy.",
-      "stars": 1165,
-      "forks": 63,
+      "stars": 1217,
+      "forks": 65,
       "language": "TypeScript",
       "url": "https://github.com/pixel-point/aval",
       "topics": [],
@@ -182,154 +176,154 @@
   ],
   "ai_news": [
     {
-      "title": "The state of open source AI",
-      "url": "https://stateofopensource.ai/",
-      "score": 380,
-      "comments": 278,
-      "author": "rellem",
-      "time": 1784298670,
-      "hn_url": "https://news.ycombinator.com/item?id=48947825",
-      "title_cn": "【AI, 开源】The state of open source AI"
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "score": 517,
+      "comments": 328,
+      "author": "mbustamanter",
+      "time": 1784379652,
+      "hn_url": "https://news.ycombinator.com/item?id=48957779",
+      "title_cn": "【GPT】GPT-5.6 used a prompt to close a 30-year gap in convex optimization"
     },
     {
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "title": "What AI did to stackoverflow in a graph",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
       "score": 378,
-      "comments": 324,
-      "author": "merksittich",
-      "time": 1784289759,
-      "hn_url": "https://news.ycombinator.com/item?id=48946303",
-      "title_cn": "【AI, OpenAI】Apple targets dozens of OpenAI employees with legal letters"
+      "comments": 470,
+      "author": "secretslol",
+      "time": 1784373166,
+      "hn_url": "https://news.ycombinator.com/item?id=48956949",
+      "title_cn": "【AI】What AI did to stackoverflow in a graph"
     },
     {
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 316,
-      "comments": 204,
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "score": 312,
+      "comments": 33,
+      "author": "petewarden",
+      "time": 1784057110,
+      "hn_url": "https://news.ycombinator.com/item?id=48911793",
+      "title_cn": "Speech Recognition and TTS in less than 500kb"
+    },
+    {
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "score": 284,
+      "comments": 140,
       "author": "gnabgib",
-      "time": 1784327190,
-      "hn_url": "https://news.ycombinator.com/item?id=48952880",
-      "title_cn": "【AI】Kaiser nurses say AI, workplace surveillance are making their jobs, care worse"
-    },
-    {
-      "title": "Camera Chase Vehicle",
-      "url": "https://transistor-man.com/gimbal_camera_rover.html",
-      "score": 211,
-      "comments": 22,
-      "author": "geerlingguy",
-      "time": 1783649875,
-      "hn_url": "https://news.ycombinator.com/item?id=48854988",
-      "title_cn": "Camera Chase Vehicle"
+      "time": 1784412819,
+      "hn_url": "https://news.ycombinator.com/item?id=48962983",
+      "title_cn": "【AI】Mayor Mamdani Says Landlords Can't Use AI Images to Advertise"
     },
     {
       "title": "The Zilog Z80 has turned 50",
       "url": "https://goliath32.com/blog/z80.html",
-      "score": 172,
-      "comments": 54,
+      "score": 274,
+      "comments": 109,
       "author": "st_goliath",
       "time": 1784317262,
       "hn_url": "https://news.ycombinator.com/item?id=48951461",
       "title_cn": "The Zilog Z80 has turned 50"
     },
     {
-      "title": "Texas wins court order to suspend domain name for violating age-verification law",
-      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-      "score": 145,
-      "comments": 176,
-      "author": "letmevoteplease",
-      "time": 1784327755,
-      "hn_url": "https://news.ycombinator.com/item?id=48952939",
-      "title_cn": "【AI】Texas wins court order to suspend domain name for violating age-verification law"
-    },
-    {
-      "title": "Frame – Linux X server in Assembly",
-      "url": "https://isene.org/2026/07/Frame.html",
-      "score": 138,
-      "comments": 93,
-      "author": "guybedo",
-      "time": 1784302282,
-      "hn_url": "https://news.ycombinator.com/item?id=48948597",
-      "title_cn": "Frame – Linux X server in Assembly"
-    },
-    {
-      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "score": 129,
-      "comments": 68,
-      "author": "hmm37",
-      "time": 1784323373,
-      "hn_url": "https://news.ycombinator.com/item?id=48952439",
-      "title_cn": "【AI】FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again"
-    },
-    {
-      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-      "score": 85,
-      "comments": 6,
-      "author": "duha",
-      "time": 1784298095,
-      "hn_url": "https://news.ycombinator.com/item?id=48947714",
-      "title_cn": "【AI】AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM"
-    },
-    {
-      "title": "Painting the sides of railroad rails white to reduce derailment",
-      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-      "score": 53,
-      "comments": 19,
-      "author": "zdw",
-      "time": 1784319179,
-      "hn_url": "https://news.ycombinator.com/item?id=48951780",
-      "title_cn": "【AI】Painting the sides of railroad rails white to reduce derailment"
-    },
-    {
-      "title": "A grumpy screed about AI in software engineering",
-      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
-      "score": 44,
-      "comments": 37,
-      "author": "ssutch3",
-      "time": 1784335208,
-      "hn_url": "https://news.ycombinator.com/item?id=48953924",
-      "title_cn": "【AI】A grumpy screed about AI in software engineering"
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "score": 221,
+      "comments": 107,
+      "author": "couAUIA",
+      "time": 1784372429,
+      "hn_url": "https://news.ycombinator.com/item?id=48956879",
+      "title_cn": "【GPT】Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?"
     },
     {
       "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
       "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "score": 34,
-      "comments": 5,
+      "score": 221,
+      "comments": 88,
       "author": "BadChemical",
       "time": 1784324563,
       "hn_url": "https://news.ycombinator.com/item?id=48952565",
       "title_cn": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years"
     },
     {
-      "title": "Nadella Blasts AI Industry's Double Standard",
-      "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
-      "score": 16,
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "url": "https://parksb.github.io/en/article/41.html",
+      "score": 211,
+      "comments": 154,
+      "author": "parksb",
+      "time": 1784037756,
+      "hn_url": "https://news.ycombinator.com/item?id=48907063",
+      "title_cn": "Reviving a 15-year-old netbook with Arch Linux"
+    },
+    {
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "score": 190,
+      "comments": 195,
+      "author": "Ygg2",
+      "time": 1784395644,
+      "hn_url": "https://news.ycombinator.com/item?id=48960155",
+      "title_cn": "Goodbye, and Thanks for All the Bikesheds"
+    },
+    {
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "score": 188,
+      "comments": 135,
+      "author": "ykev",
+      "time": 1784391128,
+      "hn_url": "https://news.ycombinator.com/item?id=48959392",
+      "title_cn": "【Claude】Setting up your spare Mac for Claude Code to control, a step-by-step guide"
+    },
+    {
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "score": 142,
+      "comments": 23,
+      "author": "sebjones",
+      "time": 1784421506,
+      "hn_url": "https://news.ycombinator.com/item?id=48963879",
+      "title_cn": "Transcribe.cpp"
+    },
+    {
+      "title": "A Second-Grade Teacher Revived a Beloved Video Game",
+      "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
+      "score": 72,
+      "comments": 27,
+      "author": "danso",
+      "time": 1783962802,
+      "hn_url": "https://news.ycombinator.com/item?id=48895763",
+      "title_cn": "A Second-Grade Teacher Revived a Beloved Video Game"
+    },
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "score": 32,
       "comments": 4,
-      "author": "nittanymount",
-      "time": 1784334526,
-      "hn_url": "https://news.ycombinator.com/item?id=48953857",
-      "title_cn": "【AI】Nadella Blasts AI Industry's Double Standard"
+      "author": "subset",
+      "time": 1784424559,
+      "hn_url": "https://news.ycombinator.com/item?id=48964185",
+      "title_cn": "【AI】AI Mania Is Eviscerating Global Decision-Making"
     },
     {
-      "title": "The Largest Vocabulary in Hip Hop (2017)",
-      "url": "https://pudding.cool/2017/02/vocabulary/index.html",
-      "score": 6,
-      "comments": 2,
-      "author": "cdrnsf",
-      "time": 1784330792,
-      "hn_url": "https://news.ycombinator.com/item?id=48953404",
-      "title_cn": "The Largest Vocabulary in Hip Hop (2017)"
+      "title": "Popular sugar substitutes linked to faster brain aging",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
+      "score": 24,
+      "comments": 11,
+      "author": "toomuchtodo",
+      "time": 1784417267,
+      "hn_url": "https://news.ycombinator.com/item?id=48963484",
+      "title_cn": "【AI】Popular sugar substitutes linked to faster brain aging"
     },
     {
-      "title": "Claude Code(Fable) refused my slow down instruction",
-      "url": "https://qusaisuwan.github.io/cc-incident/index.html",
-      "score": 4,
+      "title": "Anthropic's newest ad is creeping people out",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "score": 19,
       "comments": 0,
-      "author": "qusaisuwan",
-      "time": 1784331596,
-      "hn_url": "https://news.ycombinator.com/item?id=48953519",
-      "title_cn": "【Claude】Claude Code(Fable) refused my slow down instruction"
+      "author": "gnabgib",
+      "time": 1784418618,
+      "hn_url": "https://news.ycombinator.com/item?id=48963614",
+      "title_cn": "【Anthropic】Anthropic's newest ad is creeping people out"
     }
   ]
 }
