@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-19T03:22:15.206108",
+  "updated_at": "2026-07-20T03:50:04.479114",
   "github_projects": [
     {
       "name": "grok-build",
       "full_name": "xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "description_cn": "spaCexAI's Coding 智能体 harness and tui. fullsCreen, mouse inter活跃, extensible.",
-      "stars": 19019,
-      "forks": 3433,
+      "stars": 20242,
+      "forks": 3685,
       "language": "Rust",
       "url": "https://github.com/xai-org/grok-build",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "description_cn": "Codex dream skin",
-      "stars": 9809,
-      "forks": 1022,
+      "stars": 10519,
+      "forks": 1088,
       "language": "JavaScript",
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "topics": [],
@@ -34,28 +34,12 @@
       }
     },
     {
-      "name": "scroll-world",
-      "full_name": "oso95/scroll-world",
-      "description": "A skill that turn any brand into a scrollable 3D world",
-      "description_cn": "a skill that turn any 分支and into a sCrollable 3D world",
-      "stars": 3623,
-      "forks": 451,
-      "language": "JavaScript",
-      "url": "https://github.com/oso95/scroll-world",
-      "topics": [],
-      "created_at": "2026-07-06T21:28:58Z",
-      "owner": {
-        "login": "oso95",
-        "avatar_url": "https://avatars.githubusercontent.com/u/86410452?v=4"
-      }
-    },
-    {
       "name": "os-taxonomy",
       "full_name": "withmarbleapp/os-taxonomy",
       "description": "No description",
       "description_cn": "",
-      "stars": 3272,
-      "forks": 567,
+      "stars": 3337,
+      "forks": 576,
       "language": "JavaScript",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "topics": [],
@@ -70,8 +54,8 @@
       "full_name": "MDX-Tom/gpt-5.6-instruct",
       "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "description_cn": "a Codex 命令行工具 jAIl分支eak prompt and test paCk for GPT-5.6-sol. 针对 GPT-5.6 系列的 Codex 命令行工具 破甲提示词与测试包。",
-      "stars": 2055,
-      "forks": 383,
+      "stars": 2189,
+      "forks": 411,
       "language": "Python",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
       "topics": [],
@@ -82,72 +66,12 @@
       }
     },
     {
-      "name": "knockoff",
-      "full_name": "Shpigford/knockoff",
-      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-      "description_cn": "Chrome 扩展 that filters pseudo-分支and junk out of amaz开启. buy from real, established 分支ands.",
-      "stars": 1940,
-      "forks": 70,
-      "language": "JavaScript",
-      "url": "https://github.com/Shpigford/knockoff",
-      "topics": [
-        "amazon",
-        "browser-extension",
-        "chrome-extension",
-        "firefox-addon",
-        "ios-extension"
-      ],
-      "created_at": "2026-07-06T15:06:06Z",
-      "owner": {
-        "login": "Shpigford",
-        "avatar_url": "https://avatars.githubusercontent.com/u/35243?v=4"
-      }
-    },
-    {
-      "name": "fable-method",
-      "full_name": "Sahir619/fable-method",
-      "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-      "description_cn": "the fable 工作流: how Claude fable 5 worked, distilled into skills any 模型 Can run, with the eval that keeps it h开启est. think / aCt / prove.",
-      "stars": 1705,
-      "forks": 238,
-      "language": "Python",
-      "url": "https://github.com/Sahir619/fable-method",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-md"
-      ],
-      "created_at": "2026-07-06T22:35:18Z",
-      "owner": {
-        "login": "Sahir619",
-        "avatar_url": "https://avatars.githubusercontent.com/u/94783820?v=4"
-      }
-    },
-    {
-      "name": "lingbot-world-v2",
-      "full_name": "Robbyant/lingbot-world-v2",
-      "description": "Infinite Worlds with Versatile Interactions",
-      "description_cn": "无穷大inite worlds with versatile interaCti开启s",
-      "stars": 1295,
-      "forks": 79,
-      "language": "Python",
-      "url": "https://github.com/Robbyant/lingbot-world-v2",
-      "topics": [],
-      "created_at": "2026-07-08T09:24:50Z",
-      "owner": {
-        "login": "Robbyant",
-        "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
-      }
-    },
-    {
       "name": "Aether",
       "full_name": "CluvexStudio/Aether",
       "description": "No description",
       "description_cn": "",
-      "stars": 1256,
-      "forks": 76,
+      "stars": 1318,
+      "forks": 78,
       "language": "Rust",
       "url": "https://github.com/CluvexStudio/Aether",
       "topics": [],
@@ -158,12 +82,28 @@
       }
     },
     {
+      "name": "lingbot-world-v2",
+      "full_name": "Robbyant/lingbot-world-v2",
+      "description": "Infinite Worlds with Versatile Interactions",
+      "description_cn": "无穷大inite worlds with versatile interaCti开启s",
+      "stars": 1309,
+      "forks": 82,
+      "language": "Python",
+      "url": "https://github.com/Robbyant/lingbot-world-v2",
+      "topics": [],
+      "created_at": "2026-07-08T09:24:50Z",
+      "owner": {
+        "login": "Robbyant",
+        "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
+      }
+    },
+    {
       "name": "aval",
       "full_name": "pixel-point/aval",
       "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "description_cn": "a 新 开源 format for inter活跃 视频 开启 the 网页, with a built-in 状态 maChine, frame-aCCurate 转换s, and paCked-alpha transparenCy.",
-      "stars": 1217,
-      "forks": 65,
+      "stars": 1241,
+      "forks": 67,
       "language": "TypeScript",
       "url": "https://github.com/pixel-point/aval",
       "topics": [],
@@ -172,158 +112,206 @@
         "login": "pixel-point",
         "avatar_url": "https://avatars.githubusercontent.com/u/29034027?v=4"
       }
+    },
+    {
+      "name": "mimic",
+      "full_name": "littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "description_cn": "interCept any app, then 调用 it from Pyth开启 like a 库",
+      "stars": 1215,
+      "forks": 79,
+      "language": "Python",
+      "url": "https://github.com/littledivy/mimic",
+      "topics": [],
+      "created_at": "2026-07-13T05:13:00Z",
+      "owner": {
+        "login": "littledivy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34997667?v=4"
+      }
+    },
+    {
+      "name": "Three.js-Object-Sculptor-Codex-Plugin",
+      "full_name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "description_cn": "Codex 插件 that turns attaChed 对象 图像s into Code-开启ly, 动画-ready proCedural three.js 模型s.",
+      "stars": 1180,
+      "forks": 132,
+      "language": "Python",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "topics": [],
+      "created_at": "2026-07-09T16:23:29Z",
+      "owner": {
+        "login": "vinhhien112",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38987783?v=4"
+      }
+    },
+    {
+      "name": "wardrobe",
+      "full_name": "tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "description_cn": "your Clothes, extraCted and organized with GPT-图像.",
+      "stars": 1164,
+      "forks": 168,
+      "language": "JavaScript",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "topics": [],
+      "created_at": "2026-07-16T06:17:00Z",
+      "owner": {
+        "login": "tandpfun",
+        "avatar_url": "https://avatars.githubusercontent.com/u/28990589?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 517,
-      "comments": 328,
-      "author": "mbustamanter",
-      "time": 1784379652,
-      "hn_url": "https://news.ycombinator.com/item?id=48957779",
-      "title_cn": "【GPT】GPT-5.6 used a prompt to close a 30-year gap in convex optimization"
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "score": 416,
+      "comments": 582,
+      "author": "tosh",
+      "time": 1784455403,
+      "hn_url": "https://news.ycombinator.com/item?id=48966569",
+      "title_cn": "【Claude】Claude Code uses Bun written in Rust now"
     },
     {
-      "title": "What AI did to stackoverflow in a graph",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "score": 378,
-      "comments": 470,
-      "author": "secretslol",
-      "time": 1784373166,
-      "hn_url": "https://news.ycombinator.com/item?id=48956949",
-      "title_cn": "【AI】What AI did to stackoverflow in a graph"
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "score": 328,
+      "comments": 156,
+      "author": "AmazingTurtle",
+      "time": 1784447679,
+      "hn_url": "https://news.ycombinator.com/item?id=48965850",
+      "title_cn": "【AI, OpenAI, 模型】OpenAI reduces Codex Model Context Size from 372k to 272k"
     },
     {
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "score": 312,
-      "comments": 33,
-      "author": "petewarden",
-      "time": 1784057110,
-      "hn_url": "https://news.ycombinator.com/item?id=48911793",
-      "title_cn": "Speech Recognition and TTS in less than 500kb"
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "score": 297,
+      "comments": 164,
+      "author": "rbanffy",
+      "time": 1784495890,
+      "hn_url": "https://news.ycombinator.com/item?id=48971738",
+      "title_cn": "【AI】AI advice made people less accurate but more confident – sudy"
     },
     {
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "score": 284,
-      "comments": 140,
-      "author": "gnabgib",
-      "time": 1784412819,
-      "hn_url": "https://news.ycombinator.com/item?id=48962983",
-      "title_cn": "【AI】Mayor Mamdani Says Landlords Can't Use AI Images to Advertise"
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "score": 239,
+      "comments": 99,
+      "author": "serialx",
+      "time": 1784476945,
+      "hn_url": "https://news.ycombinator.com/item?id=48969291",
+      "title_cn": "【AI】Moonshot AI suspends new subscriptions due to Kimi K3 demand"
     },
     {
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
-      "score": 274,
-      "comments": 109,
-      "author": "st_goliath",
-      "time": 1784317262,
-      "hn_url": "https://news.ycombinator.com/item?id=48951461",
-      "title_cn": "The Zilog Z80 has turned 50"
+      "title": "Ollama: All Aboard Open Models",
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "score": 116,
+      "comments": 49,
+      "author": "inferhaven",
+      "time": 1784447984,
+      "hn_url": "https://news.ycombinator.com/item?id=48965880",
+      "title_cn": "【模型】Ollama: All Aboard Open Models"
     },
     {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "score": 221,
-      "comments": 107,
-      "author": "couAUIA",
-      "time": 1784372429,
-      "hn_url": "https://news.ycombinator.com/item?id=48956879",
-      "title_cn": "【GPT】Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?"
+      "title": "Land Atlas – soil, farmability, and crop analysis for land listings",
+      "url": "https://land-atlas-production.up.railway.app/welcome",
+      "score": 63,
+      "comments": 18,
+      "author": "L3dge",
+      "time": 1783943912,
+      "hn_url": "https://news.ycombinator.com/item?id=48891334",
+      "title_cn": "Land Atlas – soil, farmability, and crop analysis for land listings"
     },
     {
-      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "score": 221,
-      "comments": 88,
-      "author": "BadChemical",
-      "time": 1784324563,
-      "hn_url": "https://news.ycombinator.com/item?id=48952565",
-      "title_cn": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years"
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "score": 60,
+      "comments": 44,
+      "author": "jandeboevrie",
+      "time": 1784494242,
+      "hn_url": "https://news.ycombinator.com/item?id=48971566",
+      "title_cn": "A new Intel Itanium (IA-64) emulator that boots Windows"
     },
     {
-      "title": "Reviving a 15-year-old netbook with Arch Linux",
-      "url": "https://parksb.github.io/en/article/41.html",
-      "score": 211,
-      "comments": 154,
-      "author": "parksb",
-      "time": 1784037756,
-      "hn_url": "https://news.ycombinator.com/item?id=48907063",
-      "title_cn": "Reviving a 15-year-old netbook with Arch Linux"
+      "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
+      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
+      "score": 37,
+      "comments": 2,
+      "author": "gslin",
+      "time": 1784159099,
+      "hn_url": "https://news.ycombinator.com/item?id=48928703",
+      "title_cn": "11,700 Free Photos from John Margolies' Archive of Americana Architecture"
     },
     {
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
-      "score": 190,
-      "comments": 195,
-      "author": "Ygg2",
-      "time": 1784395644,
-      "hn_url": "https://news.ycombinator.com/item?id=48960155",
-      "title_cn": "Goodbye, and Thanks for All the Bikesheds"
+      "title": "Building an Arch Linux Aarch64 Port for Holo Core",
+      "url": "https://www.collabora.com/news-and-blog/news-and-events/building-an-arch-linux-aarch64-port-for-holo-core.html",
+      "score": 35,
+      "comments": 6,
+      "author": "losgehts",
+      "time": 1784303425,
+      "hn_url": "https://news.ycombinator.com/item?id=48948800",
+      "title_cn": "Building an Arch Linux Aarch64 Port for Holo Core"
     },
     {
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "score": 188,
-      "comments": 135,
-      "author": "ykev",
-      "time": 1784391128,
-      "hn_url": "https://news.ycombinator.com/item?id=48959392",
-      "title_cn": "【Claude】Setting up your spare Mac for Claude Code to control, a step-by-step guide"
-    },
-    {
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 142,
-      "comments": 23,
-      "author": "sebjones",
-      "time": 1784421506,
-      "hn_url": "https://news.ycombinator.com/item?id=48963879",
-      "title_cn": "Transcribe.cpp"
-    },
-    {
-      "title": "A Second-Grade Teacher Revived a Beloved Video Game",
-      "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
-      "score": 72,
-      "comments": 27,
-      "author": "danso",
-      "time": 1783962802,
-      "hn_url": "https://news.ycombinator.com/item?id=48895763",
-      "title_cn": "A Second-Grade Teacher Revived a Beloved Video Game"
-    },
-    {
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "score": 32,
-      "comments": 4,
-      "author": "subset",
-      "time": 1784424559,
-      "hn_url": "https://news.ycombinator.com/item?id=48964185",
-      "title_cn": "【AI】AI Mania Is Eviscerating Global Decision-Making"
-    },
-    {
-      "title": "Popular sugar substitutes linked to faster brain aging",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
-      "score": 24,
-      "comments": 11,
-      "author": "toomuchtodo",
-      "time": 1784417267,
-      "hn_url": "https://news.ycombinator.com/item?id=48963484",
-      "title_cn": "【AI】Popular sugar substitutes linked to faster brain aging"
-    },
-    {
-      "title": "Anthropic's newest ad is creeping people out",
-      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-      "score": 19,
+      "title": "Talk: The Art of Braiding Algorithms",
+      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "score": 25,
       "comments": 0,
-      "author": "gnabgib",
-      "time": 1784418618,
-      "hn_url": "https://news.ycombinator.com/item?id=48963614",
-      "title_cn": "【Anthropic】Anthropic's newest ad is creeping people out"
+      "author": "surprisetalk",
+      "time": 1784122304,
+      "hn_url": "https://news.ycombinator.com/item?id=48920597",
+      "title_cn": "【AI】Talk: The Art of Braiding Algorithms"
+    },
+    {
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "score": 23,
+      "comments": 4,
+      "author": "loubbrad",
+      "time": 1784515876,
+      "hn_url": "https://news.ycombinator.com/item?id=48973869",
+      "title_cn": "【Claude】Claude Fable produced a counterexample to the Jacobian Conjecture"
+    },
+    {
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "url": "https://github.com/hgaiser/moonshine",
+      "score": 18,
+      "comments": 9,
+      "author": "wertyk",
+      "time": 1784506610,
+      "hn_url": "https://news.ycombinator.com/item?id=48972970",
+      "title_cn": "Moonshine: Lets you stream games from your PC to any device running Moonlight"
+    },
+    {
+      "title": "World GeoHistoGram",
+      "url": "https://textbooks.wmisd.org/worldgeohist.html",
+      "score": 6,
+      "comments": 0,
+      "author": "rzk",
+      "time": 1783958423,
+      "hn_url": "https://news.ycombinator.com/item?id=48894681",
+      "title_cn": "World GeoHistoGram"
+    },
+    {
+      "title": "Big Tech Is Now Targeting Native American Land for Data Centers",
+      "url": "https://www.nytimes.com/2026/07/09/us/data-centers-native-american-tribes.html",
+      "score": 6,
+      "comments": 0,
+      "author": "reaperducer",
+      "time": 1784514858,
+      "hn_url": "https://news.ycombinator.com/item?id=48973782",
+      "title_cn": "Big Tech Is Now Targeting Native American Land for Data Centers"
+    },
+    {
+      "title": "The Chickens and the Bulls (2012)",
+      "url": "https://slate.com/human-interest/2012/07/the-chickens-and-the-bulls-the-rise-and-incredible-fall-of-a-vicious-extortion-ring-that-preyed-on-prominent-gay-men-in-the-1960s.html",
+      "score": 3,
+      "comments": 0,
+      "author": "robtherobber",
+      "time": 1784124020,
+      "hn_url": "https://news.ycombinator.com/item?id=48920945",
+      "title_cn": "The Chickens and the Bulls (2012)"
     }
   ]
 }
