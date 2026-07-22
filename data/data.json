@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-21T03:16:40.141369",
+  "updated_at": "2026-07-22T03:14:52.958440",
   "github_projects": [
     {
       "name": "grok-build",
       "full_name": "xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "description_cn": "spaCexAI's Coding 智能体 harness and tui. fullsCreen, mouse inter活跃, extensible.",
-      "stars": 20899,
-      "forks": 3858,
+      "stars": 21462,
+      "forks": 3999,
       "language": "Rust",
       "url": "https://github.com/xai-org/grok-build",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "description_cn": "Codex dream skin",
-      "stars": 11146,
-      "forks": 1141,
+      "stars": 11564,
+      "forks": 1169,
       "language": "JavaScript",
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "topics": [],
@@ -34,28 +34,12 @@
       }
     },
     {
-      "name": "os-taxonomy",
-      "full_name": "withmarbleapp/os-taxonomy",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 3485,
-      "forks": 599,
-      "language": "JavaScript",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "topics": [],
-      "created_at": "2026-07-08T09:27:48Z",
-      "owner": {
-        "login": "withmarbleapp",
-        "avatar_url": "https://avatars.githubusercontent.com/u/233045934?v=4"
-      }
-    },
-    {
       "name": "aos-ce",
       "full_name": "unicity-aos/aos-ce",
       "description": "AOS Community Edition: the open agent operating system.",
       "description_cn": "aos Comm单元y editi开启: the open 智能体 operating 系统.",
-      "stars": 2853,
-      "forks": 3,
+      "stars": 5813,
+      "forks": 4,
       "language": "Rust",
       "url": "https://github.com/unicity-aos/aos-ce",
       "topics": [],
@@ -70,8 +54,8 @@
       "full_name": "MDX-Tom/gpt-5.6-instruct",
       "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "description_cn": "a Codex 命令行工具 jAIl分支eak prompt and test paCk for GPT-5.6-sol. 针对 GPT-5.6 系列的 Codex 命令行工具 破甲提示词与测试包。",
-      "stars": 2323,
-      "forks": 427,
+      "stars": 2444,
+      "forks": 446,
       "language": "Python",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
       "topics": [],
@@ -82,19 +66,41 @@
       }
     },
     {
-      "name": "mimic",
-      "full_name": "littledivy/mimic",
-      "description": "Intercept any app, then call it from Python like a library",
-      "description_cn": "interCept any app, then 调用 it from Pyth开启 like a 库",
-      "stars": 1400,
-      "forks": 87,
+      "name": "harness-engineering",
+      "full_name": "lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "description_cn": "🐎 ryan lopopolo’s anthology, field 指南, and 智能体 C开启文本 bundle for harness 引擎ering",
+      "stars": 1683,
+      "forks": 152,
       "language": "Python",
-      "url": "https://github.com/littledivy/mimic",
+      "url": "https://github.com/lopopolo/harness-engineering",
       "topics": [],
-      "created_at": "2026-07-13T05:13:00Z",
+      "created_at": "2026-07-18T21:42:28Z",
       "owner": {
-        "login": "littledivy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/34997667?v=4"
+        "login": "lopopolo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/860434?v=4"
+      }
+    },
+    {
+      "name": "img2threejs",
+      "full_name": "hoainho/img2threejs",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "description_cn": "rebuild the 对象 in a referenCe 图像 as a Code-开启ly, proCedural, quality-gated, 动画-ready three.js 模型. 令牌-高效 图像-to-3D.",
+      "stars": 1521,
+      "forks": 124,
+      "language": "Python",
+      "url": "https://github.com/hoainho/img2threejs",
+      "topics": [
+        "3d",
+        "ai-agents",
+        "claude-code",
+        "computer-graphics",
+        "generative"
+      ],
+      "created_at": "2026-07-15T02:58:39Z",
+      "owner": {
+        "login": "hoainho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47898976?v=4"
       }
     },
     {
@@ -102,8 +108,8 @@
       "full_name": "CluvexStudio/Aether",
       "description": "No description",
       "description_cn": "",
-      "stars": 1395,
-      "forks": 85,
+      "stars": 1443,
+      "forks": 87,
       "language": "Rust",
       "url": "https://github.com/CluvexStudio/Aether",
       "topics": [],
@@ -114,19 +120,19 @@
       }
     },
     {
-      "name": "lingbot-world-v2",
-      "full_name": "Robbyant/lingbot-world-v2",
-      "description": "Infinite Worlds with Versatile Interactions",
-      "description_cn": "无穷大inite worlds with versatile interaCti开启s",
-      "stars": 1323,
-      "forks": 83,
+      "name": "mimic",
+      "full_name": "littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "description_cn": "interCept any app, then 调用 it from Pyth开启 like a 库",
+      "stars": 1439,
+      "forks": 90,
       "language": "Python",
-      "url": "https://github.com/Robbyant/lingbot-world-v2",
+      "url": "https://github.com/littledivy/mimic",
       "topics": [],
-      "created_at": "2026-07-08T09:24:50Z",
+      "created_at": "2026-07-13T05:13:00Z",
       "owner": {
-        "login": "Robbyant",
-        "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
+        "login": "littledivy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34997667?v=4"
       }
     },
     {
@@ -134,8 +140,8 @@
       "full_name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
       "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
       "description_cn": "Codex 插件 that turns attaChed 对象 图像s into Code-开启ly, 动画-ready proCedural three.js 模型s.",
-      "stars": 1278,
-      "forks": 139,
+      "stars": 1392,
+      "forks": 145,
       "language": "Python",
       "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
       "topics": [],
@@ -146,172 +152,172 @@
       }
     },
     {
-      "name": "aval",
-      "full_name": "pixel-point/aval",
-      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "description_cn": "a 新 开源 format for inter活跃 视频 开启 the 网页, with a built-in 状态 maChine, frame-aCCurate 转换s, and paCked-alpha transparenCy.",
-      "stars": 1257,
-      "forks": 68,
-      "language": "TypeScript",
-      "url": "https://github.com/pixel-point/aval",
+      "name": "wardrobe",
+      "full_name": "tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "description_cn": "your Clothes, extraCted and organized with GPT-图像.",
+      "stars": 1288,
+      "forks": 187,
+      "language": "JavaScript",
+      "url": "https://github.com/tandpfun/wardrobe",
       "topics": [],
-      "created_at": "2026-07-13T07:42:51Z",
+      "created_at": "2026-07-16T06:17:00Z",
       "owner": {
-        "login": "pixel-point",
-        "avatar_url": "https://avatars.githubusercontent.com/u/29034027?v=4"
+        "login": "tandpfun",
+        "avatar_url": "https://avatars.githubusercontent.com/u/28990589?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "China’s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 997,
-      "comments": 805,
-      "author": "benwerd",
-      "time": 1784557307,
-      "hn_url": "https://news.ycombinator.com/item?id=48979269",
-      "title_cn": "【AI】China’s open-weights AI strategy is winning"
-    },
-    {
-      "title": "Airport Simulator",
-      "url": "https://airport.apunen.com/",
-      "score": 739,
-      "comments": 144,
-      "author": "apunen",
-      "time": 1784543440,
-      "hn_url": "https://news.ycombinator.com/item?id=48976846",
-      "title_cn": "【AI】Airport Simulator"
-    },
-    {
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "score": 699,
-      "comments": 447,
-      "author": "loubbrad",
-      "time": 1784515876,
-      "hn_url": "https://news.ycombinator.com/item?id=48973869",
-      "title_cn": "【Claude】Claude Fable produced a counterexample to the Jacobian Conjecture"
-    },
-    {
-      "title": "Xiaomi-Robotics-1",
-      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "score": 457,
-      "comments": 308,
-      "author": "ilreb",
-      "time": 1784522715,
-      "hn_url": "https://news.ycombinator.com/item?id=48974454",
-      "title_cn": "【机器人】Xiaomi-Robotics-1"
-    },
-    {
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "url": "https://jelly-ui.com/",
-      "score": 373,
-      "comments": 142,
-      "author": "baldvinmar",
-      "time": 1784567259,
-      "hn_url": "https://news.ycombinator.com/item?id=48981620",
-      "title_cn": "Jelly UI: Soft-body physics for native HTML form controls"
-    },
-    {
-      "title": "Who's afraid of Chinese models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 344,
-      "comments": 218,
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "score": 784,
+      "comments": 543,
       "author": "mfiguiere",
-      "time": 1784545558,
-      "hn_url": "https://news.ycombinator.com/item?id=48977128",
-      "title_cn": "【AI, 模型】Who's afraid of Chinese models?"
+      "time": 1784664592,
+      "hn_url": "https://news.ycombinator.com/item?id=48997548",
+      "title_cn": "【AI, OpenAI, 模型】OpenAI and Hugging Face address security incident during model evaluation"
     },
     {
-      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-      "score": 305,
-      "comments": 298,
-      "author": "cl42",
-      "time": 1784560422,
-      "hn_url": "https://news.ycombinator.com/item?id=48980019",
-      "title_cn": "【Anthropic】Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling"
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "score": 629,
+      "comments": 505,
+      "author": "logickkk1",
+      "time": 1784647036,
+      "hn_url": "https://news.ycombinator.com/item?id=48993414",
+      "title_cn": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
     },
     {
-      "title": "Perfection is not over-engineering",
-      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-      "score": 207,
-      "comments": 91,
-      "author": "var0xyz",
-      "time": 1784556630,
-      "hn_url": "https://news.ycombinator.com/item?id=48979120",
-      "title_cn": "Perfection is not over-engineering"
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "score": 548,
+      "comments": 212,
+      "author": "ilreb",
+      "time": 1784623463,
+      "hn_url": "https://news.ycombinator.com/item?id=48989701",
+      "title_cn": "【AI】Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge"
     },
     {
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "url": "https://blaizzy.github.io/nativ/",
-      "score": 205,
-      "comments": 79,
-      "author": "aratahikaru5",
-      "time": 1784571368,
-      "hn_url": "https://news.ycombinator.com/item?id=48982681",
-      "title_cn": "【模型】Nativ: Run frontier open models locally on your Mac"
+      "title": "Advertise in ChatGPT",
+      "url": "https://ads.openai.com/",
+      "score": 391,
+      "comments": 358,
+      "author": "montecarl",
+      "time": 1784660324,
+      "hn_url": "https://news.ycombinator.com/item?id=48996571",
+      "title_cn": "【GPT】Advertise in ChatGPT"
     },
     {
-      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "score": 199,
-      "comments": 145,
-      "author": "dopamine_daddy",
-      "time": 1784565396,
-      "hn_url": "https://news.ycombinator.com/item?id=48981206",
-      "title_cn": "【AI】How we measured AI writing across arXiv, and where the measurement breaks"
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "url": "https://fireworks.ai/blog/kimik3-fable",
+      "score": 348,
+      "comments": 202,
+      "author": "piotrgrabowski",
+      "time": 1784673324,
+      "hn_url": "https://news.ycombinator.com/item?id=48999291",
+      "title_cn": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA"
     },
     {
-      "title": "Agent swarms and the new model economics",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "score": 138,
-      "comments": 59,
-      "author": "jlaneve",
-      "time": 1784570773,
-      "hn_url": "https://news.ycombinator.com/item?id=48982535",
-      "title_cn": "【模型】Agent swarms and the new model economics"
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "score": 259,
+      "comments": 225,
+      "author": "ryanmerket",
+      "time": 1784654046,
+      "hn_url": "https://news.ycombinator.com/item?id=48995213",
+      "title_cn": "【AI, 推出】Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting"
     },
     {
-      "title": "You only need the frontier model for one single edit",
-      "url": "https://stencil.so/blog/prewalk",
-      "score": 84,
-      "comments": 22,
-      "author": "jxmorris12",
-      "time": 1784092106,
-      "hn_url": "https://news.ycombinator.com/item?id=48916512",
-      "title_cn": "【模型】You only need the frontier model for one single edit"
+      "title": "Laguna S 2.1",
+      "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+      "score": 249,
+      "comments": 46,
+      "author": "rexledesma",
+      "time": 1784654226,
+      "hn_url": "https://news.ycombinator.com/item?id=48995261",
+      "title_cn": "Laguna S 2.1"
     },
     {
-      "title": "My two year old taught me constraint solving",
-      "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "score": 158,
+      "comments": 115,
+      "author": "BeetleB",
+      "time": 1784660679,
+      "hn_url": "https://news.ycombinator.com/item?id=48996652",
+      "title_cn": "【AI, Anthropic, Claude】Judge approves $1.5B Anthropic settlement for pirated books used to train Claude"
+    },
+    {
+      "title": "Python 3.15’s Ultra-Low Overhead Interpreter Profiling Mode",
+      "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
+      "score": 146,
+      "comments": 12,
+      "author": "rbanffy",
+      "time": 1784106422,
+      "hn_url": "https://news.ycombinator.com/item?id=48918140",
+      "title_cn": "Python 3.15’s Ultra-Low Overhead Interpreter Profiling Mode"
+    },
+    {
+      "title": "The unreasonable difficulty of time series forecasting",
+      "url": "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html",
+      "score": 132,
+      "comments": 47,
+      "author": "suzyahyah",
+      "time": 1784398176,
+      "hn_url": "https://news.ycombinator.com/item?id=48960582",
+      "title_cn": "The unreasonable difficulty of time series forecasting"
+    },
+    {
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "score": 131,
+      "comments": 49,
+      "author": "hershyb_",
+      "time": 1784668400,
+      "hn_url": "https://news.ycombinator.com/item?id=48998404",
+      "title_cn": "【GPT, Claude】\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok"
+    },
+    {
+      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
       "score": 47,
-      "comments": 18,
-      "author": "bambataa",
-      "time": 1783711927,
-      "hn_url": "https://news.ycombinator.com/item?id=48864176",
-      "title_cn": "【AI】My two year old taught me constraint solving"
+      "comments": 16,
+      "author": "greatgib",
+      "time": 1784669274,
+      "hn_url": "https://news.ycombinator.com/item?id=48998606",
+      "title_cn": "【模型】Gemini last models: temperature, top_p, and top_k are deprecated and ignored"
     },
     {
-      "title": "Atomic Physics in Pure Anglo-Saxon",
-      "url": "https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish-beholding.html",
-      "score": 13,
-      "comments": 5,
-      "author": "xelxebar",
-      "time": 1783842852,
-      "hn_url": "https://news.ycombinator.com/item?id=48879242",
-      "title_cn": "Atomic Physics in Pure Anglo-Saxon"
+      "title": "AI Agent – TRMNL",
+      "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+      "score": 44,
+      "comments": 24,
+      "author": "joeyespo",
+      "time": 1784658741,
+      "hn_url": "https://news.ycombinator.com/item?id=48996236",
+      "title_cn": "【AI】AI Agent – TRMNL"
     },
     {
-      "title": "What most histories get wrong about MUMPS's first standard",
-      "url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/First_MUMPS_Standard_Article.md",
-      "score": 5,
-      "comments": 1,
-      "author": "Rochus",
-      "time": 1783908848,
-      "hn_url": "https://news.ycombinator.com/item?id=48887043",
-      "title_cn": "What most histories get wrong about MUMPS's first standard"
+      "title": "Recreating the math behind the first stealth aircraft",
+      "url": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
+      "score": 38,
+      "comments": 16,
+      "author": "pmazumder",
+      "time": 1784226896,
+      "hn_url": "https://news.ycombinator.com/item?id=48938395",
+      "title_cn": "【AI】Recreating the math behind the first stealth aircraft"
+    },
+    {
+      "title": "How an AI Anime Is Created",
+      "url": "https://www.aventos.dev/our-process?view=blog",
+      "score": 20,
+      "comments": 19,
+      "author": "JimsonYang",
+      "time": 1784681580,
+      "hn_url": "https://news.ycombinator.com/item?id=49000429",
+      "title_cn": "【AI】How an AI Anime Is Created"
     }
   ]
 }
