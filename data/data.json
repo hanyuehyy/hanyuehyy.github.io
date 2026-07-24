@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-23T03:21:44.467029",
+  "updated_at": "2026-07-24T03:15:18.239346",
   "github_projects": [
     {
       "name": "grok-build",
       "full_name": "xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "description_cn": "spaCexAI's Coding 智能体 harness and tui. fullsCreen, mouse inter活跃, extensible.",
-      "stars": 21849,
-      "forks": 4102,
+      "stars": 22133,
+      "forks": 4176,
       "language": "Rust",
       "url": "https://github.com/xai-org/grok-build",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "description_cn": "Codex dream skin",
-      "stars": 11874,
-      "forks": 1193,
+      "stars": 12092,
+      "forks": 1212,
       "language": "JavaScript",
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "topics": [],
@@ -38,8 +38,8 @@
       "full_name": "unicity-aos/aos-ce",
       "description": "AOS Community Edition: the open agent operating system.",
       "description_cn": "aos Comm单元y editi开启: the open 智能体 operating 系统.",
-      "stars": 6665,
-      "forks": 7,
+      "stars": 6897,
+      "forks": 9,
       "language": "Rust",
       "url": "https://github.com/unicity-aos/aos-ce",
       "topics": [],
@@ -50,44 +50,12 @@
       }
     },
     {
-      "name": "gpt-5.6-instruct",
-      "full_name": "MDX-Tom/gpt-5.6-instruct",
-      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "description_cn": "a Codex 命令行工具 jAIl分支eak prompt and test paCk for GPT-5.6-sol. 针对 GPT-5.6 系列的 Codex 命令行工具 破甲提示词与测试包。",
-      "stars": 2612,
-      "forks": 463,
-      "language": "Python",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "topics": [],
-      "created_at": "2026-07-11T09:44:24Z",
-      "owner": {
-        "login": "MDX-Tom",
-        "avatar_url": "https://avatars.githubusercontent.com/u/6468993?v=4"
-      }
-    },
-    {
-      "name": "harness-engineering",
-      "full_name": "lopopolo/harness-engineering",
-      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "description_cn": "🐎 ryan lopopolo’s anthology, field 指南, and 智能体 C开启文本 bundle for harness 引擎ering",
-      "stars": 2200,
-      "forks": 221,
-      "language": "Python",
-      "url": "https://github.com/lopopolo/harness-engineering",
-      "topics": [],
-      "created_at": "2026-07-18T21:42:28Z",
-      "owner": {
-        "login": "lopopolo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/860434?v=4"
-      }
-    },
-    {
       "name": "img2threejs",
       "full_name": "hoainho/img2threejs",
       "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
       "description_cn": "rebuild the 对象 in a referenCe 图像 as a Code-开启ly, proCedural, quality-gated, 动画-ready three.js 模型. 令牌-高效 图像-to-3D.",
-      "stars": 2102,
-      "forks": 166,
+      "stars": 3173,
+      "forks": 242,
       "language": "Python",
       "url": "https://github.com/hoainho/img2threejs",
       "topics": [
@@ -104,12 +72,60 @@
       }
     },
     {
+      "name": "gpt-5.6-instruct",
+      "full_name": "MDX-Tom/gpt-5.6-instruct",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "description_cn": "a Codex 命令行工具 jAIl分支eak prompt and test paCk for GPT-5.6-sol. 针对 GPT-5.6 系列的 Codex 命令行工具 破甲提示词与测试包。",
+      "stars": 2762,
+      "forks": 482,
+      "language": "Python",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "topics": [],
+      "created_at": "2026-07-11T09:44:24Z",
+      "owner": {
+        "login": "MDX-Tom",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6468993?v=4"
+      }
+    },
+    {
+      "name": "harness-engineering",
+      "full_name": "lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "description_cn": "🐎 ryan lopopolo’s anthology, field 指南, and 智能体 C开启文本 bundle for harness 引擎ering",
+      "stars": 2279,
+      "forks": 229,
+      "language": "Python",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "topics": [],
+      "created_at": "2026-07-18T21:42:28Z",
+      "owner": {
+        "login": "lopopolo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/860434?v=4"
+      }
+    },
+    {
+      "name": "openworker",
+      "full_name": "andrewyng/openworker",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 1552,
+      "forks": 230,
+      "language": "Python",
+      "url": "https://github.com/andrewyng/openworker",
+      "topics": [],
+      "created_at": "2026-07-20T01:52:32Z",
+      "owner": {
+        "login": "andrewyng",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3710007?v=4"
+      }
+    },
+    {
       "name": "Aether",
       "full_name": "CluvexStudio/Aether",
       "description": "No description",
       "description_cn": "",
-      "stars": 1469,
-      "forks": 93,
+      "stars": 1486,
+      "forks": 94,
       "language": "Rust",
       "url": "https://github.com/CluvexStudio/Aether",
       "topics": [],
@@ -124,8 +140,8 @@
       "full_name": "littledivy/mimic",
       "description": "Intercept any app, then call it from Python like a library",
       "description_cn": "interCept any app, then 调用 it from Pyth开启 like a 库",
-      "stars": 1450,
-      "forks": 90,
+      "stars": 1458,
+      "forks": 91,
       "language": "Python",
       "url": "https://github.com/littledivy/mimic",
       "topics": [],
@@ -140,8 +156,8 @@
       "full_name": "tandpfun/wardrobe",
       "description": "Your clothes, extracted and organized with gpt-image.",
       "description_cn": "your Clothes, extraCted and organized with GPT-图像.",
-      "stars": 1361,
-      "forks": 194,
+      "stars": 1409,
+      "forks": 205,
       "language": "JavaScript",
       "url": "https://github.com/tandpfun/wardrobe",
       "topics": [],
@@ -150,174 +166,158 @@
         "login": "tandpfun",
         "avatar_url": "https://avatars.githubusercontent.com/u/28990589?v=4"
       }
-    },
-    {
-      "name": "aval",
-      "full_name": "pixel-point/aval",
-      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "description_cn": "a 新 开源 format for inter活跃 视频 开启 the 网页, with a built-in 状态 maChine, frame-aCCurate 转换s, and paCked-alpha transparenCy.",
-      "stars": 1285,
-      "forks": 70,
-      "language": "TypeScript",
-      "url": "https://github.com/pixel-point/aval",
-      "topics": [],
-      "created_at": "2026-07-13T07:42:51Z",
-      "owner": {
-        "login": "pixel-point",
-        "avatar_url": "https://avatars.githubusercontent.com/u/29034027?v=4"
-      }
     }
   ],
   "ai_news": [
     {
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "score": 683,
-      "comments": 153,
-      "author": "starfallg",
-      "time": 1784733563,
-      "hn_url": "https://news.ycombinator.com/item?id=49008211",
-      "title_cn": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)"
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "score": 1030,
+      "comments": 495,
+      "author": "dwwoelfel",
+      "time": 1784816683,
+      "hn_url": "https://news.ycombinator.com/item?id=49022152",
+      "title_cn": "【AI】Writing by hand is good for your brain"
     },
     {
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 665,
-      "comments": 398,
-      "author": "gmays",
-      "time": 1784741440,
-      "hn_url": "https://news.ycombinator.com/item?id=49010345",
-      "title_cn": "【GPT】Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample"
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "score": 767,
+      "comments": 679,
+      "author": "theanonymousone",
+      "time": 1784819920,
+      "hn_url": "https://news.ycombinator.com/item?id=49023016",
+      "title_cn": "【AI, 创业公司】Startup founders urge U.S. government not to shut off Chinese open weight AI"
     },
     {
-      "title": "Are AI Labs Pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "score": 414,
-      "comments": 160,
-      "author": "dcastm",
-      "time": 1784740674,
-      "hn_url": "https://news.ycombinator.com/item?id=49010129",
-      "title_cn": "【AI】Are AI Labs Pelicanmaxxing?"
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "score": 619,
+      "comments": 308,
+      "author": "technewssss",
+      "time": 1784812150,
+      "hn_url": "https://news.ycombinator.com/item?id=49020999",
+      "title_cn": "【AI】AI Companies Are Trying to Hide a Staggering Amount of Debt"
     },
     {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 390,
-      "comments": 77,
-      "author": "syrusakbary",
-      "time": 1784740838,
-      "hn_url": "https://news.ycombinator.com/item?id=49010167",
-      "title_cn": "【模型】GigaToken: ~1000x faster Language model tokenization"
-    },
-    {
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "score": 312,
-      "comments": 316,
-      "author": "montroser",
-      "time": 1784723568,
-      "hn_url": "https://news.ycombinator.com/item?id=49005747",
-      "title_cn": "【AI】So Reddit has decided that plain HTML is unsafe"
-    },
-    {
-      "title": "Making",
-      "url": "https://beej.us/blog/data/ai-making/",
-      "score": 296,
-      "comments": 113,
-      "author": "erikschoster",
-      "time": 1784734428,
-      "hn_url": "https://news.ycombinator.com/item?id=49008440",
-      "title_cn": "Making"
-    },
-    {
-      "title": "Businesses with ugly AI menu redesigns",
-      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "score": 202,
-      "comments": 157,
-      "author": "speckx",
-      "time": 1784724585,
-      "hn_url": "https://news.ycombinator.com/item?id=49005973",
-      "title_cn": "【AI】Businesses with ugly AI menu redesigns"
-    },
-    {
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "score": 190,
-      "comments": 80,
-      "author": "benbreen",
-      "time": 1784729885,
-      "hn_url": "https://news.ycombinator.com/item?id=49007247",
-      "title_cn": "【AI】Quality non-fiction books are the antithesis of AI slop"
-    },
-    {
-      "title": "Fairphone 6 wide camera experimental Linux support",
-      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-      "score": 80,
-      "comments": 8,
-      "author": "helonaut",
-      "time": 1784751361,
-      "hn_url": "https://news.ycombinator.com/item?id=49012777",
-      "title_cn": "【AI】Fairphone 6 wide camera experimental Linux support"
-    },
-    {
-      "title": "Malleable Computing, Emacs, and You",
-      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-      "score": 75,
-      "comments": 21,
-      "author": "kickingvegas",
-      "time": 1784754926,
-      "hn_url": "https://news.ycombinator.com/item?id=49013538",
-      "title_cn": "Malleable Computing, Emacs, and You"
-    },
-    {
-      "title": "Run large language models at home, BitTorrent‑style",
-      "url": "https://petals.dev/",
-      "score": 54,
-      "comments": 21,
-      "author": "snorbleck",
-      "time": 1784770392,
-      "hn_url": "https://news.ycombinator.com/item?id=49015735",
-      "title_cn": "【模型】Run large language models at home, BitTorrent‑style"
-    },
-    {
-      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-      "url": "https://unlayer.com",
-      "score": 47,
-      "comments": 33,
-      "author": "adeelraza",
-      "time": 1784736123,
-      "hn_url": "https://news.ycombinator.com/item?id=49008901",
-      "title_cn": "【AI, 推出】Launch HN: Unlayer (YC W22) – Add email and document builders to your app"
-    },
-    {
-      "title": "Clarity didn't work, trying mysterianism (2012)",
-      "url": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
-      "score": 45,
-      "comments": 13,
-      "author": "dboon",
-      "time": 1784746542,
-      "hn_url": "https://news.ycombinator.com/item?id=49011687",
-      "title_cn": "Clarity didn't work, trying mysterianism (2012)"
-    },
-    {
-      "title": "Taking OCaml and Eio for a Spin",
-      "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
-      "score": 40,
-      "comments": 5,
-      "author": "mattjhall",
-      "time": 1784532759,
-      "hn_url": "https://news.ycombinator.com/item?id=48975395",
-      "title_cn": "Taking OCaml and Eio for a Spin"
-    },
-    {
-      "title": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
+      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
       "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "score": 38,
-      "comments": 24,
+      "score": 409,
+      "comments": 333,
       "author": "abhisek",
       "time": 1784769374,
       "hn_url": "https://news.ycombinator.com/item?id=49015639",
-      "title_cn": "【AI, OpenAI】OpenAI's accidental cyberattack against Hugging Face is science fiction"
+      "title_cn": "【AI, OpenAI】OpenAI’s accidental attack against Hugging Face is science fiction that happened"
+    },
+    {
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "score": 217,
+      "comments": 151,
+      "author": "jjfoooo4",
+      "time": 1784825397,
+      "hn_url": "https://news.ycombinator.com/item?id=49024643",
+      "title_cn": "【AI, 开源】The arguments against open source AI are bad"
+    },
+    {
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "score": 206,
+      "comments": 157,
+      "author": "dhorthy",
+      "time": 1784819928,
+      "hn_url": "https://news.ycombinator.com/item?id=49023019",
+      "title_cn": "【AI】Why Software Factories Fail (or: harness engineering is not enough)"
+    },
+    {
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "score": 192,
+      "comments": 217,
+      "author": "r2sk5t",
+      "time": 1784814696,
+      "hn_url": "https://news.ycombinator.com/item?id=49021597",
+      "title_cn": "【AI】DARPA, U.S. Air Force fly AI-controlled F-16"
+    },
+    {
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "score": 129,
+      "comments": 20,
+      "author": "harrisontin",
+      "time": 1784819497,
+      "hn_url": "https://news.ycombinator.com/item?id=49022911",
+      "title_cn": "【AI】Show HN: Palmier Pro – Open-source macOS video editor built for AI"
+    },
+    {
+      "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "score": 82,
+      "comments": 70,
+      "author": "s0ck_r4w",
+      "time": 1784826382,
+      "hn_url": "https://news.ycombinator.com/item?id=49024882",
+      "title_cn": "【Claude】Show HN: Claude-thermos keeps your Claude session warm for you"
+    },
+    {
+      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "url": "https://github.com/onecli/onecli",
+      "score": 81,
+      "comments": 29,
+      "author": "Jonathanfishner",
+      "time": 1784821360,
+      "hn_url": "https://news.ycombinator.com/item?id=49023427",
+      "title_cn": "【AI】Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents"
+    },
+    {
+      "title": "The Visual 6502",
+      "url": "http://visual6502.org/JSSim/index.html",
+      "score": 63,
+      "comments": 19,
+      "author": "infiniteregrets",
+      "time": 1784849802,
+      "hn_url": "https://news.ycombinator.com/item?id=49029538",
+      "title_cn": "The Visual 6502"
+    },
+    {
+      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+      "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+      "score": 60,
+      "comments": 0,
+      "author": "annieversary",
+      "time": 1784555989,
+      "hn_url": "https://news.ycombinator.com/item?id=48978989",
+      "title_cn": "Meta Garbage Collection: Using OCaml's GC to GC Rust"
+    },
+    {
+      "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
+      "url": "https://arxiv.org/abs/2507.09369",
+      "score": 59,
+      "comments": 48,
+      "author": "amelius",
+      "time": 1784847073,
+      "hn_url": "https://news.ycombinator.com/item?id=49029133",
+      "title_cn": "A taxonomy of omnicidal futures involving artificial intelligence (2025)"
+    },
+    {
+      "title": "Show HN: Trifle – Open-source analytics that stores answers, not events",
+      "url": "https://trifle.io/",
+      "score": 38,
+      "comments": 8,
+      "author": "iluzone",
+      "time": 1784731150,
+      "hn_url": "https://news.ycombinator.com/item?id=49007574",
+      "title_cn": "Show HN: Trifle – Open-source analytics that stores answers, not events"
+    },
+    {
+      "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
+      "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
+      "score": 38,
+      "comments": 7,
+      "author": "ingve",
+      "time": 1784617849,
+      "hn_url": "https://news.ycombinator.com/item?id=48989065",
+      "title_cn": "【AI】Escape Analysis in Go: Stack vs. Heap Allocations Explained"
     }
   ]
 }
