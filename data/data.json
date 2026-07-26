@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-25T03:13:57.000124",
+  "updated_at": "2026-07-26T03:27:33.499788",
   "github_projects": [
     {
       "name": "grok-build",
       "full_name": "xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "description_cn": "spaCexAI's Coding 智能体 harness and tui. fullsCreen, mouse inter活跃, extensible.",
-      "stars": 22371,
-      "forks": 4225,
+      "stars": 22535,
+      "forks": 4254,
       "language": "Rust",
       "url": "https://github.com/xai-org/grok-build",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "description_cn": "Codex dream skin",
-      "stars": 12233,
-      "forks": 1229,
+      "stars": 12302,
+      "forks": 1235,
       "language": "JavaScript",
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "topics": [],
@@ -34,50 +34,12 @@
       }
     },
     {
-      "name": "aos-ce",
-      "full_name": "unicity-aos/aos-ce",
-      "description": "AOS Community Edition: the open agent operating system.",
-      "description_cn": "aos Comm单元y editi开启: the open 智能体 operating 系统.",
-      "stars": 7148,
-      "forks": 10,
-      "language": "Rust",
-      "url": "https://github.com/unicity-aos/aos-ce",
-      "topics": [],
-      "created_at": "2026-07-12T23:39:52Z",
-      "owner": {
-        "login": "unicity-aos",
-        "avatar_url": "https://avatars.githubusercontent.com/u/261740341?v=4"
-      }
-    },
-    {
-      "name": "img2threejs",
-      "full_name": "hoainho/img2threejs",
-      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "description_cn": "rebuild the 对象 in a referenCe 图像 as a Code-开启ly, proCedural, quality-gated, 动画-ready three.js 模型. 令牌-高效 图像-to-3D.",
-      "stars": 4102,
-      "forks": 305,
-      "language": "Python",
-      "url": "https://github.com/hoainho/img2threejs",
-      "topics": [
-        "3d",
-        "ai-agents",
-        "claude-code",
-        "computer-graphics",
-        "generative"
-      ],
-      "created_at": "2026-07-15T02:58:39Z",
-      "owner": {
-        "login": "hoainho",
-        "avatar_url": "https://avatars.githubusercontent.com/u/47898976?v=4"
-      }
-    },
-    {
       "name": "openworker",
       "full_name": "andrewyng/openworker",
       "description": "No description",
       "description_cn": "",
-      "stars": 3507,
-      "forks": 468,
+      "stars": 5148,
+      "forks": 683,
       "language": "Python",
       "url": "https://github.com/andrewyng/openworker",
       "topics": [],
@@ -88,12 +50,34 @@
       }
     },
     {
+      "name": "img2threejs",
+      "full_name": "img2threejs/img2threejs",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "description_cn": "rebuild the 对象 in a referenCe 图像 as a Code-开启ly, proCedural, quality-gated, 动画-ready three.js 模型. 令牌-高效 图像-to-3D.",
+      "stars": 4820,
+      "forks": 366,
+      "language": "Python",
+      "url": "https://github.com/img2threejs/img2threejs",
+      "topics": [
+        "3d",
+        "ai-agents",
+        "claude-code",
+        "computer-graphics",
+        "generative"
+      ],
+      "created_at": "2026-07-15T02:58:39Z",
+      "owner": {
+        "login": "img2threejs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/309001690?v=4"
+      }
+    },
+    {
       "name": "harness-engineering",
       "full_name": "lopopolo/harness-engineering",
       "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "description_cn": "🐎 ryan lopopolo’s anthology, field 指南, and 智能体 C开启文本 bundle for harness 引擎ering",
-      "stars": 2327,
-      "forks": 237,
+      "stars": 2354,
+      "forks": 239,
       "language": "Python",
       "url": "https://github.com/lopopolo/harness-engineering",
       "topics": [],
@@ -108,8 +92,8 @@
       "full_name": "DavidHDev/canvas-ui",
       "description": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.",
       "description_cn": "a 库 of Creative Canvas Comp开启ents. real HTML with WebGL effeCts running over it. ReaCt, Vue, Svelte, vanilla.",
-      "stars": 1695,
-      "forks": 63,
+      "stars": 1989,
+      "forks": 81,
       "language": "TypeScript",
       "url": "https://github.com/DavidHDev/canvas-ui",
       "topics": [
@@ -126,19 +110,41 @@
       }
     },
     {
-      "name": "Aether",
-      "full_name": "CluvexStudio/Aether",
+      "name": "bento",
+      "full_name": "nyblnet/bento",
       "description": "No description",
       "description_cn": "",
-      "stars": 1511,
-      "forks": 96,
-      "language": "Rust",
-      "url": "https://github.com/CluvexStudio/Aether",
+      "stars": 1823,
+      "forks": 115,
+      "language": "TypeScript",
+      "url": "https://github.com/nyblnet/bento",
       "topics": [],
-      "created_at": "2026-07-14T14:20:44Z",
+      "created_at": "2026-07-17T16:55:09Z",
       "owner": {
-        "login": "CluvexStudio",
-        "avatar_url": "https://avatars.githubusercontent.com/u/125141320?v=4"
+        "login": "nyblnet",
+        "avatar_url": "https://avatars.githubusercontent.com/u/306268465?v=4"
+      }
+    },
+    {
+      "name": "video-shotcraft",
+      "full_name": "Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "description_cn": "AI 视频 skill for Claude Code & Codex — Cinemat内联缓存 produCt 视频s with rEmoti开启: 106 shot reCIPe Cards, 161 moti开启 previews, a produCti开启-ready 模板",
+      "stars": 1758,
+      "forks": 151,
+      "language": "TypeScript",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-video",
+        "claude-code",
+        "claude-code-skills"
+      ],
+      "created_at": "2026-07-19T11:44:41Z",
+      "owner": {
+        "login": "Vincentwei1021",
+        "avatar_url": "https://avatars.githubusercontent.com/u/18239147?v=4"
       }
     },
     {
@@ -146,8 +152,8 @@
       "full_name": "penecho/penecho",
       "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "description_cn": "think with AI bey开启d the 聊天 box. a 共享 Canvas for handwriting, equati开启s, diagrams, and spatial reas开启ing.",
-      "stars": 1494,
-      "forks": 156,
+      "stars": 1613,
+      "forks": 171,
       "language": "JavaScript",
       "url": "https://github.com/penecho/penecho",
       "topics": [
@@ -164,178 +170,172 @@
       }
     },
     {
-      "name": "video-shotcraft",
-      "full_name": "Vincentwei1021/video-shotcraft",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "description_cn": "AI 视频 skill for Claude Code & Codex — Cinemat内联缓存 produCt 视频s with rEmoti开启: 106 shot reCIPe Cards, 161 moti开启 previews, a produCti开启-ready 模板",
-      "stars": 1482,
-      "forks": 121,
-      "language": "TypeScript",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ai-video",
-        "claude-code",
-        "claude-code-skills"
-      ],
-      "created_at": "2026-07-19T11:44:41Z",
+      "name": "Aether",
+      "full_name": "CluvexStudio/Aether",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 1539,
+      "forks": 99,
+      "language": "Rust",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "topics": [],
+      "created_at": "2026-07-14T14:20:44Z",
       "owner": {
-        "login": "Vincentwei1021",
-        "avatar_url": "https://avatars.githubusercontent.com/u/18239147?v=4"
+        "login": "CluvexStudio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/125141320?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1355,
-      "comments": 732,
-      "author": "alvis",
-      "time": 1784912261,
-      "hn_url": "https://news.ycombinator.com/item?id=49038433",
-      "title_cn": "【Claude】Claude Opus 5"
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "score": 328,
+      "comments": 263,
+      "author": "tknaup",
+      "time": 1784990989,
+      "hn_url": "https://news.ycombinator.com/item?id=49048034",
+      "title_cn": "【AI】Open-weight AI is having its Kubernetes moment"
     },
     {
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "score": 532,
-      "comments": 241,
-      "author": "louiereederson",
-      "time": 1784899950,
-      "hn_url": "https://news.ycombinator.com/item?id=49035303",
-      "title_cn": "【AI, 模型】Nvidia, Microsoft, Meta warn against overregulating open-weight models"
+      "title": "How My Images Are Dithered",
+      "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+      "score": 221,
+      "comments": 74,
+      "author": "surprisetalk",
+      "time": 1784725229,
+      "hn_url": "https://news.ycombinator.com/item?id=49006096",
+      "title_cn": "How My Images Are Dithered"
     },
     {
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "score": 441,
-      "comments": 248,
-      "author": "rwmj",
-      "time": 1784910811,
-      "hn_url": "https://news.ycombinator.com/item?id=49038060",
-      "title_cn": "【AI, OpenAI】Be skeptical of OpenAI's rogue hacker agent story"
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "score": 192,
+      "comments": 131,
+      "author": "mellosouls",
+      "time": 1785012155,
+      "hn_url": "https://news.ycombinator.com/item?id=49051361",
+      "title_cn": "【Claude, 模型】The new rules of context engineering for Claude 5 generation models"
     },
     {
-      "title": "Claude Cookbook",
-      "url": "https://platform.claude.com/cookbook/",
-      "score": 289,
-      "comments": 156,
-      "author": "saikatsg",
-      "time": 1784869755,
-      "hn_url": "https://news.ycombinator.com/item?id=49031409",
-      "title_cn": "【Claude】Claude Cookbook"
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "score": 140,
+      "comments": 45,
+      "author": "jsax",
+      "time": 1785000874,
+      "hn_url": "https://news.ycombinator.com/item?id=49049693",
+      "title_cn": "【AI】Show HN: Brolly, a plain-text weather forecast site"
     },
     {
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "score": 280,
-      "comments": 53,
-      "author": "m0do1",
-      "time": 1784897639,
-      "hn_url": "https://news.ycombinator.com/item?id=49034868",
-      "title_cn": "【AI】Half-Life 2 running natively on HaikuOS"
+      "title": "GDID Windows – Cut the tracker that follows you even under VPN",
+      "url": "https://korben.info/en/gdid-windows-cut-tracker-vpn.html",
+      "score": 117,
+      "comments": 82,
+      "author": "rfarley04",
+      "time": 1784640131,
+      "hn_url": "https://news.ycombinator.com/item?id=48991984",
+      "title_cn": "GDID Windows – Cut the tracker that follows you even under VPN"
     },
     {
-      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
-      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-      "score": 253,
-      "comments": 316,
-      "author": "thisislife2",
-      "time": 1784886778,
-      "hn_url": "https://news.ycombinator.com/item?id=49033240",
-      "title_cn": "【AI】IRGC claims it destroyed Amazon's Bahrain data center"
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "score": 98,
+      "comments": 63,
+      "author": "oliculipolicula",
+      "time": 1785022370,
+      "hn_url": "https://news.ycombinator.com/item?id=49052912",
+      "title_cn": "【AI】DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]"
     },
     {
-      "title": "Firefox Containers Preview",
-      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-      "score": 241,
-      "comments": 84,
-      "author": "twapi",
-      "time": 1784654879,
-      "hn_url": "https://news.ycombinator.com/item?id=48995409",
-      "title_cn": "【AI】Firefox Containers Preview"
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "score": 97,
+      "comments": 20,
+      "author": "boveyking",
+      "time": 1785005990,
+      "hn_url": "https://news.ycombinator.com/item?id=49050512",
+      "title_cn": "【大语言模型】Running a 28.9M parameter LLM on an $8 microcontroller"
     },
     {
-      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "url": "https://artificialanalysis.ai/models",
-      "score": 166,
-      "comments": 109,
-      "author": "aarondong",
-      "time": 1784922310,
-      "hn_url": "https://news.ycombinator.com/item?id=49040741",
-      "title_cn": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard"
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "score": 97,
+      "comments": 88,
+      "author": "zdw",
+      "time": 1785008679,
+      "hn_url": "https://news.ycombinator.com/item?id=49050859",
+      "title_cn": "【大语言模型】LLM Usage in Debian: Three Proposals"
     },
     {
-      "title": "Future euro banknote design proposals",
-      "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
-      "score": 135,
-      "comments": 124,
-      "author": "robin_reala",
-      "time": 1784885384,
-      "hn_url": "https://news.ycombinator.com/item?id=49033110",
-      "title_cn": "Future euro banknote design proposals"
+      "title": "Bringing PyTorch Monarch to AMD GPUs",
+      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+      "score": 71,
+      "comments": 6,
+      "author": "gmays",
+      "time": 1784994927,
+      "hn_url": "https://news.ycombinator.com/item?id=49048689",
+      "title_cn": "【PyTorch】Bringing PyTorch Monarch to AMD GPUs"
     },
     {
-      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-      "url": "https://globaloilnetwork.staffinganalytics.io/",
-      "score": 110,
-      "comments": 60,
-      "author": "eliotho",
-      "time": 1784809881,
-      "hn_url": "https://news.ycombinator.com/item?id=49020545",
-      "title_cn": "【AI】Show HN: I simulated closing the Strait of Hormuz on real oil trade data"
+      "title": "Clinical failure rates over the decades: yikes",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "score": 62,
+      "comments": 34,
+      "author": "EA-3167",
+      "time": 1785020237,
+      "hn_url": "https://news.ycombinator.com/item?id=49052628",
+      "title_cn": "【AI】Clinical failure rates over the decades: yikes"
     },
     {
-      "title": "Self-host your mail server",
-      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-      "score": 93,
-      "comments": 107,
-      "author": "geek_at",
-      "time": 1784810950,
-      "hn_url": "https://news.ycombinator.com/item?id=49020751",
-      "title_cn": "【AI】Self-host your mail server"
+      "title": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "score": 54,
+      "comments": 31,
+      "author": "alphabetatango",
+      "time": 1785019849,
+      "hn_url": "https://news.ycombinator.com/item?id=49052564",
+      "title_cn": "【AI】Cloudflare's new AI traffic options for customers"
     },
     {
-      "title": "Extending Polars with Rust Expression Plugins",
-      "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
-      "score": 49,
+      "title": "Systems and Delays",
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "score": 29,
+      "comments": 6,
+      "author": "vinhnx",
+      "time": 1785026250,
+      "hn_url": "https://news.ycombinator.com/item?id=49053382",
+      "title_cn": "Systems and Delays"
+    },
+    {
+      "title": "Possible invasive species superspreader event near Strait of Hormuz",
+      "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+      "score": 28,
+      "comments": 7,
+      "author": "russfink",
+      "time": 1785028399,
+      "hn_url": "https://news.ycombinator.com/item?id=49053603",
+      "title_cn": "【AI】Possible invasive species superspreader event near Strait of Hormuz"
+    },
+    {
+      "title": "Becoming a Research Engineer at a Big LLM Lab",
+      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+      "score": 24,
+      "comments": 9,
+      "author": "felixdoerp",
+      "time": 1785014382,
+      "hn_url": "https://news.ycombinator.com/item?id=49051707",
+      "title_cn": "【大语言模型】Becoming a Research Engineer at a Big LLM Lab"
+    },
+    {
+      "title": "Rethinking Legal Education in the AI Era",
+      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+      "score": 16,
       "comments": 0,
-      "author": "cpard",
-      "time": 1784669192,
-      "hn_url": "https://news.ycombinator.com/item?id=48998589",
-      "title_cn": "Extending Polars with Rust Expression Plugins"
-    },
-    {
-      "title": "The hardest way to make a GIF",
-      "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-      "score": 41,
-      "comments": 11,
-      "author": "plaguna",
-      "time": 1784876758,
-      "hn_url": "https://news.ycombinator.com/item?id=49032126",
-      "title_cn": "The hardest way to make a GIF"
-    },
-    {
-      "title": "The road to epsilon-zero: Nim always ends, even with infinite ordinals",
-      "url": "https://blog.plover.com/math/ordinals/02-wellfoundedness.html",
-      "score": 11,
-      "comments": 3,
-      "author": "pavel_lishin",
-      "time": 1784592632,
-      "hn_url": "https://news.ycombinator.com/item?id=48986560",
-      "title_cn": "The road to epsilon-zero: Nim always ends, even with infinite ordinals"
-    },
-    {
-      "title": "A concrete explanation of how a cache works",
-      "url": "https://parksb.github.io/en/article/29.html",
-      "score": 5,
-      "comments": 0,
-      "author": "parksb",
-      "time": 1784642716,
-      "hn_url": "https://news.ycombinator.com/item?id=48992539",
-      "title_cn": "A concrete explanation of how a cache works"
+      "author": "jjwiseman",
+      "time": 1784826768,
+      "hn_url": "https://news.ycombinator.com/item?id=49024980",
+      "title_cn": "【AI】Rethinking Legal Education in the AI Era"
     }
   ]
 }
