@@ -1,29 +1,13 @@
 {
-  "updated_at": "2026-07-28T02:52:19.945697",
+  "updated_at": "2026-07-29T03:11:56.092603",
   "github_projects": [
-    {
-      "name": "Codex-Dream-Skin",
-      "full_name": "Fei-Away/Codex-Dream-Skin",
-      "description": "Codex Dream Skin",
-      "description_cn": "Codex dream skin",
-      "stars": 12463,
-      "forks": 1254,
-      "language": "JavaScript",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "topics": [],
-      "created_at": "2026-07-15T12:34:51Z",
-      "owner": {
-        "login": "Fei-Away",
-        "avatar_url": "https://avatars.githubusercontent.com/u/100042407?v=4"
-      }
-    },
     {
       "name": "openworker",
       "full_name": "andrewyng/openworker",
       "description": "No description",
       "description_cn": "",
-      "stars": 8922,
-      "forks": 1165,
+      "stars": 10105,
+      "forks": 1322,
       "language": "Python",
       "url": "https://github.com/andrewyng/openworker",
       "topics": [],
@@ -34,25 +18,19 @@
       }
     },
     {
-      "name": "img2threejs",
-      "full_name": "img2threejs/img2threejs",
-      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "description_cn": "rebuild the 对象 in a referenCe 图像 as a Code-开启ly, proCedural, quality-gated, 动画-ready three.js 模型. 令牌-高效 图像-to-3D.",
-      "stars": 7020,
-      "forks": 539,
-      "language": "Python",
-      "url": "https://github.com/img2threejs/img2threejs",
-      "topics": [
-        "3d",
-        "ai-agents",
-        "claude-code",
-        "computer-graphics",
-        "generative"
-      ],
-      "created_at": "2026-07-15T02:58:39Z",
+      "name": "Kimi-K3",
+      "full_name": "MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "description_cn": "open fr开启tier intelligenCe",
+      "stars": 3538,
+      "forks": 287,
+      "language": "Unknown",
+      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "topics": [],
+      "created_at": "2026-07-27T08:01:37Z",
       "owner": {
-        "login": "img2threejs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/309001690?v=4"
+        "login": "MoonshotAI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       }
     },
     {
@@ -60,8 +38,8 @@
       "full_name": "nyblnet/bento",
       "description": "Bento, the office suite that fits in a file",
       "description_cn": "bento, the 关闭内联缓存e suite that fits in a file",
-      "stars": 2616,
-      "forks": 161,
+      "stars": 2857,
+      "forks": 177,
       "language": "TypeScript",
       "url": "https://github.com/nyblnet/bento",
       "topics": [
@@ -78,50 +56,12 @@
       }
     },
     {
-      "name": "harness-engineering",
-      "full_name": "lopopolo/harness-engineering",
-      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "description_cn": "🐎 ryan lopopolo’s anthology, field 指南, and 智能体 C开启文本 bundle for harness 引擎ering",
-      "stars": 2381,
-      "forks": 245,
-      "language": "Python",
-      "url": "https://github.com/lopopolo/harness-engineering",
-      "topics": [],
-      "created_at": "2026-07-18T21:42:28Z",
-      "owner": {
-        "login": "lopopolo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/860434?v=4"
-      }
-    },
-    {
-      "name": "canvas-ui",
-      "full_name": "DavidHDev/canvas-ui",
-      "description": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.",
-      "description_cn": "a 库 of Creative Canvas Comp开启ents. real HTML with WebGL effeCts running over it. ReaCt, Vue, Svelte, vanilla.",
-      "stars": 2304,
-      "forks": 99,
-      "language": "TypeScript",
-      "url": "https://github.com/DavidHDev/canvas-ui",
-      "topics": [
-        "animation",
-        "canvas",
-        "component-library",
-        "components",
-        "creative-coding"
-      ],
-      "created_at": "2026-07-16T13:38:20Z",
-      "owner": {
-        "login": "DavidHDev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/48634587?v=4"
-      }
-    },
-    {
       "name": "video-shotcraft",
       "full_name": "Vincentwei1021/video-shotcraft",
       "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
       "description_cn": "AI 视频 skill for Claude Code & Codex — Cinemat内联缓存 produCt 视频s with rEmoti开启: 106 shot reCIPe Cards, 161 moti开启 previews, a produCti开启-ready 模板",
-      "stars": 2272,
-      "forks": 200,
+      "stars": 2543,
+      "forks": 216,
       "language": "TypeScript",
       "url": "https://github.com/Vincentwei1021/video-shotcraft",
       "topics": [
@@ -138,12 +78,50 @@
       }
     },
     {
+      "name": "canvas-ui",
+      "full_name": "DavidHDev/canvas-ui",
+      "description": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.",
+      "description_cn": "a 库 of Creative Canvas Comp开启ents. real HTML with WebGL effeCts running over it. ReaCt, Vue, Svelte, vanilla.",
+      "stars": 2449,
+      "forks": 105,
+      "language": "TypeScript",
+      "url": "https://github.com/DavidHDev/canvas-ui",
+      "topics": [
+        "animation",
+        "canvas",
+        "component-library",
+        "components",
+        "creative-coding"
+      ],
+      "created_at": "2026-07-16T13:38:20Z",
+      "owner": {
+        "login": "DavidHDev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/48634587?v=4"
+      }
+    },
+    {
+      "name": "harness-engineering",
+      "full_name": "lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "description_cn": "🐎 ryan lopopolo’s anthology, field 指南, and 智能体 C开启文本 bundle for harness 引擎ering",
+      "stars": 2396,
+      "forks": 248,
+      "language": "Python",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "topics": [],
+      "created_at": "2026-07-18T21:42:28Z",
+      "owner": {
+        "login": "lopopolo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/860434?v=4"
+      }
+    },
+    {
       "name": "scriptc",
       "full_name": "vercel-labs/scriptc",
       "description": "TypeScript-to-Native Compiler",
       "description_cn": "TypeSCrIPt-to-native 编译器",
-      "stars": 1801,
-      "forks": 29,
+      "stars": 2144,
+      "forks": 41,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/scriptc",
       "topics": [],
@@ -158,8 +136,8 @@
       "full_name": "slvDev/esp32-ai",
       "description": "No description",
       "description_cn": "",
-      "stars": 1769,
-      "forks": 186,
+      "stars": 2090,
+      "forks": 227,
       "language": "Python",
       "url": "https://github.com/slvDev/esp32-ai",
       "topics": [],
@@ -170,172 +148,194 @@
       }
     },
     {
-      "name": "Kimi-K3",
-      "full_name": "MoonshotAI/Kimi-K3",
-      "description": "Open Frontier Intelligence",
-      "description_cn": "open fr开启tier intelligenCe",
-      "stars": 1738,
-      "forks": 130,
-      "language": "Unknown",
-      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "name": "Claude-of-Duty",
+      "full_name": "mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "description_cn": "a 调用 of duty-quality fps in three.js, built from a single prompt.",
+      "stars": 1796,
+      "forks": 269,
+      "language": "JavaScript",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
       "topics": [],
-      "created_at": "2026-07-27T08:01:37Z",
+      "created_at": "2026-07-25T19:32:36Z",
       "owner": {
-        "login": "MoonshotAI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+        "login": "mshumer",
+        "avatar_url": "https://avatars.githubusercontent.com/u/41550495?v=4"
+      }
+    },
+    {
+      "name": "MEV-Arbitrage-Bot",
+      "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "description_cn": "an ar位rage 机器人 is a 智能 C开启traCt 连接 to an 外部 automati开启 sCrIPt that C开启trols its operati开启.",
+      "stars": 1610,
+      "forks": 1149,
+      "language": "Solidity",
+      "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "topics": [
+        "ai",
+        "aitradingbot",
+        "bot",
+        "btc",
+        "claude"
+      ],
+      "created_at": "2026-07-17T09:45:22Z",
+      "owner": {
+        "login": "MIgHTy-alIeN",
+        "avatar_url": "https://avatars.githubusercontent.com/u/296786145?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 511,
-      "comments": 715,
-      "author": "surprisetalk",
-      "time": 1785189829,
-      "hn_url": "https://news.ycombinator.com/item?id=49076057",
-      "title_cn": "【模型】Our position on open-weights models"
-    },
-    {
-      "title": "Watching Go's new garbage collector move through the heap",
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "score": 177,
-      "comments": 17,
-      "author": "matheusmoreira",
-      "time": 1784966119,
-      "hn_url": "https://news.ycombinator.com/item?id=49045474",
-      "title_cn": "Watching Go's new garbage collector move through the heap"
-    },
-    {
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "score": 153,
-      "comments": 39,
-      "author": "dhorthy",
-      "time": 1785191872,
-      "hn_url": "https://news.ycombinator.com/item?id=49076391",
-      "title_cn": "【基准测试】Benchmarking Opus 5 on SlopCodeBench"
-    },
-    {
-      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-      "score": 137,
-      "comments": 44,
-      "author": "EatonZ",
-      "time": 1785164896,
-      "hn_url": "https://news.ycombinator.com/item?id=49070756",
-      "title_cn": "【AI】Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles"
-    },
-    {
-      "title": "Self-contained highly-portable Python distributions",
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "score": 120,
-      "comments": 24,
-      "author": "jcbhmr",
-      "time": 1785177811,
-      "hn_url": "https://news.ycombinator.com/item?id=49073942",
-      "title_cn": "【AI】Self-contained highly-portable Python distributions"
-    },
-    {
-      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-      "url": "https://usefeyn.com/blog/feynobg/",
-      "score": 94,
-      "comments": 22,
-      "author": "snyy",
-      "time": 1785171548,
-      "hn_url": "https://news.ycombinator.com/item?id=49072462",
-      "title_cn": "【AI, 模型, 训练】Show HN: FeyNoBg – Automatic background removal model and training library"
-    },
-    {
-      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-      "score": 92,
-      "comments": 39,
-      "author": "zdw",
-      "time": 1785194359,
-      "hn_url": "https://news.ycombinator.com/item?id=49076900",
-      "title_cn": "Astronauts describe persistent 'observer' sensation after 6 month missions"
-    },
-    {
-      "title": "Securing Services with Rootless Containers",
-      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-      "score": 70,
-      "comments": 24,
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "score": 434,
+      "comments": 215,
       "author": "speckx",
-      "time": 1784812290,
-      "hn_url": "https://news.ycombinator.com/item?id=49021024",
-      "title_cn": "【AI】Securing Services with Rootless Containers"
+      "time": 1785257911,
+      "hn_url": "https://news.ycombinator.com/item?id=49086788",
+      "title_cn": "Substack writers, you need a website"
     },
     {
-      "title": "DConf 2026 in London",
-      "url": "https://dconf.org/2026/index.html",
-      "score": 52,
-      "comments": 24,
-      "author": "teleforce",
-      "time": 1785194059,
-      "hn_url": "https://news.ycombinator.com/item?id=49076840",
-      "title_cn": "DConf 2026 in London"
+      "title": "Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "score": 375,
+      "comments": 113,
+      "author": "bakigul",
+      "time": 1785271975,
+      "hn_url": "https://news.ycombinator.com/item?id=49089755",
+      "title_cn": "Codex Security"
     },
     {
-      "title": "Kimi K3 Now Available via Telnyx Inference API",
-      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-      "score": 25,
-      "comments": 7,
-      "author": "fionaattelnyx",
-      "time": 1785192388,
-      "hn_url": "https://news.ycombinator.com/item?id=49076505",
-      "title_cn": "【AI, 推理, API】Kimi K3 Now Available via Telnyx Inference API"
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "score": 333,
+      "comments": 51,
+      "author": "ModelForge",
+      "time": 1785253714,
+      "hn_url": "https://news.ycombinator.com/item?id=49085698",
+      "title_cn": "Kimi K3 Architecture Overview and Notes"
     },
     {
-      "title": "The Burau representation of the braid group is faithful for n = 4",
-      "url": "https://arxiv.org/abs/2607.05283",
-      "score": 22,
-      "comments": 7,
-      "author": "wglb",
-      "time": 1785195975,
-      "hn_url": "https://news.ycombinator.com/item?id=49077209",
-      "title_cn": "【AI】The Burau representation of the braid group is faithful for n = 4"
+      "title": "Zig's Incremental Compilation Internals",
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "score": 204,
+      "comments": 142,
+      "author": "garyhtou",
+      "time": 1785253605,
+      "hn_url": "https://news.ycombinator.com/item?id=49085666",
+      "title_cn": "Zig's Incremental Compilation Internals"
     },
     {
-      "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
-      "url": "https://github.com/FrigadeHQ/yap",
-      "score": 20,
-      "comments": 0,
-      "author": "pancomplex",
-      "time": 1785177362,
-      "hn_url": "https://news.ycombinator.com/item?id=49073834",
-      "title_cn": "【模型】Show HN: Yap – OSS on-device voice dictation for macOS with no model to download"
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "score": 203,
+      "comments": 85,
+      "author": "tmtvl",
+      "time": 1785258714,
+      "hn_url": "https://news.ycombinator.com/item?id=49086971",
+      "title_cn": "Steel Bank Common Lisp version 2.6.7"
     },
     {
-      "title": "Some combinatorial applications of spacefilling curves",
-      "url": "https://www2.isye.gatech.edu/~jjb/research/mow/mow.html",
-      "score": 17,
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "score": 189,
+      "comments": 132,
+      "author": "gslin",
+      "time": 1785259336,
+      "hn_url": "https://news.ycombinator.com/item?id=49087091",
+      "title_cn": "【Claude】Discovering Cryptographic Weaknesses with Claude"
+    },
+    {
+      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+      "url": "https://unawatch.com/",
+      "score": 146,
+      "comments": 95,
+      "author": "pimterry",
+      "time": 1785250093,
+      "hn_url": "https://news.ycombinator.com/item?id=49084813",
+      "title_cn": "【AI】Una GPS smart watch – Repairable, USB-C charging, developer-friendly"
+    },
+    {
+      "title": "Now is the time to give LLMs access to the ACM digital library",
+      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "score": 124,
+      "comments": 106,
+      "author": "rbanffy",
+      "time": 1785250872,
+      "hn_url": "https://news.ycombinator.com/item?id=49084987",
+      "title_cn": "【大语言模型, 库】Now is the time to give LLMs access to the ACM digital library"
+    },
+    {
+      "title": "Teach yourself programming in ten years (1998)",
+      "url": "https://www.norvig.com/21-days.html",
+      "score": 64,
+      "comments": 23,
+      "author": "vinhnx",
+      "time": 1785053205,
+      "hn_url": "https://news.ycombinator.com/item?id=49055816",
+      "title_cn": "Teach yourself programming in ten years (1998)"
+    },
+    {
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://learnvector.ai/",
+      "score": 34,
+      "comments": 19,
+      "author": "ajhai",
+      "time": 1785289759,
+      "hn_url": "https://news.ycombinator.com/item?id=49092499",
+      "title_cn": "【AI】LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences"
+    },
+    {
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+      "score": 31,
+      "comments": 2,
+      "author": "abelaer",
+      "time": 1785156996,
+      "hn_url": "https://news.ycombinator.com/item?id=49069033",
+      "title_cn": "【大语言模型】Truth is not a direction: a Tarski attack on LLM probes"
+    },
+    {
+      "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+      "url": "https://studio.academa.ai/",
+      "score": 29,
+      "comments": 10,
+      "author": "sinaatalay",
+      "time": 1785283663,
+      "hn_url": "https://news.ycombinator.com/item?id=49091703",
+      "title_cn": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU"
+    },
+    {
+      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+      "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+      "score": 16,
       "comments": 1,
-      "author": "shraiwi",
-      "time": 1785001042,
-      "hn_url": "https://news.ycombinator.com/item?id=49049724",
-      "title_cn": "Some combinatorial applications of spacefilling curves"
+      "author": "ejboy",
+      "time": 1785285128,
+      "hn_url": "https://news.ycombinator.com/item?id=49091895",
+      "title_cn": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana"
     },
     {
-      "title": "EYG: A Programming Language for Humans",
-      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-      "score": 8,
-      "comments": 1,
-      "author": "crowdhailer",
-      "time": 1785205297,
-      "hn_url": "https://news.ycombinator.com/item?id=49078463",
-      "title_cn": "EYG: A Programming Language for Humans"
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+      "score": 10,
+      "comments": 2,
+      "author": "yogthos",
+      "time": 1785290160,
+      "hn_url": "https://news.ycombinator.com/item?id=49092549",
+      "title_cn": "【AI】Chip stocks slide in US and Asia as AI jitters rattle investors"
     },
     {
-      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+      "url": "https://github.com/jagg-ix/zil-lean",
       "score": 3,
       "comments": 0,
-      "author": "ilreb",
-      "time": 1785205133,
-      "hn_url": "https://news.ycombinator.com/item?id=49078454",
-      "title_cn": "【模型】A $500 RL fine-tune of a 9B open model beat frontier models on catalog review"
+      "author": "kbradero",
+      "time": 1785291724,
+      "hn_url": "https://news.ycombinator.com/item?id=49092730",
+      "title_cn": "【AI】Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects"
     }
   ]
 }
