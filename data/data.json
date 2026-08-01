@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-31T03:27:02.787732",
+  "updated_at": "2026-08-01T03:25:51.456188",
   "github_projects": [
     {
       "name": "openworker",
       "full_name": "andrewyng/openworker",
       "description": "No description",
       "description_cn": "",
-      "stars": 11041,
-      "forks": 1470,
+      "stars": 11361,
+      "forks": 1526,
       "language": "Python",
       "url": "https://github.com/andrewyng/openworker",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "MoonshotAI/Kimi-K3",
       "description": "Open Frontier Intelligence",
       "description_cn": "open fr开启tier intelligenCe",
-      "stars": 7559,
-      "forks": 510,
+      "stars": 7730,
+      "forks": 536,
       "language": "Unknown",
       "url": "https://github.com/MoonshotAI/Kimi-K3",
       "topics": [],
@@ -34,12 +34,28 @@
       }
     },
     {
+      "name": "quill",
+      "full_name": "digimata/quill",
+      "description": "Ultra-minimalist macOS recording + transcription.",
+      "description_cn": "ultra-极简ist maCos 记录ing + transCrIPti开启.",
+      "stars": 3298,
+      "forks": 197,
+      "language": "Swift",
+      "url": "https://github.com/digimata/quill",
+      "topics": [],
+      "created_at": "2026-07-24T23:31:27Z",
+      "owner": {
+        "login": "digimata",
+        "avatar_url": "https://avatars.githubusercontent.com/u/247467537?v=4"
+      }
+    },
+    {
       "name": "video-shotcraft",
       "full_name": "Vincentwei1021/video-shotcraft",
       "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
       "description_cn": "AI 视频 skill for Claude Code & Codex — Cinemat内联缓存 produCt 视频s with rEmoti开启: 106 shot reCIPe Cards, 161 moti开启 previews, a produCti开启-ready 模板",
-      "stars": 2902,
-      "forks": 249,
+      "stars": 3046,
+      "forks": 259,
       "language": "TypeScript",
       "url": "https://github.com/Vincentwei1021/video-shotcraft",
       "topics": [
@@ -60,8 +76,8 @@
       "full_name": "kvcache-ai/AgentENV",
       "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
       "description_cn": "智能体env (aenv) is a distributed platform for running 智能体 env中间表示开启ments at sCale.",
-      "stars": 2618,
-      "forks": 199,
+      "stars": 2695,
+      "forks": 207,
       "language": "Rust",
       "url": "https://github.com/kvcache-ai/AgentENV",
       "topics": [],
@@ -72,28 +88,12 @@
       }
     },
     {
-      "name": "scriptc",
-      "full_name": "vercel-labs/scriptc",
-      "description": "TypeScript-to-Native Compiler",
-      "description_cn": "TypeSCrIPt-to-native 编译器",
-      "stars": 2529,
-      "forks": 48,
-      "language": "TypeScript",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "topics": [],
-      "created_at": "2026-07-22T23:04:54Z",
-      "owner": {
-        "login": "vercel-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
-      }
-    },
-    {
       "name": "esp32-ai",
       "full_name": "slvDev/esp32-ai",
       "description": "No description",
       "description_cn": "",
-      "stars": 2518,
-      "forks": 303,
+      "stars": 2640,
+      "forks": 323,
       "language": "Python",
       "url": "https://github.com/slvDev/esp32-ai",
       "topics": [],
@@ -104,19 +104,19 @@
       }
     },
     {
-      "name": "quill",
-      "full_name": "digimata/quill",
-      "description": "Ultra-minimalist macOS recording + transcription.",
-      "description_cn": "ultra-极简ist maCos 记录ing + transCrIPti开启.",
-      "stars": 2490,
-      "forks": 159,
-      "language": "Swift",
-      "url": "https://github.com/digimata/quill",
+      "name": "scriptc",
+      "full_name": "vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
+      "description_cn": "TypeSCrIPt-to-native 编译器",
+      "stars": 2632,
+      "forks": 49,
+      "language": "TypeScript",
+      "url": "https://github.com/vercel-labs/scriptc",
       "topics": [],
-      "created_at": "2026-07-24T23:31:27Z",
+      "created_at": "2026-07-22T23:04:54Z",
       "owner": {
-        "login": "digimata",
-        "avatar_url": "https://avatars.githubusercontent.com/u/247467537?v=4"
+        "login": "vercel-labs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       }
     },
     {
@@ -124,8 +124,8 @@
       "full_name": "mshumer/Claude-of-Duty",
       "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "description_cn": "a 调用 of duty-quality fps in three.js, built from a single prompt.",
-      "stars": 2413,
-      "forks": 357,
+      "stars": 2526,
+      "forks": 375,
       "language": "JavaScript",
       "url": "https://github.com/mshumer/Claude-of-Duty",
       "topics": [],
@@ -136,194 +136,188 @@
       }
     },
     {
-      "name": "harness-engineering",
-      "full_name": "lopopolo/harness-engineering",
-      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "description_cn": "🐎 ryan lopopolo’s anthology, field 指南, and 智能体 C开启文本 bundle for harness 引擎ering",
-      "stars": 2411,
-      "forks": 247,
-      "language": "Python",
-      "url": "https://github.com/lopopolo/harness-engineering",
+      "name": "qm",
+      "full_name": "yc-software/qm",
+      "description": "Multiplayer agent harness for work",
+      "description_cn": "多p层 智能体 harness for work",
+      "stars": 2274,
+      "forks": 205,
+      "language": "TypeScript",
+      "url": "https://github.com/yc-software/qm",
       "topics": [],
-      "created_at": "2026-07-18T21:42:28Z",
+      "created_at": "2026-07-29T20:03:08Z",
       "owner": {
-        "login": "lopopolo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/860434?v=4"
+        "login": "yc-software",
+        "avatar_url": "https://avatars.githubusercontent.com/u/153323858?v=4"
       }
     },
     {
-      "name": "goutoujunshi",
-      "full_name": "powerycy/goutoujunshi",
-      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "name": "decimen-optical-transfer",
+      "full_name": "bashalarmistalt/decimen-optical-transfer",
+      "description": "No description",
       "description_cn": "",
-      "stars": 1310,
-      "forks": 137,
-      "language": "Python",
-      "url": "https://github.com/powerycy/goutoujunshi",
-      "topics": [
-        "ai-agent",
-        "chinese",
-        "codex",
-        "codex-skill",
-        "lgbtq"
-      ],
-      "created_at": "2026-07-20T14:58:48Z",
+      "stars": 2136,
+      "forks": 249,
+      "language": "TypeScript",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "topics": [],
+      "created_at": "2026-07-30T18:17:54Z",
       "owner": {
-        "login": "powerycy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/36032407?v=4"
+        "login": "bashalarmistalt",
+        "avatar_url": "https://avatars.githubusercontent.com/u/311128416?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-      "score": 516,
-      "comments": 339,
-      "author": "tedsanders",
-      "time": 1785431751,
-      "hn_url": "https://news.ycombinator.com/item?id=49112867",
-      "title_cn": "【GPT】Advancing the price-performance frontier with GPT‑5.6"
-    },
-    {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 493,
-      "comments": 398,
-      "author": "ai2027",
-      "time": 1785424548,
-      "hn_url": "https://news.ycombinator.com/item?id=49111237",
-      "title_cn": "【机器人】Gemini Robotics 2 brings whole body intelligence to robots"
-    },
-    {
-      "title": "Google will expand age checks on Android worldwide till the end of the year",
-      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
-      "score": 368,
-      "comments": 458,
-      "author": "dmantis",
-      "time": 1785406426,
-      "hn_url": "https://news.ycombinator.com/item?id=49107950",
-      "title_cn": "Google will expand age checks on Android worldwide till the end of the year"
-    },
-    {
-      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-      "score": 318,
-      "comments": 192,
-      "author": "Areibman",
-      "time": 1785432667,
-      "hn_url": "https://news.ycombinator.com/item?id=49113059",
-      "title_cn": "【GPT】We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447"
-    },
-    {
-      "title": "GCC steering committee announces AI policy",
-      "url": "https://lwn.net/Articles/1086041/",
-      "score": 250,
-      "comments": 295,
-      "author": "arto",
-      "time": 1785411944,
-      "hn_url": "https://news.ycombinator.com/item?id=49108685",
-      "title_cn": "【AI】GCC steering committee announces AI policy"
-    },
-    {
-      "title": "2x, not 10x: coding with LLMs in 2026",
-      "url": "https://obryant.dev/p/2x-not-10x/",
-      "score": 228,
-      "comments": 181,
-      "author": "tnisonoff",
-      "time": 1784989625,
-      "hn_url": "https://news.ycombinator.com/item?id=49047839",
-      "title_cn": "【大语言模型】2x, not 10x: coding with LLMs in 2026"
-    },
-    {
-      "title": "The Economic Benefit of Refactoring",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-      "score": 205,
-      "comments": 86,
-      "author": "javaeeeee",
-      "time": 1785424227,
-      "hn_url": "https://news.ycombinator.com/item?id=49111176",
-      "title_cn": "The Economic Benefit of Refactoring"
-    },
-    {
-      "title": "The AI Aesthetic",
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-      "score": 160,
-      "comments": 83,
-      "author": "montroser",
-      "time": 1785453736,
-      "hn_url": "https://news.ycombinator.com/item?id=49117099",
-      "title_cn": "【AI】The AI Aesthetic"
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "score": 479,
+      "comments": 189,
+      "author": "bluehatbrit",
+      "time": 1785524625,
+      "hn_url": "https://news.ycombinator.com/item?id=49127306",
+      "title_cn": "【AI】Tailscale didn't stop the Hugging Face intrusion"
     },
     {
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "score": 116,
-      "comments": 91,
+      "score": 223,
+      "comments": 179,
       "author": "surprisetalk",
       "time": 1785452451,
       "hn_url": "https://news.ycombinator.com/item?id=49116922",
       "title_cn": "Investigating three real-world incidents in our cybersecurity evaluations"
     },
     {
-      "title": "I flagged two research papers for fake authors and both were accepted as orals",
-      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-      "score": 110,
-      "comments": 44,
-      "author": "volumes94",
-      "time": 1785450791,
-      "hn_url": "https://news.ycombinator.com/item?id=49116721",
-      "title_cn": "I flagged two research papers for fake authors and both were accepted as orals"
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "url": "https://weeraman.com/because-we-can/",
+      "score": 189,
+      "comments": 78,
+      "author": "aweeraman",
+      "time": 1785245485,
+      "hn_url": "https://news.ycombinator.com/item?id=49083599",
+      "title_cn": "【模型】Twenty-five years ago it was cryptography, today it's model weights"
     },
     {
-      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "score": 92,
-      "comments": 63,
-      "author": "cgorlla",
-      "time": 1785435186,
-      "hn_url": "https://news.ycombinator.com/item?id=49113599",
-      "title_cn": "【GPT】Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it"
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "url": "https://github.com/sqliteai/waste",
+      "score": 171,
+      "comments": 70,
+      "author": "marcobambini",
+      "time": 1785507158,
+      "hn_url": "https://news.ycombinator.com/item?id=49123386",
+      "title_cn": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s"
     },
     {
-      "title": "Bad Apple but It's Traceroute",
-      "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
-      "score": 77,
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "score": 129,
+      "comments": 80,
+      "author": "jabits",
+      "time": 1785523187,
+      "hn_url": "https://news.ycombinator.com/item?id=49127031",
+      "title_cn": "【AI】Golang proposal: container/: generic collection types"
+    },
+    {
+      "title": "Is AI reasoning right for the wrong reasons?",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "score": 129,
+      "comments": 155,
+      "author": "retupmoc01",
+      "time": 1785511779,
+      "hn_url": "https://news.ycombinator.com/item?id=49124358",
+      "title_cn": "【AI】Is AI reasoning right for the wrong reasons?"
+    },
+    {
+      "title": "Everyone is building LLM routers, we deprecated ours",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "score": 102,
+      "comments": 52,
+      "author": "brunaxLorax",
+      "time": 1785521199,
+      "hn_url": "https://news.ycombinator.com/item?id=49126630",
+      "title_cn": "【大语言模型】Everyone is building LLM routers, we deprecated ours"
+    },
+    {
+      "title": "Anti-fraud tools can't keep pace with robocall scammers",
+      "url": "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/",
+      "score": 76,
+      "comments": 104,
+      "author": "dredmorbius",
+      "time": 1785504485,
+      "hn_url": "https://news.ycombinator.com/item?id=49122882",
+      "title_cn": "【工具】Anti-fraud tools can't keep pace with robocall scammers"
+    },
+    {
+      "title": "The Absurdity of Albert Camus",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "score": 69,
+      "comments": 40,
+      "author": "apollinaire",
+      "time": 1785453677,
+      "hn_url": "https://news.ycombinator.com/item?id=49117089",
+      "title_cn": "The Absurdity of Albert Camus"
+    },
+    {
+      "title": "Authorize, don't authenticate",
+      "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
+      "score": 64,
+      "comments": 20,
+      "author": "marcua",
+      "time": 1785507463,
+      "hn_url": "https://news.ycombinator.com/item?id=49123468",
+      "title_cn": "Authorize, don't authenticate"
+    },
+    {
+      "title": "Using the railway network as a flatbed scanner [video]",
+      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+      "score": 58,
+      "comments": 25,
+      "author": "Jimmc414",
+      "time": 1785522644,
+      "hn_url": "https://news.ycombinator.com/item?id=49126919",
+      "title_cn": "【AI】Using the railway network as a flatbed scanner [video]"
+    },
+    {
+      "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+      "url": "https://code.intellios.ai/cwbrowser/",
+      "score": 51,
       "comments": 19,
-      "author": "jssfr",
-      "time": 1785167289,
-      "hn_url": "https://news.ycombinator.com/item?id=49071299",
-      "title_cn": "Bad Apple but It's Traceroute"
+      "author": "coolwulf",
+      "time": 1785533992,
+      "hn_url": "https://news.ycombinator.com/item?id=49128826",
+      "title_cn": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3"
     },
     {
-      "title": "Show HN: Optimize and serve models with Fable quality at half the cost",
-      "url": "https://github.com/experientiallabs/world-model-optimizer",
-      "score": 62,
-      "comments": 27,
-      "author": "SilenN",
-      "time": 1785108915,
-      "hn_url": "https://news.ycombinator.com/item?id=49063454",
-      "title_cn": "【模型】Show HN: Optimize and serve models with Fable quality at half the cost"
-    },
-    {
-      "title": "Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test",
-      "url": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
-      "score": 10,
+      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "score": 33,
       "comments": 3,
-      "author": "Sandman",
-      "time": 1785224242,
-      "hn_url": "https://news.ycombinator.com/item?id=49080605",
-      "title_cn": "Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test"
+      "author": "shreybirmiwal",
+      "time": 1785527741,
+      "hn_url": "https://news.ycombinator.com/item?id=49127874",
+      "title_cn": "【大语言模型, 推理】Predictive Speculative KV Replication for Bursty LLM Inference"
     },
     {
-      "title": "Fixing miss-aligned monospace text in Android browsers",
-      "url": "https://moritzhamann.com/blog/2026-07-26-box-drawing-glyphs-on-android.html",
-      "score": 4,
+      "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
+      "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+      "score": 29,
+      "comments": 5,
+      "author": "sparsesignal",
+      "time": 1785326350,
+      "hn_url": "https://news.ycombinator.com/item?id=49096319",
+      "title_cn": "【AI】The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure"
+    },
+    {
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "score": 6,
       "comments": 1,
-      "author": "mrtz",
-      "time": 1785175607,
-      "hn_url": "https://news.ycombinator.com/item?id=49073392",
-      "title_cn": "Fixing miss-aligned monospace text in Android browsers"
+      "author": "vinhnx",
+      "time": 1785552309,
+      "hn_url": "https://news.ycombinator.com/item?id=49130604",
+      "title_cn": "【AI】Flint: A Visualization Language for the AI Era"
     }
   ]
 }
