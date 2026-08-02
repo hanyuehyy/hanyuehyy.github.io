@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-01T03:25:51.456188",
+  "updated_at": "2026-08-02T03:26:57.696094",
   "github_projects": [
     {
       "name": "openworker",
       "full_name": "andrewyng/openworker",
       "description": "No description",
       "description_cn": "",
-      "stars": 11361,
-      "forks": 1526,
+      "stars": 11631,
+      "forks": 1570,
       "language": "Python",
       "url": "https://github.com/andrewyng/openworker",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "MoonshotAI/Kimi-K3",
       "description": "Open Frontier Intelligence",
       "description_cn": "open fr开启tier intelligenCe",
-      "stars": 7730,
-      "forks": 536,
+      "stars": 7830,
+      "forks": 562,
       "language": "Unknown",
       "url": "https://github.com/MoonshotAI/Kimi-K3",
       "topics": [],
@@ -34,12 +34,28 @@
       }
     },
     {
+      "name": "qm",
+      "full_name": "yc-software/qm",
+      "description": "Multiplayer agent harness for work",
+      "description_cn": "多p层 智能体 harness for work",
+      "stars": 5149,
+      "forks": 520,
+      "language": "TypeScript",
+      "url": "https://github.com/yc-software/qm",
+      "topics": [],
+      "created_at": "2026-07-29T20:03:08Z",
+      "owner": {
+        "login": "yc-software",
+        "avatar_url": "https://avatars.githubusercontent.com/u/153323858?v=4"
+      }
+    },
+    {
       "name": "quill",
       "full_name": "digimata/quill",
       "description": "Ultra-minimalist macOS recording + transcription.",
       "description_cn": "ultra-极简ist maCos 记录ing + transCrIPti开启.",
-      "stars": 3298,
-      "forks": 197,
+      "stars": 3563,
+      "forks": 216,
       "language": "Swift",
       "url": "https://github.com/digimata/quill",
       "topics": [],
@@ -50,25 +66,19 @@
       }
     },
     {
-      "name": "video-shotcraft",
-      "full_name": "Vincentwei1021/video-shotcraft",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "description_cn": "AI 视频 skill for Claude Code & Codex — Cinemat内联缓存 produCt 视频s with rEmoti开启: 106 shot reCIPe Cards, 161 moti开启 previews, a produCti开启-ready 模板",
-      "stars": 3046,
-      "forks": 259,
+      "name": "decimen-optical-transfer",
+      "full_name": "bashalarmistalt/decimen-optical-transfer",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 3115,
+      "forks": 366,
       "language": "TypeScript",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ai-video",
-        "claude-code",
-        "claude-code-skills"
-      ],
-      "created_at": "2026-07-19T11:44:41Z",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "topics": [],
+      "created_at": "2026-07-30T18:17:54Z",
       "owner": {
-        "login": "Vincentwei1021",
-        "avatar_url": "https://avatars.githubusercontent.com/u/18239147?v=4"
+        "login": "bashalarmistalt",
+        "avatar_url": "https://avatars.githubusercontent.com/u/311128416?v=4"
       }
     },
     {
@@ -76,8 +86,8 @@
       "full_name": "kvcache-ai/AgentENV",
       "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
       "description_cn": "智能体env (aenv) is a distributed platform for running 智能体 env中间表示开启ments at sCale.",
-      "stars": 2695,
-      "forks": 207,
+      "stars": 2741,
+      "forks": 213,
       "language": "Rust",
       "url": "https://github.com/kvcache-ai/AgentENV",
       "topics": [],
@@ -92,8 +102,8 @@
       "full_name": "slvDev/esp32-ai",
       "description": "No description",
       "description_cn": "",
-      "stars": 2640,
-      "forks": 323,
+      "stars": 2716,
+      "forks": 340,
       "language": "Python",
       "url": "https://github.com/slvDev/esp32-ai",
       "topics": [],
@@ -108,8 +118,8 @@
       "full_name": "vercel-labs/scriptc",
       "description": "TypeScript-to-Native Compiler",
       "description_cn": "TypeSCrIPt-to-native 编译器",
-      "stars": 2632,
-      "forks": 49,
+      "stars": 2684,
+      "forks": 57,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/scriptc",
       "topics": [],
@@ -124,8 +134,8 @@
       "full_name": "mshumer/Claude-of-Duty",
       "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "description_cn": "a 调用 of duty-quality fps in three.js, built from a single prompt.",
-      "stars": 2526,
-      "forks": 375,
+      "stars": 2580,
+      "forks": 393,
       "language": "JavaScript",
       "url": "https://github.com/mshumer/Claude-of-Duty",
       "topics": [],
@@ -136,188 +146,178 @@
       }
     },
     {
-      "name": "qm",
-      "full_name": "yc-software/qm",
-      "description": "Multiplayer agent harness for work",
-      "description_cn": "多p层 智能体 harness for work",
-      "stars": 2274,
-      "forks": 205,
-      "language": "TypeScript",
-      "url": "https://github.com/yc-software/qm",
-      "topics": [],
-      "created_at": "2026-07-29T20:03:08Z",
-      "owner": {
-        "login": "yc-software",
-        "avatar_url": "https://avatars.githubusercontent.com/u/153323858?v=4"
-      }
-    },
-    {
-      "name": "decimen-optical-transfer",
-      "full_name": "bashalarmistalt/decimen-optical-transfer",
-      "description": "No description",
+      "name": "goutoujunshi",
+      "full_name": "powerycy/goutoujunshi",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
       "description_cn": "",
-      "stars": 2136,
-      "forks": 249,
-      "language": "TypeScript",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "topics": [],
-      "created_at": "2026-07-30T18:17:54Z",
+      "stars": 1432,
+      "forks": 154,
+      "language": "Python",
+      "url": "https://github.com/powerycy/goutoujunshi",
+      "topics": [
+        "ai-agent",
+        "chinese",
+        "codex",
+        "codex-skill",
+        "lgbtq"
+      ],
+      "created_at": "2026-07-20T14:58:48Z",
       "owner": {
-        "login": "bashalarmistalt",
-        "avatar_url": "https://avatars.githubusercontent.com/u/311128416?v=4"
+        "login": "powerycy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36032407?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "score": 479,
-      "comments": 189,
-      "author": "bluehatbrit",
-      "time": 1785524625,
-      "hn_url": "https://news.ycombinator.com/item?id=49127306",
-      "title_cn": "【AI】Tailscale didn't stop the Hugging Face intrusion"
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "score": 197,
+      "comments": 170,
+      "author": "foxtrot8672",
+      "time": 1785623112,
+      "hn_url": "https://news.ycombinator.com/item?id=49139102",
+      "title_cn": "【AI】AI financial advice is surprisingly good, especially if you ask right questions"
     },
     {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "score": 223,
-      "comments": 179,
-      "author": "surprisetalk",
-      "time": 1785452451,
-      "hn_url": "https://news.ycombinator.com/item?id=49116922",
-      "title_cn": "Investigating three real-world incidents in our cybersecurity evaluations"
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "score": 82,
+      "comments": 24,
+      "author": "DSemba",
+      "time": 1785597795,
+      "hn_url": "https://news.ycombinator.com/item?id=49135245",
+      "title_cn": "【AI, 模型】Explorative modeling: Train on the best of K guesses"
     },
     {
-      "title": "Twenty-five years ago it was cryptography, today it's model weights",
-      "url": "https://weeraman.com/because-we-can/",
-      "score": 189,
-      "comments": 78,
-      "author": "aweeraman",
-      "time": 1785245485,
-      "hn_url": "https://news.ycombinator.com/item?id=49083599",
-      "title_cn": "【模型】Twenty-five years ago it was cryptography, today it's model weights"
+      "title": "But can your calculator run Linux?",
+      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+      "score": 74,
+      "comments": 6,
+      "author": "jandeboevrie",
+      "time": 1785613488,
+      "hn_url": "https://news.ycombinator.com/item?id=49137713",
+      "title_cn": "But can your calculator run Linux?"
     },
     {
-      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-      "url": "https://github.com/sqliteai/waste",
-      "score": 171,
-      "comments": 70,
-      "author": "marcobambini",
-      "time": 1785507158,
-      "hn_url": "https://news.ycombinator.com/item?id=49123386",
-      "title_cn": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s"
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "score": 60,
+      "comments": 10,
+      "author": "Hixon10",
+      "time": 1785634551,
+      "hn_url": "https://news.ycombinator.com/item?id=49140218",
+      "title_cn": "Go 1.27 Interactive Tour"
     },
     {
-      "title": "Golang proposal: container/: generic collection types",
-      "url": "https://github.com/golang/go/issues/80590",
-      "score": 129,
-      "comments": 80,
-      "author": "jabits",
-      "time": 1785523187,
-      "hn_url": "https://news.ycombinator.com/item?id=49127031",
-      "title_cn": "【AI】Golang proposal: container/: generic collection types"
+      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+      "url": "https://kaisel.dev/",
+      "score": 54,
+      "comments": 8,
+      "author": "TheWiggles",
+      "time": 1785602740,
+      "hn_url": "https://news.ycombinator.com/item?id=49135985",
+      "title_cn": "【AI】Kaisel – Routes as Values. Dart 3 Native Router for Flutter"
     },
     {
-      "title": "Is AI reasoning right for the wrong reasons?",
-      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "score": 129,
-      "comments": 155,
-      "author": "retupmoc01",
-      "time": 1785511779,
-      "hn_url": "https://news.ycombinator.com/item?id=49124358",
-      "title_cn": "【AI】Is AI reasoning right for the wrong reasons?"
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "url": "https://arxiv.org/abs/2607.05283",
+      "score": 48,
+      "comments": 18,
+      "author": "wglb",
+      "time": 1785195975,
+      "hn_url": "https://news.ycombinator.com/item?id=49077209",
+      "title_cn": "【AI】The Burau representation of the braid group is faithful for n = 4"
     },
     {
-      "title": "Everyone is building LLM routers, we deprecated ours",
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-      "score": 102,
-      "comments": 52,
-      "author": "brunaxLorax",
-      "time": 1785521199,
-      "hn_url": "https://news.ycombinator.com/item?id=49126630",
-      "title_cn": "【大语言模型】Everyone is building LLM routers, we deprecated ours"
-    },
-    {
-      "title": "Anti-fraud tools can't keep pace with robocall scammers",
-      "url": "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/",
-      "score": 76,
-      "comments": 104,
-      "author": "dredmorbius",
-      "time": 1785504485,
-      "hn_url": "https://news.ycombinator.com/item?id=49122882",
-      "title_cn": "【工具】Anti-fraud tools can't keep pace with robocall scammers"
-    },
-    {
-      "title": "The Absurdity of Albert Camus",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-      "score": 69,
-      "comments": 40,
-      "author": "apollinaire",
-      "time": 1785453677,
-      "hn_url": "https://news.ycombinator.com/item?id=49117089",
-      "title_cn": "The Absurdity of Albert Camus"
-    },
-    {
-      "title": "Authorize, don't authenticate",
-      "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
-      "score": 64,
-      "comments": 20,
-      "author": "marcua",
-      "time": 1785507463,
-      "hn_url": "https://news.ycombinator.com/item?id=49123468",
-      "title_cn": "Authorize, don't authenticate"
-    },
-    {
-      "title": "Using the railway network as a flatbed scanner [video]",
-      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-      "score": 58,
-      "comments": 25,
-      "author": "Jimmc414",
-      "time": 1785522644,
-      "hn_url": "https://news.ycombinator.com/item?id=49126919",
-      "title_cn": "【AI】Using the railway network as a flatbed scanner [video]"
-    },
-    {
-      "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-      "url": "https://code.intellios.ai/cwbrowser/",
-      "score": 51,
-      "comments": 19,
-      "author": "coolwulf",
-      "time": 1785533992,
-      "hn_url": "https://news.ycombinator.com/item?id=49128826",
-      "title_cn": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3"
-    },
-    {
-      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
-      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-      "score": 33,
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "score": 36,
       "comments": 3,
-      "author": "shreybirmiwal",
-      "time": 1785527741,
-      "hn_url": "https://news.ycombinator.com/item?id=49127874",
-      "title_cn": "【大语言模型, 推理】Predictive Speculative KV Replication for Bursty LLM Inference"
+      "author": "Jimmc414",
+      "time": 1785627895,
+      "hn_url": "https://news.ycombinator.com/item?id=49139711",
+      "title_cn": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2"
     },
     {
-      "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
-      "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
-      "score": 29,
-      "comments": 5,
-      "author": "sparsesignal",
-      "time": 1785326350,
-      "hn_url": "https://news.ycombinator.com/item?id=49096319",
-      "title_cn": "【AI】The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure"
+      "title": "Guix shell now inside Emacs",
+      "url": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
+      "score": 11,
+      "comments": 0,
+      "author": "birdculture",
+      "time": 1785631480,
+      "hn_url": "https://news.ycombinator.com/item?id=49140017",
+      "title_cn": "Guix shell now inside Emacs"
     },
     {
-      "title": "Flint: A Visualization Language for the AI Era",
-      "url": "https://microsoft.github.io/flint-chart/",
+      "title": "AI opens new era in cognitive studies of wild primates",
+      "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
+      "score": 9,
+      "comments": 4,
+      "author": "hhs",
+      "time": 1785624022,
+      "hn_url": "https://news.ycombinator.com/item?id=49139232",
+      "title_cn": "【AI】AI opens new era in cognitive studies of wild primates"
+    },
+    {
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
       "score": 6,
+      "comments": 0,
+      "author": "goldenskye",
+      "time": 1785640372,
+      "hn_url": "https://news.ycombinator.com/item?id=49140702",
+      "title_cn": "MkLinux and the pimped-out Apple Workgroup Server 9150"
+    },
+    {
+      "title": "Futurism says Meta has \"almost nothing\" to show for AI. The numbers say",
+      "url": "https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise",
+      "score": 5,
+      "comments": 3,
+      "author": "ryanmerket",
+      "time": 1785640449,
+      "hn_url": "https://news.ycombinator.com/item?id=49140713",
+      "title_cn": "【AI】Futurism says Meta has \"almost nothing\" to show for AI. The numbers say"
+    },
+    {
+      "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+      "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
+      "score": 5,
+      "comments": 3,
+      "author": "aaronbrethorst",
+      "time": 1785629185,
+      "hn_url": "https://news.ycombinator.com/item?id=49139826",
+      "title_cn": "【AI】The Greenhouse and the Lens: Two Modes of Agentic AI Work"
+    },
+    {
+      "title": "RFC 9987: Secure Shell (SSH) Agent Protocol",
+      "url": "https://www.rfc-editor.org/rfc/rfc9987.html",
+      "score": 5,
       "comments": 1,
-      "author": "vinhnx",
-      "time": 1785552309,
-      "hn_url": "https://news.ycombinator.com/item?id=49130604",
-      "title_cn": "【AI】Flint: A Visualization Language for the AI Era"
+      "author": "Jimmc414",
+      "time": 1785622928,
+      "hn_url": "https://news.ycombinator.com/item?id=49139068",
+      "title_cn": "RFC 9987: Secure Shell (SSH) Agent Protocol"
+    },
+    {
+      "title": "The world first agentic AI radio",
+      "url": "https://www.twitch.tv/newsmyimaginationai",
+      "score": 4,
+      "comments": 1,
+      "author": "myimaginationai",
+      "time": 1785638569,
+      "hn_url": "https://news.ycombinator.com/item?id=49140554",
+      "title_cn": "【AI】The world first agentic AI radio"
+    },
+    {
+      "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+      "url": "https://costperprompt.com/",
+      "score": 3,
+      "comments": 0,
+      "author": "ahmed_hassan7",
+      "time": 1785635804,
+      "hn_url": "https://news.ycombinator.com/item?id=49140340",
+      "title_cn": "【AI, API】Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators"
     }
   ]
 }
