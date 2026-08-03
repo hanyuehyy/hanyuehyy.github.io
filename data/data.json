@@ -1,29 +1,13 @@
 {
-  "updated_at": "2026-08-02T03:26:57.696094",
+  "updated_at": "2026-08-03T03:27:28.701198",
   "github_projects": [
-    {
-      "name": "openworker",
-      "full_name": "andrewyng/openworker",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 11631,
-      "forks": 1570,
-      "language": "Python",
-      "url": "https://github.com/andrewyng/openworker",
-      "topics": [],
-      "created_at": "2026-07-20T01:52:32Z",
-      "owner": {
-        "login": "andrewyng",
-        "avatar_url": "https://avatars.githubusercontent.com/u/3710007?v=4"
-      }
-    },
     {
       "name": "Kimi-K3",
       "full_name": "MoonshotAI/Kimi-K3",
       "description": "Open Frontier Intelligence",
       "description_cn": "open fr开启tier intelligenCe",
-      "stars": 7830,
-      "forks": 562,
+      "stars": 7919,
+      "forks": 577,
       "language": "Unknown",
       "url": "https://github.com/MoonshotAI/Kimi-K3",
       "topics": [],
@@ -38,8 +22,8 @@
       "full_name": "yc-software/qm",
       "description": "Multiplayer agent harness for work",
       "description_cn": "多p层 智能体 harness for work",
-      "stars": 5149,
-      "forks": 520,
+      "stars": 7502,
+      "forks": 784,
       "language": "TypeScript",
       "url": "https://github.com/yc-software/qm",
       "topics": [],
@@ -50,11 +34,27 @@
       }
     },
     {
+      "name": "decimen-optical-transfer",
+      "full_name": "bashalarmistalt/decimen-optical-transfer",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 3737,
+      "forks": 431,
+      "language": "TypeScript",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "topics": [],
+      "created_at": "2026-07-30T18:17:54Z",
+      "owner": {
+        "login": "bashalarmistalt",
+        "avatar_url": "https://avatars.githubusercontent.com/u/311128416?v=4"
+      }
+    },
+    {
       "name": "quill",
       "full_name": "digimata/quill",
       "description": "Ultra-minimalist macOS recording + transcription.",
       "description_cn": "ultra-极简ist maCos 记录ing + transCrIPti开启.",
-      "stars": 3563,
+      "stars": 3607,
       "forks": 216,
       "language": "Swift",
       "url": "https://github.com/digimata/quill",
@@ -66,44 +66,12 @@
       }
     },
     {
-      "name": "decimen-optical-transfer",
-      "full_name": "bashalarmistalt/decimen-optical-transfer",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 3115,
-      "forks": 366,
-      "language": "TypeScript",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "topics": [],
-      "created_at": "2026-07-30T18:17:54Z",
-      "owner": {
-        "login": "bashalarmistalt",
-        "avatar_url": "https://avatars.githubusercontent.com/u/311128416?v=4"
-      }
-    },
-    {
-      "name": "AgentENV",
-      "full_name": "kvcache-ai/AgentENV",
-      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
-      "description_cn": "智能体env (aenv) is a distributed platform for running 智能体 env中间表示开启ments at sCale.",
-      "stars": 2741,
-      "forks": 213,
-      "language": "Rust",
-      "url": "https://github.com/kvcache-ai/AgentENV",
-      "topics": [],
-      "created_at": "2026-07-23T02:48:07Z",
-      "owner": {
-        "login": "kvcache-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/170996193?v=4"
-      }
-    },
-    {
       "name": "esp32-ai",
       "full_name": "slvDev/esp32-ai",
       "description": "No description",
       "description_cn": "",
-      "stars": 2716,
-      "forks": 340,
+      "stars": 3026,
+      "forks": 385,
       "language": "Python",
       "url": "https://github.com/slvDev/esp32-ai",
       "topics": [],
@@ -114,12 +82,28 @@
       }
     },
     {
+      "name": "AgentENV",
+      "full_name": "kvcache-ai/AgentENV",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "description_cn": "智能体env (aenv) is a distributed platform for running 智能体 env中间表示开启ments at sCale.",
+      "stars": 2781,
+      "forks": 216,
+      "language": "Rust",
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "topics": [],
+      "created_at": "2026-07-23T02:48:07Z",
+      "owner": {
+        "login": "kvcache-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/170996193?v=4"
+      }
+    },
+    {
       "name": "scriptc",
       "full_name": "vercel-labs/scriptc",
       "description": "TypeScript-to-Native Compiler",
       "description_cn": "TypeSCrIPt-to-native 编译器",
-      "stars": 2684,
-      "forks": 57,
+      "stars": 2732,
+      "forks": 58,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/scriptc",
       "topics": [],
@@ -134,8 +118,8 @@
       "full_name": "mshumer/Claude-of-Duty",
       "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "description_cn": "a 调用 of duty-quality fps in three.js, built from a single prompt.",
-      "stars": 2580,
-      "forks": 393,
+      "stars": 2694,
+      "forks": 404,
       "language": "JavaScript",
       "url": "https://github.com/mshumer/Claude-of-Duty",
       "topics": [],
@@ -146,178 +130,194 @@
       }
     },
     {
-      "name": "goutoujunshi",
-      "full_name": "powerycy/goutoujunshi",
-      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-      "description_cn": "",
-      "stars": 1432,
-      "forks": 154,
-      "language": "Python",
-      "url": "https://github.com/powerycy/goutoujunshi",
-      "topics": [
-        "ai-agent",
-        "chinese",
-        "codex",
-        "codex-skill",
-        "lgbtq"
-      ],
-      "created_at": "2026-07-20T14:58:48Z",
+      "name": "crm",
+      "full_name": "trycompai/crm",
+      "description": "An open-source, agentic-first CRM.",
+      "description_cn": "an 开源, 智能体内联缓存-f中间表示st Crm.",
+      "stars": 1898,
+      "forks": 230,
+      "language": "TypeScript",
+      "url": "https://github.com/trycompai/crm",
+      "topics": [],
+      "created_at": "2026-07-31T21:38:51Z",
       "owner": {
-        "login": "powerycy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/36032407?v=4"
+        "login": "trycompai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/195194844?v=4"
+      }
+    },
+    {
+      "name": "qwen-audio-agent",
+      "full_name": "QwenAudio/qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "description_cn": "a realtime vo内联缓存e 运行时 that keeps 智能体s talking, working, and present.  实时 vo内联缓存e 运行时 for AI 智能体s",
+      "stars": 1745,
+      "forks": 110,
+      "language": "JavaScript",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "voice-agent",
+        "voice-ai",
+        "voice-chat"
+      ],
+      "created_at": "2026-07-27T05:04:26Z",
+      "owner": {
+        "login": "QwenAudio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/167062371?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "score": 197,
-      "comments": 170,
-      "author": "foxtrot8672",
-      "time": 1785623112,
-      "hn_url": "https://news.ycombinator.com/item?id=49139102",
-      "title_cn": "【AI】AI financial advice is surprisingly good, especially if you ask right questions"
+      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+      "score": 205,
+      "comments": 99,
+      "author": "JumpCrisscross",
+      "time": 1785698364,
+      "hn_url": "https://news.ycombinator.com/item?id=49147435",
+      "title_cn": "【AI】'Crush this lady': how eBay harassment campaign led to $56M payout"
     },
     {
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "score": 82,
-      "comments": 24,
-      "author": "DSemba",
-      "time": 1785597795,
-      "hn_url": "https://news.ycombinator.com/item?id=49135245",
-      "title_cn": "【AI, 模型】Explorative modeling: Train on the best of K guesses"
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "url": "https://publicdomainreview.org/essay/ars-notoria/",
+      "score": 124,
+      "comments": 31,
+      "author": "jruohonen",
+      "time": 1785665904,
+      "hn_url": "https://news.ycombinator.com/item?id=49143001",
+      "title_cn": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge"
     },
     {
-      "title": "But can your calculator run Linux?",
-      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-      "score": 74,
-      "comments": 6,
-      "author": "jandeboevrie",
-      "time": 1785613488,
-      "hn_url": "https://news.ycombinator.com/item?id=49137713",
-      "title_cn": "But can your calculator run Linux?"
+      "title": "AI poster wins Ohio State Fair contest",
+      "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+      "score": 119,
+      "comments": 136,
+      "author": "AlexAplin",
+      "time": 1785710627,
+      "hn_url": "https://news.ycombinator.com/item?id=49149188",
+      "title_cn": "【AI】AI poster wins Ohio State Fair contest"
     },
     {
-      "title": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 60,
-      "comments": 10,
-      "author": "Hixon10",
-      "time": 1785634551,
-      "hn_url": "https://news.ycombinator.com/item?id=49140218",
-      "title_cn": "Go 1.27 Interactive Tour"
+      "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+      "url": "https://frogs.vaguespac.es/",
+      "score": 118,
+      "comments": 52,
+      "author": "thebigship",
+      "time": 1785699728,
+      "hn_url": "https://news.ycombinator.com/item?id=49147622",
+      "title_cn": "【AI, 基准测试】My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”"
     },
     {
-      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-      "url": "https://kaisel.dev/",
-      "score": 54,
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "score": 75,
+      "comments": 20,
+      "author": "ai2027",
+      "time": 1785723369,
+      "hn_url": "https://news.ycombinator.com/item?id=49150470",
+      "title_cn": "Qwen3.8-Max: A New Bar for Coding and Cowork"
+    },
+    {
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "score": 68,
+      "comments": 7,
+      "author": "nmstoker",
+      "time": 1785503310,
+      "hn_url": "https://news.ycombinator.com/item?id=49122655",
+      "title_cn": "【模型】Autoregressive Language Model on the 6502 Processor"
+    },
+    {
+      "title": "Flock – Chilling Effects: Long Island's Emerging Open-Air Prison",
+      "url": "https://www.11971.com/",
+      "score": 42,
+      "comments": 16,
+      "author": "mediaeater",
+      "time": 1785706204,
+      "hn_url": "https://news.ycombinator.com/item?id=49148541",
+      "title_cn": "【AI】Flock – Chilling Effects: Long Island's Emerging Open-Air Prison"
+    },
+    {
+      "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+      "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+      "score": 29,
+      "comments": 7,
+      "author": "robenkleene",
+      "time": 1785716575,
+      "hn_url": "https://news.ycombinator.com/item?id=49149800",
+      "title_cn": "【Claude】Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App"
+    },
+    {
+      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+      "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+      "score": 18,
+      "comments": 5,
+      "author": "Jimmc414",
+      "time": 1785720206,
+      "hn_url": "https://news.ycombinator.com/item?id=49150181",
+      "title_cn": "RFC 9851: TLS 1.2 is in Feature Freeze"
+    },
+    {
+      "title": "A tool for finding the causes of unstable Python tests",
+      "url": "https://github.com/mgaitan/pytest-leak-finder",
+      "score": 17,
+      "comments": 0,
+      "author": "pomponchik",
+      "time": 1785432393,
+      "hn_url": "https://news.ycombinator.com/item?id=49113005",
+      "title_cn": "【工具】A tool for finding the causes of unstable Python tests"
+    },
+    {
+      "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+      "url": "https://github.com/paoloanzn/microcodex",
+      "score": 17,
       "comments": 8,
-      "author": "TheWiggles",
-      "time": 1785602740,
-      "hn_url": "https://news.ycombinator.com/item?id=49135985",
-      "title_cn": "【AI】Kaisel – Routes as Values. Dart 3 Native Router for Flutter"
+      "author": "paoloanzn",
+      "time": 1785701495,
+      "hn_url": "https://news.ycombinator.com/item?id=49147842",
+      "title_cn": "【AI, OpenAI】Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary"
     },
     {
-      "title": "The Burau representation of the braid group is faithful for n = 4",
-      "url": "https://arxiv.org/abs/2607.05283",
-      "score": 48,
-      "comments": 18,
-      "author": "wglb",
-      "time": 1785195975,
-      "hn_url": "https://news.ycombinator.com/item?id=49077209",
-      "title_cn": "【AI】The Burau representation of the braid group is faithful for n = 4"
-    },
-    {
-      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
-      "score": 36,
-      "comments": 3,
-      "author": "Jimmc414",
-      "time": 1785627895,
-      "hn_url": "https://news.ycombinator.com/item?id=49139711",
-      "title_cn": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2"
-    },
-    {
-      "title": "Guix shell now inside Emacs",
-      "url": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
-      "score": 11,
-      "comments": 0,
-      "author": "birdculture",
-      "time": 1785631480,
-      "hn_url": "https://news.ycombinator.com/item?id=49140017",
-      "title_cn": "Guix shell now inside Emacs"
-    },
-    {
-      "title": "AI opens new era in cognitive studies of wild primates",
-      "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
-      "score": 9,
+      "title": "Connes' Rigidity Theorem: Disproof of Open AI's Counterexample and Proof",
+      "url": "https://philarchive.org/rec/NIEWTC",
+      "score": 12,
       "comments": 4,
-      "author": "hhs",
-      "time": 1785624022,
-      "hn_url": "https://news.ycombinator.com/item?id=49139232",
-      "title_cn": "【AI】AI opens new era in cognitive studies of wild primates"
+      "author": "gone35",
+      "time": 1785715019,
+      "hn_url": "https://news.ycombinator.com/item?id=49149628",
+      "title_cn": "【AI】Connes' Rigidity Theorem: Disproof of Open AI's Counterexample and Proof"
     },
     {
-      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-      "score": 6,
+      "title": "KotlinLLM",
+      "url": "https://github.com/JetBrains-Research/kotlinllm-plugin",
+      "score": 12,
       "comments": 0,
-      "author": "goldenskye",
-      "time": 1785640372,
-      "hn_url": "https://news.ycombinator.com/item?id=49140702",
-      "title_cn": "MkLinux and the pimped-out Apple Workgroup Server 9150"
+      "author": "saikatsg",
+      "time": 1785696330,
+      "hn_url": "https://news.ycombinator.com/item?id=49147170",
+      "title_cn": "【大语言模型】KotlinLLM"
     },
     {
-      "title": "Futurism says Meta has \"almost nothing\" to show for AI. The numbers say",
-      "url": "https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise",
-      "score": 5,
-      "comments": 3,
-      "author": "ryanmerket",
-      "time": 1785640449,
-      "hn_url": "https://news.ycombinator.com/item?id=49140713",
-      "title_cn": "【AI】Futurism says Meta has \"almost nothing\" to show for AI. The numbers say"
+      "title": "Let kids be kids: When collectibles lose their playfulness",
+      "url": "https://quarters.captaintouch.com/blog/posts/2026-08-02-let-kids-be-kids:-when-collectibles-lose-their-playfulness.html",
+      "score": 9,
+      "comments": 2,
+      "author": "capitain",
+      "time": 1785705927,
+      "hn_url": "https://news.ycombinator.com/item?id=49148500",
+      "title_cn": "Let kids be kids: When collectibles lose their playfulness"
     },
     {
-      "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
-      "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
-      "score": 5,
-      "comments": 3,
-      "author": "aaronbrethorst",
-      "time": 1785629185,
-      "hn_url": "https://news.ycombinator.com/item?id=49139826",
-      "title_cn": "【AI】The Greenhouse and the Lens: Two Modes of Agentic AI Work"
-    },
-    {
-      "title": "RFC 9987: Secure Shell (SSH) Agent Protocol",
-      "url": "https://www.rfc-editor.org/rfc/rfc9987.html",
-      "score": 5,
-      "comments": 1,
-      "author": "Jimmc414",
-      "time": 1785622928,
-      "hn_url": "https://news.ycombinator.com/item?id=49139068",
-      "title_cn": "RFC 9987: Secure Shell (SSH) Agent Protocol"
-    },
-    {
-      "title": "The world first agentic AI radio",
-      "url": "https://www.twitch.tv/newsmyimaginationai",
-      "score": 4,
-      "comments": 1,
-      "author": "myimaginationai",
-      "time": 1785638569,
-      "hn_url": "https://news.ycombinator.com/item?id=49140554",
-      "title_cn": "【AI】The world first agentic AI radio"
-    },
-    {
-      "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-      "url": "https://costperprompt.com/",
-      "score": 3,
-      "comments": 0,
-      "author": "ahmed_hassan7",
-      "time": 1785635804,
-      "hn_url": "https://news.ycombinator.com/item?id=49140340",
-      "title_cn": "【AI, API】Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators"
+      "title": "Show HN: Alfa. Killing AI hallucinations with resonance",
+      "url": "https://github.com/ConsciousGroupMind/SKYNET-800---Collective-Intelligence-Forecasting-System",
+      "score": 8,
+      "comments": 2,
+      "author": "SKYNET800",
+      "time": 1785707469,
+      "hn_url": "https://news.ycombinator.com/item?id=49148735",
+      "title_cn": "【AI】Show HN: Alfa. Killing AI hallucinations with resonance"
     }
   ]
 }
