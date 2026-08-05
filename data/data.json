@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-04T02:55:54.250614",
+  "updated_at": "2026-08-05T02:52:03.807958",
   "github_projects": [
     {
       "name": "qm",
       "full_name": "yc-software/qm",
       "description": "Multiplayer agent harness for work",
       "description_cn": "多p层 智能体 harness for work",
-      "stars": 9915,
-      "forks": 1050,
+      "stars": 11213,
+      "forks": 1227,
       "language": "TypeScript",
       "url": "https://github.com/yc-software/qm",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "MoonshotAI/Kimi-K3",
       "description": "Open Frontier Intelligence",
       "description_cn": "open fr开启tier intelligenCe",
-      "stars": 7990,
-      "forks": 594,
+      "stars": 8058,
+      "forks": 604,
       "language": "Unknown",
       "url": "https://github.com/MoonshotAI/Kimi-K3",
       "topics": [],
@@ -34,12 +34,28 @@
       }
     },
     {
+      "name": "crm",
+      "full_name": "trycompai/crm",
+      "description": "An open-source, agentic-first CRM.",
+      "description_cn": "an 开源, 智能体内联缓存-f中间表示st Crm.",
+      "stars": 4820,
+      "forks": 503,
+      "language": "TypeScript",
+      "url": "https://github.com/trycompai/crm",
+      "topics": [],
+      "created_at": "2026-07-31T21:38:51Z",
+      "owner": {
+        "login": "trycompai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/195194844?v=4"
+      }
+    },
+    {
       "name": "decimen-optical-transfer",
       "full_name": "bashalarmistalt/decimen-optical-transfer",
       "description": "No description",
       "description_cn": "",
-      "stars": 4278,
-      "forks": 509,
+      "stars": 4561,
+      "forks": 552,
       "language": "TypeScript",
       "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
       "topics": [],
@@ -54,8 +70,8 @@
       "full_name": "digimata/quill",
       "description": "Ultra-minimalist macOS recording + transcription.",
       "description_cn": "ultra-极简ist maCos 记录ing + transCrIPti开启.",
-      "stars": 3647,
-      "forks": 221,
+      "stars": 3676,
+      "forks": 226,
       "language": "Swift",
       "url": "https://github.com/digimata/quill",
       "topics": [],
@@ -66,28 +82,12 @@
       }
     },
     {
-      "name": "crm",
-      "full_name": "trycompai/crm",
-      "description": "An open-source, agentic-first CRM.",
-      "description_cn": "an 开源, 智能体内联缓存-f中间表示st Crm.",
-      "stars": 3389,
-      "forks": 372,
-      "language": "TypeScript",
-      "url": "https://github.com/trycompai/crm",
-      "topics": [],
-      "created_at": "2026-07-31T21:38:51Z",
-      "owner": {
-        "login": "trycompai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/195194844?v=4"
-      }
-    },
-    {
       "name": "esp32-ai",
       "full_name": "slvDev/esp32-ai",
       "description": "No description",
       "description_cn": "",
-      "stars": 3292,
-      "forks": 412,
+      "stars": 3455,
+      "forks": 438,
       "language": "Python",
       "url": "https://github.com/slvDev/esp32-ai",
       "topics": [],
@@ -98,12 +98,28 @@
       }
     },
     {
+      "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "description_cn": "",
+      "stars": 2990,
+      "forks": 368,
+      "language": "Unknown",
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "topics": [],
+      "created_at": "2026-07-30T05:39:38Z",
+      "owner": {
+        "login": "xdash",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1618833?v=4"
+      }
+    },
+    {
       "name": "AgentENV",
       "full_name": "kvcache-ai/AgentENV",
       "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
       "description_cn": "智能体env (aenv) is a distributed platform for running 智能体 env中间表示开启ments at sCale.",
-      "stars": 2839,
-      "forks": 222,
+      "stars": 2878,
+      "forks": 227,
       "language": "Rust",
       "url": "https://github.com/kvcache-ai/AgentENV",
       "topics": [],
@@ -114,28 +130,12 @@
       }
     },
     {
-      "name": "scriptc",
-      "full_name": "vercel-labs/scriptc",
-      "description": "TypeScript-to-Native Compiler",
-      "description_cn": "TypeSCrIPt-to-native 编译器",
-      "stars": 2802,
-      "forks": 62,
-      "language": "TypeScript",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "topics": [],
-      "created_at": "2026-07-22T23:04:54Z",
-      "owner": {
-        "login": "vercel-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
-      }
-    },
-    {
       "name": "Claude-of-Duty",
       "full_name": "mshumer/Claude-of-Duty",
       "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "description_cn": "a 调用 of duty-quality fps in three.js, built from a single prompt.",
-      "stars": 2771,
-      "forks": 412,
+      "stars": 2821,
+      "forks": 416,
       "language": "JavaScript",
       "url": "https://github.com/mshumer/Claude-of-Duty",
       "topics": [],
@@ -146,172 +146,178 @@
       }
     },
     {
-      "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
-      "description_cn": "",
-      "stars": 2137,
-      "forks": 271,
-      "language": "Unknown",
-      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "topics": [],
-      "created_at": "2026-07-30T05:39:38Z",
+      "name": "kimi-k3-in-c",
+      "full_name": "FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "description_cn": "a 2.78-trilli开启-parameter kimi k3 running 推理 开启 a single Cpu in 8.24 gb of ram. por表 C99: 否 blas, 否 框架, 否 gpu.",
+      "stars": 2072,
+      "forks": 336,
+      "language": "C",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "topics": [
+        "avx2",
+        "c99",
+        "cpu-inference",
+        "deep-learning",
+        "from-scratch"
+      ],
+      "created_at": "2026-08-01T09:29:38Z",
       "owner": {
-        "login": "xdash",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1618833?v=4"
+        "login": "FareedKhan-dev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63067900?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "url": "https://qwen.ai/blog?id=qwen3.8",
-      "score": 1057,
-      "comments": 569,
-      "author": "ai2027",
-      "time": 1785723369,
-      "hn_url": "https://news.ycombinator.com/item?id=49150470",
-      "title_cn": "Qwen3.8-Max: A New Bar for Coding and Cowork"
-    },
-    {
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "score": 700,
-      "comments": 352,
-      "author": "ymir_e",
-      "time": 1785756534,
-      "hn_url": "https://news.ycombinator.com/item?id=49154332",
-      "title_cn": "【大语言模型】SQLite Critical CVEs or LLM Slop?"
-    },
-    {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 507,
-      "comments": 226,
-      "author": "MaxMussio",
-      "time": 1785791633,
-      "hn_url": "https://news.ycombinator.com/item?id=49161518",
-      "title_cn": "【大语言模型】LLMs reward expertise"
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 456,
-      "comments": 725,
-      "author": "milkshakes",
-      "time": 1785774432,
-      "hn_url": "https://news.ycombinator.com/item?id=49157930",
-      "title_cn": "Ten advances in mathematics and theoretical computer science"
-    },
-    {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "score": 399,
-      "comments": 338,
-      "author": "mpweiher",
-      "time": 1785749527,
-      "hn_url": "https://news.ycombinator.com/item?id=49153374",
-      "title_cn": "【大语言模型】Prevent cognitive debt by manually retyping LLM-generated code"
-    },
-    {
-      "title": "Bonsai: Janestreet's UI Library",
-      "url": "https://github.com/janestreet/bonsai",
-      "score": 312,
-      "comments": 131,
-      "author": "KolmogorovComp",
-      "time": 1785745797,
-      "hn_url": "https://news.ycombinator.com/item?id=49152842",
-      "title_cn": "【AI, 库】Bonsai: Janestreet's UI Library"
-    },
-    {
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "url": "https://github.com/lyogavin/airllm",
-      "score": 195,
-      "comments": 75,
-      "author": "Anon84",
-      "time": 1785755748,
-      "hn_url": "https://news.ycombinator.com/item?id=49154228",
-      "title_cn": "【AI, 大语言模型, 推理】AirLLM 70B inference with single 4GB GPU"
-    },
-    {
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "score": 156,
-      "comments": 40,
-      "author": "ascorbic",
-      "time": 1785776926,
-      "hn_url": "https://news.ycombinator.com/item?id=49158581",
-      "title_cn": "Smaller, faster, safer: running Kimi and GLM at scale"
-    },
-    {
-      "title": "Twenty Years of Pandoc",
-      "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-      "score": 121,
-      "comments": 16,
-      "author": "fiddlosopher",
-      "time": 1785769493,
-      "hn_url": "https://news.ycombinator.com/item?id=49156750",
-      "title_cn": "Twenty Years of Pandoc"
-    },
-    {
-      "title": "What's the largest software project AI can complete on its own?",
-      "url": "https://epoch.ai/MirrorCode",
-      "score": 70,
-      "comments": 78,
-      "author": "yusufozkan",
-      "time": 1785773800,
-      "hn_url": "https://news.ycombinator.com/item?id=49157786",
-      "title_cn": "【AI】What's the largest software project AI can complete on its own?"
-    },
-    {
-      "title": "The Potomac River Midair Collision",
-      "url": "https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f",
-      "score": 70,
-      "comments": 18,
-      "author": "mplanchard",
-      "time": 1785757286,
-      "hn_url": "https://news.ycombinator.com/item?id=49154441",
-      "title_cn": "【AI】The Potomac River Midair Collision"
-    },
-    {
-      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "score": 50,
-      "comments": 19,
-      "author": "marojejian",
-      "time": 1785341266,
-      "hn_url": "https://news.ycombinator.com/item?id=49099336",
-      "title_cn": "Amazonian civilization had estimated 3M people in 3% of forest area"
-    },
-    {
       "title": "There Will Come Soft Rains (1950) [pdf]",
       "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "score": 41,
-      "comments": 17,
+      "score": 357,
+      "comments": 384,
       "author": "pmg101",
       "time": 1785799493,
       "hn_url": "https://news.ycombinator.com/item?id=49162653",
       "title_cn": "【AI】There Will Come Soft Rains (1950) [pdf]"
     },
     {
-      "title": "Frame selection is the whole game: notes on making LLMs watch video",
-      "url": "https://leoaido.com/how-llms-watch-video/",
-      "score": 16,
-      "comments": 4,
-      "author": "cortexosmain",
-      "time": 1785763690,
-      "hn_url": "https://news.ycombinator.com/item?id=49155555",
-      "title_cn": "【大语言模型】Frame selection is the whole game: notes on making LLMs watch video"
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "score": 324,
+      "comments": 77,
+      "author": "riadsila",
+      "time": 1785861365,
+      "hn_url": "https://news.ycombinator.com/item?id=49171268",
+      "title_cn": "【模型】Mistral's Shieldstral: 3B open-weights model for multimodal moderation"
     },
     {
-      "title": "Telegram says app restored on Apple's App Store",
-      "url": "https://www.reuters.com/business/retail-consumer/telegram-says-app-restored-apples-app-store-2026-08-04/",
-      "score": 9,
-      "comments": 0,
-      "author": "mfiguiere",
-      "time": 1785809724,
-      "hn_url": "https://news.ycombinator.com/item?id=49163687",
-      "title_cn": "Telegram says app restored on Apple's App Store"
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "score": 234,
+      "comments": 125,
+      "author": "cimi_",
+      "time": 1785841297,
+      "hn_url": "https://news.ycombinator.com/item?id=49166874",
+      "title_cn": "【AI】Keyv and friends compromised in active Shai-Hulud supply chain attack"
+    },
+    {
+      "title": "Oxide Computer raises $445M (SEC Form D)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+      "score": 195,
+      "comments": 93,
+      "author": "depr",
+      "time": 1785874420,
+      "hn_url": "https://news.ycombinator.com/item?id=49174407",
+      "title_cn": "【AI】Oxide Computer raises $445M (SEC Form D)"
+    },
+    {
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "score": 149,
+      "comments": 113,
+      "author": "bookofjoe",
+      "time": 1785880901,
+      "hn_url": "https://news.ycombinator.com/item?id=49175826",
+      "title_cn": "【AI】AI fuels more than half of cybercrime in Africa as scams surge – Interpol"
+    },
+    {
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "score": 85,
+      "comments": 47,
+      "author": "tchalla",
+      "time": 1785887452,
+      "hn_url": "https://news.ycombinator.com/item?id=49176830",
+      "title_cn": "【AI】Eight Myths on Software Engineering and GenAI"
+    },
+    {
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "score": 82,
+      "comments": 85,
+      "author": "doppp",
+      "time": 1785859839,
+      "hn_url": "https://news.ycombinator.com/item?id=49170915",
+      "title_cn": "【AI, 基准测试】When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation"
+    },
+    {
+      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "url": "https://techascent.com/blog/just-ducking-around.html",
+      "score": 60,
+      "comments": 6,
+      "author": "sourdecor",
+      "time": 1785881383,
+      "hn_url": "https://news.ycombinator.com/item?id=49175924",
+      "title_cn": "【工具】DuckDB – Data power tools for your laptop, now in Clojure (2023)"
+    },
+    {
+      "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+      "url": "https://deepgrove.ai/maple-preview",
+      "score": 57,
+      "comments": 17,
+      "author": "edwardbzhang",
+      "time": 1785872695,
+      "hn_url": "https://news.ycombinator.com/item?id=49173984",
+      "title_cn": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone"
+    },
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+      "score": 44,
+      "comments": 7,
+      "author": "glub",
+      "time": 1785878059,
+      "hn_url": "https://news.ycombinator.com/item?id=49175248",
+      "title_cn": "【AI, OpenAI, 模型】Third-party cyber evaluations involving OpenAI models"
+    },
+    {
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "url": "https://edotenv.com/",
+      "score": 31,
+      "comments": 24,
+      "author": "Mzzzzz",
+      "time": 1785868562,
+      "hn_url": "https://news.ycombinator.com/item?id=49172936",
+      "title_cn": "【大语言模型, 推出】Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research"
+    },
+    {
+      "title": "Flowise Is Shutting Down",
+      "url": "https://flowiseai.com/sunset",
+      "score": 18,
+      "comments": 10,
+      "author": "llmgraph",
+      "time": 1785888160,
+      "hn_url": "https://news.ycombinator.com/item?id=49176920",
+      "title_cn": "Flowise Is Shutting Down"
+    },
+    {
+      "title": "Godox Transparent Viewfinder Camera C100",
+      "url": "https://www.godox.com/product-e/C100.html",
+      "score": 12,
+      "comments": 7,
+      "author": "routeroff",
+      "time": 1785763974,
+      "hn_url": "https://news.ycombinator.com/item?id=49155605",
+      "title_cn": "Godox Transparent Viewfinder Camera C100"
+    },
+    {
+      "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+      "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
+      "score": 7,
+      "comments": 3,
+      "author": "mapping365",
+      "time": 1785893666,
+      "hn_url": "https://news.ycombinator.com/item?id=49177554",
+      "title_cn": "【AI】After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted"
+    },
+    {
+      "title": "From boiling lead and black art: The history of mathematical typography (2017)",
+      "url": "http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html",
+      "score": 5,
+      "comments": 1,
+      "author": "EndXA",
+      "time": 1785590697,
+      "hn_url": "https://news.ycombinator.com/item?id=49134241",
+      "title_cn": "From boiling lead and black art: The history of mathematical typography (2017)"
     }
   ]
 }
