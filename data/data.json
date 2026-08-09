@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-08T01:55:56.101688",
+  "updated_at": "2026-08-09T02:04:03.006736",
   "github_projects": [
     {
       "name": "qm",
       "full_name": "yc-software/qm",
       "description": "Multiplayer agent harness for work",
       "description_cn": "多p层 智能体 harness for work",
-      "stars": 12300,
-      "forks": 1406,
+      "stars": 12554,
+      "forks": 1442,
       "language": "TypeScript",
       "url": "https://github.com/yc-software/qm",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "firecrawl/anydoc",
       "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "description_cn": "C开启vert 字, power点, exCel, opendoCument, rtf, epub, Csv, and pdf to Clean markdown. built in Rust, with 节点.js and Pyth开启 bindings.",
-      "stars": 11077,
-      "forks": 515,
+      "stars": 12153,
+      "forks": 581,
       "language": "Rust",
       "url": "https://github.com/firecrawl/anydoc",
       "topics": [],
@@ -38,8 +38,8 @@
       "full_name": "MoonshotAI/Kimi-K3",
       "description": "Open Frontier Intelligence",
       "description_cn": "open fr开启tier intelligenCe",
-      "stars": 8190,
-      "forks": 622,
+      "stars": 8256,
+      "forks": 628,
       "language": "Unknown",
       "url": "https://github.com/MoonshotAI/Kimi-K3",
       "topics": [],
@@ -54,8 +54,8 @@
       "full_name": "trycompai/crm",
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "description_cn": "Comp AI Crm is an open sourCe, Crm designed for AI 智能体s. 智能体内联缓存-f中间表示st Crm.",
-      "stars": 7506,
-      "forks": 808,
+      "stars": 7798,
+      "forks": 846,
       "language": "TypeScript",
       "url": "https://github.com/trycompai/crm",
       "topics": [],
@@ -70,8 +70,8 @@
       "full_name": "bashalarmistalt/decimen-optical-transfer",
       "description": "No description",
       "description_cn": "",
-      "stars": 5151,
-      "forks": 629,
+      "stars": 5339,
+      "forks": 645,
       "language": "TypeScript",
       "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
       "topics": [],
@@ -82,28 +82,12 @@
       }
     },
     {
-      "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
-      "description_cn": "",
-      "stars": 3540,
-      "forks": 427,
-      "language": "Unknown",
-      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "topics": [],
-      "created_at": "2026-07-30T05:39:38Z",
-      "owner": {
-        "login": "xdash",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1618833?v=4"
-      }
-    },
-    {
       "name": "kimi-k3-in-c",
       "full_name": "FareedKhan-dev/kimi-k3-in-c",
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "description_cn": "a 2.78-trilli开启-parameter kimi k3 running 推理 开启 a single Cpu in 8.24 gb of ram. por表 C99: 否 blas, 否 框架, 否 gpu.",
-      "stars": 3308,
-      "forks": 540,
+      "stars": 3816,
+      "forks": 588,
       "language": "C",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
       "topics": [
@@ -120,19 +104,19 @@
       }
     },
     {
-      "name": "zhuzhiliao",
-      "full_name": "imsai-sh/zhuzhiliao",
-      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
       "description_cn": "",
-      "stars": 2435,
-      "forks": 311,
-      "language": "HTML",
-      "url": "https://github.com/imsai-sh/zhuzhiliao",
+      "stars": 3625,
+      "forks": 438,
+      "language": "Unknown",
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "topics": [],
-      "created_at": "2026-08-01T17:20:54Z",
+      "created_at": "2026-07-30T05:39:38Z",
       "owner": {
-        "login": "imsai-sh",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14907300?v=4"
+        "login": "xdash",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1618833?v=4"
       }
     },
     {
@@ -140,8 +124,8 @@
       "full_name": "microsoft/skill-recorder",
       "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
       "description_cn": "desktop app that 记录s your 开启-sCreen work 会话 and uses the github Copilot 命令行工具 to reC开启结构体 it as an intent + ordered steps, then builds a reusable skill or automati开启 for m内联缓存rosoft sCout, m内联缓存rosoft Copilot Cowork, or Copilot studio.",
-      "stars": 2350,
-      "forks": 250,
+      "stars": 2530,
+      "forks": 270,
       "language": "TypeScript",
       "url": "https://github.com/microsoft/skill-recorder",
       "topics": [
@@ -158,12 +142,28 @@
       }
     },
     {
+      "name": "zhuzhiliao",
+      "full_name": "imsai-sh/zhuzhiliao",
+      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "description_cn": "",
+      "stars": 2484,
+      "forks": 318,
+      "language": "HTML",
+      "url": "https://github.com/imsai-sh/zhuzhiliao",
+      "topics": [],
+      "created_at": "2026-08-01T17:20:54Z",
+      "owner": {
+        "login": "imsai-sh",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14907300?v=4"
+      }
+    },
+    {
       "name": "genoffice",
       "full_name": "genspark-ai/genoffice",
       "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
       "description_cn": "an AI-native 关闭内联缓存e suite for maCos and windows: 字 进程or, spreadsheet, presentati开启s, and pdf.",
-      "stars": 2177,
-      "forks": 377,
+      "stars": 2262,
+      "forks": 389,
       "language": "TypeScript",
       "url": "https://github.com/genspark-ai/genoffice",
       "topics": [
@@ -182,154 +182,154 @@
   ],
   "ai_news": [
     {
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 888,
-      "comments": 666,
-      "author": "itvision",
-      "time": 1786047791,
-      "hn_url": "https://news.ycombinator.com/item?id=49201970",
-      "title_cn": "【模型, 推理】AMD acquires Taalas to boost inference performance by etching models in silicon"
-    },
-    {
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "score": 429,
-      "comments": 535,
+      "score": 984,
+      "comments": 1176,
       "author": "RickJWagner",
       "time": 1786106547,
       "hn_url": "https://news.ycombinator.com/item?id=49209539",
       "title_cn": "【AI】What happens if an entire class of workers loses faith in their careers"
     },
     {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "score": 391,
-      "comments": 257,
-      "author": "delduca",
-      "time": 1786124190,
-      "hn_url": "https://news.ycombinator.com/item?id=49213754",
-      "title_cn": "【AI】Oracle bans AI-generated code from OpenJDK"
+      "comments": 116,
+      "author": "bhavansig",
+      "time": 1786180730,
+      "hn_url": "https://news.ycombinator.com/item?id=49220126",
+      "title_cn": "【模型】DeepMind's WeatherNext model achieves breakthrough forecasting cyclones"
     },
     {
-      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "score": 248,
-      "comments": 118,
-      "author": "poly2it",
-      "time": 1786100435,
-      "hn_url": "https://news.ycombinator.com/item?id=49208535",
-      "title_cn": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD"
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "score": 345,
+      "comments": 351,
+      "author": "882542F3884314B",
+      "time": 1786186664,
+      "hn_url": "https://news.ycombinator.com/item?id=49220609",
+      "title_cn": "【AI, OpenAI】Timeline of the OpenAI accidental attack against Hugging Face"
     },
     {
-      "title": "USA Today Co., partners with Palantir to analyze audience data",
-      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
-      "score": 183,
-      "comments": 70,
-      "author": "cdrnsf",
-      "time": 1786111335,
-      "hn_url": "https://news.ycombinator.com/item?id=49210589",
-      "title_cn": "USA Today Co., partners with Palantir to analyze audience data"
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "score": 322,
+      "comments": 146,
+      "author": "groomlake",
+      "time": 1786205091,
+      "hn_url": "https://news.ycombinator.com/item?id=49223082",
+      "title_cn": "【AI】Fastmail offers EU data region"
     },
     {
       "title": "Managing AI Coding Costs at Scale",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "score": 168,
-      "comments": 173,
+      "score": 300,
+      "comments": 257,
       "author": "moonikakiss",
       "time": 1786127117,
       "hn_url": "https://news.ycombinator.com/item?id=49214468",
       "title_cn": "【AI】Managing AI Coding Costs at Scale"
     },
     {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "score": 155,
-      "comments": 167,
-      "author": "artninja1988",
-      "time": 1786120776,
-      "hn_url": "https://news.ycombinator.com/item?id=49213029",
-      "title_cn": "Responding to the next frontier of critical cyber capabilities"
-    },
-    {
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "score": 91,
-      "comments": 38,
-      "author": "moelf",
-      "time": 1786141467,
-      "hn_url": "https://news.ycombinator.com/item?id=49216946",
-      "title_cn": "【模型, 推出】U.S. Department of Energy Launches the Genesis Open Models Initiative"
-    },
-    {
-      "title": "The BBC Tetris Companion",
-      "url": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
-      "score": 76,
-      "comments": 11,
-      "author": "zdw",
-      "time": 1785291878,
-      "hn_url": "https://news.ycombinator.com/item?id=49092746",
-      "title_cn": "The BBC Tetris Companion"
-    },
-    {
-      "title": "Guarded Methods in OCaml (2025)",
-      "url": "https://xvw.lol/en/articles/oop-refl.html",
-      "score": 56,
-      "comments": 5,
-      "author": "birdculture",
-      "time": 1785773744,
-      "hn_url": "https://news.ycombinator.com/item?id=49157770",
-      "title_cn": "Guarded Methods in OCaml (2025)"
-    },
-    {
-      "title": "Should AI labs be treated like the owners of dangerous animals?",
-      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-      "score": 34,
-      "comments": 45,
-      "author": "reasonableklout",
-      "time": 1786147411,
-      "hn_url": "https://news.ycombinator.com/item?id=49217629",
-      "title_cn": "【AI】Should AI labs be treated like the owners of dangerous animals?"
-    },
-    {
       "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
       "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-      "score": 31,
-      "comments": 32,
+      "score": 221,
+      "comments": 163,
       "author": "ilamont",
       "time": 1786134304,
       "hn_url": "https://news.ycombinator.com/item?id=49215786",
       "title_cn": "【Claude】Lost my phone at the office. Claude suggested tracking Bluetooth signal strength"
     },
     {
-      "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
-      "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
-      "score": 24,
-      "comments": 5,
-      "author": "geerlingguy",
-      "time": 1785700603,
-      "hn_url": "https://news.ycombinator.com/item?id=49147721",
-      "title_cn": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system"
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "score": 152,
+      "comments": 105,
+      "author": "happosai",
+      "time": 1786197342,
+      "hn_url": "https://news.ycombinator.com/item?id=49221864",
+      "title_cn": "【AI】Gentoo bugzilla closed due AI bot scraper overload"
     },
     {
-      "title": "Britain's New World of Tobacco (2017)",
-      "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
-      "score": 17,
+      "title": "Improving Heuristics for A* Pathfinding",
+      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "score": 67,
+      "comments": 10,
+      "author": "bobbiechen",
+      "time": 1785218682,
+      "hn_url": "https://news.ycombinator.com/item?id=49079995",
+      "title_cn": "Improving Heuristics for A* Pathfinding"
+    },
+    {
+      "title": "Message your other Claude Code sessions",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "score": 65,
+      "comments": 32,
+      "author": "mfiguiere",
+      "time": 1786203289,
+      "hn_url": "https://news.ycombinator.com/item?id=49222824",
+      "title_cn": "【Claude】Message your other Claude Code sessions"
+    },
+    {
+      "title": "TinySol, a tiny solitaire game for DOS",
+      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+      "score": 47,
+      "comments": 12,
+      "author": "skibz",
+      "time": 1786210960,
+      "hn_url": "https://news.ycombinator.com/item?id=49224020",
+      "title_cn": "【AI】TinySol, a tiny solitaire game for DOS"
+    },
+    {
+      "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP",
+      "url": "https://toonk.io/index.html",
+      "score": 33,
+      "comments": 13,
+      "author": "bgpdude",
+      "time": 1786205220,
+      "hn_url": "https://news.ycombinator.com/item?id=49223105",
+      "title_cn": "Wireblast a 100 Gbps packet generator in Go using AF_XDP"
+    },
+    {
+      "title": "The AI Apocalypse Is Here",
+      "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+      "score": 11,
+      "comments": 2,
+      "author": "reasonableklout",
+      "time": 1786238916,
+      "hn_url": "https://news.ycombinator.com/item?id=49227521",
+      "title_cn": "【AI】The AI Apocalypse Is Here"
+    },
+    {
+      "title": "Show HN: Algebruh - Cross-check arithmetic claims with Z3, cvc5, and Lean",
+      "url": "https://github.com/skorotkiewicz/algebruh",
+      "score": 7,
       "comments": 0,
-      "author": "benbreen",
-      "time": 1785308063,
-      "hn_url": "https://news.ycombinator.com/item?id=49094200",
-      "title_cn": "【AI】Britain's New World of Tobacco (2017)"
+      "author": "modinfo",
+      "time": 1786212255,
+      "hn_url": "https://news.ycombinator.com/item?id=49224241",
+      "title_cn": "【AI】Show HN: Algebruh - Cross-check arithmetic claims with Z3, cvc5, and Lean"
     },
     {
-      "title": "Captain Bible Reverse Engineering",
-      "url": "https://github.com/peterkelly/captain-bible-re",
-      "score": 13,
-      "comments": 3,
-      "author": "peterkelly",
-      "time": 1785692314,
-      "hn_url": "https://news.ycombinator.com/item?id=49146540",
-      "title_cn": "【AI】Captain Bible Reverse Engineering"
+      "title": "You can build an AI agent's memory layer with only Go's standard library",
+      "url": "https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b",
+      "score": 4,
+      "comments": 2,
+      "author": "cheikhdev",
+      "time": 1786229406,
+      "hn_url": "https://news.ycombinator.com/item?id=49226647",
+      "title_cn": "【AI, 库】You can build an AI agent's memory layer with only Go's standard library"
+    },
+    {
+      "title": "ACM Europe Summer School on MLIR 2026: Streamed Live, August 10-14",
+      "url": "https://mlir-school.github.io/summer-2026/program/",
+      "score": 4,
+      "comments": 0,
+      "author": "matt_d",
+      "time": 1786217194,
+      "hn_url": "https://news.ycombinator.com/item?id=49225026",
+      "title_cn": "ACM Europe Summer School on MLIR 2026: Streamed Live, August 10-14"
     }
   ]
 }
