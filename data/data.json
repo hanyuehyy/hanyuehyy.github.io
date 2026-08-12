@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-11T02:03:11.509295",
+  "updated_at": "2026-08-12T02:20:24.772470",
   "github_projects": [
     {
       "name": "anydoc",
       "full_name": "firecrawl/anydoc",
       "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "description_cn": "C开启vert 字, power点, exCel, opendoCument, rtf, epub, Csv, and pdf to Clean markdown. built in Rust, with 节点.js and Pyth开启 bindings.",
-      "stars": 13557,
-      "forks": 687,
+      "stars": 14509,
+      "forks": 765,
       "language": "Rust",
       "url": "https://github.com/firecrawl/anydoc",
       "topics": [],
@@ -18,28 +18,12 @@
       }
     },
     {
-      "name": "qm",
-      "full_name": "yc-software/qm",
-      "description": "Multiplayer agent harness for work",
-      "description_cn": "多p层 智能体 harness for work",
-      "stars": 12970,
-      "forks": 1503,
-      "language": "TypeScript",
-      "url": "https://github.com/yc-software/qm",
-      "topics": [],
-      "created_at": "2026-07-29T20:03:08Z",
-      "owner": {
-        "login": "yc-software",
-        "avatar_url": "https://avatars.githubusercontent.com/u/153323858?v=4"
-      }
-    },
-    {
       "name": "crm",
       "full_name": "trycompai/crm",
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "description_cn": "Comp AI Crm is an open sourCe, Crm designed for AI 智能体s. 智能体内联缓存-f中间表示st Crm.",
-      "stars": 8124,
-      "forks": 901,
+      "stars": 8235,
+      "forks": 938,
       "language": "TypeScript",
       "url": "https://github.com/trycompai/crm",
       "topics": [],
@@ -54,8 +38,8 @@
       "full_name": "bashalarmistalt/decimen-optical-transfer",
       "description": "No description",
       "description_cn": "",
-      "stars": 5723,
-      "forks": 697,
+      "stars": 5813,
+      "forks": 701,
       "language": "TypeScript",
       "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
       "topics": [],
@@ -66,12 +50,28 @@
       }
     },
     {
+      "name": "MiniMax-H3",
+      "full_name": "MiniMax-AI/MiniMax-H3",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 5230,
+      "forks": 321,
+      "language": "Python",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "topics": [],
+      "created_at": "2026-07-30T08:41:09Z",
+      "owner": {
+        "login": "MiniMax-AI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
+      }
+    },
+    {
       "name": "kimi-k3-in-c",
       "full_name": "FareedKhan-dev/kimi-k3-in-c",
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "description_cn": "a 2.78-trilli开启-parameter kimi k3 running 推理 开启 a single Cpu in 8.24 gb of ram. por表 C99: 否 blas, 否 框架, 否 gpu.",
-      "stars": 4675,
-      "forks": 740,
+      "stars": 4918,
+      "forks": 782,
       "language": "C",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
       "topics": [
@@ -88,28 +88,12 @@
       }
     },
     {
-      "name": "MiniMax-H3",
-      "full_name": "MiniMax-AI/MiniMax-H3",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 4361,
-      "forks": 273,
-      "language": "Python",
-      "url": "https://github.com/MiniMax-AI/MiniMax-H3",
-      "topics": [],
-      "created_at": "2026-07-30T08:41:09Z",
-      "owner": {
-        "login": "MiniMax-AI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
-      }
-    },
-    {
       "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
       "description_cn": "",
-      "stars": 3786,
-      "forks": 453,
+      "stars": 3841,
+      "forks": 454,
       "language": "Unknown",
       "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "topics": [],
@@ -120,34 +104,12 @@
       }
     },
     {
-      "name": "skill-recorder",
-      "full_name": "microsoft/skill-recorder",
-      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-      "description_cn": "desktop app that 记录s your 开启-sCreen work 会话 and uses the github Copilot 命令行工具 to reC开启结构体 it as an intent + ordered steps, then builds a reusable skill or automati开启 for m内联缓存rosoft sCout, m内联缓存rosoft Copilot Cowork, or Copilot studio.",
-      "stars": 2830,
-      "forks": 292,
-      "language": "TypeScript",
-      "url": "https://github.com/microsoft/skill-recorder",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "automation",
-        "copilot",
-        "copilot-cli"
-      ],
-      "created_at": "2026-07-29T18:16:14Z",
-      "owner": {
-        "login": "microsoft",
-        "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
-      }
-    },
-    {
       "name": "zhuzhiliao",
       "full_name": "imsai-sh/zhuzhiliao",
       "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
       "description_cn": "",
-      "stars": 2551,
-      "forks": 326,
+      "stars": 2630,
+      "forks": 337,
       "language": "HTML",
       "url": "https://github.com/imsai-sh/zhuzhiliao",
       "topics": [],
@@ -158,12 +120,28 @@
       }
     },
     {
+      "name": "gathered-scenes-zine-skill",
+      "full_name": "Zeejay0/gathered-scenes-zine-skill",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 2617,
+      "forks": 226,
+      "language": "Unknown",
+      "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+      "topics": [],
+      "created_at": "2026-08-01T15:50:05Z",
+      "owner": {
+        "login": "Zeejay0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/308046376?v=4"
+      }
+    },
+    {
       "name": "genoffice",
       "full_name": "genspark-ai/genoffice",
       "description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "description_cn": "免费, 开源 AI 关闭内联缓存e suite for maCos, windows & linux — 字 (.doCx), exCel (.xlsx), power点 (.pptx), pdf and markdown editing with built-in AI 智能体s.",
-      "stars": 2479,
-      "forks": 458,
+      "stars": 2571,
+      "forks": 479,
       "language": "TypeScript",
       "url": "https://github.com/genspark-ai/genoffice",
       "topics": [
@@ -178,158 +156,174 @@
         "login": "genspark-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/242390443?v=4"
       }
+    },
+    {
+      "name": "photo-abstract-editorial",
+      "full_name": "ZzzLc0405/photo-abstract-editorial",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 2548,
+      "forks": 133,
+      "language": "Unknown",
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "topics": [],
+      "created_at": "2026-08-04T09:35:31Z",
+      "owner": {
+        "login": "ZzzLc0405",
+        "avatar_url": "https://avatars.githubusercontent.com/u/207724921?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 1045,
-      "comments": 579,
-      "author": "riordan",
-      "time": 1786356602,
-      "hn_url": "https://news.ycombinator.com/item?id=49241679",
-      "title_cn": "【模型】Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows"
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "score": 870,
+      "comments": 872,
+      "author": "awnird",
+      "time": 1786401390,
+      "hn_url": "https://news.ycombinator.com/item?id=49250836",
+      "title_cn": "【AI】As AI eats the web, the internet’s collective memory is disappearing"
     },
     {
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "score": 627,
-      "comments": 349,
-      "author": "etoxin",
-      "time": 1786341758,
-      "hn_url": "https://news.ycombinator.com/item?id=49239751",
-      "title_cn": "【AI】Docker Sandboxes – Disposable, isolated sandboxes for AI agents"
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "score": 504,
+      "comments": 210,
+      "author": "quantumgarbage",
+      "time": 1786454520,
+      "hn_url": "https://news.ycombinator.com/item?id=49257876",
+      "title_cn": "【大语言模型, API】Stealing Reasoning Traces from Proprietary LLM APIs"
     },
     {
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "score": 370,
-      "comments": 387,
-      "author": "root-parent",
-      "time": 1786370782,
-      "hn_url": "https://news.ycombinator.com/item?id=49243880",
-      "title_cn": "【AI, 模型】Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models"
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "score": 421,
+      "comments": 391,
+      "author": "mfiguiere",
+      "time": 1786397816,
+      "hn_url": "https://news.ycombinator.com/item?id=49250109",
+      "title_cn": "【AI, Claude】How Claude marks AI-generated content"
     },
     {
-      "title": "Mistral Patent for “Code implemented tool calls”",
-      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-      "score": 208,
-      "comments": 177,
-      "author": "theanonymousone",
-      "time": 1786368552,
-      "hn_url": "https://news.ycombinator.com/item?id=49243397",
-      "title_cn": "【工具】Mistral Patent for “Code implemented tool calls”"
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "score": 292,
+      "comments": 348,
+      "author": "ilamont",
+      "time": 1786450987,
+      "hn_url": "https://news.ycombinator.com/item?id=49257160",
+      "title_cn": "【AI, OpenAI】OpenAI’s head of ethics leaves less than a year after joining"
     },
     {
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
-      "score": 178,
-      "comments": 78,
-      "author": "HenryNdubuaku",
-      "time": 1786382527,
-      "hn_url": "https://news.ycombinator.com/item?id=49246804",
-      "title_cn": "【大语言模型, 机器人】Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots"
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "score": 288,
+      "comments": 43,
+      "author": "frabonacci",
+      "time": 1786459833,
+      "hn_url": "https://news.ycombinator.com/item?id=49259339",
+      "title_cn": "【大语言模型, 推理】Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp"
     },
     {
-      "title": "Humanising LLM Outputs Is Dumb",
-      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-      "score": 156,
-      "comments": 91,
-      "author": "kuberwastaken",
-      "time": 1786368940,
-      "hn_url": "https://news.ycombinator.com/item?id=49243474",
-      "title_cn": "【大语言模型】Humanising LLM Outputs Is Dumb"
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "score": 281,
+      "comments": 324,
+      "author": "0xedb",
+      "time": 1786467429,
+      "hn_url": "https://news.ycombinator.com/item?id=49261133",
+      "title_cn": "【AI】Go is an ideal language for AI-assisted software engineering"
     },
     {
-      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
-      "score": 143,
-      "comments": 153,
-      "author": "kotaKat",
-      "time": 1786373792,
-      "hn_url": "https://news.ycombinator.com/item?id=49244569",
-      "title_cn": "【AI】Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints"
+      "title": "LFM2.5 2.6B model competitive with 4x larger models",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "score": 157,
+      "comments": 39,
+      "author": "nateb2022",
+      "time": 1785869245,
+      "hn_url": "https://news.ycombinator.com/item?id=49173107",
+      "title_cn": "【模型】LFM2.5 2.6B model competitive with 4x larger models"
     },
     {
-      "title": "Tail-call optimization in C is relatively recent (2025)",
-      "url": "https://lwn.net/Articles/1034703/",
-      "score": 125,
-      "comments": 123,
-      "author": "prakashqwerty",
-      "time": 1786361680,
-      "hn_url": "https://news.ycombinator.com/item?id=49242297",
-      "title_cn": "【AI】Tail-call optimization in C is relatively recent (2025)"
+      "title": "Grok Bot",
+      "url": "https://x.ai/bot",
+      "score": 152,
+      "comments": 138,
+      "author": "rvz",
+      "time": 1786468989,
+      "hn_url": "https://news.ycombinator.com/item?id=49261514",
+      "title_cn": "Grok Bot"
     },
     {
-      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-      "score": 105,
-      "comments": 14,
-      "author": "sshh12",
-      "time": 1786371641,
-      "hn_url": "https://news.ycombinator.com/item?id=49244085",
-      "title_cn": "【AI, GPT, Claude】Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines"
+      "title": "OpenSSH 10.5/10.5p1",
+      "url": "https://www.openssh.org/releasenotes.html#10.5",
+      "score": 103,
+      "comments": 32,
+      "author": "voxadam",
+      "time": 1786470577,
+      "hn_url": "https://news.ycombinator.com/item?id=49261895",
+      "title_cn": "OpenSSH 10.5/10.5p1"
     },
     {
-      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-      "score": 91,
-      "comments": 173,
-      "author": "hackerBanana",
-      "time": 1786372700,
-      "hn_url": "https://news.ycombinator.com/item?id=49244308",
-      "title_cn": "【AI】Letter to Governor Abbott on responsible AI infrastructure in Texas"
+      "title": "US hires over 2k video gamers as air traffic controllers",
+      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+      "score": 84,
+      "comments": 77,
+      "author": "shagie",
+      "time": 1786490777,
+      "hn_url": "https://news.ycombinator.com/item?id=49265879",
+      "title_cn": "【AI】US hires over 2k video gamers as air traffic controllers"
     },
     {
-      "title": "GPT 5.6 Cyber",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
-      "score": 71,
-      "comments": 30,
-      "author": "gizmodo59",
-      "time": 1786382040,
-      "hn_url": "https://news.ycombinator.com/item?id=49246704",
-      "title_cn": "【GPT】GPT 5.6 Cyber"
+      "title": "A new study of a bot running a store finds it is friendly but not very smart",
+      "url": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
+      "score": 54,
+      "comments": 59,
+      "author": "jjwiseman",
+      "time": 1785873112,
+      "hn_url": "https://news.ycombinator.com/item?id=49174088",
+      "title_cn": "A new study of a bot running a store finds it is friendly but not very smart"
     },
     {
-      "title": "Confessions of a Long-Distance Sailor",
-      "url": "https://arachnoid.com/lutusp/sailbook.html",
-      "score": 64,
-      "comments": 14,
-      "author": "AntiRush",
-      "time": 1786395175,
-      "hn_url": "https://news.ycombinator.com/item?id=49249555",
-      "title_cn": "【AI】Confessions of a Long-Distance Sailor"
+      "title": "Suzanne: AI tool for designing and manufacturing physical products",
+      "url": "https://www.suzanne3d.com/",
+      "score": 39,
+      "comments": 28,
+      "author": "Samanthajeanneb",
+      "time": 1786483706,
+      "hn_url": "https://news.ycombinator.com/item?id=49264755",
+      "title_cn": "【AI, 工具】Suzanne: AI tool for designing and manufacturing physical products"
     },
     {
-      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-      "url": "https://www.stoaexchange.com",
-      "score": 63,
-      "comments": 40,
-      "author": "erenberke",
-      "time": 1786379727,
-      "hn_url": "https://news.ycombinator.com/item?id=49246057",
-      "title_cn": "【AI, 推出】Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers"
+      "title": "Emergent Introspective Awareness in Large Language Models",
+      "url": "https://arxiv.org/abs/2601.01828",
+      "score": 33,
+      "comments": 10,
+      "author": "doener",
+      "time": 1786482850,
+      "hn_url": "https://news.ycombinator.com/item?id=49264583",
+      "title_cn": "【模型】Emergent Introspective Awareness in Large Language Models"
     },
     {
-      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
-      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "score": 47,
-      "comments": 11,
-      "author": "benbreen",
-      "time": 1785943343,
-      "hn_url": "https://news.ycombinator.com/item?id=49184220",
-      "title_cn": "【AI】The “mechanical miracle” that ruined Mark Twain’s life"
+      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
+      "url": "https://line9.ai/diagram",
+      "score": 30,
+      "comments": 6,
+      "author": "jumpalongjim",
+      "time": 1786024074,
+      "hn_url": "https://news.ycombinator.com/item?id=49196657",
+      "title_cn": "【AI】Show HN: Line9 – A Mermaid rendering engine with its own layout"
     },
     {
-      "title": "World Train Map – 1247 train routes around the world",
-      "url": "https://worldtrainmap.com/",
-      "score": 37,
-      "comments": 8,
-      "author": "Flightmussy",
-      "time": 1786401734,
-      "hn_url": "https://news.ycombinator.com/item?id=49250894",
-      "title_cn": "【AI】World Train Map – 1247 train routes around the world"
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "score": 6,
+      "comments": 3,
+      "author": "Gaishan",
+      "time": 1786497403,
+      "hn_url": "https://news.ycombinator.com/item?id=49266731",
+      "title_cn": "Gemini becomes Google's fastest-growing product ever as it hits 1B users"
     }
   ]
 }
