@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-12T02:20:24.772470",
+  "updated_at": "2026-08-13T02:22:01.940542",
   "github_projects": [
     {
       "name": "anydoc",
       "full_name": "firecrawl/anydoc",
       "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "description_cn": "C开启vert 字, power点, exCel, opendoCument, rtf, epub, Csv, and pdf to Clean markdown. built in Rust, with 节点.js and Pyth开启 bindings.",
-      "stars": 14509,
-      "forks": 765,
+      "stars": 15125,
+      "forks": 809,
       "language": "Rust",
       "url": "https://github.com/firecrawl/anydoc",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "trycompai/crm",
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "description_cn": "Comp AI Crm is an open sourCe, Crm designed for AI 智能体s. 智能体内联缓存-f中间表示st Crm.",
-      "stars": 8235,
-      "forks": 938,
+      "stars": 8326,
+      "forks": 962,
       "language": "TypeScript",
       "url": "https://github.com/trycompai/crm",
       "topics": [],
@@ -34,44 +34,12 @@
       }
     },
     {
-      "name": "decimen-optical-transfer",
-      "full_name": "bashalarmistalt/decimen-optical-transfer",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 5813,
-      "forks": 701,
-      "language": "TypeScript",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "topics": [],
-      "created_at": "2026-07-30T18:17:54Z",
-      "owner": {
-        "login": "bashalarmistalt",
-        "avatar_url": "https://avatars.githubusercontent.com/u/311128416?v=4"
-      }
-    },
-    {
-      "name": "MiniMax-H3",
-      "full_name": "MiniMax-AI/MiniMax-H3",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 5230,
-      "forks": 321,
-      "language": "Python",
-      "url": "https://github.com/MiniMax-AI/MiniMax-H3",
-      "topics": [],
-      "created_at": "2026-07-30T08:41:09Z",
-      "owner": {
-        "login": "MiniMax-AI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
-      }
-    },
-    {
       "name": "kimi-k3-in-c",
       "full_name": "FareedKhan-dev/kimi-k3-in-c",
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "description_cn": "a 2.78-trilli开启-parameter kimi k3 running 推理 开启 a single Cpu in 8.24 gb of ram. por表 C99: 否 blas, 否 框架, 否 gpu.",
-      "stars": 4918,
-      "forks": 782,
+      "stars": 5233,
+      "forks": 844,
       "language": "C",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
       "topics": [
@@ -88,44 +56,12 @@
       }
     },
     {
-      "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
-      "description_cn": "",
-      "stars": 3841,
-      "forks": 454,
-      "language": "Unknown",
-      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "topics": [],
-      "created_at": "2026-07-30T05:39:38Z",
-      "owner": {
-        "login": "xdash",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1618833?v=4"
-      }
-    },
-    {
-      "name": "zhuzhiliao",
-      "full_name": "imsai-sh/zhuzhiliao",
-      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-      "description_cn": "",
-      "stars": 2630,
-      "forks": 337,
-      "language": "HTML",
-      "url": "https://github.com/imsai-sh/zhuzhiliao",
-      "topics": [],
-      "created_at": "2026-08-01T17:20:54Z",
-      "owner": {
-        "login": "imsai-sh",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14907300?v=4"
-      }
-    },
-    {
       "name": "gathered-scenes-zine-skill",
       "full_name": "Zeejay0/gathered-scenes-zine-skill",
       "description": "No description",
       "description_cn": "",
-      "stars": 2617,
-      "forks": 226,
+      "stars": 3117,
+      "forks": 348,
       "language": "Unknown",
       "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
       "topics": [],
@@ -136,12 +72,28 @@
       }
     },
     {
+      "name": "photo-abstract-editorial",
+      "full_name": "ZzzLc0405/photo-abstract-editorial",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 3084,
+      "forks": 182,
+      "language": "Unknown",
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "topics": [],
+      "created_at": "2026-08-04T09:35:31Z",
+      "owner": {
+        "login": "ZzzLc0405",
+        "avatar_url": "https://avatars.githubusercontent.com/u/207724921?v=4"
+      }
+    },
+    {
       "name": "genoffice",
       "full_name": "genspark-ai/genoffice",
       "description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "description_cn": "免费, 开源 AI 关闭内联缓存e suite for maCos, windows & linux — 字 (.doCx), exCel (.xlsx), power点 (.pptx), pdf and markdown editing with built-in AI 智能体s.",
-      "stars": 2571,
-      "forks": 479,
+      "stars": 2727,
+      "forks": 501,
       "language": "TypeScript",
       "url": "https://github.com/genspark-ai/genoffice",
       "topics": [
@@ -158,172 +110,231 @@
       }
     },
     {
-      "name": "photo-abstract-editorial",
-      "full_name": "ZzzLc0405/photo-abstract-editorial",
-      "description": "No description",
+      "name": "zhuzhiliao",
+      "full_name": "imsai-sh/zhuzhiliao",
+      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
       "description_cn": "",
-      "stars": 2548,
-      "forks": 133,
-      "language": "Unknown",
-      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "stars": 2686,
+      "forks": 340,
+      "language": "HTML",
+      "url": "https://github.com/imsai-sh/zhuzhiliao",
       "topics": [],
-      "created_at": "2026-08-04T09:35:31Z",
+      "created_at": "2026-08-01T17:20:54Z",
       "owner": {
-        "login": "ZzzLc0405",
-        "avatar_url": "https://avatars.githubusercontent.com/u/207724921?v=4"
+        "login": "imsai-sh",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14907300?v=4"
+      }
+    },
+    {
+      "name": "human-writing",
+      "full_name": "KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "description_cn": "",
+      "stars": 2571,
+      "forks": 217,
+      "language": "Python",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "topics": [
+        "agent-skills",
+        "chinese-writing",
+        "creative-writing",
+        "writing-skill"
+      ],
+      "created_at": "2026-08-05T01:19:41Z",
+      "owner": {
+        "login": "KKKKhazix",
+        "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
+      }
+    },
+    {
+      "name": "watermarks-remover",
+      "full_name": "guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "description_cn": "strIP 多-vendor AI prove非数字Ce marks: un内联缓存ode 文本 hygiene, statist内联缓存al rewrite Hooks, and C2pa/meta数据 from png/jpeg/SVG/pdf/doCx/HTML/md",
+      "stars": 2539,
+      "forks": 247,
+      "language": "Python",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "c2pa",
+        "claude",
+        "provenance"
+      ],
+      "created_at": "2026-08-11T16:32:38Z",
+      "owner": {
+        "login": "guillaumemeyer",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1385518?v=4"
+      }
+    },
+    {
+      "name": "anatomy",
+      "full_name": "thebuggeddev/anatomy",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "description_cn": "an inter活跃 3D human anatomy explorer built using threejs with GPT 5.6 sol",
+      "stars": 2283,
+      "forks": 648,
+      "language": "TypeScript",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "topics": [],
+      "created_at": "2026-08-02T11:15:16Z",
+      "owner": {
+        "login": "thebuggeddev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/228721029?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "url": "https://thewalrus.ca/google-search-is-dying/",
-      "score": 870,
-      "comments": 872,
-      "author": "awnird",
-      "time": 1786401390,
-      "hn_url": "https://news.ycombinator.com/item?id=49250836",
-      "title_cn": "【AI】As AI eats the web, the internet’s collective memory is disappearing"
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "score": 814,
+      "comments": 147,
+      "author": "ropbear",
+      "time": 1786544550,
+      "hn_url": "https://news.ycombinator.com/item?id=49272832",
+      "title_cn": "【AI】Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug"
     },
     {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "score": 504,
-      "comments": 210,
-      "author": "quantumgarbage",
-      "time": 1786454520,
-      "hn_url": "https://news.ycombinator.com/item?id=49257876",
-      "title_cn": "【大语言模型, API】Stealing Reasoning Traces from Proprietary LLM APIs"
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "score": 765,
+      "comments": 289,
+      "author": "explosion-s",
+      "time": 1786550690,
+      "hn_url": "https://news.ycombinator.com/item?id=49274600",
+      "title_cn": "DeepSeek V4 Pro 0813"
     },
     {
-      "title": "How Claude marks AI-generated content",
-      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "score": 421,
-      "comments": 391,
-      "author": "mfiguiere",
-      "time": 1786397816,
-      "hn_url": "https://news.ycombinator.com/item?id=49250109",
-      "title_cn": "【AI, Claude】How Claude marks AI-generated content"
+      "title": "AI is removing the middle class of software engineering?",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "score": 735,
+      "comments": 666,
+      "author": "florianherrengt",
+      "time": 1786540805,
+      "hn_url": "https://news.ycombinator.com/item?id=49271994",
+      "title_cn": "【AI】AI is removing the middle class of software engineering?"
     },
     {
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "score": 292,
-      "comments": 348,
-      "author": "ilamont",
-      "time": 1786450987,
-      "hn_url": "https://news.ycombinator.com/item?id=49257160",
-      "title_cn": "【AI, OpenAI】OpenAI’s head of ethics leaves less than a year after joining"
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "score": 416,
+      "comments": 407,
+      "author": "iLuddite",
+      "time": 1786548770,
+      "hn_url": "https://news.ycombinator.com/item?id=49274027",
+      "title_cn": "Grok 4.6"
     },
     {
-      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "score": 288,
-      "comments": 43,
-      "author": "frabonacci",
-      "time": 1786459833,
-      "hn_url": "https://news.ycombinator.com/item?id=49259339",
-      "title_cn": "【大语言模型, 推理】Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp"
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "score": 315,
+      "comments": 444,
+      "author": "Markoff",
+      "time": 1786534107,
+      "hn_url": "https://news.ycombinator.com/item?id=49270726",
+      "title_cn": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook"
     },
     {
-      "title": "Go is an ideal language for AI-assisted software engineering",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "score": 281,
-      "comments": 324,
-      "author": "0xedb",
-      "time": 1786467429,
-      "hn_url": "https://news.ycombinator.com/item?id=49261133",
-      "title_cn": "【AI】Go is an ideal language for AI-assisted software engineering"
-    },
-    {
-      "title": "LFM2.5 2.6B model competitive with 4x larger models",
-      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "score": 157,
-      "comments": 39,
-      "author": "nateb2022",
-      "time": 1785869245,
-      "hn_url": "https://news.ycombinator.com/item?id=49173107",
-      "title_cn": "【模型】LFM2.5 2.6B model competitive with 4x larger models"
-    },
-    {
-      "title": "Grok Bot",
-      "url": "https://x.ai/bot",
-      "score": 152,
-      "comments": 138,
-      "author": "rvz",
-      "time": 1786468989,
-      "hn_url": "https://news.ycombinator.com/item?id=49261514",
-      "title_cn": "Grok Bot"
-    },
-    {
-      "title": "OpenSSH 10.5/10.5p1",
-      "url": "https://www.openssh.org/releasenotes.html#10.5",
-      "score": 103,
-      "comments": 32,
-      "author": "voxadam",
-      "time": 1786470577,
-      "hn_url": "https://news.ycombinator.com/item?id=49261895",
-      "title_cn": "OpenSSH 10.5/10.5p1"
-    },
-    {
-      "title": "US hires over 2k video gamers as air traffic controllers",
-      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-      "score": 84,
-      "comments": 77,
-      "author": "shagie",
-      "time": 1786490777,
-      "hn_url": "https://news.ycombinator.com/item?id=49265879",
-      "title_cn": "【AI】US hires over 2k video gamers as air traffic controllers"
-    },
-    {
-      "title": "A new study of a bot running a store finds it is friendly but not very smart",
-      "url": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
-      "score": 54,
-      "comments": 59,
-      "author": "jjwiseman",
-      "time": 1785873112,
-      "hn_url": "https://news.ycombinator.com/item?id=49174088",
-      "title_cn": "A new study of a bot running a store finds it is friendly but not very smart"
-    },
-    {
-      "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "url": "https://www.suzanne3d.com/",
-      "score": 39,
-      "comments": 28,
-      "author": "Samanthajeanneb",
-      "time": 1786483706,
-      "hn_url": "https://news.ycombinator.com/item?id=49264755",
-      "title_cn": "【AI, 工具】Suzanne: AI tool for designing and manufacturing physical products"
-    },
-    {
-      "title": "Emergent Introspective Awareness in Large Language Models",
-      "url": "https://arxiv.org/abs/2601.01828",
-      "score": 33,
-      "comments": 10,
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "score": 240,
+      "comments": 29,
       "author": "doener",
-      "time": 1786482850,
-      "hn_url": "https://news.ycombinator.com/item?id=49264583",
-      "title_cn": "【模型】Emergent Introspective Awareness in Large Language Models"
+      "time": 1786543751,
+      "hn_url": "https://news.ycombinator.com/item?id=49272655",
+      "title_cn": "Tim King, AmigaDOS developer, has died"
     },
     {
-      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
-      "url": "https://line9.ai/diagram",
-      "score": 30,
-      "comments": 6,
-      "author": "jumpalongjim",
-      "time": 1786024074,
-      "hn_url": "https://news.ycombinator.com/item?id=49196657",
-      "title_cn": "【AI】Show HN: Line9 – A Mermaid rendering engine with its own layout"
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "score": 236,
+      "comments": 174,
+      "author": "gavinhking",
+      "time": 1786543366,
+      "hn_url": "https://news.ycombinator.com/item?id=49272569",
+      "title_cn": "【AI, Claude】Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot"
     },
     {
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "score": 6,
-      "comments": 3,
-      "author": "Gaishan",
-      "time": 1786497403,
-      "hn_url": "https://news.ycombinator.com/item?id=49266731",
-      "title_cn": "Gemini becomes Google's fastest-growing product ever as it hits 1B users"
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "score": 151,
+      "comments": 111,
+      "author": "redbell",
+      "time": 1786553485,
+      "hn_url": "https://news.ycombinator.com/item?id=49275335",
+      "title_cn": "HTML over WebSockets: real-time SPAs with barely any JavaScript"
+    },
+    {
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "score": 116,
+      "comments": 22,
+      "author": "advaith08",
+      "time": 1786521080,
+      "hn_url": "https://news.ycombinator.com/item?id=49269090",
+      "title_cn": "【AI, 推出】Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials"
+    },
+    {
+      "title": "Lovable raises $400M Series C",
+      "url": "https://lovable.dev/blog/series-c",
+      "score": 97,
+      "comments": 95,
+      "author": "thoughtpeddler",
+      "time": 1786551634,
+      "hn_url": "https://news.ycombinator.com/item?id=49274858",
+      "title_cn": "【AI】Lovable raises $400M Series C"
+    },
+    {
+      "title": "Principia Mathematica is modern and insightful",
+      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "score": 51,
+      "comments": 17,
+      "author": "matt_d",
+      "time": 1786577181,
+      "hn_url": "https://news.ycombinator.com/item?id=49279928",
+      "title_cn": "Principia Mathematica is modern and insightful"
+    },
+    {
+      "title": "Why Target Common Lisp for Code Generation?",
+      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+      "score": 40,
+      "comments": 29,
+      "author": "oumua_don17",
+      "time": 1786524053,
+      "hn_url": "https://news.ycombinator.com/item?id=49269429",
+      "title_cn": "Why Target Common Lisp for Code Generation?"
+    },
+    {
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "score": 33,
+      "comments": 9,
+      "author": "tart-lemonade",
+      "time": 1786578633,
+      "hn_url": "https://news.ycombinator.com/item?id=49280103",
+      "title_cn": "【模型】Happy 45th Birthday to the IBM PC and Model F/XT"
+    },
+    {
+      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+      "url": "https://www.ballet.dev/",
+      "score": 17,
+      "comments": 2,
+      "author": "danielkimber",
+      "time": 1786579303,
+      "hn_url": "https://news.ycombinator.com/item?id=49280184",
+      "title_cn": "【AI, API】Show HN: Ballet – Workflow automation that writes integrations against any API"
+    },
+    {
+      "title": "Waits: Arthur Samuel's Checkers",
+      "url": "https://timereshared.com/waits-samuel-checkers/",
+      "score": 5,
+      "comments": 0,
+      "author": "abrax3141",
+      "time": 1786240794,
+      "hn_url": "https://news.ycombinator.com/item?id=49227709",
+      "title_cn": "【AI】Waits: Arthur Samuel's Checkers"
     }
   ]
 }
