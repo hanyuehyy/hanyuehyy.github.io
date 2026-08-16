@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-15T01:27:50.877000",
+  "updated_at": "2026-08-16T01:39:31.956962",
   "github_projects": [
     {
       "name": "deepseek-harness",
       "full_name": "deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "description_cn": "deepseek harness: everything is a 插件.",
-      "stars": 96351,
-      "forks": 8957,
+      "stars": 115960,
+      "forks": 11329,
       "language": "TypeScript",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "topics": [
@@ -27,8 +27,8 @@
       "full_name": "firecrawl/anydoc",
       "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "description_cn": "C开启vert 字, power点, exCel, opendoCument, rtf, epub, Csv, and pdf to Clean markdown. built in Rust, with 节点.js and Pyth开启 bindings.",
-      "stars": 16095,
-      "forks": 885,
+      "stars": 16278,
+      "forks": 905,
       "language": "Rust",
       "url": "https://github.com/firecrawl/anydoc",
       "topics": [],
@@ -43,8 +43,8 @@
       "full_name": "guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "description_cn": "strIP 多-vendor AI prove非数字Ce marks: un内联缓存ode 文本 hygiene, statist内联缓存al rewrite Hooks, and C2pa/meta数据 from png/jpeg/SVG/pdf/doCx/HTML/md",
-      "stars": 8223,
-      "forks": 854,
+      "stars": 9772,
+      "forks": 1009,
       "language": "Python",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "topics": [
@@ -61,87 +61,12 @@
       }
     },
     {
-      "name": "photo-abstract-editorial",
-      "full_name": "ZzzLc0405/photo-abstract-editorial",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 3715,
-      "forks": 252,
-      "language": "Unknown",
-      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
-      "topics": [],
-      "created_at": "2026-08-04T09:35:31Z",
-      "owner": {
-        "login": "ZzzLc0405",
-        "avatar_url": "https://avatars.githubusercontent.com/u/207724921?v=4"
-      }
-    },
-    {
-      "name": "flyingmouse-format",
-      "full_name": "LaoFeng-mouse/flyingmouse-format",
-      "description": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
-      "description_cn": "飞鼠格式 flyingmouse format - windows 万能文件格式转换工具（离线可用，内置 ffmpeg/li分支e关闭内联缓存e/poppler/tesseraCt）。图片/文档/表格/ppt/pdf/音视频/wps 格式互转 + oCr + 批量转换",
-      "stars": 2974,
-      "forks": 254,
-      "language": "JavaScript",
-      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
-      "topics": [
-        "desktop-app",
-        "electron",
-        "ffmpeg",
-        "file-converter",
-        "format-converter"
-      ],
-      "created_at": "2026-08-06T03:59:32Z",
-      "owner": {
-        "login": "LaoFeng-mouse",
-        "avatar_url": "https://avatars.githubusercontent.com/u/273417284?v=4"
-      }
-    },
-    {
-      "name": "human-writing",
-      "full_name": "KKKKhazix/human-writing",
-      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "description_cn": "",
-      "stars": 2708,
-      "forks": 223,
-      "language": "Python",
-      "url": "https://github.com/KKKKhazix/human-writing",
-      "topics": [
-        "agent-skills",
-        "chinese-writing",
-        "creative-writing",
-        "writing-skill"
-      ],
-      "created_at": "2026-08-05T01:19:41Z",
-      "owner": {
-        "login": "KKKKhazix",
-        "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
-      }
-    },
-    {
-      "name": "anatomy",
-      "full_name": "thebuggeddev/anatomy",
-      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "description_cn": "an inter活跃 3D human anatomy explorer built using threejs with GPT 5.6 sol",
-      "stars": 2409,
-      "forks": 695,
-      "language": "TypeScript",
-      "url": "https://github.com/thebuggeddev/anatomy",
-      "topics": [],
-      "created_at": "2026-08-02T11:15:16Z",
-      "owner": {
-        "login": "thebuggeddev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/228721029?v=4"
-      }
-    },
-    {
       "name": "deepseek-harness-desktop",
       "full_name": "anywhere-labs/deepseek-harness-desktop",
       "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
       "description_cn": "",
-      "stars": 2012,
-      "forks": 106,
+      "stars": 5990,
+      "forks": 254,
       "language": "TypeScript",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "topics": [
@@ -158,19 +83,84 @@
       }
     },
     {
-      "name": "arc-task-gen",
-      "full_name": "pathwaycom/arc-task-gen",
-      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
-      "description_cn": "generates original arC-agi-1-style 任务s 分布-matChed to the 公开 eval 集合.",
-      "stars": 1989,
-      "forks": 15,
-      "language": "Python",
-      "url": "https://github.com/pathwaycom/arc-task-gen",
+      "name": "photo-abstract-editorial",
+      "full_name": "ZzzLc0405/photo-abstract-editorial",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 3831,
+      "forks": 257,
+      "language": "Unknown",
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
       "topics": [],
-      "created_at": "2026-08-04T12:59:02Z",
+      "created_at": "2026-08-04T09:35:31Z",
       "owner": {
-        "login": "pathwaycom",
-        "avatar_url": "https://avatars.githubusercontent.com/u/25750857?v=4"
+        "login": "ZzzLc0405",
+        "avatar_url": "https://avatars.githubusercontent.com/u/207724921?v=4"
+      }
+    },
+    {
+      "name": "flyingmouse-format",
+      "full_name": "LaoFeng-mouse/flyingmouse-format",
+      "description": "飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳",
+      "description_cn": "",
+      "stars": 3213,
+      "forks": 282,
+      "language": "JavaScript",
+      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
+      "topics": [
+        "desktop-app",
+        "electron",
+        "ffmpeg",
+        "file-converter",
+        "format-converter"
+      ],
+      "created_at": "2026-08-06T03:59:32Z",
+      "owner": {
+        "login": "LaoFeng-mouse",
+        "avatar_url": "https://avatars.githubusercontent.com/u/273417284?v=4"
+      }
+    },
+    {
+      "name": "awesome-dsh-plugin",
+      "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "description_cn": "a Curated 列表 of 插件s for deepseek harness (dsh) · deepseek harness 插件精选列表",
+      "stars": 3035,
+      "forks": 613,
+      "language": "Python",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "created_at": "2026-08-13T13:55:31Z",
+      "owner": {
+        "login": "awesome-dsh-plugin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/316603077?v=4"
+      }
+    },
+    {
+      "name": "human-writing",
+      "full_name": "KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "description_cn": "",
+      "stars": 2742,
+      "forks": 226,
+      "language": "Python",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "topics": [
+        "agent-skills",
+        "chinese-writing",
+        "creative-writing",
+        "writing-skill"
+      ],
+      "created_at": "2026-08-05T01:19:41Z",
+      "owner": {
+        "login": "KKKKhazix",
+        "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
       }
     },
     {
@@ -178,8 +168,8 @@
       "full_name": "zhu1090093659/dsh-web-ui",
       "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "description_cn": "插件 and skin ColleCti开启 for deepseek harness (dsh) 网页 ui - 任务 board, git 图, right-side panel, remote 移动应用 ui, pet, live 令牌 stats, and skin Center.",
-      "stars": 1966,
-      "forks": 98,
+      "stars": 2740,
+      "forks": 154,
       "language": "TypeScript",
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "topics": [
@@ -193,158 +183,174 @@
         "login": "zhu1090093659",
         "avatar_url": "https://avatars.githubusercontent.com/u/46916148?v=4"
       }
+    },
+    {
+      "name": "arc-task-gen",
+      "full_name": "pathwaycom/arc-task-gen",
+      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+      "description_cn": "generates original arC-agi-1-style 任务s 分布-matChed to the 公开 eval 集合.",
+      "stars": 2446,
+      "forks": 17,
+      "language": "Python",
+      "url": "https://github.com/pathwaycom/arc-task-gen",
+      "topics": [],
+      "created_at": "2026-08-04T12:59:02Z",
+      "owner": {
+        "login": "pathwaycom",
+        "avatar_url": "https://avatars.githubusercontent.com/u/25750857?v=4"
+      }
     }
   ],
   "ai_news": [
     {
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "score": 1028,
-      "comments": 514,
+      "score": 1140,
+      "comments": 560,
       "author": "pella",
       "time": 1786684799,
       "hn_url": "https://news.ycombinator.com/item?id=49294997",
       "title_cn": "GLM-5.3: Frontier coding with emergent cyber capabilities"
     },
     {
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "score": 388,
-      "comments": 154,
-      "author": "DemiGuru",
-      "time": 1786734200,
-      "hn_url": "https://news.ycombinator.com/item?id=49303202",
-      "title_cn": "Firefox is now the last major browser that still supports uBlock Origin"
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "score": 410,
+      "comments": 367,
+      "author": "rzk",
+      "time": 1786817582,
+      "hn_url": "https://news.ycombinator.com/item?id=49312845",
+      "title_cn": "【AI】AI has access to a vastly larger working memory than the human brain"
     },
     {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "score": 276,
-      "comments": 166,
-      "author": "u1hcw9nx",
-      "time": 1786722190,
-      "hn_url": "https://news.ycombinator.com/item?id=49300314",
-      "title_cn": "【AI】Google is making private AI practical with homomorphic encryption"
+      "title": "Working with AI feels more like leadership than coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "score": 266,
+      "comments": 171,
+      "author": "allenb",
+      "time": 1786790381,
+      "hn_url": "https://news.ycombinator.com/item?id=49309451",
+      "title_cn": "【AI】Working with AI feels more like leadership than coding"
     },
     {
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "score": 200,
-      "comments": 16,
-      "author": "sans_souse",
-      "time": 1786723139,
-      "hn_url": "https://news.ycombinator.com/item?id=49300568",
-      "title_cn": "【AI】AI by Hand"
+      "title": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "score": 166,
+      "comments": 57,
+      "author": "sensanaty",
+      "time": 1786804444,
+      "hn_url": "https://news.ycombinator.com/item?id=49310926",
+      "title_cn": "A spectre is haunting Unicode"
     },
     {
-      "title": "Maximizing the value of your Claude Code sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "score": 130,
-      "comments": 90,
-      "author": "twapi",
-      "time": 1786724121,
-      "hn_url": "https://news.ycombinator.com/item?id=49300800",
-      "title_cn": "【Claude】Maximizing the value of your Claude Code sessions"
+      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "score": 156,
+      "comments": 75,
+      "author": "jeffreyrogers",
+      "time": 1786811914,
+      "hn_url": "https://news.ycombinator.com/item?id=49312008",
+      "title_cn": "【AI】A controversial Alzheimer's surgery is said to reverse symptoms"
     },
     {
-      "title": "A humble cabbage became one of the Forbidden City’s treasures (2025)",
-      "url": "https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl",
-      "score": 55,
-      "comments": 8,
-      "author": "dude250711",
-      "time": 1786522335,
-      "hn_url": "https://news.ycombinator.com/item?id=49269240",
-      "title_cn": "A humble cabbage became one of the Forbidden City’s treasures (2025)"
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "score": 112,
+      "comments": 52,
+      "author": "chatchan",
+      "time": 1786768927,
+      "hn_url": "https://news.ycombinator.com/item?id=49307700",
+      "title_cn": "【大语言模型】Show HN: ThoughtDAG – An editable context graph for LLM conversations"
     },
     {
-      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-      "score": 52,
-      "comments": 8,
-      "author": "bj-rn",
-      "time": 1786717359,
-      "hn_url": "https://news.ycombinator.com/item?id=49299102",
-      "title_cn": "【AI, 模型】AI Model Atlas – visualizing populations of ML models as interconnected 3D graph"
+      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+      "url": "https://uecker.codeberg.page/2026-07-14.html",
+      "score": 87,
+      "comments": 45,
+      "author": "uecker",
+      "time": 1786780782,
+      "hn_url": "https://news.ycombinator.com/item?id=49308685",
+      "title_cn": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II"
     },
     {
-      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-      "url": "https://hashagent.pages.dev/",
-      "score": 46,
-      "comments": 5,
-      "author": "masonhsu",
-      "time": 1786712222,
-      "hn_url": "https://news.ycombinator.com/item?id=49298088",
-      "title_cn": "【AI】HashAgent – Share an AI agent as a URL, runs locally via WebGPU"
+      "title": "The Color of White Light",
+      "url": "https://ludens.cl/photo/spectra/spectra.html",
+      "score": 87,
+      "comments": 46,
+      "author": "xk3",
+      "time": 1786465133,
+      "hn_url": "https://news.ycombinator.com/item?id=49260582",
+      "title_cn": "The Color of White Light"
     },
     {
-      "title": "Moving integer division to floating-point is trivial",
-      "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
-      "score": 38,
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "score": 86,
+      "comments": 43,
+      "author": "AnodicElegy",
+      "time": 1786821173,
+      "hn_url": "https://news.ycombinator.com/item?id=49313367",
+      "title_cn": "【AI】AI in drug discovery – what it is, where we stand and the path forward"
+    },
+    {
+      "title": "I Remain a Skeptic",
+      "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+      "score": 64,
+      "comments": 39,
+      "author": "lproven",
+      "time": 1786812178,
+      "hn_url": "https://news.ycombinator.com/item?id=49312053",
+      "title_cn": "【AI】I Remain a Skeptic"
+    },
+    {
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "score": 56,
+      "comments": 27,
+      "author": "scresswell",
+      "time": 1786801426,
+      "hn_url": "https://news.ycombinator.com/item?id=49310495",
+      "title_cn": "【AI】Yadda 3.0.0: BDD in the Age of AI Agents"
+    },
+    {
+      "title": "T3X/0 a Minimal Procedural Language",
+      "url": "https://t3x.org/t3x/0/index.html",
+      "score": 37,
+      "comments": 0,
+      "author": "AlexeyBrin",
+      "time": 1786795584,
+      "hn_url": "https://news.ycombinator.com/item?id=49309923",
+      "title_cn": "T3X/0 a Minimal Procedural Language"
+    },
+    {
+      "title": "A fortuitous decade as an indie software developer",
+      "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
+      "score": 25,
+      "comments": 2,
+      "author": "frizlab",
+      "time": 1786375225,
+      "hn_url": "https://news.ycombinator.com/item?id=49244872",
+      "title_cn": "A fortuitous decade as an indie software developer"
+    },
+    {
+      "title": "Jaithon 3, a fast programming language with the perfect syntax",
+      "url": "https://github.com/abhiramasonny/jaithon",
+      "score": 21,
       "comments": 14,
-      "author": "matt_d",
-      "time": 1786427336,
-      "hn_url": "https://news.ycombinator.com/item?id=49253831",
-      "title_cn": "Moving integer division to floating-point is trivial"
+      "author": "AbhiramaVS",
+      "time": 1786490037,
+      "hn_url": "https://news.ycombinator.com/item?id=49265761",
+      "title_cn": "【AI】Jaithon 3, a fast programming language with the perfect syntax"
     },
     {
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "url": "https://arxiv.org/abs/2608.12700",
-      "score": 33,
-      "comments": 0,
-      "author": "Jimmc414",
-      "time": 1786726634,
-      "hn_url": "https://news.ycombinator.com/item?id=49301417",
-      "title_cn": "【大语言模型】A Contract-Grade Verifier for LLM-Generated GPU Kernels"
-    },
-    {
-      "title": "Open WireGuard Endpoints",
-      "url": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
-      "score": 27,
-      "comments": 5,
-      "author": "mlhpdx",
-      "time": 1786734346,
-      "hn_url": "https://news.ycombinator.com/item?id=49303237",
-      "title_cn": "Open WireGuard Endpoints"
-    },
-    {
-      "title": "Racket v9.3",
-      "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
-      "score": 22,
-      "comments": 0,
-      "author": "privong",
-      "time": 1786731288,
-      "hn_url": "https://news.ycombinator.com/item?id=49302562",
-      "title_cn": "Racket v9.3"
-    },
-    {
-      "title": "Being Against LLMs Is Against the Spirit of Floss",
-      "url": "https://joarvarndt.se/free-vibes-2",
-      "score": 13,
-      "comments": 10,
-      "author": "joarxpablo",
-      "time": 1786733532,
-      "hn_url": "https://news.ycombinator.com/item?id=49303035",
-      "title_cn": "【AI, 大语言模型】Being Against LLMs Is Against the Spirit of Floss"
-    },
-    {
-      "title": "Ant teams beat gravity-based puzzle solvers",
-      "url": "https://phys.org/news/2026-08-ant-teams-gravity-based-puzzle.html",
-      "score": 6,
+      "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+      "url": "https://xescu.re/keeta-consensus.pdf",
+      "score": 11,
       "comments": 1,
-      "author": "wjSgoWPm5bWAhXB",
-      "time": 1786356999,
-      "hn_url": "https://news.ycombinator.com/item?id=49241735",
-      "title_cn": "Ant teams beat gravity-based puzzle solvers"
-    },
-    {
-      "title": "Flownie – Open and Visual Data Workflow Platform with AI Agent Assistance",
-      "url": "https://flownie.com/",
-      "score": 3,
-      "comments": 0,
-      "author": "savhascelik",
-      "time": 1786750689,
-      "hn_url": "https://news.ycombinator.com/item?id=49305904",
-      "title_cn": "【AI】Flownie – Open and Visual Data Workflow Platform with AI Agent Assistance"
+      "author": "xescure",
+      "time": 1786830585,
+      "hn_url": "https://news.ycombinator.com/item?id=49314642",
+      "title_cn": "【模型】Modeling and Verification of Keeta's Consensus [pdf]"
     }
   ]
 }
