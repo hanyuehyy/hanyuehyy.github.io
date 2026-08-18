@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-17T01:37:11.187490",
+  "updated_at": "2026-08-18T01:27:04.760837",
   "github_projects": [
     {
       "name": "deepseek-harness",
       "full_name": "deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "description_cn": "deepseek harness: everything is a 插件.",
-      "stars": 133172,
-      "forks": 13375,
+      "stars": 150543,
+      "forks": 15456,
       "language": "TypeScript",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "topics": [
@@ -27,8 +27,8 @@
       "full_name": "guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "description_cn": "strIP 多-vendor AI prove非数字Ce marks: un内联缓存ode 文本 hygiene, statist内联缓存al rewrite Hooks, and C2pa/meta数据 from png/jpeg/SVG/pdf/doCx/HTML/md",
-      "stars": 11625,
-      "forks": 1230,
+      "stars": 13516,
+      "forks": 1480,
       "language": "Python",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "topics": [
@@ -47,18 +47,18 @@
     {
       "name": "deepseek-harness-desktop",
       "full_name": "anywhere-labs/deepseek-harness-desktop",
-      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "description_cn": "",
-      "stars": 9164,
-      "forks": 385,
+      "stars": 11768,
+      "forks": 536,
       "language": "TypeScript",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "topics": [
+        "cordis",
+        "cordis-plugin",
         "deepseek",
         "deepseek-harness",
-        "desktop",
-        "dsh",
-        "dsh-plugin"
+        "desktop"
       ],
       "created_at": "2026-08-13T16:30:50Z",
       "owner": {
@@ -71,8 +71,8 @@
       "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "description_cn": "a Curated 列表 of 插件s for deepseek harness (dsh) · deepseek harness 插件精选列表",
-      "stars": 5330,
-      "forks": 884,
+      "stars": 7622,
+      "forks": 1092,
       "language": "Python",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "topics": [
@@ -89,19 +89,19 @@
       }
     },
     {
-      "name": "photo-abstract-editorial",
-      "full_name": "ZzzLc0405/photo-abstract-editorial",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 3922,
-      "forks": 261,
-      "language": "Unknown",
-      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "name": "dsh-routing-suite",
+      "full_name": "yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "description_cn": "dsh-路由-suite — injeCtor + router-standard kit: install the 运行时 injeCtor f中间表示st, then the 任务-aware reas开启ing-众数 router pre集合 (measured p1-p23).",
+      "stars": 5390,
+      "forks": 91,
+      "language": "PowerShell",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
       "topics": [],
-      "created_at": "2026-08-04T09:35:31Z",
+      "created_at": "2026-08-14T21:20:55Z",
       "owner": {
-        "login": "ZzzLc0405",
-        "avatar_url": "https://avatars.githubusercontent.com/u/207724921?v=4"
+        "login": "yjh051108",
+        "avatar_url": "https://avatars.githubusercontent.com/u/195255374?v=4"
       }
     },
     {
@@ -109,8 +109,8 @@
       "full_name": "zhu1090093659/dsh-web-ui",
       "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "description_cn": "插件 and skin ColleCti开启 for deepseek harness (dsh) 网页 ui - 任务 board, git 图, right-side panel, remote 移动应用 ui, pet, live 令牌 stats, and skin Center.",
-      "stars": 3477,
-      "forks": 204,
+      "stars": 4122,
+      "forks": 252,
       "language": "TypeScript",
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "topics": [
@@ -130,8 +130,8 @@
       "full_name": "LaoFeng-mouse/flyingmouse-format",
       "description": "飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳",
       "description_cn": "",
-      "stars": 3432,
-      "forks": 303,
+      "stars": 3603,
+      "forks": 314,
       "language": "JavaScript",
       "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
       "topics": [
@@ -148,28 +148,12 @@
       }
     },
     {
-      "name": "arc-task-gen",
-      "full_name": "pathwaycom/arc-task-gen",
-      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
-      "description_cn": "generates original arC-agi-1-style 任务s 分布-matChed to the 公开 eval 集合.",
-      "stars": 3185,
-      "forks": 17,
-      "language": "Python",
-      "url": "https://github.com/pathwaycom/arc-task-gen",
-      "topics": [],
-      "created_at": "2026-08-04T12:59:02Z",
-      "owner": {
-        "login": "pathwaycom",
-        "avatar_url": "https://avatars.githubusercontent.com/u/25750857?v=4"
-      }
-    },
-    {
       "name": "dsh-anchored-standard",
       "full_name": "xiaobright/dsh-anchored-standard",
       "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "description_cn": "two-phase deepseek harness pre集合: 极简-aligned Bootstrap, then full standard 工具s (项目2 98/99)",
-      "stars": 3067,
-      "forks": 97,
+      "stars": 3427,
+      "forks": 103,
       "language": "JavaScript",
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "topics": [
@@ -185,172 +169,198 @@
       }
     },
     {
-      "name": "dsh-routing-suite",
-      "full_name": "yjh051108/dsh-routing-suite",
-      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-      "description_cn": "dsh-路由-suite — injeCtor + router-standard kit: install the 运行时 injeCtor f中间表示st, then the 任务-aware reas开启ing-众数 router pre集合 (measured p1-p23).",
-      "stars": 2879,
-      "forks": 70,
-      "language": "PowerShell",
-      "url": "https://github.com/yjh051108/dsh-routing-suite",
-      "topics": [],
-      "created_at": "2026-08-14T21:20:55Z",
+      "name": "human-writing",
+      "full_name": "KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "description_cn": "",
+      "stars": 2817,
+      "forks": 233,
+      "language": "Python",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "topics": [
+        "agent-skills",
+        "chinese-writing",
+        "creative-writing",
+        "writing-skill"
+      ],
+      "created_at": "2026-08-05T01:19:41Z",
       "owner": {
-        "login": "yjh051108",
-        "avatar_url": "https://avatars.githubusercontent.com/u/195255374?v=4"
+        "login": "KKKKhazix",
+        "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
+      }
+    },
+    {
+      "name": "anti-slop",
+      "full_name": "dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "description_cn": "opini开启ated oxlint rules for rejeCting low-evidenCe TypeSCrIPt and JavaSCrIPt patterns",
+      "stars": 2378,
+      "forks": 40,
+      "language": "TypeScript",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "topics": [
+        "agent-skills",
+        "linting",
+        "oxlint",
+        "typescript"
+      ],
+      "created_at": "2026-08-12T13:48:50Z",
+      "owner": {
+        "login": "dmmulroy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2755722?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 539,
-      "comments": 225,
-      "author": "tosh",
-      "time": 1786884501,
-      "hn_url": "https://news.ycombinator.com/item?id=49319556",
-      "title_cn": "【Claude】Claude: System Prompts"
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "score": 575,
+      "comments": 362,
+      "author": "mooreds",
+      "time": 1786996035,
+      "hn_url": "https://news.ycombinator.com/item?id=49336573",
+      "title_cn": "【AI】AI;DR (AI; Didn't Read)"
     },
     {
-      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-      "score": 358,
-      "comments": 130,
-      "author": "Alifatisk",
-      "time": 1786882940,
-      "hn_url": "https://news.ycombinator.com/item?id=49319389",
-      "title_cn": "【AI】Research papers using \"kidney disappointment\" instead of \"kidney failure\""
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "score": 314,
+      "comments": 125,
+      "author": "galnagli",
+      "time": 1786976318,
+      "hn_url": "https://news.ycombinator.com/item?id=49331423",
+      "title_cn": "【AI】AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira"
     },
     {
-      "title": "Models Are Getting Dumber on Purpose",
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "score": 266,
-      "comments": 148,
-      "author": "hruvhwe",
-      "time": 1786907066,
-      "hn_url": "https://news.ycombinator.com/item?id=49322695",
-      "title_cn": "【模型】Models Are Getting Dumber on Purpose"
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "score": 305,
+      "comments": 134,
+      "author": "anana_",
+      "time": 1786987517,
+      "hn_url": "https://news.ycombinator.com/item?id=49334544",
+      "title_cn": "Qwen3.8 27B scores 52 on Artificial Analysis"
     },
     {
-      "title": "The AI Credit Resale Economy",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "score": 225,
-      "comments": 88,
-      "author": "mlenhard",
-      "time": 1786891495,
-      "hn_url": "https://news.ycombinator.com/item?id=49320611",
-      "title_cn": "【AI】The AI Credit Resale Economy"
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "score": 300,
+      "comments": 152,
+      "author": "plurby",
+      "time": 1786968582,
+      "hn_url": "https://news.ycombinator.com/item?id=49329575",
+      "title_cn": "【AI, GPT, OpenAI】GPT 5.6 Sol is the best \"vision\" model OpenAI ever released"
     },
     {
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "score": 192,
-      "comments": 141,
-      "author": "zacharyozer",
-      "time": 1786912276,
-      "hn_url": "https://news.ycombinator.com/item?id=49323381",
-      "title_cn": "【AI】Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter"
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "score": 252,
+      "comments": 155,
+      "author": "ColinWright",
+      "time": 1786975676,
+      "hn_url": "https://news.ycombinator.com/item?id=49331220",
+      "title_cn": "【AI】How to disable or avoid intrusive AI"
     },
     {
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-      "score": 158,
-      "comments": 121,
-      "author": "toomuchtodo",
-      "time": 1786893366,
-      "hn_url": "https://news.ycombinator.com/item?id=49320856",
-      "title_cn": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core"
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "score": 136,
+      "comments": 60,
+      "author": "shdon",
+      "time": 1787004374,
+      "hn_url": "https://news.ycombinator.com/item?id=49338328",
+      "title_cn": "Quake Shareware, a CD-ROM just a little too full"
     },
     {
-      "title": "Chestnut – eGPU dock with open-source firmware",
-      "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
-      "score": 134,
-      "comments": 39,
-      "author": "txrx0000",
-      "time": 1786658464,
-      "hn_url": "https://news.ycombinator.com/item?id=49292385",
-      "title_cn": "Chestnut – eGPU dock with open-source firmware"
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "score": 98,
+      "comments": 38,
+      "author": "Topfi",
+      "time": 1787000598,
+      "hn_url": "https://news.ycombinator.com/item?id=49337602",
+      "title_cn": "【GPT】GPT-5.6 Sol Pricing Cut by 50%"
     },
     {
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "score": 99,
-      "comments": 28,
-      "author": "root-parent",
-      "time": 1786914430,
-      "hn_url": "https://news.ycombinator.com/item?id=49323686",
-      "title_cn": "【AI, OpenAI】Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee"
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "score": 90,
+      "comments": 51,
+      "author": "abdik",
+      "time": 1786980978,
+      "hn_url": "https://news.ycombinator.com/item?id=49332751",
+      "title_cn": "【AI, 推出】Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
     },
     {
-      "title": "The Case Against Formal Verification, 50 Years Later",
-      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
-      "score": 81,
-      "comments": 77,
-      "author": "ghuntley",
-      "time": 1786912738,
-      "hn_url": "https://news.ycombinator.com/item?id=49323459",
-      "title_cn": "【AI】The Case Against Formal Verification, 50 Years Later"
-    },
-    {
-      "title": "MathCode, Mathematical Coding Agent",
-      "url": "https://math-ai-org.github.io/mathcode/",
-      "score": 60,
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "score": 77,
       "comments": 18,
-      "author": "homarp",
-      "time": 1786904230,
-      "hn_url": "https://news.ycombinator.com/item?id=49322330",
-      "title_cn": "MathCode, Mathematical Coding Agent"
+      "author": "pizzaiolo",
+      "time": 1787004077,
+      "hn_url": "https://news.ycombinator.com/item?id=49338285",
+      "title_cn": "【AI】Fairphone 6 and PostmarketOS working main camera"
     },
     {
-      "title": "Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
-      "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps/",
-      "score": 25,
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "score": 50,
+      "comments": 12,
+      "author": "DeepLogin",
+      "time": 1786999570,
+      "hn_url": "https://news.ycombinator.com/item?id=49337392",
+      "title_cn": "【AI】Israel creates fake think tank in likely attempt to dupe AI chatbots"
+    },
+    {
+      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+      "url": "https://blog.roboflow.com/roboflow-playground/",
+      "score": 43,
       "comments": 3,
-      "author": "samclemens",
-      "time": 1786574818,
-      "hn_url": "https://news.ycombinator.com/item?id=49279624",
-      "title_cn": "【AI】Archie G. Norcross' Maine Forest Fire Maps (1918–22)"
+      "author": "Bluestein",
+      "time": 1786991287,
+      "hn_url": "https://news.ycombinator.com/item?id=49335517",
+      "title_cn": "【计算机视觉, 模型】Roboflow Playground: Try and Compare 30 Computer Vision Models"
     },
     {
-      "title": "The deep history behind the Road to Nowhere inside the Great Smoky Mountains",
-      "url": "https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains",
-      "score": 24,
-      "comments": 10,
-      "author": "yareally",
-      "time": 1786579322,
-      "hn_url": "https://news.ycombinator.com/item?id=49280186",
-      "title_cn": "【AI】The deep history behind the Road to Nowhere inside the Great Smoky Mountains"
+      "title": "A simple fix for LLM tail latency",
+      "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+      "score": 36,
+      "comments": 14,
+      "author": "oskrim",
+      "time": 1786687096,
+      "hn_url": "https://news.ycombinator.com/item?id=49295179",
+      "title_cn": "【AI, 大语言模型】A simple fix for LLM tail latency"
     },
     {
-      "title": "Red queen hypothesis – a new way forward for self-improving AI",
-      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-      "score": 8,
-      "comments": 0,
-      "author": "hardlianotion",
-      "time": 1786910473,
-      "hn_url": "https://news.ycombinator.com/item?id=49323136",
-      "title_cn": "【AI】Red queen hypothesis – a new way forward for self-improving AI"
+      "title": "Intriguing stories in computer science",
+      "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
+      "score": 31,
+      "comments": 4,
+      "author": "gregsadetsky",
+      "time": 1786571800,
+      "hn_url": "https://news.ycombinator.com/item?id=49279146",
+      "title_cn": "Intriguing stories in computer science"
     },
     {
-      "title": "Rhombus 1.1 is now available",
-      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
+      "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
+      "score": 11,
+      "comments": 5,
+      "author": "sgustard",
+      "time": 1787012955,
+      "hn_url": "https://news.ycombinator.com/item?id=49339599",
+      "title_cn": "【AI】Google wins bankruptcy auction for Spirit Airlines emails, chats, documents"
+    },
+    {
+      "title": "Repair Cafe – Fix Your Broken Items",
+      "url": "https://www.repaircafe.org/",
       "score": 7,
-      "comments": 3,
-      "author": "spdegabrielle",
-      "time": 1786927701,
-      "hn_url": "https://news.ycombinator.com/item?id=49325384",
-      "title_cn": "【AI】Rhombus 1.1 is now available"
-    },
-    {
-      "title": "Physicists discover a hidden gluon structure inside protons",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
-      "score": 3,
-      "comments": 0,
-      "author": "gradus_ad",
-      "time": 1786929034,
-      "hn_url": "https://news.ycombinator.com/item?id=49325508",
-      "title_cn": "Physicists discover a hidden gluon structure inside protons"
+      "comments": 2,
+      "author": "rglover",
+      "time": 1787009308,
+      "hn_url": "https://news.ycombinator.com/item?id=49339097",
+      "title_cn": "【AI】Repair Cafe – Fix Your Broken Items"
     }
   ]
 }
