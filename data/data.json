@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-20T01:28:08.534114",
+  "updated_at": "2026-08-21T01:38:28.032604",
   "github_projects": [
     {
       "name": "deepseek-harness",
       "full_name": "deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "description_cn": "deepseek harness: everything is a 插件.",
-      "stars": 167603,
-      "forks": 17911,
+      "stars": 174814,
+      "forks": 18903,
       "language": "TypeScript",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "topics": [
@@ -23,34 +23,12 @@
       }
     },
     {
-      "name": "watermarks-remover",
-      "full_name": "guillaumemeyer/watermarks-remover",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "description_cn": "strIP 多-vendor AI prove非数字Ce marks: un内联缓存ode 文本 hygiene, statist内联缓存al rewrite Hooks, and C2pa/meta数据 from png/jpeg/SVG/pdf/doCx/HTML/md",
-      "stars": 15339,
-      "forks": 1724,
-      "language": "Python",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "topics": [
-        "agent-skill",
-        "ai",
-        "c2pa",
-        "claude",
-        "provenance"
-      ],
-      "created_at": "2026-08-11T16:32:38Z",
-      "owner": {
-        "login": "guillaumemeyer",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1385518?v=4"
-      }
-    },
-    {
       "name": "deepseek-harness-desktop",
       "full_name": "anywhere-labs/deepseek-harness-desktop",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "description_cn": "",
-      "stars": 15233,
-      "forks": 721,
+      "stars": 16532,
+      "forks": 787,
       "language": "TypeScript",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "topics": [
@@ -67,12 +45,34 @@
       }
     },
     {
+      "name": "watermarks-remover",
+      "full_name": "guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "description_cn": "strIP 多-vendor AI prove非数字Ce marks: un内联缓存ode 文本 hygiene, statist内联缓存al rewrite Hooks, and C2pa/meta数据 from png/jpeg/SVG/pdf/doCx/HTML/md",
+      "stars": 16082,
+      "forks": 1830,
+      "language": "Python",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "c2pa",
+        "claude",
+        "provenance"
+      ],
+      "created_at": "2026-08-11T16:32:38Z",
+      "owner": {
+        "login": "guillaumemeyer",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1385518?v=4"
+      }
+    },
+    {
       "name": "awesome-dsh-plugin",
       "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "description_cn": "a Curated 列表 of 插件s for deepseek harness (dsh) · deepseek harness 插件精选列表",
-      "stars": 10061,
-      "forks": 1484,
+      "stars": 10667,
+      "forks": 1592,
       "language": "Python",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "topics": [
@@ -93,8 +93,8 @@
       "full_name": "yjh051108/dsh-routing-suite",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "description_cn": "dsh-路由-suite — injeCtor + router-standard kit: install the 运行时 injeCtor f中间表示st, then the 任务-aware reas开启ing-众数 router pre集合 (measured p1-p23).",
-      "stars": 6307,
-      "forks": 113,
+      "stars": 6453,
+      "forks": 119,
       "language": "PowerShell",
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "topics": [],
@@ -109,8 +109,8 @@
       "full_name": "zhu1090093659/dsh-web-ui",
       "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "description_cn": "插件 and skin ColleCti开启 for deepseek harness (dsh) 网页 ui - 任务 board, git 图, right-side panel, remote 移动应用 ui, pet, live 令牌 stats, and skin Center.",
-      "stars": 4895,
-      "forks": 300,
+      "stars": 5166,
+      "forks": 314,
       "language": "TypeScript",
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "topics": [
@@ -130,8 +130,8 @@
       "full_name": "xiaobright/dsh-anchored-standard",
       "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "description_cn": "two-phase deepseek harness pre集合: 极简-aligned Bootstrap, then full standard 工具s (项目2 98/99)",
-      "stars": 3639,
-      "forks": 109,
+      "stars": 3685,
+      "forks": 110,
       "language": "JavaScript",
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "topics": [
@@ -151,8 +151,8 @@
       "full_name": "dmmulroy/anti-slop",
       "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "description_cn": "opini开启ated oxlint rules for rejeCting low-evidenCe TypeSCrIPt and JavaSCrIPt patterns",
-      "stars": 2802,
-      "forks": 50,
+      "stars": 3146,
+      "forks": 59,
       "language": "TypeScript",
       "url": "https://github.com/dmmulroy/anti-slop",
       "topics": [
@@ -168,12 +168,34 @@
       }
     },
     {
+      "name": "ip-as-logo-skill",
+      "full_name": "s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "description_cn": "a CompaCt 智能体 skill for highly simpl如果ied, rounded, subtly neo-skeuomorph内联缓存 IP masCot loGos.",
+      "stars": 3122,
+      "forks": 150,
+      "language": "Unknown",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "topics": [
+        "codex",
+        "codex-skill",
+        "image-generation",
+        "logo-design",
+        "mascot-design"
+      ],
+      "created_at": "2026-08-18T13:59:23Z",
+      "owner": {
+        "login": "s1dashu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/129982137?v=4"
+      }
+    },
+    {
       "name": "cumora",
       "full_name": "yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "description_cn": "where 智能体 团队s gather. 跨平台 团队 聊天 where AI 智能体s are 一等 团队mates — with Cloud or 分支ing-your-own (Claude Code / Codex) 分支AIns.",
-      "stars": 2693,
-      "forks": 309,
+      "stars": 2777,
+      "forks": 328,
       "language": "TypeScript",
       "url": "https://github.com/yetone/cumora",
       "topics": [],
@@ -182,174 +204,158 @@
         "login": "yetone",
         "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
       }
-    },
-    {
-      "name": "paper",
-      "full_name": "cordiverse/paper",
-      "description": "A Programming Paradigm for Spatiotemporal Composability",
-      "description_cn": "a program最小g paradigm for spatiotemporal Composability",
-      "stars": 2397,
-      "forks": 102,
-      "language": "Unknown",
-      "url": "https://github.com/cordiverse/paper",
-      "topics": [],
-      "created_at": "2026-08-13T09:53:33Z",
-      "owner": {
-        "login": "cordiverse",
-        "avatar_url": "https://avatars.githubusercontent.com/u/152786899?v=4"
-      }
     }
   ],
   "ai_news": [
     {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 750,
-      "comments": 114,
-      "author": "kareiva",
-      "time": 1787138510,
-      "hn_url": "https://news.ycombinator.com/item?id=49360015",
-      "title_cn": "【AI】A joke domain purchase turned in geopolitical warfare"
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "score": 954,
+      "comments": 220,
+      "author": "speckx",
+      "time": 1787256446,
+      "hn_url": "https://news.ycombinator.com/item?id=49379550",
+      "title_cn": "【API】Aaron Swartz was prosecuted for scraping, while Meta does it without consequence"
     },
     {
-      "title": "OpenRouter is joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 622,
-      "comments": 332,
-      "author": "rvz",
-      "time": 1787160758,
-      "hn_url": "https://news.ycombinator.com/item?id=49364559",
-      "title_cn": "OpenRouter is joining Stripe"
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "score": 880,
+      "comments": 287,
+      "author": "emctech",
+      "time": 1787220532,
+      "hn_url": "https://news.ycombinator.com/item?id=49372583",
+      "title_cn": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint"
     },
     {
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 288,
-      "comments": 119,
-      "author": "Animux",
-      "time": 1787161649,
-      "hn_url": "https://news.ycombinator.com/item?id=49364745",
-      "title_cn": "【AI】Google replaced Git tags for certain source code with obtaining via Google Drive"
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "score": 573,
+      "comments": 163,
+      "author": "encyclopedism",
+      "time": 1787152296,
+      "hn_url": "https://news.ycombinator.com/item?id=49362689",
+      "title_cn": "HTML Can Do That"
     },
     {
-      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
-      "url": "https://theremin.bizibah.com/",
-      "score": 248,
-      "comments": 86,
-      "author": "gurov",
-      "time": 1787134500,
-      "hn_url": "https://news.ycombinator.com/item?id=49359425",
-      "title_cn": "【AI】Air Theremin – A browser theremin you play by waving at your webcam"
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "score": 501,
+      "comments": 106,
+      "author": "simedw",
+      "time": 1787227478,
+      "hn_url": "https://news.ycombinator.com/item?id=49373456",
+      "title_cn": "【AI, 模型】Show HN: I trained a 125M model to autocomplete piano on-device"
     },
     {
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "score": 183,
-      "comments": 66,
-      "author": "jonesy827",
-      "time": 1787164605,
-      "hn_url": "https://news.ycombinator.com/item?id=49365443",
-      "title_cn": "Unsloth Dynamic 3.0 GGUFs"
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "score": 220,
+      "comments": 121,
+      "author": "danielvaughn",
+      "time": 1787252736,
+      "hn_url": "https://news.ycombinator.com/item?id=49378768",
+      "title_cn": "【AI】Show HN: Huzzah – a novel approach to coding with AI"
     },
     {
-      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "url": "https://ornith.ai/ornith_1_5.html",
-      "score": 168,
-      "comments": 58,
-      "author": "CommonGuy",
-      "time": 1787150919,
-      "hn_url": "https://news.ycombinator.com/item?id=49362401",
-      "title_cn": "Ornith-1.5: From Self-Scaffolding to Self-Improvement"
+      "title": "Consumer Rights Wiki",
+      "url": "https://consumerrights.wiki/w/Main_Page",
+      "score": 213,
+      "comments": 31,
+      "author": "gregsadetsky",
+      "time": 1787249991,
+      "hn_url": "https://news.ycombinator.com/item?id=49378243",
+      "title_cn": "Consumer Rights Wiki"
     },
     {
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "score": 129,
-      "comments": 76,
-      "author": "fg137",
-      "time": 1787174390,
-      "hn_url": "https://news.ycombinator.com/item?id=49367350",
-      "title_cn": "Feature Request: Support AGENTS.md"
+      "title": "Linux 7.2",
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "score": 192,
+      "comments": 67,
+      "author": "mariuz",
+      "time": 1787240778,
+      "hn_url": "https://news.ycombinator.com/item?id=49376265",
+      "title_cn": "Linux 7.2"
     },
     {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-      "score": 128,
-      "comments": 166,
-      "author": "j4mie",
-      "time": 1787076899,
-      "hn_url": "https://news.ycombinator.com/item?id=49350031",
-      "title_cn": "【模型】Pacing model development in an era of cyber-critical capabilities"
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "score": 191,
+      "comments": 202,
+      "author": "Bluestein",
+      "time": 1787239562,
+      "hn_url": "https://news.ycombinator.com/item?id=49375996",
+      "title_cn": "【大语言模型, Claude】Vomit: Clean up Claude 5's token output with a separate LLM"
     },
     {
-      "title": "Mathematics in the age of AI",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "score": 119,
-      "comments": 120,
-      "author": "jonbaer",
-      "time": 1787152465,
-      "hn_url": "https://news.ycombinator.com/item?id=49362728",
-      "title_cn": "【AI】Mathematics in the age of AI"
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "score": 114,
+      "comments": 79,
+      "author": "speckx",
+      "time": 1787238413,
+      "hn_url": "https://news.ycombinator.com/item?id=49375719",
+      "title_cn": "【AI】Anti-AI fonts are useless and harmful"
     },
     {
-      "title": "Extensible Software in the age of LLMs",
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-      "score": 105,
-      "comments": 49,
-      "author": "coloneltcb",
-      "time": 1787156765,
-      "hn_url": "https://news.ycombinator.com/item?id=49363668",
-      "title_cn": "【大语言模型】Extensible Software in the age of LLMs"
+      "title": "Every Model Cheats",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+      "score": 81,
+      "comments": 62,
+      "author": "vga805",
+      "time": 1787234219,
+      "hn_url": "https://news.ycombinator.com/item?id=49374635",
+      "title_cn": "【模型】Every Model Cheats"
     },
     {
-      "title": "DFlash 2: Keep Drafting Parallel",
-      "url": "https://inco.ai/blog/dflash2/",
-      "score": 71,
-      "comments": 8,
-      "author": "mike-the-brain",
-      "time": 1787171323,
-      "hn_url": "https://news.ycombinator.com/item?id=49366792",
-      "title_cn": "DFlash 2: Keep Drafting Parallel"
+      "title": "Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "score": 70,
+      "comments": 65,
+      "author": "u1hcw9nx",
+      "time": 1787271312,
+      "hn_url": "https://news.ycombinator.com/item?id=49382041",
+      "title_cn": "【AI】Copyright does not protect AI-generated content in EU"
     },
     {
-      "title": "Xwayland 26.1.0 rc1",
-      "url": "https://lists.x.org/archives/xorg/2026-August/062280.html",
-      "score": 56,
-      "comments": 40,
-      "author": "ErenayDev",
-      "time": 1787169783,
-      "hn_url": "https://news.ycombinator.com/item?id=49366474",
-      "title_cn": "Xwayland 26.1.0 rc1"
+      "title": "Stealth Model",
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "score": 23,
+      "comments": 6,
+      "author": "mtokmak06",
+      "time": 1787270195,
+      "hn_url": "https://news.ycombinator.com/item?id=49381896",
+      "title_cn": "【模型】Stealth Model"
     },
     {
-      "title": "A portable, sensitive, low power, analog Geiger counter (2025)",
-      "url": "https://ludens.cl/Electron/geiger2/geiger2.html",
-      "score": 40,
-      "comments": 2,
-      "author": "crorella",
-      "time": 1786864379,
-      "hn_url": "https://news.ycombinator.com/item?id=49317632",
-      "title_cn": "A portable, sensitive, low power, analog Geiger counter (2025)"
-    },
-    {
-      "title": "Collaborative Human Agent Protocol (CHAP)",
-      "url": "https://github.com/BrightbeamAI/chap",
+      "title": "Speeding Up (Small) Ruby Hashes",
+      "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
       "score": 19,
-      "comments": 3,
-      "author": "arsalanshahid",
-      "time": 1787177356,
-      "hn_url": "https://news.ycombinator.com/item?id=49367836",
-      "title_cn": "Collaborative Human Agent Protocol (CHAP)"
+      "comments": 0,
+      "author": "arto",
+      "time": 1786686312,
+      "hn_url": "https://news.ycombinator.com/item?id=49295112",
+      "title_cn": "Speeding Up (Small) Ruby Hashes"
     },
     {
-      "title": "Universality of Gradient Descent Neural Network Training",
-      "url": "https://arxiv.org/abs/2007.13664",
-      "score": 6,
-      "comments": 0,
-      "author": "E-Reverance",
-      "time": 1787184312,
-      "hn_url": "https://news.ycombinator.com/item?id=49368828",
-      "title_cn": "【AI, 神经网络, 训练】Universality of Gradient Descent Neural Network Training"
+      "title": "It is a sign of the times that Amazon gets to call this fair use",
+      "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
+      "score": 9,
+      "comments": 2,
+      "author": "sonicrocketman",
+      "time": 1787272472,
+      "hn_url": "https://news.ycombinator.com/item?id=49382200",
+      "title_cn": "【AI】It is a sign of the times that Amazon gets to call this fair use"
+    },
+    {
+      "title": "My Microscope Is a Dashcam",
+      "url": "https://xecaz.com/reverse.engineering/tomlovdm9/",
+      "score": 8,
+      "comments": 1,
+      "author": "xecaz",
+      "time": 1786962258,
+      "hn_url": "https://news.ycombinator.com/item?id=49328758",
+      "title_cn": "My Microscope Is a Dashcam"
     }
   ]
 }
