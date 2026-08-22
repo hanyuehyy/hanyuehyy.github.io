@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-21T01:38:28.032604",
+  "updated_at": "2026-08-22T01:27:12.361410",
   "github_projects": [
     {
       "name": "deepseek-harness",
       "full_name": "deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "description_cn": "deepseek harness: everything is a 插件.",
-      "stars": 174814,
-      "forks": 18903,
+      "stars": 181367,
+      "forks": 19841,
       "language": "TypeScript",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "topics": [
@@ -27,8 +27,8 @@
       "full_name": "anywhere-labs/deepseek-harness-desktop",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "description_cn": "",
-      "stars": 16532,
-      "forks": 787,
+      "stars": 17585,
+      "forks": 856,
       "language": "TypeScript",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "topics": [
@@ -49,16 +49,16 @@
       "full_name": "guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "description_cn": "strIP 多-vendor AI prove非数字Ce marks: un内联缓存ode 文本 hygiene, statist内联缓存al rewrite Hooks, and C2pa/meta数据 from png/jpeg/SVG/pdf/doCx/HTML/md",
-      "stars": 16082,
-      "forks": 1830,
+      "stars": 16632,
+      "forks": 1906,
       "language": "Python",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "topics": [
         "agent-skill",
         "ai",
+        "anthropic",
         "c2pa",
-        "claude",
-        "provenance"
+        "chatgpt"
       ],
       "created_at": "2026-08-11T16:32:38Z",
       "owner": {
@@ -71,8 +71,8 @@
       "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "description_cn": "a Curated 列表 of 插件s for deepseek harness (dsh) · deepseek harness 插件精选列表",
-      "stars": 10667,
-      "forks": 1592,
+      "stars": 11161,
+      "forks": 1699,
       "language": "Python",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "topics": [
@@ -93,8 +93,8 @@
       "full_name": "yjh051108/dsh-routing-suite",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "description_cn": "dsh-路由-suite — injeCtor + router-standard kit: install the 运行时 injeCtor f中间表示st, then the 任务-aware reas开启ing-众数 router pre集合 (measured p1-p23).",
-      "stars": 6453,
-      "forks": 119,
+      "stars": 6562,
+      "forks": 122,
       "language": "PowerShell",
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "topics": [],
@@ -109,8 +109,8 @@
       "full_name": "zhu1090093659/dsh-web-ui",
       "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "description_cn": "插件 and skin ColleCti开启 for deepseek harness (dsh) 网页 ui - 任务 board, git 图, right-side panel, remote 移动应用 ui, pet, live 令牌 stats, and skin Center.",
-      "stars": 5166,
-      "forks": 314,
+      "stars": 5425,
+      "forks": 337,
       "language": "TypeScript",
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "topics": [
@@ -130,8 +130,8 @@
       "full_name": "xiaobright/dsh-anchored-standard",
       "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "description_cn": "two-phase deepseek harness pre集合: 极简-aligned Bootstrap, then full standard 工具s (项目2 98/99)",
-      "stars": 3685,
-      "forks": 110,
+      "stars": 3697,
+      "forks": 111,
       "language": "JavaScript",
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "topics": [
@@ -147,33 +147,12 @@
       }
     },
     {
-      "name": "anti-slop",
-      "full_name": "dmmulroy/anti-slop",
-      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-      "description_cn": "opini开启ated oxlint rules for rejeCting low-evidenCe TypeSCrIPt and JavaSCrIPt patterns",
-      "stars": 3146,
-      "forks": 59,
-      "language": "TypeScript",
-      "url": "https://github.com/dmmulroy/anti-slop",
-      "topics": [
-        "agent-skills",
-        "linting",
-        "oxlint",
-        "typescript"
-      ],
-      "created_at": "2026-08-12T13:48:50Z",
-      "owner": {
-        "login": "dmmulroy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2755722?v=4"
-      }
-    },
-    {
       "name": "ip-as-logo-skill",
       "full_name": "s1dashu/ip-as-logo-skill",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "description_cn": "a CompaCt 智能体 skill for highly simpl如果ied, rounded, subtly neo-skeuomorph内联缓存 IP masCot loGos.",
-      "stars": 3122,
-      "forks": 150,
+      "stars": 3494,
+      "forks": 172,
       "language": "Unknown",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "topics": [
@@ -190,12 +169,33 @@
       }
     },
     {
+      "name": "anti-slop",
+      "full_name": "dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "description_cn": "opini开启ated oxlint rules for rejeCting low-evidenCe TypeSCrIPt and JavaSCrIPt patterns",
+      "stars": 3316,
+      "forks": 64,
+      "language": "TypeScript",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "topics": [
+        "agent-skills",
+        "linting",
+        "oxlint",
+        "typescript"
+      ],
+      "created_at": "2026-08-12T13:48:50Z",
+      "owner": {
+        "login": "dmmulroy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2755722?v=4"
+      }
+    },
+    {
       "name": "cumora",
       "full_name": "yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "description_cn": "where 智能体 团队s gather. 跨平台 团队 聊天 where AI 智能体s are 一等 团队mates — with Cloud or 分支ing-your-own (Claude Code / Codex) 分支AIns.",
-      "stars": 2777,
-      "forks": 328,
+      "stars": 2858,
+      "forks": 346,
       "language": "TypeScript",
       "url": "https://github.com/yetone/cumora",
       "topics": [],
@@ -208,154 +208,154 @@
   ],
   "ai_news": [
     {
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "score": 954,
-      "comments": 220,
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "score": 549,
+      "comments": 723,
+      "author": "floathub",
+      "time": 1787314213,
+      "hn_url": "https://news.ycombinator.com/item?id=49386895",
+      "title_cn": "Felony charges for citizen deleting phone data at US Border"
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "score": 533,
+      "comments": 837,
+      "author": "Cider9986",
+      "time": 1787279867,
+      "hn_url": "https://news.ycombinator.com/item?id=49383026",
+      "title_cn": "【AI】AI companies destroy physical books – let's scan rare books before it's too late"
+    },
+    {
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "score": 262,
+      "comments": 275,
+      "author": "rcymerys",
+      "time": 1787312885,
+      "hn_url": "https://news.ycombinator.com/item?id=49386699",
+      "title_cn": "【AI】I'm becoming AI-blind"
+    },
+    {
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "score": 231,
+      "comments": 288,
+      "author": "dash2",
+      "time": 1787120011,
+      "hn_url": "https://news.ycombinator.com/item?id=49357530",
+      "title_cn": "【AI】AI boosted homework scores, then exam scores dropped: study"
+    },
+    {
+      "title": "Small, native web tricks worth remembering",
+      "url": "https://htmlcat.net/",
+      "score": 210,
+      "comments": 54,
+      "author": "marcomezzavilla",
+      "time": 1787305514,
+      "hn_url": "https://news.ycombinator.com/item?id=49385860",
+      "title_cn": "Small, native web tricks worth remembering"
+    },
+    {
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "score": 201,
+      "comments": 136,
+      "author": "aakil",
+      "time": 1787322712,
+      "hn_url": "https://news.ycombinator.com/item?id=49388752",
+      "title_cn": "【Claude】Claudette: Make Claude stop talking like a BuzzFeed article"
+    },
+    {
+      "title": "I ran Photoshop on a £0.60 computer chip",
+      "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+      "score": 120,
+      "comments": 29,
+      "author": "colinprince",
+      "time": 1787325467,
+      "hn_url": "https://news.ycombinator.com/item?id=49389441",
+      "title_cn": "I ran Photoshop on a £0.60 computer chip"
+    },
+    {
+      "title": "Flat Chair by Sara Paculdo",
+      "url": "https://paculdo.com/innovative-housewares-inside-out-design-oliso/",
+      "score": 107,
+      "comments": 36,
+      "author": "surprisetalk",
+      "time": 1786975297,
+      "hn_url": "https://news.ycombinator.com/item?id=49331084",
+      "title_cn": "【AI】Flat Chair by Sara Paculdo"
+    },
+    {
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "score": 103,
+      "comments": 28,
+      "author": "toebee",
+      "time": 1787327470,
+      "hn_url": "https://news.ycombinator.com/item?id=49389952",
+      "title_cn": "【模型】How we made a text-to-speech model respond in sub-50 ms"
+    },
+    {
+      "title": "What happens when a GPU reads memory",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+      "score": 98,
+      "comments": 18,
+      "author": "ibobev",
+      "time": 1787329002,
+      "hn_url": "https://news.ycombinator.com/item?id=49390308",
+      "title_cn": "What happens when a GPU reads memory"
+    },
+    {
+      "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+      "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+      "score": 79,
+      "comments": 17,
+      "author": "rhgraysonii",
+      "time": 1787063360,
+      "hn_url": "https://news.ycombinator.com/item?id=49346135",
+      "title_cn": "【模型】Show HN: Shoehorn – Quantize any model down to run on your machine"
+    },
+    {
+      "title": "Quick impressions: A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "score": 78,
+      "comments": 84,
       "author": "speckx",
-      "time": 1787256446,
-      "hn_url": "https://news.ycombinator.com/item?id=49379550",
-      "title_cn": "【API】Aaron Swartz was prosecuted for scraping, while Meta does it without consequence"
+      "time": 1787341908,
+      "hn_url": "https://news.ycombinator.com/item?id=49393051",
+      "title_cn": "【Claude】Quick impressions: A week of using Codex more than Claude"
     },
     {
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 880,
-      "comments": 287,
-      "author": "emctech",
-      "time": 1787220532,
-      "hn_url": "https://news.ycombinator.com/item?id=49372583",
-      "title_cn": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint"
+      "title": "The road to ACID transactions in Cassandra 6",
+      "url": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+      "score": 67,
+      "comments": 16,
+      "author": "eatonphil",
+      "time": 1787314099,
+      "hn_url": "https://news.ycombinator.com/item?id=49386877",
+      "title_cn": "The road to ACID transactions in Cassandra 6"
     },
     {
-      "title": "HTML Can Do That",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "score": 573,
-      "comments": 163,
-      "author": "encyclopedism",
-      "time": 1787152296,
-      "hn_url": "https://news.ycombinator.com/item?id=49362689",
-      "title_cn": "HTML Can Do That"
+      "title": "How I came to write that paper with Leslie Lamport",
+      "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
+      "score": 42,
+      "comments": 10,
+      "author": "baruchel",
+      "time": 1787323561,
+      "hn_url": "https://news.ycombinator.com/item?id=49388963",
+      "title_cn": "How I came to write that paper with Leslie Lamport"
     },
     {
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "score": 501,
-      "comments": 106,
-      "author": "simedw",
-      "time": 1787227478,
-      "hn_url": "https://news.ycombinator.com/item?id=49373456",
-      "title_cn": "【AI, 模型】Show HN: I trained a 125M model to autocomplete piano on-device"
-    },
-    {
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "score": 220,
-      "comments": 121,
-      "author": "danielvaughn",
-      "time": 1787252736,
-      "hn_url": "https://news.ycombinator.com/item?id=49378768",
-      "title_cn": "【AI】Show HN: Huzzah – a novel approach to coding with AI"
-    },
-    {
-      "title": "Consumer Rights Wiki",
-      "url": "https://consumerrights.wiki/w/Main_Page",
-      "score": 213,
-      "comments": 31,
-      "author": "gregsadetsky",
-      "time": 1787249991,
-      "hn_url": "https://news.ycombinator.com/item?id=49378243",
-      "title_cn": "Consumer Rights Wiki"
-    },
-    {
-      "title": "Linux 7.2",
-      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-      "score": 192,
-      "comments": 67,
-      "author": "mariuz",
-      "time": 1787240778,
-      "hn_url": "https://news.ycombinator.com/item?id=49376265",
-      "title_cn": "Linux 7.2"
-    },
-    {
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "score": 191,
-      "comments": 202,
-      "author": "Bluestein",
-      "time": 1787239562,
-      "hn_url": "https://news.ycombinator.com/item?id=49375996",
-      "title_cn": "【大语言模型, Claude】Vomit: Clean up Claude 5's token output with a separate LLM"
-    },
-    {
-      "title": "Anti-AI fonts are useless and harmful",
-      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "score": 114,
-      "comments": 79,
-      "author": "speckx",
-      "time": 1787238413,
-      "hn_url": "https://news.ycombinator.com/item?id=49375719",
-      "title_cn": "【AI】Anti-AI fonts are useless and harmful"
-    },
-    {
-      "title": "Every Model Cheats",
-      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "score": 81,
-      "comments": 62,
-      "author": "vga805",
-      "time": 1787234219,
-      "hn_url": "https://news.ycombinator.com/item?id=49374635",
-      "title_cn": "【模型】Every Model Cheats"
-    },
-    {
-      "title": "Copyright does not protect AI-generated content in EU",
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "score": 70,
-      "comments": 65,
-      "author": "u1hcw9nx",
-      "time": 1787271312,
-      "hn_url": "https://news.ycombinator.com/item?id=49382041",
-      "title_cn": "【AI】Copyright does not protect AI-generated content in EU"
-    },
-    {
-      "title": "Stealth Model",
-      "url": "https://openrouter.ai/stealth/ox-alpha",
-      "score": 23,
-      "comments": 6,
-      "author": "mtokmak06",
-      "time": 1787270195,
-      "hn_url": "https://news.ycombinator.com/item?id=49381896",
-      "title_cn": "【模型】Stealth Model"
-    },
-    {
-      "title": "Speeding Up (Small) Ruby Hashes",
-      "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-      "score": 19,
-      "comments": 0,
-      "author": "arto",
-      "time": 1786686312,
-      "hn_url": "https://news.ycombinator.com/item?id=49295112",
-      "title_cn": "Speeding Up (Small) Ruby Hashes"
-    },
-    {
-      "title": "It is a sign of the times that Amazon gets to call this fair use",
-      "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-      "score": 9,
-      "comments": 2,
-      "author": "sonicrocketman",
-      "time": 1787272472,
-      "hn_url": "https://news.ycombinator.com/item?id=49382200",
-      "title_cn": "【AI】It is a sign of the times that Amazon gets to call this fair use"
-    },
-    {
-      "title": "My Microscope Is a Dashcam",
-      "url": "https://xecaz.com/reverse.engineering/tomlovdm9/",
-      "score": 8,
-      "comments": 1,
-      "author": "xecaz",
-      "time": 1786962258,
-      "hn_url": "https://news.ycombinator.com/item?id=49328758",
-      "title_cn": "My Microscope Is a Dashcam"
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "score": 31,
+      "comments": 10,
+      "author": "dariusmonsef",
+      "time": 1787353746,
+      "hn_url": "https://news.ycombinator.com/item?id=49394827",
+      "title_cn": "【AI】Show HN: OzBrain, a shared brain for knowledge between agents and your team"
     }
   ]
 }
