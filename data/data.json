@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-22T01:27:12.361410",
+  "updated_at": "2026-08-23T01:41:30.950856",
   "github_projects": [
     {
       "name": "deepseek-harness",
       "full_name": "deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "description_cn": "deepseek harness: everything is a 插件.",
-      "stars": 181367,
-      "forks": 19841,
+      "stars": 185170,
+      "forks": 20487,
       "language": "TypeScript",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "topics": [
@@ -27,8 +27,8 @@
       "full_name": "anywhere-labs/deepseek-harness-desktop",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "description_cn": "",
-      "stars": 17585,
-      "forks": 856,
+      "stars": 18336,
+      "forks": 896,
       "language": "TypeScript",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "topics": [
@@ -49,8 +49,8 @@
       "full_name": "guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "description_cn": "strIP 多-vendor AI prove非数字Ce marks: un内联缓存ode 文本 hygiene, statist内联缓存al rewrite Hooks, and C2pa/meta数据 from png/jpeg/SVG/pdf/doCx/HTML/md",
-      "stars": 16632,
-      "forks": 1906,
+      "stars": 17062,
+      "forks": 1957,
       "language": "Python",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "topics": [
@@ -71,8 +71,8 @@
       "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "description_cn": "a Curated 列表 of 插件s for deepseek harness (dsh) · deepseek harness 插件精选列表",
-      "stars": 11161,
-      "forks": 1699,
+      "stars": 11540,
+      "forks": 1792,
       "language": "Python",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "topics": [
@@ -93,11 +93,17 @@
       "full_name": "yjh051108/dsh-routing-suite",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "description_cn": "dsh-路由-suite — injeCtor + router-standard kit: install the 运行时 injeCtor f中间表示st, then the 任务-aware reas开启ing-众数 router pre集合 (measured p1-p23).",
-      "stars": 6562,
-      "forks": 122,
+      "stars": 6641,
+      "forks": 127,
       "language": "PowerShell",
       "url": "https://github.com/yjh051108/dsh-routing-suite",
-      "topics": [],
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
       "created_at": "2026-08-14T21:20:55Z",
       "owner": {
         "login": "yjh051108",
@@ -109,15 +115,14 @@
       "full_name": "zhu1090093659/dsh-web-ui",
       "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "description_cn": "插件 and skin ColleCti开启 for deepseek harness (dsh) 网页 ui - 任务 board, git 图, right-side panel, remote 移动应用 ui, pet, live 令牌 stats, and skin Center.",
-      "stars": 5425,
-      "forks": 337,
+      "stars": 5603,
+      "forks": 344,
       "language": "TypeScript",
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "topics": [
         "deepseek-harness",
         "dsh",
-        "dsh-plugin",
-        "web-ui"
+        "dsh-plugin"
       ],
       "created_at": "2026-08-12T05:15:20Z",
       "owner": {
@@ -126,33 +131,12 @@
       }
     },
     {
-      "name": "dsh-anchored-standard",
-      "full_name": "xiaobright/dsh-anchored-standard",
-      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "description_cn": "two-phase deepseek harness pre集合: 极简-aligned Bootstrap, then full standard 工具s (项目2 98/99)",
-      "stars": 3697,
-      "forks": 111,
-      "language": "JavaScript",
-      "url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "topics": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "llm-agent"
-      ],
-      "created_at": "2026-08-14T14:06:39Z",
-      "owner": {
-        "login": "xiaobright",
-        "avatar_url": "https://avatars.githubusercontent.com/u/104243166?v=4"
-      }
-    },
-    {
       "name": "ip-as-logo-skill",
       "full_name": "s1dashu/ip-as-logo-skill",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "description_cn": "a CompaCt 智能体 skill for highly simpl如果ied, rounded, subtly neo-skeuomorph内联缓存 IP masCot loGos.",
-      "stars": 3494,
-      "forks": 172,
+      "stars": 3785,
+      "forks": 180,
       "language": "Unknown",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "topics": [
@@ -169,12 +153,33 @@
       }
     },
     {
+      "name": "dsh-anchored-standard",
+      "full_name": "xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "description_cn": "two-phase deepseek harness pre集合: 极简-aligned Bootstrap, then full standard 工具s (项目2 98/99)",
+      "stars": 3715,
+      "forks": 111,
+      "language": "JavaScript",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm-agent"
+      ],
+      "created_at": "2026-08-14T14:06:39Z",
+      "owner": {
+        "login": "xiaobright",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104243166?v=4"
+      }
+    },
+    {
       "name": "anti-slop",
       "full_name": "dmmulroy/anti-slop",
       "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "description_cn": "opini开启ated oxlint rules for rejeCting low-evidenCe TypeSCrIPt and JavaSCrIPt patterns",
-      "stars": 3316,
-      "forks": 64,
+      "stars": 3404,
+      "forks": 66,
       "language": "TypeScript",
       "url": "https://github.com/dmmulroy/anti-slop",
       "topics": [
@@ -194,8 +199,8 @@
       "full_name": "yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "description_cn": "where 智能体 团队s gather. 跨平台 团队 聊天 where AI 智能体s are 一等 团队mates — with Cloud or 分支ing-your-own (Claude Code / Codex) 分支AIns.",
-      "stars": 2858,
-      "forks": 346,
+      "stars": 2901,
+      "forks": 350,
       "language": "TypeScript",
       "url": "https://github.com/yetone/cumora",
       "topics": [],
@@ -208,154 +213,154 @@
   ],
   "ai_news": [
     {
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "score": 549,
-      "comments": 723,
-      "author": "floathub",
-      "time": 1787314213,
-      "hn_url": "https://news.ycombinator.com/item?id=49386895",
-      "title_cn": "Felony charges for citizen deleting phone data at US Border"
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "score": 304,
+      "comments": 101,
+      "author": "jemoka",
+      "time": 1787410447,
+      "hn_url": "https://news.ycombinator.com/item?id=49400408",
+      "title_cn": "ElevenLabs, TwelveLabs, ThirteenLabs"
     },
     {
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "score": 533,
-      "comments": 837,
-      "author": "Cider9986",
-      "time": 1787279867,
-      "hn_url": "https://news.ycombinator.com/item?id=49383026",
-      "title_cn": "【AI】AI companies destroy physical books – let's scan rare books before it's too late"
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "score": 176,
+      "comments": 58,
+      "author": "felineflock",
+      "time": 1787422456,
+      "hn_url": "https://news.ycombinator.com/item?id=49402232",
+      "title_cn": "【大语言模型】Why your local LLM feels dumber than it is"
     },
     {
-      "title": "I'm becoming AI-blind",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "score": 262,
-      "comments": 275,
-      "author": "rcymerys",
-      "time": 1787312885,
-      "hn_url": "https://news.ycombinator.com/item?id=49386699",
-      "title_cn": "【AI】I'm becoming AI-blind"
+      "title": "New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "score": 173,
+      "comments": 126,
+      "author": "pentagrama",
+      "time": 1787405494,
+      "hn_url": "https://news.ycombinator.com/item?id=49399591",
+      "title_cn": "New MCP Roadmap"
     },
     {
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "score": 231,
-      "comments": 288,
-      "author": "dash2",
-      "time": 1787120011,
-      "hn_url": "https://news.ycombinator.com/item?id=49357530",
-      "title_cn": "【AI】AI boosted homework scores, then exam scores dropped: study"
+      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "score": 163,
+      "comments": 154,
+      "author": "matthieu_bl",
+      "time": 1787417929,
+      "hn_url": "https://news.ycombinator.com/item?id=49401549",
+      "title_cn": "【Anthropic, Claude】Anthropic appears to be A/B testing reduced effort levels in Claude Code"
     },
     {
-      "title": "Small, native web tricks worth remembering",
-      "url": "https://htmlcat.net/",
-      "score": 210,
-      "comments": 54,
-      "author": "marcomezzavilla",
-      "time": 1787305514,
-      "hn_url": "https://news.ycombinator.com/item?id=49385860",
-      "title_cn": "Small, native web tricks worth remembering"
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "score": 159,
+      "comments": 68,
+      "author": "zdw",
+      "time": 1787425481,
+      "hn_url": "https://news.ycombinator.com/item?id=49402741",
+      "title_cn": "hdiutil is deprecated in macOS 27 Golden Gate"
     },
     {
-      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "score": 201,
-      "comments": 136,
-      "author": "aakil",
-      "time": 1787322712,
-      "hn_url": "https://news.ycombinator.com/item?id=49388752",
-      "title_cn": "【Claude】Claudette: Make Claude stop talking like a BuzzFeed article"
-    },
-    {
-      "title": "I ran Photoshop on a £0.60 computer chip",
-      "url": "https://pointinthecloud.com/2026-08-19-144600.html",
-      "score": 120,
-      "comments": 29,
-      "author": "colinprince",
-      "time": 1787325467,
-      "hn_url": "https://news.ycombinator.com/item?id=49389441",
-      "title_cn": "I ran Photoshop on a £0.60 computer chip"
-    },
-    {
-      "title": "Flat Chair by Sara Paculdo",
-      "url": "https://paculdo.com/innovative-housewares-inside-out-design-oliso/",
-      "score": 107,
-      "comments": 36,
-      "author": "surprisetalk",
-      "time": 1786975297,
-      "hn_url": "https://news.ycombinator.com/item?id=49331084",
-      "title_cn": "【AI】Flat Chair by Sara Paculdo"
-    },
-    {
-      "title": "How we made a text-to-speech model respond in sub-50 ms",
-      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "score": 103,
-      "comments": 28,
-      "author": "toebee",
-      "time": 1787327470,
-      "hn_url": "https://news.ycombinator.com/item?id=49389952",
-      "title_cn": "【模型】How we made a text-to-speech model respond in sub-50 ms"
-    },
-    {
-      "title": "What happens when a GPU reads memory",
-      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-      "score": 98,
-      "comments": 18,
-      "author": "ibobev",
-      "time": 1787329002,
-      "hn_url": "https://news.ycombinator.com/item?id=49390308",
-      "title_cn": "What happens when a GPU reads memory"
-    },
-    {
-      "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
-      "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
-      "score": 79,
-      "comments": 17,
-      "author": "rhgraysonii",
-      "time": 1787063360,
-      "hn_url": "https://news.ycombinator.com/item?id=49346135",
-      "title_cn": "【模型】Show HN: Shoehorn – Quantize any model down to run on your machine"
-    },
-    {
-      "title": "Quick impressions: A week of using Codex more than Claude",
+      "title": "A week of using Codex more than Claude",
       "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "score": 78,
-      "comments": 84,
+      "score": 130,
+      "comments": 133,
       "author": "speckx",
       "time": 1787341908,
       "hn_url": "https://news.ycombinator.com/item?id=49393051",
-      "title_cn": "【Claude】Quick impressions: A week of using Codex more than Claude"
+      "title_cn": "【Claude】A week of using Codex more than Claude"
     },
     {
-      "title": "The road to ACID transactions in Cassandra 6",
-      "url": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-      "score": 67,
-      "comments": 16,
-      "author": "eatonphil",
-      "time": 1787314099,
-      "hn_url": "https://news.ycombinator.com/item?id=49386877",
-      "title_cn": "The road to ACID transactions in Cassandra 6"
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "score": 109,
+      "comments": 41,
+      "author": "olalonde",
+      "time": 1787319813,
+      "hn_url": "https://news.ycombinator.com/item?id=49387959",
+      "title_cn": "【AI】How a Texas student blew the whistle on a rogue AI hacking attempt"
     },
     {
-      "title": "How I came to write that paper with Leslie Lamport",
-      "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
-      "score": 42,
-      "comments": 10,
-      "author": "baruchel",
-      "time": 1787323561,
-      "hn_url": "https://news.ycombinator.com/item?id=49388963",
-      "title_cn": "How I came to write that paper with Leslie Lamport"
+      "title": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "score": 95,
+      "comments": 24,
+      "author": "gnyeki",
+      "time": 1787425666,
+      "hn_url": "https://news.ycombinator.com/item?id=49402781",
+      "title_cn": "NetBSD and my life (2005)"
     },
     {
       "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
       "url": "https://ozbrain.com",
-      "score": 31,
-      "comments": 10,
+      "score": 79,
+      "comments": 46,
       "author": "dariusmonsef",
       "time": 1787353746,
       "hn_url": "https://news.ycombinator.com/item?id=49394827",
       "title_cn": "【AI】Show HN: OzBrain, a shared brain for knowledge between agents and your team"
+    },
+    {
+      "title": "One night in Uzbekistan: Why was this one data point so influential?",
+      "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
+      "score": 76,
+      "comments": 13,
+      "author": "paulpauper",
+      "time": 1787339150,
+      "hn_url": "https://news.ycombinator.com/item?id=49392536",
+      "title_cn": "One night in Uzbekistan: Why was this one data point so influential?"
+    },
+    {
+      "title": "Mythic's analog compute-in-memory architecture",
+      "url": "https://www.mythic.ai",
+      "score": 46,
+      "comments": 23,
+      "author": "janandonly",
+      "time": 1787086042,
+      "hn_url": "https://news.ycombinator.com/item?id=49352470",
+      "title_cn": "Mythic's analog compute-in-memory architecture"
+    },
+    {
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "score": 44,
+      "comments": 12,
+      "author": "stared",
+      "time": 1787436867,
+      "hn_url": "https://news.ycombinator.com/item?id=49404380",
+      "title_cn": "【GPT】NanoGPT Speedrun Frontier"
+    },
+    {
+      "title": "The Creation of Abulafia",
+      "url": "https://blog.veitheller.de/abulafia.html",
+      "score": 27,
+      "comments": 7,
+      "author": "saulpw",
+      "time": 1787344931,
+      "hn_url": "https://news.ycombinator.com/item?id=49393537",
+      "title_cn": "The Creation of Abulafia"
+    },
+    {
+      "title": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary",
+      "url": "https://vetto.ai/companies/programbench-vetted.html",
+      "score": 24,
+      "comments": 1,
+      "author": "rigelbm",
+      "time": 1787236508,
+      "hn_url": "https://news.ycombinator.com/item?id=49375176",
+      "title_cn": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary"
+    },
+    {
+      "title": "AI has failed to win people's trust. Its makers? less trusted",
+      "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
+      "score": 16,
+      "comments": 1,
+      "author": "billybuckwheat",
+      "time": 1787441420,
+      "hn_url": "https://news.ycombinator.com/item?id=49404869",
+      "title_cn": "【AI】AI has failed to win people's trust. Its makers? less trusted"
     }
   ]
 }
