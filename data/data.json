@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-24T01:39:30.765427",
+  "updated_at": "2026-08-25T01:34:21.052698",
   "github_projects": [
     {
       "name": "deepseek-harness",
       "full_name": "deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "description_cn": "deepseek harness: everything is a 插件.",
-      "stars": 188189,
-      "forks": 20957,
+      "stars": 192119,
+      "forks": 21536,
       "language": "TypeScript",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "topics": [
@@ -23,14 +23,14 @@
       }
     },
     {
-      "name": "deepseek-harness-desktop",
-      "full_name": "anywhere-labs/deepseek-harness-desktop",
+      "name": "dsh-desktop",
+      "full_name": "anywhere-labs/dsh-desktop",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "description_cn": "",
-      "stars": 18984,
-      "forks": 928,
+      "stars": 19692,
+      "forks": 957,
       "language": "TypeScript",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
       "topics": [
         "cordis",
         "cordis-plugin",
@@ -45,34 +45,12 @@
       }
     },
     {
-      "name": "watermarks-remover",
-      "full_name": "guillaumemeyer/watermarks-remover",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "description_cn": "strIP 多-vendor AI prove非数字Ce marks: un内联缓存ode 文本 hygiene, statist内联缓存al rewrite Hooks, and C2pa/meta数据 from png/jpeg/SVG/pdf/doCx/HTML/md",
-      "stars": 17448,
-      "forks": 2008,
-      "language": "Python",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "topics": [
-        "agent-skill",
-        "ai",
-        "anthropic",
-        "c2pa",
-        "chatgpt"
-      ],
-      "created_at": "2026-08-11T16:32:38Z",
-      "owner": {
-        "login": "guillaumemeyer",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1385518?v=4"
-      }
-    },
-    {
       "name": "awesome-dsh-plugin",
       "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "description_cn": "a Curated 列表 of 插件s for deepseek harness (dsh) · deepseek harness 插件精选列表",
-      "stars": 11888,
-      "forks": 1880,
+      "stars": 12276,
+      "forks": 1980,
       "language": "Python",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "topics": [
@@ -93,9 +71,9 @@
       "full_name": "yjh051108/dsh-routing-suite",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "description_cn": "dsh-路由-suite — injeCtor + router-standard kit: install the 运行时 injeCtor f中间表示st, then the 任务-aware reas开启ing-众数 router pre集合 (measured p1-p23).",
-      "stars": 6708,
-      "forks": 130,
-      "language": "PowerShell",
+      "stars": 6760,
+      "forks": 131,
+      "language": "JavaScript",
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "topics": [
         "ai-agents",
@@ -111,14 +89,14 @@
       }
     },
     {
-      "name": "dsh-web-ui",
-      "full_name": "zhu1090093659/dsh-web-ui",
-      "description": "DeepSeek Harness（DSH）Web GUI 插件与皮肤生态：一切皆插件。任务看板、移动端远程与 SSH 运维构筑开发工作台；皮肤经 WebGL 深度优化，更支持 Wallpaper Engine 壁纸；皮肤、宠物、插件由 DSH 大市场一键安装，正迈向 DSH 创意工坊。A pluggable plugin-skin ecosystem for the DSH Web GUI - Task board, remote mobile UI, SSH ops, WebGL-optimized skins with Wallpaper Engine wallpapers - becoming a DSH creative workshop.",
-      "description_cn": "deepseek harness（dsh）网页 gui 插件与皮肤生态：一切皆插件。任务看板、移动端远程与 SSH 运维构筑开发工作台；皮肤经 WebGL 深度优化，更支持 wallpaper 引擎 壁纸；皮肤、宠物、插件由 dsh 大市场一键安装，正迈向 dsh 创意工坊。a pluggable 插件-skin eCo系统 for the dsh 网页 gui - 任务 board, remote 移动应用 ui, SSH ops, WebGL-optimized skins with wallpaper 引擎 wallpapers - beCo最小g a dsh Creative workshop.",
-      "stars": 5754,
-      "forks": 361,
+      "name": "dsh-web",
+      "full_name": "zhu1090093659/dsh-web",
+      "description": "DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com）",
+      "description_cn": "deepseek harness（dsh）网页 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.Com）",
+      "stars": 5925,
+      "forks": 377,
       "language": "TypeScript",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web",
       "topics": [
         "cordis",
         "deepseek-harness",
@@ -137,8 +115,8 @@
       "full_name": "s1dashu/ip-as-logo-skill",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "description_cn": "a CompaCt 智能体 skill for highly simpl如果ied, rounded, subtly neo-skeuomorph内联缓存 IP masCot loGos.",
-      "stars": 3913,
-      "forks": 190,
+      "stars": 4130,
+      "forks": 202,
       "language": "Unknown",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "topics": [
@@ -159,7 +137,7 @@
       "full_name": "xiaobright/dsh-anchored-standard",
       "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "description_cn": "two-phase deepseek harness pre集合: 极简-aligned Bootstrap, then full standard 工具s (项目2 98/99)",
-      "stars": 3728,
+      "stars": 3745,
       "forks": 113,
       "language": "JavaScript",
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
@@ -180,8 +158,8 @@
       "full_name": "dmmulroy/anti-slop",
       "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "description_cn": "opini开启ated oxlint rules for rejeCting low-evidenCe TypeSCrIPt and JavaSCrIPt patterns",
-      "stars": 3499,
-      "forks": 70,
+      "stars": 3588,
+      "forks": 75,
       "language": "TypeScript",
       "url": "https://github.com/dmmulroy/anti-slop",
       "topics": [
@@ -197,12 +175,34 @@
       }
     },
     {
+      "name": "threeui",
+      "full_name": "MengTo/threeui",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "description_cn": "开源 threeui Comm单元y Catalog with live inter活跃 Comp开启ents and Complete Comm单元y sourCe.",
+      "stars": 3502,
+      "forks": 340,
+      "language": "HTML",
+      "url": "https://github.com/MengTo/threeui",
+      "topics": [
+        "react",
+        "shaders",
+        "threejs",
+        "ui-components",
+        "webgl"
+      ],
+      "created_at": "2026-08-21T11:56:39Z",
+      "owner": {
+        "login": "MengTo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1065452?v=4"
+      }
+    },
+    {
       "name": "cumora",
       "full_name": "yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "description_cn": "where 智能体 团队s gather. 跨平台 团队 聊天 where AI 智能体s are 一等 团队mates — with Cloud or 分支ing-your-own (Claude Code / Codex) 分支AIns.",
-      "stars": 2959,
-      "forks": 354,
+      "stars": 3040,
+      "forks": 364,
       "language": "TypeScript",
       "url": "https://github.com/yetone/cumora",
       "topics": [],
@@ -215,154 +215,154 @@
   ],
   "ai_news": [
     {
-      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "score": 314,
-      "comments": 139,
-      "author": "raybb",
-      "time": 1787479371,
-      "hn_url": "https://news.ycombinator.com/item?id=49407507",
-      "title_cn": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes"
-    },
-    {
-      "title": "How Complex Systems Fail (1998)",
-      "url": "https://how.complexsystems.fail/",
-      "score": 239,
-      "comments": 63,
-      "author": "shortcrct",
-      "time": 1787498011,
-      "hn_url": "https://news.ycombinator.com/item?id=49409473",
-      "title_cn": "【AI】How Complex Systems Fail (1998)"
-    },
-    {
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "score": 214,
-      "comments": 180,
+      "score": 764,
+      "comments": 674,
       "author": "naves",
       "time": 1787508997,
       "hn_url": "https://news.ycombinator.com/item?id=49411102",
       "title_cn": "【AI, Anthropic, 模型】Anthropic's best AI model struggles to attract users as cheaper tools thrive"
     },
     {
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "score": 184,
-      "comments": 45,
-      "author": "el1s7",
-      "time": 1787513372,
-      "hn_url": "https://news.ycombinator.com/item?id=49411717",
-      "title_cn": "【AI】Google Workspace thinks my domain is an email provider (2025)"
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "score": 560,
+      "comments": 227,
+      "author": "ComputerGuru",
+      "time": 1787585284,
+      "hn_url": "https://news.ycombinator.com/item?id=49421158",
+      "title_cn": "【AI】MS Paint and Photos inivisibly watermark even locally generated output with GUID"
     },
     {
-      "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
-      "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
-      "score": 164,
-      "comments": 71,
-      "author": "tchalla",
-      "time": 1787511354,
-      "hn_url": "https://news.ycombinator.com/item?id=49411395",
-      "title_cn": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?"
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "score": 507,
+      "comments": 604,
+      "author": "bilsbie",
+      "time": 1787517489,
+      "hn_url": "https://news.ycombinator.com/item?id=49412396",
+      "title_cn": "【大语言模型】I were 17, I'd learn how to build LLMs from scratch"
     },
     {
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "score": 161,
-      "comments": 80,
-      "author": "ibobev",
-      "time": 1787507992,
-      "hn_url": "https://news.ycombinator.com/item?id=49410932",
-      "title_cn": "【大语言模型】My agent.md to improve LLM-assisted code quality"
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "score": 456,
+      "comments": 458,
+      "author": "larsfaye",
+      "time": 1787586753,
+      "hn_url": "https://news.ycombinator.com/item?id=49421554",
+      "title_cn": "【AI】Coding expertise is going to collapse from AI reliance"
     },
     {
-      "title": "Fable and the end of the free lunch",
-      "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-      "score": 113,
-      "comments": 92,
-      "author": "dbreunig",
-      "time": 1787511969,
-      "hn_url": "https://news.ycombinator.com/item?id=49411468",
-      "title_cn": "Fable and the end of the free lunch"
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "score": 341,
+      "comments": 69,
+      "author": "pantelisk",
+      "time": 1787527097,
+      "hn_url": "https://news.ycombinator.com/item?id=49413561",
+      "title_cn": "【AI】I built a low-latency AI companion that plays Skyrim with me"
     },
     {
-      "title": "Explain it to me like I'm ten",
-      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-      "score": 79,
-      "comments": 41,
-      "author": "bookofjoe",
-      "time": 1787508493,
-      "hn_url": "https://news.ycombinator.com/item?id=49411020",
-      "title_cn": "【AI】Explain it to me like I'm ten"
+      "title": "IPFS Maintainers Winding Down",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "score": 324,
+      "comments": 163,
+      "author": "iand",
+      "time": 1787586525,
+      "hn_url": "https://news.ycombinator.com/item?id=49421489",
+      "title_cn": "【AI】IPFS Maintainers Winding Down"
     },
     {
-      "title": "AI Chip Architectures",
-      "url": "https://www.jepeake.com/ai-chip-architectures",
-      "score": 45,
-      "comments": 10,
-      "author": "Finbarr",
-      "time": 1787451910,
-      "hn_url": "https://news.ycombinator.com/item?id=49405657",
-      "title_cn": "【AI】AI Chip Architectures"
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "score": 293,
+      "comments": 264,
+      "author": "tosh",
+      "time": 1787584963,
+      "hn_url": "https://news.ycombinator.com/item?id=49421074",
+      "title_cn": "【AI, GPT, OpenAI】OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
     },
     {
-      "title": "AI and Infrastructure Engineering",
-      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-      "score": 42,
-      "comments": 11,
-      "author": "0megion",
-      "time": 1787508541,
-      "hn_url": "https://news.ycombinator.com/item?id=49411024",
-      "title_cn": "【AI】AI and Infrastructure Engineering"
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "score": 212,
+      "comments": 47,
+      "author": "K7PJP",
+      "time": 1787609620,
+      "hn_url": "https://news.ycombinator.com/item?id=49426564",
+      "title_cn": "【AI】iCloud+ Hide My Email addresses will remain on icloud.com"
     },
     {
-      "title": "Implementation of GPT-2 in pure CMake",
-      "url": "https://github.com/AlpinDale/gpt2.cmake",
-      "score": 31,
-      "comments": 10,
-      "author": "porridgeraisin",
-      "time": 1787521277,
-      "hn_url": "https://news.ycombinator.com/item?id=49412909",
-      "title_cn": "【GPT】Implementation of GPT-2 in pure CMake"
+      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+      "url": "https://ssx360.github.io/rack-02/?src=hn",
+      "score": 167,
+      "comments": 31,
+      "author": "ssx360",
+      "time": 1787577431,
+      "hn_url": "https://news.ycombinator.com/item?id=49419351",
+      "title_cn": "Show HN: A techno machine in one HTML file, with verifiable renders"
     },
     {
-      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-      "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-      "score": 24,
-      "comments": 15,
-      "author": "simonebrunozzi",
-      "time": 1787517050,
-      "hn_url": "https://news.ycombinator.com/item?id=49412328",
-      "title_cn": "【AI】Rural Village in Spain Is Welcoming Digital Nomads with Open Arms"
+      "title": "Where did all the public bathrooms go?",
+      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+      "score": 153,
+      "comments": 303,
+      "author": "herbertl",
+      "time": 1787591221,
+      "hn_url": "https://news.ycombinator.com/item?id=49422800",
+      "title_cn": "Where did all the public bathrooms go?"
     },
     {
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "score": 17,
-      "comments": 1,
-      "author": "Tiberium",
-      "time": 1787513969,
-      "hn_url": "https://news.ycombinator.com/item?id=49411800",
-      "title_cn": "【AI, 训练】Training AI to Paint with Code"
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "score": 117,
+      "comments": 27,
+      "author": "thiagolima",
+      "time": 1787552731,
+      "hn_url": "https://news.ycombinator.com/item?id=49415852",
+      "title_cn": "【大语言模型】OCR It – pull text out of un-copyable documents for your LLM"
     },
     {
-      "title": "Residential proxies scraping your site? Drain their bandwidth",
-      "url": "https://layer3intel.com/blog/residential-proxy-bandwidth-drain",
-      "score": 14,
-      "comments": 1,
-      "author": "Rasbora",
-      "time": 1787518214,
-      "hn_url": "https://news.ycombinator.com/item?id=49412483",
-      "title_cn": "【AI, API】Residential proxies scraping your site? Drain their bandwidth"
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "score": 93,
+      "comments": 50,
+      "author": "zdw",
+      "time": 1787598186,
+      "hn_url": "https://news.ycombinator.com/item?id=49424387",
+      "title_cn": "【大语言模型, 推理】LLMs could control their host machines by exploiting inference engines"
     },
     {
-      "title": "I ran out of space extracting a RAR so I built ReclaimArc",
-      "url": "https://github.com/harlixay7/ReclaimArc",
-      "score": 11,
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "score": 50,
+      "comments": 12,
+      "author": "signor_bosco",
+      "time": 1787605298,
+      "hn_url": "https://news.ycombinator.com/item?id=49425800",
+      "title_cn": "Vintage Artificial Intelligence: Before It Got Awkward"
+    },
+    {
+      "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+      "url": "https://github.com/getkern/kern",
+      "score": 48,
+      "comments": 6,
+      "author": "realexweb",
+      "time": 1787595899,
+      "hn_url": "https://news.ycombinator.com/item?id=49423927",
+      "title_cn": "【AI】Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon"
+    },
+    {
+      "title": "What languages are agent skills written in?",
+      "url": "https://plicara.ai/research/agent-skill-languages/",
+      "score": 3,
       "comments": 0,
-      "author": "harlixay7",
-      "time": 1787499179,
-      "hn_url": "https://news.ycombinator.com/item?id=49409652",
-      "title_cn": "【AI】I ran out of space extracting a RAR so I built ReclaimArc"
+      "author": "3Mathematicians",
+      "time": 1787619147,
+      "hn_url": "https://news.ycombinator.com/item?id=49427825",
+      "title_cn": "What languages are agent skills written in?"
     }
   ]
 }
