@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-25T01:34:21.052698",
+  "updated_at": "2026-08-26T01:39:08.279109",
   "github_projects": [
     {
       "name": "deepseek-harness",
       "full_name": "deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "description_cn": "deepseek harness: everything is a 插件.",
-      "stars": 192119,
-      "forks": 21536,
+      "stars": 195369,
+      "forks": 22097,
       "language": "TypeScript",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "topics": [
@@ -27,8 +27,8 @@
       "full_name": "anywhere-labs/dsh-desktop",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "description_cn": "",
-      "stars": 19692,
-      "forks": 957,
+      "stars": 20225,
+      "forks": 984,
       "language": "TypeScript",
       "url": "https://github.com/anywhere-labs/dsh-desktop",
       "topics": [
@@ -49,8 +49,8 @@
       "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "description_cn": "a Curated 列表 of 插件s for deepseek harness (dsh) · deepseek harness 插件精选列表",
-      "stars": 12276,
-      "forks": 1980,
+      "stars": 12665,
+      "forks": 2062,
       "language": "Python",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "topics": [
@@ -71,8 +71,8 @@
       "full_name": "yjh051108/dsh-routing-suite",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "description_cn": "dsh-路由-suite — injeCtor + router-standard kit: install the 运行时 injeCtor f中间表示st, then the 任务-aware reas开启ing-众数 router pre集合 (measured p1-p23).",
-      "stars": 6760,
-      "forks": 131,
+      "stars": 6815,
+      "forks": 137,
       "language": "JavaScript",
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "topics": [
@@ -89,34 +89,12 @@
       }
     },
     {
-      "name": "dsh-web",
-      "full_name": "zhu1090093659/dsh-web",
-      "description": "DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com）",
-      "description_cn": "deepseek harness（dsh）网页 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.Com）",
-      "stars": 5925,
-      "forks": 377,
-      "language": "TypeScript",
-      "url": "https://github.com/zhu1090093659/dsh-web",
-      "topics": [
-        "cordis",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-web"
-      ],
-      "created_at": "2026-08-12T05:15:20Z",
-      "owner": {
-        "login": "zhu1090093659",
-        "avatar_url": "https://avatars.githubusercontent.com/u/46916148?v=4"
-      }
-    },
-    {
       "name": "ip-as-logo-skill",
       "full_name": "s1dashu/ip-as-logo-skill",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "description_cn": "a CompaCt 智能体 skill for highly simpl如果ied, rounded, subtly neo-skeuomorph内联缓存 IP masCot loGos.",
-      "stars": 4130,
-      "forks": 202,
+      "stars": 4285,
+      "forks": 211,
       "language": "Unknown",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "topics": [
@@ -133,54 +111,12 @@
       }
     },
     {
-      "name": "dsh-anchored-standard",
-      "full_name": "xiaobright/dsh-anchored-standard",
-      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "description_cn": "two-phase deepseek harness pre集合: 极简-aligned Bootstrap, then full standard 工具s (项目2 98/99)",
-      "stars": 3745,
-      "forks": 113,
-      "language": "JavaScript",
-      "url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "topics": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "llm-agent"
-      ],
-      "created_at": "2026-08-14T14:06:39Z",
-      "owner": {
-        "login": "xiaobright",
-        "avatar_url": "https://avatars.githubusercontent.com/u/104243166?v=4"
-      }
-    },
-    {
-      "name": "anti-slop",
-      "full_name": "dmmulroy/anti-slop",
-      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-      "description_cn": "opini开启ated oxlint rules for rejeCting low-evidenCe TypeSCrIPt and JavaSCrIPt patterns",
-      "stars": 3588,
-      "forks": 75,
-      "language": "TypeScript",
-      "url": "https://github.com/dmmulroy/anti-slop",
-      "topics": [
-        "agent-skills",
-        "linting",
-        "oxlint",
-        "typescript"
-      ],
-      "created_at": "2026-08-12T13:48:50Z",
-      "owner": {
-        "login": "dmmulroy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2755722?v=4"
-      }
-    },
-    {
       "name": "threeui",
       "full_name": "MengTo/threeui",
       "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
       "description_cn": "开源 threeui Comm单元y Catalog with live inter活跃 Comp开启ents and Complete Comm单元y sourCe.",
-      "stars": 3502,
-      "forks": 340,
+      "stars": 3929,
+      "forks": 389,
       "language": "HTML",
       "url": "https://github.com/MengTo/threeui",
       "topics": [
@@ -197,12 +133,33 @@
       }
     },
     {
+      "name": "dsh-anchored-standard",
+      "full_name": "xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "description_cn": "two-phase deepseek harness pre集合: 极简-aligned Bootstrap, then full standard 工具s (项目2 98/99)",
+      "stars": 3754,
+      "forks": 114,
+      "language": "JavaScript",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm-agent"
+      ],
+      "created_at": "2026-08-14T14:06:39Z",
+      "owner": {
+        "login": "xiaobright",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104243166?v=4"
+      }
+    },
+    {
       "name": "cumora",
       "full_name": "yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "description_cn": "where 智能体 团队s gather. 跨平台 团队 聊天 where AI 智能体s are 一等 团队mates — with Cloud or 分支ing-your-own (Claude Code / Codex) 分支AIns.",
-      "stars": 3040,
-      "forks": 364,
+      "stars": 3119,
+      "forks": 371,
       "language": "TypeScript",
       "url": "https://github.com/yetone/cumora",
       "topics": [],
@@ -211,158 +168,196 @@
         "login": "yetone",
         "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
       }
+    },
+    {
+      "name": "OpenBot",
+      "full_name": "CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "description_cn": "开源 AI Co工作进程s that eaCh get a Computer of the中间表示 own: a 分支owser, files and 工具s, with every aCti开启 deCided before it happens and 记录ed after. 分支ing any ag-ui 智能体.",
+      "stars": 2909,
+      "forks": 351,
+      "language": "TypeScript",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "topics": [
+        "ag-ui",
+        "agent-governance",
+        "ai-agents",
+        "browser-automation",
+        "copilotkit"
+      ],
+      "created_at": "2026-08-17T00:44:59Z",
+      "owner": {
+        "login": "CopilotKit",
+        "avatar_url": "https://avatars.githubusercontent.com/u/131273140?v=4"
+      }
+    },
+    {
+      "name": "paper",
+      "full_name": "cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "description_cn": "a program最小g paradigm for spatiotemporal Composability",
+      "stars": 2833,
+      "forks": 133,
+      "language": "Unknown",
+      "url": "https://github.com/cordiverse/paper",
+      "topics": [],
+      "created_at": "2026-08-13T09:53:33Z",
+      "owner": {
+        "login": "cordiverse",
+        "avatar_url": "https://avatars.githubusercontent.com/u/152786899?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "score": 764,
-      "comments": 674,
-      "author": "naves",
-      "time": 1787508997,
-      "hn_url": "https://news.ycombinator.com/item?id=49411102",
-      "title_cn": "【AI, Anthropic, 模型】Anthropic's best AI model struggles to attract users as cheaper tools thrive"
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "score": 957,
+      "comments": 899,
+      "author": "interpol_p",
+      "time": 1787662882,
+      "hn_url": "https://news.ycombinator.com/item?id=49433292",
+      "title_cn": "Apple introduces M6 and M5 Ultra"
     },
     {
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 560,
-      "comments": 227,
+      "score": 839,
+      "comments": 424,
       "author": "ComputerGuru",
       "time": 1787585284,
       "hn_url": "https://news.ycombinator.com/item?id=49421158",
       "title_cn": "【AI】MS Paint and Photos inivisibly watermark even locally generated output with GUID"
     },
     {
-      "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "score": 507,
-      "comments": 604,
-      "author": "bilsbie",
-      "time": 1787517489,
-      "hn_url": "https://news.ycombinator.com/item?id=49412396",
-      "title_cn": "【大语言模型】I were 17, I'd learn how to build LLMs from scratch"
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "score": 327,
+      "comments": 222,
+      "author": "bmulholland",
+      "time": 1787666762,
+      "hn_url": "https://news.ycombinator.com/item?id=49434378",
+      "title_cn": "【AI, OpenAI】OpenAI Jalapeño: Better than Nvidia Blackwell"
     },
     {
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "score": 456,
-      "comments": 458,
-      "author": "larsfaye",
-      "time": 1787586753,
-      "hn_url": "https://news.ycombinator.com/item?id=49421554",
-      "title_cn": "【AI】Coding expertise is going to collapse from AI reliance"
+      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+      "score": 310,
+      "comments": 138,
+      "author": "garo-pro",
+      "time": 1787658583,
+      "hn_url": "https://news.ycombinator.com/item?id=49432317",
+      "title_cn": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)"
     },
     {
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "score": 341,
-      "comments": 69,
-      "author": "pantelisk",
-      "time": 1787527097,
-      "hn_url": "https://news.ycombinator.com/item?id=49413561",
-      "title_cn": "【AI】I built a low-latency AI companion that plays Skyrim with me"
+      "title": "How Universities Should Prepare Founders",
+      "url": "https://paulgraham.com/prepare.html",
+      "score": 237,
+      "comments": 288,
+      "author": "gmays",
+      "time": 1787622039,
+      "hn_url": "https://news.ycombinator.com/item?id=49428121",
+      "title_cn": "How Universities Should Prepare Founders"
     },
     {
-      "title": "IPFS Maintainers Winding Down",
-      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "score": 324,
-      "comments": 163,
-      "author": "iand",
-      "time": 1787586525,
-      "hn_url": "https://news.ycombinator.com/item?id=49421489",
-      "title_cn": "【AI】IPFS Maintainers Winding Down"
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "score": 195,
+      "comments": 22,
+      "author": "Tiberium",
+      "time": 1787513969,
+      "hn_url": "https://news.ycombinator.com/item?id=49411800",
+      "title_cn": "【AI, 训练】Training AI to Paint with Code"
     },
     {
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "score": 293,
-      "comments": 264,
-      "author": "tosh",
-      "time": 1787584963,
-      "hn_url": "https://news.ycombinator.com/item?id=49421074",
-      "title_cn": "【AI, GPT, OpenAI】OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
+      "title": "Python's pre-declared constants are kinda weird",
+      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "score": 142,
+      "comments": 113,
+      "author": "rbanffy",
+      "time": 1787693942,
+      "hn_url": "https://news.ycombinator.com/item?id=49441033",
+      "title_cn": "Python's pre-declared constants are kinda weird"
     },
     {
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "score": 212,
-      "comments": 47,
-      "author": "K7PJP",
-      "time": 1787609620,
-      "hn_url": "https://news.ycombinator.com/item?id=49426564",
-      "title_cn": "【AI】iCloud+ Hide My Email addresses will remain on icloud.com"
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "score": 100,
+      "comments": 21,
+      "author": "petruspennanen",
+      "time": 1787671220,
+      "hn_url": "https://news.ycombinator.com/item?id=49435675",
+      "title_cn": "【AI】Show HN: I made a Raspberry with Qwen my local car AI"
     },
     {
-      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
-      "url": "https://ssx360.github.io/rack-02/?src=hn",
-      "score": 167,
-      "comments": 31,
-      "author": "ssx360",
-      "time": 1787577431,
-      "hn_url": "https://news.ycombinator.com/item?id=49419351",
-      "title_cn": "Show HN: A techno machine in one HTML file, with verifiable renders"
-    },
-    {
-      "title": "Where did all the public bathrooms go?",
-      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "score": 153,
-      "comments": 303,
-      "author": "herbertl",
-      "time": 1787591221,
-      "hn_url": "https://news.ycombinator.com/item?id=49422800",
-      "title_cn": "Where did all the public bathrooms go?"
-    },
-    {
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "score": 117,
-      "comments": 27,
-      "author": "thiagolima",
-      "time": 1787552731,
-      "hn_url": "https://news.ycombinator.com/item?id=49415852",
-      "title_cn": "【大语言模型】OCR It – pull text out of un-copyable documents for your LLM"
-    },
-    {
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "score": 93,
-      "comments": 50,
+      "title": "Visualizing Binary Files",
+      "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
+      "score": 81,
+      "comments": 15,
       "author": "zdw",
-      "time": 1787598186,
-      "hn_url": "https://news.ycombinator.com/item?id=49424387",
-      "title_cn": "【大语言模型, 推理】LLMs could control their host machines by exploiting inference engines"
+      "time": 1787595677,
+      "hn_url": "https://news.ycombinator.com/item?id=49423878",
+      "title_cn": "Visualizing Binary Files"
     },
     {
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-      "score": 50,
-      "comments": 12,
-      "author": "signor_bosco",
-      "time": 1787605298,
-      "hn_url": "https://news.ycombinator.com/item?id=49425800",
-      "title_cn": "Vintage Artificial Intelligence: Before It Got Awkward"
+      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "score": 77,
+      "comments": 35,
+      "author": "Retr0id",
+      "time": 1787686704,
+      "hn_url": "https://news.ycombinator.com/item?id=49439499",
+      "title_cn": "C2PA Cameras Do Not Survive Contact with Reality"
     },
     {
-      "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
-      "url": "https://github.com/getkern/kern",
-      "score": 48,
-      "comments": 6,
-      "author": "realexweb",
-      "time": 1787595899,
-      "hn_url": "https://news.ycombinator.com/item?id=49423927",
-      "title_cn": "【AI】Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon"
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "score": 58,
+      "comments": 29,
+      "author": "rbanffy",
+      "time": 1787690943,
+      "hn_url": "https://news.ycombinator.com/item?id=49440410",
+      "title_cn": "When str.lower() is a security vulnerability in Python – Seth Larson"
     },
     {
-      "title": "What languages are agent skills written in?",
-      "url": "https://plicara.ai/research/agent-skill-languages/",
-      "score": 3,
-      "comments": 0,
-      "author": "3Mathematicians",
-      "time": 1787619147,
-      "hn_url": "https://news.ycombinator.com/item?id=49427825",
-      "title_cn": "What languages are agent skills written in?"
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "score": 47,
+      "comments": 9,
+      "author": "swimmingbrain",
+      "time": 1787695730,
+      "hn_url": "https://news.ycombinator.com/item?id=49441375",
+      "title_cn": "【AI】Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM"
+    },
+    {
+      "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+      "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
+      "score": 30,
+      "comments": 17,
+      "author": "cgorlla",
+      "time": 1787671102,
+      "hn_url": "https://news.ycombinator.com/item?id=49435641",
+      "title_cn": "Behaviorally fingerprinting Ox Alpha's provenance"
+    },
+    {
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "url": "https://github.com/runetes/maiao",
+      "score": 25,
+      "comments": 5,
+      "author": "zdw",
+      "time": 1787697607,
+      "hn_url": "https://news.ycombinator.com/item?id=49441666",
+      "title_cn": "【AI】Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others"
+    },
+    {
+      "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
+      "url": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
+      "score": 19,
+      "comments": 4,
+      "author": "brvier",
+      "time": 1787694217,
+      "hn_url": "https://news.ycombinator.com/item?id=49441101",
+      "title_cn": "【工具】One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool"
     }
   ]
 }
