@@ -1,77 +1,12 @@
 {
-  "updated_at": "2026-08-26T01:39:08.279109",
+  "updated_at": "2026-08-27T08:30:47.834589",
   "github_projects": [
-    {
-      "name": "deepseek-harness",
-      "full_name": "deepseek-ai/deepseek-harness",
-      "description": "DeepSeek Harness: Everything is a Plugin.",
-      "description_cn": "deepseek harness: everything is a 插件.",
-      "stars": 195369,
-      "forks": 22097,
-      "language": "TypeScript",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "topics": [
-        "ai-agents",
-        "cordis",
-        "dsh",
-        "dsh-plugin"
-      ],
-      "created_at": "2026-08-13T11:56:32Z",
-      "owner": {
-        "login": "deepseek-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      }
-    },
-    {
-      "name": "dsh-desktop",
-      "full_name": "anywhere-labs/dsh-desktop",
-      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "description_cn": "",
-      "stars": 20225,
-      "forks": 984,
-      "language": "TypeScript",
-      "url": "https://github.com/anywhere-labs/dsh-desktop",
-      "topics": [
-        "cordis",
-        "cordis-plugin",
-        "deepseek",
-        "deepseek-harness",
-        "desktop"
-      ],
-      "created_at": "2026-08-13T16:30:50Z",
-      "owner": {
-        "login": "anywhere-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/286827603?v=4"
-      }
-    },
-    {
-      "name": "awesome-dsh-plugin",
-      "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "description_cn": "a Curated 列表 of 插件s for deepseek harness (dsh) · deepseek harness 插件精选列表",
-      "stars": 12665,
-      "forks": 2062,
-      "language": "Python",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin"
-      ],
-      "created_at": "2026-08-13T13:55:31Z",
-      "owner": {
-        "login": "awesome-dsh-plugin",
-        "avatar_url": "https://avatars.githubusercontent.com/u/316603077?v=4"
-      }
-    },
     {
       "name": "dsh-routing-suite",
       "full_name": "yjh051108/dsh-routing-suite",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "description_cn": "dsh-路由-suite — injeCtor + router-standard kit: install the 运行时 injeCtor f中间表示st, then the 任务-aware reas开启ing-众数 router pre集合 (measured p1-p23).",
-      "stars": 6815,
+      "stars": 6875,
       "forks": 137,
       "language": "JavaScript",
       "url": "https://github.com/yjh051108/dsh-routing-suite",
@@ -93,8 +28,8 @@
       "full_name": "s1dashu/ip-as-logo-skill",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "description_cn": "a CompaCt 智能体 skill for highly simpl如果ied, rounded, subtly neo-skeuomorph内联缓存 IP masCot loGos.",
-      "stars": 4285,
-      "forks": 211,
+      "stars": 4411,
+      "forks": 223,
       "language": "Unknown",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "topics": [
@@ -115,8 +50,8 @@
       "full_name": "MengTo/threeui",
       "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
       "description_cn": "开源 threeui Comm单元y Catalog with live inter活跃 Comp开启ents and Complete Comm单元y sourCe.",
-      "stars": 3929,
-      "forks": 389,
+      "stars": 4249,
+      "forks": 422,
       "language": "HTML",
       "url": "https://github.com/MengTo/threeui",
       "topics": [
@@ -137,8 +72,8 @@
       "full_name": "xiaobright/dsh-anchored-standard",
       "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "description_cn": "two-phase deepseek harness pre集合: 极简-aligned Bootstrap, then full standard 工具s (项目2 98/99)",
-      "stars": 3754,
-      "forks": 114,
+      "stars": 3777,
+      "forks": 115,
       "language": "JavaScript",
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "topics": [
@@ -154,12 +89,28 @@
       }
     },
     {
+      "name": "grok-bot-0.18-reconstructed",
+      "full_name": "b-nnett/grok-bot-0.18-reconstructed",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "description_cn": "un关闭内联缓存ial sourCe-oriented reC开启结构体i开启 and 扩展 of grok 机器人 0.18.0 for maCos",
+      "stars": 3220,
+      "forks": 3179,
+      "language": "TypeScript",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "topics": [],
+      "created_at": "2026-08-23T20:53:01Z",
+      "owner": {
+        "login": "b-nnett",
+        "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
+      }
+    },
+    {
       "name": "cumora",
       "full_name": "yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "description_cn": "where 智能体 团队s gather. 跨平台 团队 聊天 where AI 智能体s are 一等 团队mates — with Cloud or 分支ing-your-own (Claude Code / Codex) 分支AIns.",
-      "stars": 3119,
-      "forks": 371,
+      "stars": 3167,
+      "forks": 381,
       "language": "TypeScript",
       "url": "https://github.com/yetone/cumora",
       "topics": [],
@@ -174,8 +125,8 @@
       "full_name": "CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "description_cn": "开源 AI Co工作进程s that eaCh get a Computer of the中间表示 own: a 分支owser, files and 工具s, with every aCti开启 deCided before it happens and 记录ed after. 分支ing any ag-ui 智能体.",
-      "stars": 2909,
-      "forks": 351,
+      "stars": 3053,
+      "forks": 373,
       "language": "TypeScript",
       "url": "https://github.com/CopilotKit/OpenBot",
       "topics": [
@@ -192,172 +143,214 @@
       }
     },
     {
-      "name": "paper",
-      "full_name": "cordiverse/paper",
-      "description": "A Programming Paradigm for Spatiotemporal Composability",
-      "description_cn": "a program最小g paradigm for spatiotemporal Composability",
-      "stars": 2833,
-      "forks": 133,
-      "language": "Unknown",
-      "url": "https://github.com/cordiverse/paper",
-      "topics": [],
-      "created_at": "2026-08-13T09:53:33Z",
+      "name": "dsh-market",
+      "full_name": "dsh-market/dsh-market",
+      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "description_cn": "the 插件 market inside deepseek harness — 分支owse, 搜索, 开启e-命令行工具Ck install · dsh 可视化插件市场",
+      "stars": 2559,
+      "forks": 132,
+      "language": "TypeScript",
+      "url": "https://github.com/dsh-market/dsh-market",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "marketplace"
+      ],
+      "created_at": "2026-08-14T04:58:15Z",
       "owner": {
-        "login": "cordiverse",
-        "avatar_url": "https://avatars.githubusercontent.com/u/152786899?v=4"
+        "login": "dsh-market",
+        "avatar_url": "https://avatars.githubusercontent.com/u/316826596?v=4"
+      }
+    },
+    {
+      "name": "sprix-sage-router",
+      "full_name": "wang2122/sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "description_cn": "sprix AI at 屿智同行 — 状态-aware self/Collaborate/hand关闭 路由 for a2a 智能体 网络s.",
+      "stars": 2328,
+      "forks": 111,
+      "language": "Python",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "topics": [
+        "a2a",
+        "agent-orchestration",
+        "agent-routing",
+        "ai-agents",
+        "multi-agent-systems"
+      ],
+      "created_at": "2026-08-18T04:08:11Z",
+      "owner": {
+        "login": "wang2122",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78741078?v=4"
+      }
+    },
+    {
+      "name": "walgit",
+      "full_name": "tobi/walgit",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 2153,
+      "forks": 116,
+      "language": "Rust",
+      "url": "https://github.com/tobi/walgit",
+      "topics": [],
+      "created_at": "2026-08-23T22:28:01Z",
+      "owner": {
+        "login": "tobi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/347?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Apple introduces M6 and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 957,
-      "comments": 899,
-      "author": "interpol_p",
-      "time": 1787662882,
-      "hn_url": "https://news.ycombinator.com/item?id=49433292",
-      "title_cn": "Apple introduces M6 and M5 Ultra"
+      "title": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "score": 1011,
+      "comments": 506,
+      "author": "Philpax",
+      "time": 1787753330,
+      "hn_url": "https://news.ycombinator.com/item?id=49449507",
+      "title_cn": "GLM-5.3-Flash"
     },
     {
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 839,
-      "comments": 424,
-      "author": "ComputerGuru",
-      "time": 1787585284,
-      "hn_url": "https://news.ycombinator.com/item?id=49421158",
-      "title_cn": "【AI】MS Paint and Photos inivisibly watermark even locally generated output with GUID"
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "score": 991,
+      "comments": 423,
+      "author": "mfiguiere",
+      "time": 1787793175,
+      "hn_url": "https://news.ycombinator.com/item?id=49458161",
+      "title_cn": "Nvidia agrees to acquire Hugging Face for $13B"
     },
     {
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 327,
-      "comments": 222,
-      "author": "bmulholland",
-      "time": 1787666762,
-      "hn_url": "https://news.ycombinator.com/item?id=49434378",
-      "title_cn": "【AI, OpenAI】OpenAI Jalapeño: Better than Nvidia Blackwell"
+      "title": "Qwen3.8-Flash-Next",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "score": 665,
+      "comments": 216,
+      "author": "tosh",
+      "time": 1787748732,
+      "hn_url": "https://news.ycombinator.com/item?id=49448210",
+      "title_cn": "Qwen3.8-Flash-Next"
     },
     {
-      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
-      "score": 310,
-      "comments": 138,
-      "author": "garo-pro",
-      "time": 1787658583,
-      "hn_url": "https://news.ycombinator.com/item?id=49432317",
-      "title_cn": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)"
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "score": 563,
+      "comments": 100,
+      "author": "nderjung",
+      "time": 1787766142,
+      "hn_url": "https://news.ycombinator.com/item?id=49452990",
+      "title_cn": "【AI】Tailcat – Like netcat, but over Tailscale’s data plane"
     },
     {
-      "title": "How Universities Should Prepare Founders",
-      "url": "https://paulgraham.com/prepare.html",
-      "score": 237,
-      "comments": 288,
-      "author": "gmays",
-      "time": 1787622039,
-      "hn_url": "https://news.ycombinator.com/item?id=49428121",
-      "title_cn": "How Universities Should Prepare Founders"
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "score": 528,
+      "comments": 344,
+      "author": "GrumpySciGuy",
+      "time": 1787795182,
+      "hn_url": "https://news.ycombinator.com/item?id=49458418",
+      "title_cn": "【AI, 开源】CEO fired developers to make room for AI. Developers create open source AI CEO"
     },
     {
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "score": 195,
-      "comments": 22,
-      "author": "Tiberium",
-      "time": 1787513969,
-      "hn_url": "https://news.ycombinator.com/item?id=49411800",
-      "title_cn": "【AI, 训练】Training AI to Paint with Code"
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "score": 255,
+      "comments": 319,
+      "author": "amrrs",
+      "time": 1787771723,
+      "hn_url": "https://news.ycombinator.com/item?id=49454314",
+      "title_cn": "The Hugging Face incident and the road ahead"
     },
     {
-      "title": "Python's pre-declared constants are kinda weird",
-      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-      "score": 142,
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "score": 235,
+      "comments": 210,
+      "author": "LVB",
+      "time": 1787759715,
+      "hn_url": "https://news.ycombinator.com/item?id=49451313",
+      "title_cn": "【AI】The turbulent AI era is here"
+    },
+    {
+      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "score": 208,
       "comments": 113,
-      "author": "rbanffy",
-      "time": 1787693942,
-      "hn_url": "https://news.ycombinator.com/item?id=49441033",
-      "title_cn": "Python's pre-declared constants are kinda weird"
+      "author": "zazuke",
+      "time": 1787758205,
+      "hn_url": "https://news.ycombinator.com/item?id=49450898",
+      "title_cn": "【AI】It’s so hard to finish an idea that is not yours and is just suggested by AI"
     },
     {
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
-      "score": 100,
-      "comments": 21,
-      "author": "petruspennanen",
-      "time": 1787671220,
-      "hn_url": "https://news.ycombinator.com/item?id=49435675",
-      "title_cn": "【AI】Show HN: I made a Raspberry with Qwen my local car AI"
+      "title": "VMs won't contain cyber-capable agents",
+      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+      "score": 162,
+      "comments": 121,
+      "author": "polyrand",
+      "time": 1787755770,
+      "hn_url": "https://news.ycombinator.com/item?id=49450188",
+      "title_cn": "【AI】VMs won't contain cyber-capable agents"
     },
     {
-      "title": "Visualizing Binary Files",
-      "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
-      "score": 81,
-      "comments": 15,
-      "author": "zdw",
-      "time": 1787595677,
-      "hn_url": "https://news.ycombinator.com/item?id=49423878",
-      "title_cn": "Visualizing Binary Files"
+      "title": "Kusama Yayoi has died",
+      "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
+      "score": 159,
+      "comments": 13,
+      "author": "phantomathkg",
+      "time": 1787797278,
+      "hn_url": "https://news.ycombinator.com/item?id=49458709",
+      "title_cn": "Kusama Yayoi has died"
     },
     {
-      "title": "C2PA Cameras Do Not Survive Contact with Reality",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "score": 77,
-      "comments": 35,
-      "author": "Retr0id",
-      "time": 1787686704,
-      "hn_url": "https://news.ycombinator.com/item?id=49439499",
-      "title_cn": "C2PA Cameras Do Not Survive Contact with Reality"
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "score": 158,
+      "comments": 72,
+      "author": "totetsu",
+      "time": 1787784243,
+      "hn_url": "https://news.ycombinator.com/item?id=49456929",
+      "title_cn": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022"
     },
     {
-      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "score": 58,
-      "comments": 29,
-      "author": "rbanffy",
-      "time": 1787690943,
-      "hn_url": "https://news.ycombinator.com/item?id=49440410",
-      "title_cn": "When str.lower() is a security vulnerability in Python – Seth Larson"
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "url": "https://acceptmarkdown.com/",
+      "score": 128,
+      "comments": 73,
+      "author": "tilt",
+      "time": 1787773559,
+      "hn_url": "https://news.ycombinator.com/item?id=49454764",
+      "title_cn": "【AI】Serve Markdown to AI Agents with Accept Headers"
     },
     {
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "url": "https://github.com/swimmingbrain/texbrain",
-      "score": 47,
-      "comments": 9,
-      "author": "swimmingbrain",
-      "time": 1787695730,
-      "hn_url": "https://news.ycombinator.com/item?id=49441375",
-      "title_cn": "【AI】Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM"
+      "title": "Laion Big Video Dataset",
+      "url": "https://projects.laion.ai/bvd/",
+      "score": 57,
+      "comments": 16,
+      "author": "ks2048",
+      "time": 1787795426,
+      "hn_url": "https://news.ycombinator.com/item?id=49458478",
+      "title_cn": "【AI】Laion Big Video Dataset"
     },
     {
-      "title": "Behaviorally fingerprinting Ox Alpha's provenance",
-      "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
-      "score": 30,
-      "comments": 17,
-      "author": "cgorlla",
-      "time": 1787671102,
-      "hn_url": "https://news.ycombinator.com/item?id=49435641",
-      "title_cn": "Behaviorally fingerprinting Ox Alpha's provenance"
+      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+      "url": "https://www.risklytics.ai/",
+      "score": 52,
+      "comments": 20,
+      "author": "AlexRisio",
+      "time": 1787760361,
+      "hn_url": "https://news.ycombinator.com/item?id=49451495",
+      "title_cn": "【推出】Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies"
     },
     {
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "url": "https://github.com/runetes/maiao",
+      "title": "Getting video models to learn better, faster",
+      "url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
       "score": 25,
-      "comments": 5,
-      "author": "zdw",
-      "time": 1787697607,
-      "hn_url": "https://news.ycombinator.com/item?id=49441666",
-      "title_cn": "【AI】Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others"
-    },
-    {
-      "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
-      "url": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
-      "score": 19,
-      "comments": 4,
-      "author": "brvier",
-      "time": 1787694217,
-      "hn_url": "https://news.ycombinator.com/item?id=49441101",
-      "title_cn": "【工具】One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool"
+      "comments": 9,
+      "author": "schopra909",
+      "time": 1787795614,
+      "hn_url": "https://news.ycombinator.com/item?id=49458502",
+      "title_cn": "【模型】Getting video models to learn better, faster"
     }
   ]
 }
