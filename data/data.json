@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-28T10:44:25.608130",
+  "updated_at": "2026-08-29T06:31:38.774409",
   "github_projects": [
     {
       "name": "ip-as-logo-skill",
       "full_name": "s1dashu/ip-as-logo-skill",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "description_cn": "a CompaCt 智能体 skill for highly simpl如果ied, rounded, subtly neo-skeuomorph内联缓存 IP masCot loGos.",
-      "stars": 4485,
-      "forks": 226,
+      "stars": 4521,
+      "forks": 229,
       "language": "Unknown",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "topics": [
@@ -28,8 +28,8 @@
       "full_name": "MengTo/threeui",
       "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
       "description_cn": "开源 threeui Comm单元y Catalog with live inter活跃 Comp开启ents and Complete Comm单元y sourCe.",
-      "stars": 4374,
-      "forks": 437,
+      "stars": 4466,
+      "forks": 444,
       "language": "HTML",
       "url": "https://github.com/MengTo/threeui",
       "topics": [
@@ -46,28 +46,12 @@
       }
     },
     {
-      "name": "grok-bot-0.18-reconstructed",
-      "full_name": "b-nnett/grok-bot-0.18-reconstructed",
-      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "description_cn": "un关闭内联缓存ial sourCe-oriented reC开启结构体i开启 and 扩展 of grok 机器人 0.18.0 for maCos",
-      "stars": 3392,
-      "forks": 3266,
-      "language": "TypeScript",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "topics": [],
-      "created_at": "2026-08-23T20:53:01Z",
-      "owner": {
-        "login": "b-nnett",
-        "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
-      }
-    },
-    {
       "name": "my-girlfriend-jingtian-latex",
       "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
       "description": "No description",
       "description_cn": "",
-      "stars": 3244,
-      "forks": 519,
+      "stars": 3765,
+      "forks": 590,
       "language": "TeX",
       "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
       "topics": [],
@@ -78,12 +62,28 @@
       }
     },
     {
+      "name": "grok-bot-0.18-reconstructed",
+      "full_name": "b-nnett/grok-bot-0.18-reconstructed",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "description_cn": "un关闭内联缓存ial sourCe-oriented reC开启结构体i开启 and 扩展 of grok 机器人 0.18.0 for maCos",
+      "stars": 3413,
+      "forks": 3321,
+      "language": "TypeScript",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "topics": [],
+      "created_at": "2026-08-23T20:53:01Z",
+      "owner": {
+        "login": "b-nnett",
+        "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
+      }
+    },
+    {
       "name": "OpenBot",
       "full_name": "CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "description_cn": "开源 AI Co工作进程s that eaCh get a Computer of the中间表示 own: a 分支owser, files and 工具s, with every aCti开启 deCided before it happens and 记录ed after. 分支ing any ag-ui 智能体.",
-      "stars": 3237,
-      "forks": 391,
+      "stars": 3332,
+      "forks": 405,
       "language": "TypeScript",
       "url": "https://github.com/CopilotKit/OpenBot",
       "topics": [
@@ -104,8 +104,8 @@
       "full_name": "yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "description_cn": "where 智能体 团队s gather. 跨平台 团队 聊天 where AI 智能体s are 一等 团队mates — with Cloud or 分支ing-your-own (Claude Code / Codex) 分支AIns.",
-      "stars": 3193,
-      "forks": 386,
+      "stars": 3229,
+      "forks": 392,
       "language": "TypeScript",
       "url": "https://github.com/yetone/cumora",
       "topics": [],
@@ -120,8 +120,8 @@
       "full_name": "wang2122/sprix-sage-router",
       "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "description_cn": "sprix AI at 屿智同行 — 状态-aware self/Collaborate/hand关闭 路由 for a2a 智能体 网络s.",
-      "stars": 2405,
-      "forks": 191,
+      "stars": 2624,
+      "forks": 224,
       "language": "Python",
       "url": "https://github.com/wang2122/sprix-sage-router",
       "topics": [
@@ -142,8 +142,8 @@
       "full_name": "tobi/walgit",
       "description": "No description",
       "description_cn": "",
-      "stars": 2273,
-      "forks": 120,
+      "stars": 2306,
+      "forks": 122,
       "language": "Rust",
       "url": "https://github.com/tobi/walgit",
       "topics": [],
@@ -154,12 +154,28 @@
       }
     },
     {
+      "name": "PRAXIST",
+      "full_name": "sapientinc/PRAXIST",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "description_cn": "aut开启omous re搜索 系统 for measurable, Computer-可执行文件 re搜索.",
+      "stars": 2047,
+      "forks": 247,
+      "language": "Python",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "topics": [],
+      "created_at": "2026-08-27T14:20:58Z",
+      "owner": {
+        "login": "sapientinc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/188930505?v=4"
+      }
+    },
+    {
       "name": "x64dbg-mcp-server",
       "full_name": "duty1g/x64dbg-mcp-server",
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "description_cn": "x64dbg-mCp 服务器 is a native mCp (模型 C开启文本 protoCol) 插件 for x64dbg that exposes the 调试器's full 函数ality over HTTP. C开启neCt any mCp-Compatible AI 助手 and C开启trol x64dbg programmati调用y: 集合 分支eak点s, step through Code, read 内存, dump registers, and more.  built with zig — zero dependenCies, single-二进制 output, Cros",
-      "stars": 1623,
-      "forks": 165,
+      "stars": 1677,
+      "forks": 170,
       "language": "Zig",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
       "topics": [
@@ -174,174 +190,158 @@
         "login": "duty1g",
         "avatar_url": "https://avatars.githubusercontent.com/u/3162883?v=4"
       }
-    },
-    {
-      "name": "deploy-vercel",
-      "full_name": "vvxw/deploy-vercel",
-      "description": "Install Command：npm install",
-      "description_cn": "install 命令：npm install",
-      "stars": 1473,
-      "forks": 302,
-      "language": "JavaScript",
-      "url": "https://github.com/vvxw/deploy-vercel",
-      "topics": [],
-      "created_at": "2026-08-18T13:25:45Z",
-      "owner": {
-        "login": "vvxw",
-        "avatar_url": "https://avatars.githubusercontent.com/u/142342666?v=4"
-      }
     }
   ],
   "ai_news": [
     {
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-      "score": 1898,
-      "comments": 878,
+      "score": 1953,
+      "comments": 898,
       "author": "mfiguiere",
       "time": 1787793175,
       "hn_url": "https://news.ycombinator.com/item?id=49458161",
       "title_cn": "Nvidia agrees to acquire Hugging Face for $13B"
     },
     {
-      "title": "Microduck",
-      "url": "https://pollen-robotics.com/microduck/",
-      "score": 674,
-      "comments": 214,
-      "author": "robotswantdata",
-      "time": 1787828276,
-      "hn_url": "https://news.ycombinator.com/item?id=49462763",
-      "title_cn": "Microduck"
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "score": 727,
+      "comments": 357,
+      "author": "ckardaris",
+      "time": 1787930229,
+      "hn_url": "https://news.ycombinator.com/item?id=49479837",
+      "title_cn": "GUIs should be fully keyboard-driven"
     },
     {
-      "title": "Small Models Have Arrived",
-      "url": "https://calv.info/small-models-have-arrived",
-      "score": 655,
-      "comments": 297,
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "score": 653,
+      "comments": 221,
+      "author": "jeudesprits",
+      "time": 1787930413,
+      "hn_url": "https://news.ycombinator.com/item?id=49479878",
+      "title_cn": "GLM-5.3 is now open-weight"
+    },
+    {
+      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "score": 567,
+      "comments": 412,
+      "author": "jbegley",
+      "time": 1787882618,
+      "hn_url": "https://news.ycombinator.com/item?id=49473522",
+      "title_cn": "【Anthropic】Judge rules Trump administration’s blacklisting of Anthropic was illegal"
+    },
+    {
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "score": 550,
+      "comments": 546,
+      "author": "exiguus",
+      "time": 1787921933,
+      "hn_url": "https://news.ycombinator.com/item?id=49477854",
+      "title_cn": "【AI】U.S. sanctions against the A/I Collective"
+    },
+    {
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "score": 476,
+      "comments": 145,
+      "author": "miniBill",
+      "time": 1787898837,
+      "hn_url": "https://news.ycombinator.com/item?id=49475079",
+      "title_cn": "【AI】Luanti removed from Google Play due to baseless AI copyright notice"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "score": 361,
+      "comments": 152,
+      "author": "meetpateltech",
+      "time": 1787968073,
+      "hn_url": "https://news.ycombinator.com/item?id=49486172",
+      "title_cn": "Our decision on Cursor following its acquisition by SpaceX"
+    },
+    {
+      "title": "Migrating to HTTPX2",
+      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "score": 190,
+      "comments": 82,
       "author": "tosh",
-      "time": 1787846218,
-      "hn_url": "https://news.ycombinator.com/item?id=49466917",
-      "title_cn": "【模型】Small Models Have Arrived"
+      "time": 1787917880,
+      "hn_url": "https://news.ycombinator.com/item?id=49477212",
+      "title_cn": "Migrating to HTTPX2"
     },
     {
-      "title": "Show HN: The load-bearing vocabulary of Claude",
-      "url": "https://louisabraham.github.io/load-bearing/",
-      "score": 534,
-      "comments": 255,
-      "author": "Labo333",
-      "time": 1787821189,
-      "hn_url": "https://news.ycombinator.com/item?id=49461817",
-      "title_cn": "【Claude】Show HN: The load-bearing vocabulary of Claude"
+      "title": "Stopping the smart TV from being used against you",
+      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+      "score": 171,
+      "comments": 138,
+      "author": "speckx",
+      "time": 1787948877,
+      "hn_url": "https://news.ycombinator.com/item?id=49483816",
+      "title_cn": "【AI】Stopping the smart TV from being used against you"
     },
     {
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "score": 309,
-      "comments": 554,
-      "author": "nanna",
-      "time": 1787743434,
-      "hn_url": "https://news.ycombinator.com/item?id=49447057",
-      "title_cn": "【AI】The turbulent AI era is here"
-    },
-    {
-      "title": "Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "score": 297,
-      "comments": 94,
-      "author": "k9294",
-      "time": 1787853822,
-      "hn_url": "https://news.ycombinator.com/item?id=49468818",
-      "title_cn": "Gemini-3.5-Transcribe"
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-      "score": 259,
-      "comments": 192,
-      "author": "saretup",
-      "time": 1787850392,
-      "hn_url": "https://news.ycombinator.com/item?id=49467922",
-      "title_cn": "Gemini Omni 1.1 Flash"
-    },
-    {
-      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
-      "url": "https://github.com/experientiallabs/experiential",
-      "score": 183,
-      "comments": 36,
-      "author": "SilenN",
-      "time": 1787865515,
-      "hn_url": "https://news.ycombinator.com/item?id=49471407",
-      "title_cn": "【模型】Show HN: We built open OpenRouter that turns usage into a better model"
-    },
-    {
-      "title": "Stripe said to abandon $50B pursuit of PayPal",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
-      "score": 151,
-      "comments": 199,
-      "author": "1986",
-      "time": 1787882246,
-      "hn_url": "https://news.ycombinator.com/item?id=49473483",
-      "title_cn": "【AI】Stripe said to abandon $50B pursuit of PayPal"
-    },
-    {
-      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-      "url": "https://aiandeducation.mit.edu/report/",
-      "score": 130,
-      "comments": 76,
-      "author": "pbui",
-      "time": 1787836065,
-      "hn_url": "https://news.ycombinator.com/item?id=49464314",
-      "title_cn": "【AI, 训练】MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training"
-    },
-    {
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "score": 118,
-      "comments": 47,
-      "author": "surprisetalk",
-      "time": 1787853890,
-      "hn_url": "https://news.ycombinator.com/item?id=49468834",
-      "title_cn": "【模型】Previewing the Model Hardware Standard"
-    },
-    {
-      "title": "Launching Route 53 Files",
-      "url": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
-      "score": 113,
-      "comments": 39,
-      "author": "louis-paul",
-      "time": 1787841923,
-      "hn_url": "https://news.ycombinator.com/item?id=49465732",
-      "title_cn": "【推出】Launching Route 53 Files"
-    },
-    {
-      "title": "Humanity has the debate about AI consciousness backwards",
-      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
-      "score": 104,
-      "comments": 318,
-      "author": "semiquaver",
-      "time": 1787798227,
-      "hn_url": "https://news.ycombinator.com/item?id=49458875",
-      "title_cn": "【AI】Humanity has the debate about AI consciousness backwards"
-    },
-    {
-      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "url": "https://www.terminal-bench-science.ai/announcement",
-      "score": 93,
-      "comments": 27,
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "score": 97,
+      "comments": 16,
       "author": "matt_d",
-      "time": 1787875611,
-      "hn_url": "https://news.ycombinator.com/item?id=49472820",
-      "title_cn": "【AI】Terminal-Bench-Science: Evaluating AI agents on scientific research workflows"
+      "time": 1787959665,
+      "hn_url": "https://news.ycombinator.com/item?id=49485416",
+      "title_cn": "【大语言模型】I accidentally turned LLM memory into program analysis"
     },
     {
-      "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
-      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
-      "score": 54,
-      "comments": 7,
-      "author": "luu",
-      "time": 1787907646,
-      "hn_url": "https://news.ycombinator.com/item?id=49476143",
-      "title_cn": "Hilariously Fast Volume Computation with the Divergence Theorem"
+      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "score": 94,
+      "comments": 23,
+      "author": "stephenchung",
+      "time": 1787936472,
+      "hn_url": "https://news.ycombinator.com/item?id=49481455",
+      "title_cn": "【自动驾驶】Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment"
+    },
+    {
+      "title": "Don't use musl if you care about performance",
+      "url": "https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/",
+      "score": 94,
+      "comments": 59,
+      "author": "jbellis",
+      "time": 1787930167,
+      "hn_url": "https://news.ycombinator.com/item?id=49479826",
+      "title_cn": "Don't use musl if you care about performance"
+    },
+    {
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "score": 67,
+      "comments": 13,
+      "author": "thclpr",
+      "time": 1787966653,
+      "hn_url": "https://news.ycombinator.com/item?id=49486081",
+      "title_cn": "【AI】StemDeck, a free, open-source and local AI stem separator"
+    },
+    {
+      "title": "Identifying fake cosmetics using AI",
+      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "score": 47,
+      "comments": 19,
+      "author": "wgrover",
+      "time": 1787955507,
+      "hn_url": "https://news.ycombinator.com/item?id=49484925",
+      "title_cn": "【AI】Identifying fake cosmetics using AI"
+    },
+    {
+      "title": "OpenAI and Anthropic are ruining San Francisco",
+      "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8&fbclid=IwY2xjawT_Fs1wZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHvfPHyGSByYNR7Cmkzc-oVqd31kuJy3YUIMwJB5LlB84Hi71zSB_6e5NVbld_aem_L8Ysu4gjQinZHOeaZObNKA",
+      "score": 18,
+      "comments": 11,
+      "author": "catchmeifyoucan",
+      "time": 1787968240,
+      "hn_url": "https://news.ycombinator.com/item?id=49486188",
+      "title_cn": "【AI, OpenAI, Anthropic】OpenAI and Anthropic are ruining San Francisco"
     }
   ]
 }
