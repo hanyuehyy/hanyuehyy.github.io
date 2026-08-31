@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-30T04:44:08.631946",
+  "updated_at": "2026-08-31T04:47:22.860120",
   "github_projects": [
     {
       "name": "threeui",
       "full_name": "MengTo/threeui",
       "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
       "description_cn": "开源 threeui Comm单元y Catalog with live inter活跃 Comp开启ents and Complete Comm单元y sourCe.",
-      "stars": 4576,
-      "forks": 455,
+      "stars": 4687,
+      "forks": 463,
       "language": "HTML",
       "url": "https://github.com/MengTo/threeui",
       "topics": [
@@ -28,8 +28,8 @@
       "full_name": "s1dashu/ip-as-logo-skill",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "description_cn": "a CompaCt 智能体 skill for highly simpl如果ied, rounded, subtly neo-skeuomorph内联缓存 IP masCot loGos.",
-      "stars": 4560,
-      "forks": 230,
+      "stars": 4620,
+      "forks": 235,
       "language": "Unknown",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "topics": [
@@ -46,82 +46,12 @@
       }
     },
     {
-      "name": "my-girlfriend-jingtian-latex",
-      "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 3992,
-      "forks": 632,
-      "language": "TeX",
-      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
-      "topics": [],
-      "created_at": "2026-08-27T11:28:44Z",
-      "owner": {
-        "login": "HEJustinSun",
-        "avatar_url": "https://avatars.githubusercontent.com/u/320896847?v=4"
-      }
-    },
-    {
-      "name": "OpenBot",
-      "full_name": "CopilotKit/OpenBot",
-      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "description_cn": "开源 AI Co工作进程s that eaCh get a Computer of the中间表示 own: a 分支owser, files and 工具s, with every aCti开启 deCided before it happens and 记录ed after. 分支ing any ag-ui 智能体.",
-      "stars": 3454,
-      "forks": 432,
-      "language": "TypeScript",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "topics": [
-        "ag-ui",
-        "agent-governance",
-        "ai-agents",
-        "browser-automation",
-        "copilotkit"
-      ],
-      "created_at": "2026-08-17T00:44:59Z",
-      "owner": {
-        "login": "CopilotKit",
-        "avatar_url": "https://avatars.githubusercontent.com/u/131273140?v=4"
-      }
-    },
-    {
-      "name": "grok-bot-0.18-reconstructed",
-      "full_name": "b-nnett/grok-bot-0.18-reconstructed",
-      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "description_cn": "un关闭内联缓存ial sourCe-oriented reC开启结构体i开启 and 扩展 of grok 机器人 0.18.0 for maCos",
-      "stars": 3436,
-      "forks": 3379,
-      "language": "TypeScript",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "topics": [],
-      "created_at": "2026-08-23T20:53:01Z",
-      "owner": {
-        "login": "b-nnett",
-        "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
-      }
-    },
-    {
-      "name": "cumora",
-      "full_name": "yetone/cumora",
-      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "description_cn": "where 智能体 团队s gather. 跨平台 团队 聊天 where AI 智能体s are 一等 团队mates — with Cloud or 分支ing-your-own (Claude Code / Codex) 分支AIns.",
-      "stars": 3251,
-      "forks": 398,
-      "language": "TypeScript",
-      "url": "https://github.com/yetone/cumora",
-      "topics": [],
-      "created_at": "2026-08-17T09:13:52Z",
-      "owner": {
-        "login": "yetone",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
-      }
-    },
-    {
       "name": "PRAXIST",
       "full_name": "sapientinc/PRAXIST",
       "description": "Autonomous research system for measurable, computer-executable research.",
       "description_cn": "aut开启omous re搜索 系统 for measurable, Computer-可执行文件 re搜索.",
-      "stars": 3211,
-      "forks": 362,
+      "stars": 4538,
+      "forks": 365,
       "language": "Python",
       "url": "https://github.com/sapientinc/PRAXIST",
       "topics": [],
@@ -132,12 +62,44 @@
       }
     },
     {
+      "name": "my-girlfriend-jingtian-latex",
+      "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 4159,
+      "forks": 655,
+      "language": "TeX",
+      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+      "topics": [],
+      "created_at": "2026-08-27T11:28:44Z",
+      "owner": {
+        "login": "HEJustinSun",
+        "avatar_url": "https://avatars.githubusercontent.com/u/320896847?v=4"
+      }
+    },
+    {
+      "name": "grok-bot-0.18-reconstructed",
+      "full_name": "b-nnett/grok-bot-0.18-reconstructed",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "description_cn": "un关闭内联缓存ial sourCe-oriented reC开启结构体i开启 and 扩展 of grok 机器人 0.18.0 for maCos",
+      "stars": 3455,
+      "forks": 3426,
+      "language": "TypeScript",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "topics": [],
+      "created_at": "2026-08-23T20:53:01Z",
+      "owner": {
+        "login": "b-nnett",
+        "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
+      }
+    },
+    {
       "name": "sprix-sage-router",
       "full_name": "wang2122/sprix-sage-router",
       "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "description_cn": "sprix AI at 屿智同行 — 状态-aware self/Collaborate/hand关闭 路由 for a2a 智能体 网络s.",
-      "stars": 2778,
-      "forks": 279,
+      "stars": 2791,
+      "forks": 338,
       "language": "Python",
       "url": "https://github.com/wang2122/sprix-sage-router",
       "topics": [
@@ -158,8 +120,8 @@
       "full_name": "tobi/walgit",
       "description": "No description",
       "description_cn": "",
-      "stars": 2329,
-      "forks": 125,
+      "stars": 2350,
+      "forks": 128,
       "language": "Rust",
       "url": "https://github.com/tobi/walgit",
       "topics": [],
@@ -174,8 +136,8 @@
       "full_name": "duty1g/x64dbg-mcp-server",
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "description_cn": "x64dbg-mCp 服务器 is a native mCp (模型 C开启文本 protoCol) 插件 for x64dbg that exposes the 调试器's full 函数ality over HTTP. C开启neCt any mCp-Compatible AI 助手 and C开启trol x64dbg programmati调用y: 集合 分支eak点s, step through Code, read 内存, dump registers, and more.  built with zig — zero dependenCies, single-二进制 output, Cros",
-      "stars": 1750,
-      "forks": 179,
+      "stars": 1786,
+      "forks": 185,
       "language": "Zig",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
       "topics": [
@@ -190,158 +152,190 @@
         "login": "duty1g",
         "avatar_url": "https://avatars.githubusercontent.com/u/3162883?v=4"
       }
+    },
+    {
+      "name": "Amagine3D",
+      "full_name": "amagine-ai/Amagine3D",
+      "description": "Amagine3D: From hardware requirements to editable 3D designs",
+      "description_cn": "amagine3D: from hardware requ中间表示ements to edi表 3D designs",
+      "stars": 1608,
+      "forks": 82,
+      "language": "Python",
+      "url": "https://github.com/amagine-ai/Amagine3D",
+      "topics": [],
+      "created_at": "2026-08-19T15:31:34Z",
+      "owner": {
+        "login": "amagine-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/285729589?v=4"
+      }
+    },
+    {
+      "name": "deploy-vercel",
+      "full_name": "vvxw/deploy-vercel",
+      "description": "Install Command：npm install",
+      "description_cn": "install 命令：npm install",
+      "stars": 1540,
+      "forks": 319,
+      "language": "JavaScript",
+      "url": "https://github.com/vvxw/deploy-vercel",
+      "topics": [],
+      "created_at": "2026-08-18T13:25:45Z",
+      "owner": {
+        "login": "vvxw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/142342666?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "GUIs should be fully keyboard-driven",
-      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "score": 1013,
-      "comments": 500,
-      "author": "ckardaris",
-      "time": 1787930229,
-      "hn_url": "https://news.ycombinator.com/item?id=49479837",
-      "title_cn": "GUIs should be fully keyboard-driven"
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "score": 274,
+      "comments": 83,
+      "author": "metrofun",
+      "time": 1788105670,
+      "hn_url": "https://news.ycombinator.com/item?id=49499867",
+      "title_cn": "【AI, 发布】Haiku R1/beta6 has been released"
     },
     {
-      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "score": 613,
-      "comments": 423,
-      "author": "jbegley",
-      "time": 1787882618,
-      "hn_url": "https://news.ycombinator.com/item?id=49473522",
-      "title_cn": "【Anthropic】Judge rules Trump administration’s blacklisting of Anthropic was illegal"
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "score": 198,
+      "comments": 58,
+      "author": "joebig",
+      "time": 1788078206,
+      "hn_url": "https://news.ycombinator.com/item?id=49496782",
+      "title_cn": "【AI】Longest Straight Line Paths on Water or Land on the Earth (2018)"
     },
     {
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "score": 300,
-      "comments": 72,
-      "author": "gpi",
-      "time": 1788023987,
-      "hn_url": "https://news.ycombinator.com/item?id=49491568",
-      "title_cn": "【AI】Good Culture Is the Biggest Productivity Hack, Not AI"
-    },
-    {
-      "title": "I accidentally turned LLM memory into program analysis",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "score": 282,
-      "comments": 76,
-      "author": "matt_d",
-      "time": 1787959665,
-      "hn_url": "https://news.ycombinator.com/item?id=49485416",
-      "title_cn": "【大语言模型】I accidentally turned LLM memory into program analysis"
-    },
-    {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "score": 210,
-      "comments": 59,
-      "author": "thclpr",
-      "time": 1787966653,
-      "hn_url": "https://news.ycombinator.com/item?id=49486081",
-      "title_cn": "【AI】StemDeck, a free, open-source and local AI stem separator"
-    },
-    {
-      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-      "score": 196,
-      "comments": 90,
-      "author": "DeepLogin",
-      "time": 1788045437,
-      "hn_url": "https://news.ycombinator.com/item?id=49494182",
-      "title_cn": "【AI】Lawmakers added $1 to car insurance policies. That money paid for Flock cameras"
-    },
-    {
-      "title": "Time complexity of operations on Python's built-in types",
-      "url": "https://docs.python.org/3.16/library/time-complexity.html",
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
       "score": 96,
-      "comments": 38,
-      "author": "theanonymousone",
-      "time": 1787670908,
-      "hn_url": "https://news.ycombinator.com/item?id=49435595",
-      "title_cn": "Time complexity of operations on Python's built-in types"
+      "comments": 31,
+      "author": "gmays",
+      "time": 1788139702,
+      "hn_url": "https://news.ycombinator.com/item?id=49504625",
+      "title_cn": "【GPT】Understanding ChatGPT Work"
     },
     {
-      "title": "Creating the Aetheryte Radio",
-      "url": "https://haz.ee/posts/aetheryte-radio.html",
-      "score": 72,
-      "comments": 15,
-      "author": "wonger_",
-      "time": 1787929155,
-      "hn_url": "https://news.ycombinator.com/item?id=49479546",
-      "title_cn": "Creating the Aetheryte Radio"
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "score": 93,
+      "comments": 14,
+      "author": "pwg",
+      "time": 1788120025,
+      "hn_url": "https://news.ycombinator.com/item?id=49502214",
+      "title_cn": "Cores in space: The core memory module from a 1980 Spacelab computer"
     },
     {
-      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-      "url": "https://uecker.codeberg.page/2026-08-29.html",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
       "score": 70,
-      "comments": 49,
-      "author": "uecker",
-      "time": 1788013233,
-      "hn_url": "https://news.ycombinator.com/item?id=49490138",
-      "title_cn": "Indirect Calling of Nested Functions on GCC Without Executable Stack"
+      "comments": 29,
+      "author": "peter_d_sherman",
+      "time": 1788122813,
+      "hn_url": "https://news.ycombinator.com/item?id=49502611",
+      "title_cn": "【扩散模型, 模型】Continuous Diffusion Language Models (CDLM's)"
     },
     {
-      "title": "Domain-Driven Agents",
-      "url": "https://coldtake.dev/blog/domain-driven-agents",
-      "score": 69,
+      "title": "It takes 5 cloud services to hear my doorbell",
+      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+      "score": 57,
+      "comments": 38,
+      "author": "vghaisas",
+      "time": 1787931270,
+      "hn_url": "https://news.ycombinator.com/item?id=49480091",
+      "title_cn": "It takes 5 cloud services to hear my doorbell"
+    },
+    {
+      "title": "Matrox: Graphics for Professionals",
+      "url": "https://www.abortretry.fail/p/matrox",
+      "score": 56,
       "comments": 12,
-      "author": "AlarQ",
-      "time": 1788031708,
-      "hn_url": "https://news.ycombinator.com/item?id=49492584",
-      "title_cn": "【AI】Domain-Driven Agents"
+      "author": "BirAdam",
+      "time": 1788133175,
+      "hn_url": "https://news.ycombinator.com/item?id=49503934",
+      "title_cn": "Matrox: Graphics for Professionals"
     },
     {
-      "title": "The Rise and Fall of Agent Civilizations",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "score": 12,
-      "comments": 0,
-      "author": "consumer451",
-      "time": 1788047004,
-      "hn_url": "https://news.ycombinator.com/item?id=49494301",
-      "title_cn": "The Rise and Fall of Agent Civilizations"
+      "title": "UC Berkeley indefinitely suspends international student work authorizations",
+      "url": "https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html",
+      "score": 52,
+      "comments": 39,
+      "author": "cbzbc",
+      "time": 1788147249,
+      "hn_url": "https://news.ycombinator.com/item?id=49505288",
+      "title_cn": "UC Berkeley indefinitely suspends international student work authorizations"
     },
     {
-      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-      "url": "https://github.com/mk6i/open-oscar-server",
-      "score": 11,
+      "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
+      "url": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
+      "score": 37,
+      "comments": 31,
+      "author": "baud147258",
+      "time": 1787756684,
+      "hn_url": "https://news.ycombinator.com/item?id=49450461",
+      "title_cn": "【AI】Commercially Available Bike Generators Are Not Sustainable (2011)"
+    },
+    {
+      "title": "How to build a diffusion language model",
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "score": 33,
+      "comments": 2,
+      "author": "volodia",
+      "time": 1788133292,
+      "hn_url": "https://news.ycombinator.com/item?id=49503956",
+      "title_cn": "【扩散模型, 模型】How to build a diffusion language model"
+    },
+    {
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "score": 18,
+      "comments": 10,
+      "author": "dbalatero",
+      "time": 1788146433,
+      "hn_url": "https://news.ycombinator.com/item?id=49505219",
+      "title_cn": "【AI】P99 0 ms* autocomplete for 240M domain names"
+    },
+    {
+      "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+      "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+      "score": 18,
+      "comments": 11,
+      "author": "cdnsteve",
+      "time": 1788147957,
+      "hn_url": "https://news.ycombinator.com/item?id=49505351",
+      "title_cn": "【AI, 模型】The EU has begun enforcing the AI Act: first RFIs to model providers"
+    },
+    {
+      "title": "Racter (1984)",
+      "url": "https://www.ubu.com/historical/racter/index.html",
+      "score": 18,
       "comments": 5,
-      "author": "gregsadetsky",
-      "time": 1788050015,
-      "hn_url": "https://news.ycombinator.com/item?id=49494571",
-      "title_cn": "【AI】Open Oscar Server: open-source server compatible with AIM and ICQ clients"
+      "author": "buescher",
+      "time": 1787947908,
+      "hn_url": "https://news.ycombinator.com/item?id=49483622",
+      "title_cn": "Racter (1984)"
     },
     {
-      "title": "Benchmarking Pocket-Scale Inference",
-      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-      "score": 9,
-      "comments": 0,
-      "author": "sys42590",
-      "time": 1787857923,
-      "hn_url": "https://news.ycombinator.com/item?id=49469786",
-      "title_cn": "【推理, 基准测试】Benchmarking Pocket-Scale Inference"
+      "title": "CobaltC – The Successor to C?",
+      "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_06.html",
+      "score": 12,
+      "comments": 17,
+      "author": "SilentLambda",
+      "time": 1788143169,
+      "hn_url": "https://news.ycombinator.com/item?id=49504922",
+      "title_cn": "CobaltC – The Successor to C?"
     },
     {
-      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
-      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-      "score": 8,
-      "comments": 0,
-      "author": "Bluestein",
-      "time": 1787664002,
-      "hn_url": "https://news.ycombinator.com/item?id=49433554",
-      "title_cn": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")"
-    },
-    {
-      "title": "You have to beat the models at something",
-      "url": "https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/",
+      "title": "Internet centralization and the original sin of NAT",
+      "url": "https://dreamstation.systems/personal/ntppost.html",
       "score": 5,
       "comments": 0,
-      "author": "sam_bristow",
-      "time": 1788059490,
-      "hn_url": "https://news.ycombinator.com/item?id=49495350",
-      "title_cn": "【模型】You have to beat the models at something"
+      "author": "robinpie",
+      "time": 1788142983,
+      "hn_url": "https://news.ycombinator.com/item?id=49504905",
+      "title_cn": "Internet centralization and the original sin of NAT"
     }
   ]
 }
