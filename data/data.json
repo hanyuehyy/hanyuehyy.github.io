@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-01T04:27:17.685821",
+  "updated_at": "2026-09-02T03:50:39.114741",
   "github_projects": [
     {
       "name": "PRAXIST",
       "full_name": "sapientinc/PRAXIST",
       "description": "Autonomous research system for measurable, computer-executable research.",
       "description_cn": "aut开启omous re搜索 系统 for measurable, Computer-可执行文件 re搜索.",
-      "stars": 5462,
-      "forks": 475,
+      "stars": 6262,
+      "forks": 523,
       "language": "Python",
       "url": "https://github.com/sapientinc/PRAXIST",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "MengTo/threeui",
       "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
       "description_cn": "开源 threeui Comm单元y Catalog with live inter活跃 Comp开启ents and Complete Comm单元y sourCe.",
-      "stars": 4813,
-      "forks": 475,
+      "stars": 4919,
+      "forks": 487,
       "language": "HTML",
       "url": "https://github.com/MengTo/threeui",
       "topics": [
@@ -40,28 +40,12 @@
       }
     },
     {
-      "name": "my-girlfriend-jingtian-latex",
-      "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 4197,
-      "forks": 660,
-      "language": "TeX",
-      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
-      "topics": [],
-      "created_at": "2026-08-27T11:28:44Z",
-      "owner": {
-        "login": "HEJustinSun",
-        "avatar_url": "https://avatars.githubusercontent.com/u/320896847?v=4"
-      }
-    },
-    {
       "name": "grok-bot-0.18-reconstructed",
       "full_name": "b-nnett/grok-bot-0.18-reconstructed",
       "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
       "description_cn": "un关闭内联缓存ial sourCe-oriented reC开启结构体i开启 and 扩展 of grok 机器人 0.18.0 for maCos",
-      "stars": 3463,
-      "forks": 3468,
+      "stars": 3470,
+      "forks": 3499,
       "language": "TypeScript",
       "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
       "topics": [],
@@ -76,8 +60,8 @@
       "full_name": "tobi/walgit",
       "description": "No description",
       "description_cn": "",
-      "stars": 2365,
-      "forks": 129,
+      "stars": 2388,
+      "forks": 132,
       "language": "Rust",
       "url": "https://github.com/tobi/walgit",
       "topics": [],
@@ -88,34 +72,12 @@
       }
     },
     {
-      "name": "mono-color-skill",
-      "full_name": "yanliudesign/mono-color-skill",
-      "description": "One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.",
-      "description_cn": "开启e-ink 编辑者ial print 图像 skill — warm paper, halft开启e photo图y, 活跃 negative spaCe, and RESTrAIned typo图y.",
-      "stars": 2185,
-      "forks": 123,
-      "language": "Python",
-      "url": "https://github.com/yanliudesign/mono-color-skill",
-      "topics": [
-        "agent-skill",
-        "ai-agent",
-        "claude-skill",
-        "editorial-design",
-        "generative-art"
-      ],
-      "created_at": "2026-08-19T06:07:45Z",
-      "owner": {
-        "login": "yanliudesign",
-        "avatar_url": "https://avatars.githubusercontent.com/u/232981236?v=4"
-      }
-    },
-    {
       "name": "codex-with-chatgpt",
       "full_name": "XiaoDuoYa/codex-with-chatgpt",
       "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "description_cn": "ChatGPT thinks. Codex works. use ChatGPT as the planning 分支AIn while keeping the Codex harness.",
-      "stars": 1919,
-      "forks": 202,
+      "stars": 2157,
+      "forks": 218,
       "language": "TypeScript",
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "topics": [
@@ -132,28 +94,12 @@
       }
     },
     {
-      "name": "Amagine3D",
-      "full_name": "amagine-ai/Amagine3D",
-      "description": "Amagine3D: From hardware requirements to editable 3D designs",
-      "description_cn": "amagine3D: from hardware requ中间表示ements to edi表 3D designs",
-      "stars": 1913,
-      "forks": 86,
-      "language": "Python",
-      "url": "https://github.com/amagine-ai/Amagine3D",
-      "topics": [],
-      "created_at": "2026-08-19T15:31:34Z",
-      "owner": {
-        "login": "amagine-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/285729589?v=4"
-      }
-    },
-    {
       "name": "x64dbg-mcp-server",
       "full_name": "duty1g/x64dbg-mcp-server",
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "description_cn": "x64dbg-mCp 服务器 is a native mCp (模型 C开启文本 protoCol) 插件 for x64dbg that exposes the 调试器's full 函数ality over HTTP. C开启neCt any mCp-Compatible AI 助手 and C开启trol x64dbg programmati调用y: 集合 分支eak点s, step through Code, read 内存, dump registers, and more.  built with zig — zero dependenCies, single-二进制 output, Cros",
-      "stars": 1806,
-      "forks": 185,
+      "stars": 1828,
+      "forks": 187,
       "language": "Zig",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
       "topics": [
@@ -170,12 +116,34 @@
       }
     },
     {
+      "name": "fastpotify",
+      "full_name": "crmne/fastpotify",
+      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "description_cn": "spot如果y, native and 快速. 开启e 轻量级 Rust app for your whole 库, 本地 playbaCk, and spot如果y C开启neCt 开启 linux, maCos, and windows.",
+      "stars": 1577,
+      "forks": 65,
+      "language": "Rust",
+      "url": "https://github.com/crmne/fastpotify",
+      "topics": [
+        "audio",
+        "cross-platform",
+        "desktop-app",
+        "egui",
+        "gui"
+      ],
+      "created_at": "2026-08-27T12:46:32Z",
+      "owner": {
+        "login": "crmne",
+        "avatar_url": "https://avatars.githubusercontent.com/u/106617?v=4"
+      }
+    },
+    {
       "name": "scroll-craft",
       "full_name": "nateherkai/scroll-craft",
       "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
       "description_cn": "Claude Code skill for premium sCroll-driven 网页sites. sCroll beComes the time线, 开启 a real design floor, ver如果ied by sCreenshotting its own sCroll.",
-      "stars": 1345,
-      "forks": 213,
+      "stars": 1412,
+      "forks": 225,
       "language": "JavaScript",
       "url": "https://github.com/nateherkai/scroll-craft",
       "topics": [
@@ -190,158 +158,202 @@
         "login": "nateherkai",
         "avatar_url": "https://avatars.githubusercontent.com/u/253835467?v=4"
       }
+    },
+    {
+      "name": "FrontierAgent",
+      "full_name": "ApodexAI/FrontierAgent",
+      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "description_cn": "🧩 fr开启tier智能体, our 智能体 框架, 开源d al开启gside it — native 命令-线 tui, ReaCt and 智能体 团队 众数s, 开启e 命令 开启 maCos and linux, 否 preinstall, 否 hard DoCker dependenCy.",
+      "stars": 1367,
+      "forks": 126,
+      "language": "Python",
+      "url": "https://github.com/ApodexAI/FrontierAgent",
+      "topics": [
+        "agent-orchestration",
+        "agentic-ai",
+        "agentic-framework",
+        "ai-agents",
+        "harness"
+      ],
+      "created_at": "2026-08-22T05:07:35Z",
+      "owner": {
+        "login": "ApodexAI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/276468590?v=4"
+      }
+    },
+    {
+      "name": "sepia",
+      "full_name": "Nanako0129/sepia",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "description_cn": "de-AI writing skill for any 智能体 skills-Compatible 智能体 (77+ via the skills 命令行工具), with native 插件s for Claude Code, Codex, grok build, and antigravity. narrative-架构 re对 for f内联缓存ti开启, venue-matChed rules for professi开启al prose. based 开启 storysCope (arxiv:2604.03136).",
+      "stars": 1367,
+      "forks": 82,
+      "language": "Python",
+      "url": "https://github.com/Nanako0129/sepia",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex"
+      ],
+      "created_at": "2026-08-28T05:56:49Z",
+      "owner": {
+        "login": "Nanako0129",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44753291?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "score": 357,
-      "comments": 113,
-      "author": "Recursing",
-      "time": 1788162558,
-      "hn_url": "https://news.ycombinator.com/item?id=49506819",
-      "title_cn": "【Claude】Breaking Claude Code Opus 5 Auto Mode"
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "score": 993,
+      "comments": 931,
+      "author": "denysvitali",
+      "time": 1788285233,
+      "hn_url": "https://news.ycombinator.com/item?id=49525378",
+      "title_cn": "【Claude】Claude Fable 5.1 and Claude Mythos 5.1"
     },
     {
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "score": 341,
-      "comments": 386,
-      "author": "thm",
-      "time": 1788180082,
-      "hn_url": "https://news.ycombinator.com/item?id=49508982",
-      "title_cn": "【AI】Apple caught off guard by AI demand for Mac Mini and Mac Studio"
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "score": 593,
+      "comments": 154,
+      "author": "porridgeraisin",
+      "time": 1788256365,
+      "hn_url": "https://news.ycombinator.com/item?id=49519939",
+      "title_cn": "【AI, 大语言模型, Transformer模型】I trained a small transformer in 1.5hrs and it beats many LLMs"
     },
     {
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "score": 289,
-      "comments": 32,
-      "author": "matthewsinclair",
-      "time": 1788129421,
-      "hn_url": "https://news.ycombinator.com/item?id=49503521",
-      "title_cn": "【AI】Terence Tao explains 6 essential mathematical concepts [video]"
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "score": 499,
+      "comments": 578,
+      "author": "jatins",
+      "time": 1788287715,
+      "hn_url": "https://news.ycombinator.com/item?id=49526069",
+      "title_cn": "【AI】How accurate have Ed Zitron's AI skeptic predictions been?"
     },
     {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "score": 258,
-      "comments": 33,
-      "author": "keithcarolus",
-      "time": 1788200493,
-      "hn_url": "https://news.ycombinator.com/item?id=49512975",
-      "title_cn": "A walkable ASCII cyberpunk city in one HTML file [video]"
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "score": 286,
+      "comments": 124,
+      "author": "timpera",
+      "time": 1788293277,
+      "hn_url": "https://news.ycombinator.com/item?id=49527396",
+      "title_cn": "【GPT】The ChatGPT/Codex app bundles a full copy of LibreOffice"
     },
     {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "score": 200,
-      "comments": 53,
-      "author": "ijidak",
-      "time": 1788185235,
-      "hn_url": "https://news.ycombinator.com/item?id=49510000",
-      "title_cn": "【GPT, 工具】ChatGPT Work Tool and Skill Reference"
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "score": 169,
+      "comments": 41,
+      "author": "johnsutor",
+      "time": 1788284162,
+      "hn_url": "https://news.ycombinator.com/item?id=49525160",
+      "title_cn": "【模型】Atlas: A World Model for Spatial Intelligence"
     },
     {
-      "title": "Internet centralization and the original sin of NAT",
-      "url": "https://dreamstation.systems/personal/ntppost.html",
-      "score": 198,
-      "comments": 151,
-      "author": "robinpie",
-      "time": 1788142983,
-      "hn_url": "https://news.ycombinator.com/item?id=49504905",
-      "title_cn": "Internet centralization and the original sin of NAT"
+      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "url": "https://www.norirobotics.com/",
+      "score": 123,
+      "comments": 42,
+      "author": "AntonioLi",
+      "time": 1788284110,
+      "hn_url": "https://news.ycombinator.com/item?id=49525153",
+      "title_cn": "【机器人, 推出】Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development"
     },
     {
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "score": 174,
-      "comments": 50,
-      "author": "geox",
-      "time": 1788072724,
-      "hn_url": "https://news.ycombinator.com/item?id=49496292",
-      "title_cn": "【AI】Smartphone LED detects hidden cameras with AI"
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra/",
+      "score": 103,
+      "comments": 48,
+      "author": "jithinraj",
+      "time": 1788294041,
+      "hn_url": "https://news.ycombinator.com/item?id=49527595",
+      "title_cn": "Path to Astra: critical capabilities and frontier safeguards"
     },
     {
-      "title": "'Mad honey' that can stop your heart is being sold online",
-      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-      "score": 163,
-      "comments": 103,
-      "author": "samizdis",
-      "time": 1787908647,
-      "hn_url": "https://news.ycombinator.com/item?id=49476239",
-      "title_cn": "'Mad honey' that can stop your heart is being sold online"
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+      "score": 99,
+      "comments": 48,
+      "author": "jwise0",
+      "time": 1788292547,
+      "hn_url": "https://news.ycombinator.com/item?id=49527232",
+      "title_cn": "Refurbishing a Tektronix TDS7104 Oscilloscope"
     },
     {
-      "title": "The safest job from AI may be writing",
-      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "score": 121,
-      "comments": 166,
-      "author": "ilreb",
-      "time": 1788199940,
-      "hn_url": "https://news.ycombinator.com/item?id=49512856",
-      "title_cn": "【AI】The safest job from AI may be writing"
-    },
-    {
-      "title": "Show HN: We built the smallest dual-band aircraft tracker",
-      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-      "score": 79,
-      "comments": 21,
-      "author": "CoolNamesAllTkn",
-      "time": 1787776724,
-      "hn_url": "https://news.ycombinator.com/item?id=49455557",
-      "title_cn": "【AI】Show HN: We built the smallest dual-band aircraft tracker"
-    },
-    {
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "url": "https://usealmanac.com/",
-      "score": 51,
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "url": "https://lws.io/blog/my-local-model-setup/",
+      "score": 97,
       "comments": 45,
-      "author": "kushagrchitkar",
-      "time": 1788190474,
-      "hn_url": "https://news.ycombinator.com/item?id=49511007",
-      "title_cn": "【AI, 推出】Launch HN: Almanac (YC S26) – AI that knows your company"
+      "author": "raybb",
+      "time": 1788301852,
+      "hn_url": "https://news.ycombinator.com/item?id=49529132",
+      "title_cn": "【模型】My local model setup on an M4 Pro Mac Mini"
     },
     {
-      "title": "Tailcat: Tailscale Without Tailscale, by Tailscale",
-      "url": "https://tailscale.com/blog/tailcat",
-      "score": 47,
-      "comments": 3,
-      "author": "ricochet11",
-      "time": 1788230878,
-      "hn_url": "https://news.ycombinator.com/item?id=49517420",
-      "title_cn": "【AI】Tailcat: Tailscale Without Tailscale, by Tailscale"
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "score": 81,
+      "comments": 25,
+      "author": "masteranza",
+      "time": 1788300417,
+      "hn_url": "https://news.ycombinator.com/item?id=49528895",
+      "title_cn": "【AI】Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos"
     },
     {
-      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-      "url": "https://github.com/Hebbian-Robotics/hflow",
-      "score": 44,
-      "comments": 12,
-      "author": "kstonekuan",
-      "time": 1788188561,
-      "hn_url": "https://news.ycombinator.com/item?id=49510632",
-      "title_cn": "【机器人, 推出】Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines"
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "score": 61,
+      "comments": 9,
+      "author": "philipkiely",
+      "time": 1788306485,
+      "hn_url": "https://news.ycombinator.com/item?id=49529898",
+      "title_cn": "【大语言模型, 推理】The efficient frontier of LLM inference"
     },
     {
-      "title": "How we configured OpenTelemetry logs in Rails",
-      "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+      "title": "Building Autonomous Goal Loops That Deliver",
+      "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver/",
       "score": 26,
-      "comments": 4,
-      "author": "__vivek",
-      "time": 1788210742,
-      "hn_url": "https://news.ycombinator.com/item?id=49514895",
-      "title_cn": "【AI】How we configured OpenTelemetry logs in Rails"
+      "comments": 3,
+      "author": "jarredkenny",
+      "time": 1788004172,
+      "hn_url": "https://news.ycombinator.com/item?id=49489098",
+      "title_cn": "【自动驾驶】Building Autonomous Goal Loops That Deliver"
     },
     {
-      "title": "California Lawmakers Pass Plug-In Solar Bill",
-      "url": "https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html",
-      "score": 10,
-      "comments": 2,
-      "author": "lxm",
-      "time": 1788231446,
-      "hn_url": "https://news.ycombinator.com/item?id=49517492",
-      "title_cn": "California Lawmakers Pass Plug-In Solar Bill"
+      "title": "AI is making back-office work extinct",
+      "url": "https://www.whitecollardream.com/",
+      "score": 21,
+      "comments": 1,
+      "author": "edest28build",
+      "time": 1788299011,
+      "hn_url": "https://news.ycombinator.com/item?id=49528663",
+      "title_cn": "【AI】AI is making back-office work extinct"
+    },
+    {
+      "title": "Anthropic banned me for \"suspicious signals\"",
+      "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
+      "score": 20,
+      "comments": 9,
+      "author": "kixpanganiban",
+      "time": 1788309529,
+      "hn_url": "https://news.ycombinator.com/item?id=49530298",
+      "title_cn": "【Anthropic】Anthropic banned me for \"suspicious signals\""
+    },
+    {
+      "title": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "score": 18,
+      "comments": 14,
+      "author": "reasonableklout",
+      "time": 1788304365,
+      "hn_url": "https://news.ycombinator.com/item?id=49529567",
+      "title_cn": "Improving our alignment and security efforts"
     }
   ]
 }
