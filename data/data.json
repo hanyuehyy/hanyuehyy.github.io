@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-03T03:49:38.111405",
+  "updated_at": "2026-09-04T03:51:22.511379",
   "github_projects": [
     {
       "name": "PRAXIST",
       "full_name": "sapientinc/PRAXIST",
       "description": "Autonomous research system for measurable, computer-executable research.",
       "description_cn": "aut开启omous re搜索 系统 for measurable, Computer-可执行文件 re搜索.",
-      "stars": 6693,
-      "forks": 491,
+      "stars": 6930,
+      "forks": 518,
       "language": "Python",
       "url": "https://github.com/sapientinc/PRAXIST",
       "topics": [],
@@ -18,34 +18,12 @@
       }
     },
     {
-      "name": "threeui",
-      "full_name": "MengTo/threeui",
-      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-      "description_cn": "开源 threeui Comm单元y Catalog with live inter活跃 Comp开启ents and Complete Comm单元y sourCe.",
-      "stars": 5009,
-      "forks": 495,
-      "language": "HTML",
-      "url": "https://github.com/MengTo/threeui",
-      "topics": [
-        "react",
-        "shaders",
-        "threejs",
-        "ui-components",
-        "webgl"
-      ],
-      "created_at": "2026-08-21T11:56:39Z",
-      "owner": {
-        "login": "MengTo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1065452?v=4"
-      }
-    },
-    {
       "name": "grok-bot-0.18-reconstructed",
       "full_name": "b-nnett/grok-bot-0.18-reconstructed",
       "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
       "description_cn": "un关闭内联缓存ial sourCe-oriented reC开启结构体i开启 and 扩展 of grok 机器人 0.18.0 for maCos",
-      "stars": 3477,
-      "forks": 3517,
+      "stars": 3479,
+      "forks": 3538,
       "language": "TypeScript",
       "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
       "topics": [],
@@ -56,28 +34,12 @@
       }
     },
     {
-      "name": "walgit",
-      "full_name": "tobi/walgit",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 2407,
-      "forks": 132,
-      "language": "Rust",
-      "url": "https://github.com/tobi/walgit",
-      "topics": [],
-      "created_at": "2026-08-23T22:28:01Z",
-      "owner": {
-        "login": "tobi",
-        "avatar_url": "https://avatars.githubusercontent.com/u/347?v=4"
-      }
-    },
-    {
       "name": "fastpotify",
       "full_name": "crmne/fastpotify",
       "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
       "description_cn": "spot如果y, native and 快速. 开启e 轻量级 Rust app for your whole 库, 本地 playbaCk, and spot如果y C开启neCt 开启 linux, maCos, and windows.",
-      "stars": 2346,
-      "forks": 97,
+      "stars": 2846,
+      "forks": 118,
       "language": "Rust",
       "url": "https://github.com/crmne/fastpotify",
       "topics": [
@@ -98,8 +60,8 @@
       "full_name": "XiaoDuoYa/codex-with-chatgpt",
       "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "description_cn": "ChatGPT thinks. Codex works. use ChatGPT as the planning 分支AIn while keeping the Codex harness.",
-      "stars": 2293,
-      "forks": 238,
+      "stars": 2419,
+      "forks": 251,
       "language": "TypeScript",
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "topics": [
@@ -116,11 +78,49 @@
       }
     },
     {
+      "name": "walgit",
+      "full_name": "tobi/walgit",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 2416,
+      "forks": 132,
+      "language": "Rust",
+      "url": "https://github.com/tobi/walgit",
+      "topics": [],
+      "created_at": "2026-08-23T22:28:01Z",
+      "owner": {
+        "login": "tobi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/347?v=4"
+      }
+    },
+    {
+      "name": "sepia",
+      "full_name": "Nanako0129/sepia",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "description_cn": "de-AI writing skill for any 智能体 skills-Compatible 智能体 (77+ via the skills 命令行工具), with native 插件s for Claude Code, Codex, grok build, and antigravity. narrative-架构 re对 for f内联缓存ti开启, venue-matChed rules for professi开启al prose. based 开启 storysCope (arxiv:2604.03136).",
+      "stars": 1904,
+      "forks": 115,
+      "language": "Python",
+      "url": "https://github.com/Nanako0129/sepia",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex"
+      ],
+      "created_at": "2026-08-28T05:56:49Z",
+      "owner": {
+        "login": "Nanako0129",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44753291?v=4"
+      }
+    },
+    {
       "name": "x64dbg-mcp-server",
       "full_name": "duty1g/x64dbg-mcp-server",
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "description_cn": "x64dbg-mCp 服务器 is a native mCp (模型 C开启文本 protoCol) 插件 for x64dbg that exposes the 调试器's full 函数ality over HTTP. C开启neCt any mCp-Compatible AI 助手 and C开启trol x64dbg programmati调用y: 集合 分支eak点s, step through Code, read 内存, dump registers, and more.  built with zig — zero dependenCies, single-二进制 output, Cros",
-      "stars": 1848,
+      "stars": 1863,
       "forks": 190,
       "language": "Zig",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
@@ -138,34 +138,12 @@
       }
     },
     {
-      "name": "sepia",
-      "full_name": "Nanako0129/sepia",
-      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "description_cn": "de-AI writing skill for any 智能体 skills-Compatible 智能体 (77+ via the skills 命令行工具), with native 插件s for Claude Code, Codex, grok build, and antigravity. narrative-架构 re对 for f内联缓存ti开启, venue-matChed rules for professi开启al prose. based 开启 storysCope (arxiv:2604.03136).",
-      "stars": 1637,
-      "forks": 95,
-      "language": "Python",
-      "url": "https://github.com/Nanako0129/sepia",
-      "topics": [
-        "agent-skills",
-        "ai-writing",
-        "antigravity",
-        "claude-code",
-        "codex"
-      ],
-      "created_at": "2026-08-28T05:56:49Z",
-      "owner": {
-        "login": "Nanako0129",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44753291?v=4"
-      }
-    },
-    {
       "name": "goldie",
       "full_name": "kacperkapusciak/goldie",
       "description": "✨ agentic app store previews and screenshots",
       "description_cn": "✨ 智能体内联缓存 app 存储 previews and sCreenshots",
-      "stars": 1614,
-      "forks": 138,
+      "stars": 1717,
+      "forks": 147,
       "language": "TypeScript",
       "url": "https://github.com/kacperkapusciak/goldie",
       "topics": [],
@@ -180,8 +158,8 @@
       "full_name": "nateherkai/scroll-craft",
       "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
       "description_cn": "Claude Code skill for premium sCroll-driven 网页sites. sCroll beComes the time线, 开启 a real design floor, ver如果ied by sCreenshotting its own sCroll.",
-      "stars": 1612,
-      "forks": 252,
+      "stars": 1686,
+      "forks": 261,
       "language": "JavaScript",
       "url": "https://github.com/nateherkai/scroll-craft",
       "topics": [
@@ -196,158 +174,174 @@
         "login": "nateherkai",
         "avatar_url": "https://avatars.githubusercontent.com/u/253835467?v=4"
       }
+    },
+    {
+      "name": "commerce-agents",
+      "full_name": "anthropics/commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "description_cn": "referenCe blueprint for building shopping and merChant 智能体s with Claude. 示例s in retAIl, CommerCe, teleCom, and entertAInment inCluded.",
+      "stars": 1635,
+      "forks": 262,
+      "language": "Python",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "topics": [],
+      "created_at": "2026-09-01T12:30:12Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "score": 871,
-      "comments": 509,
-      "author": "bratao",
-      "time": 1788361960,
-      "hn_url": "https://news.ycombinator.com/item?id=49537553",
-      "title_cn": "Gemini 3.8 Flash and 3.8 Flash Cyber"
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "score": 1441,
+      "comments": 1204,
+      "author": "kibae",
+      "time": 1788460865,
+      "hn_url": "https://news.ycombinator.com/item?id=49554643",
+      "title_cn": "【GPT】GPT-6 Astra"
     },
     {
-      "title": "Muse Spark 1.3",
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "score": 436,
-      "comments": 294,
-      "author": "bvaldivielso",
-      "time": 1788377704,
-      "hn_url": "https://news.ycombinator.com/item?id=49541256",
-      "title_cn": "Muse Spark 1.3"
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "score": 476,
+      "comments": 145,
+      "author": "altertable",
+      "time": 1788460333,
+      "hn_url": "https://news.ycombinator.com/item?id=49554520",
+      "title_cn": "【AI】Qwen 3.8 27B available on Cerebras at 1500 tokens/s"
     },
     {
-      "title": "Can I opt out of my input or output data being used for training?",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "score": 388,
-      "comments": 168,
-      "author": "teekert",
-      "time": 1788352239,
-      "hn_url": "https://news.ycombinator.com/item?id=49535284",
-      "title_cn": "【AI, 训练】Can I opt out of my input or output data being used for training?"
+      "title": "The browser's main thread is expensive",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "score": 381,
+      "comments": 134,
+      "author": "kciter",
+      "time": 1788271215,
+      "hn_url": "https://news.ycombinator.com/item?id=49522137",
+      "title_cn": "【AI】The browser's main thread is expensive"
     },
     {
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "score": 328,
-      "comments": 158,
-      "author": "jakobgreenfeld",
-      "time": 1788357599,
-      "hn_url": "https://news.ycombinator.com/item?id=49536375",
-      "title_cn": "【AI】Three sites made 215,128 “best software” pages for AI. Perplexity cites them"
+      "title": "Nvidia to acquire Hugging Face",
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "score": 303,
+      "comments": 97,
+      "author": "tosh",
+      "time": 1788437433,
+      "hn_url": "https://news.ycombinator.com/item?id=49548952",
+      "title_cn": "Nvidia to acquire Hugging Face"
     },
     {
-      "title": "Google avoids a breakup of its ad tech business",
-      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "score": 296,
-      "comments": 213,
-      "author": "donohoe",
-      "time": 1788360376,
-      "hn_url": "https://news.ycombinator.com/item?id=49537131",
-      "title_cn": "Google avoids a breakup of its ad tech business"
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "score": 270,
+      "comments": 87,
+      "author": "karimf",
+      "time": 1788449803,
+      "hn_url": "https://news.ycombinator.com/item?id=49551760",
+      "title_cn": "【模型】K2 Horizon: A connected fleet of six open models"
     },
     {
-      "title": "Aging brains blend memories together instead of just forgetting them",
-      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-      "score": 226,
-      "comments": 106,
-      "author": "mdp2021",
-      "time": 1788353949,
-      "hn_url": "https://news.ycombinator.com/item?id=49535548",
-      "title_cn": "【AI】Aging brains blend memories together instead of just forgetting them"
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "score": 225,
+      "comments": 154,
+      "author": "feb",
+      "time": 1788289354,
+      "hn_url": "https://news.ycombinator.com/item?id=49526453",
+      "title_cn": "【AI】The largest electric aircraft just flew [video]"
     },
     {
-      "title": "Fable 5.1 World Modeling",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "score": 159,
-      "comments": 54,
-      "author": "surreal_",
-      "time": 1788378541,
-      "hn_url": "https://news.ycombinator.com/item?id=49541458",
-      "title_cn": "【模型】Fable 5.1 World Modeling"
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "score": 220,
+      "comments": 66,
+      "author": "rabahs",
+      "time": 1788445698,
+      "hn_url": "https://news.ycombinator.com/item?id=49550375",
+      "title_cn": "【大语言模型】Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly"
     },
     {
-      "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
-      "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
-      "score": 159,
-      "comments": 105,
-      "author": "ck2",
-      "time": 1788280873,
-      "hn_url": "https://news.ycombinator.com/item?id=49524428",
-      "title_cn": "【AI】Whistleblower warns Postal Service mail ballot system has catastrophic problems"
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "score": 217,
+      "comments": 65,
+      "author": "gmays",
+      "time": 1788397882,
+      "hn_url": "https://news.ycombinator.com/item?id=49544762",
+      "title_cn": "【AI】Go grandmaster Shin defeats AI KataGo with a two-stone handicap"
     },
     {
-      "title": "Wendell Berry has died",
-      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "score": 177,
+      "comments": 113,
+      "author": "vignesh_warar",
+      "time": 1788464700,
+      "hn_url": "https://news.ycombinator.com/item?id=49555691",
+      "title_cn": "【AI, GPT, OpenAI】OpenAI's GPT-6 Astra on ARC-AGI-3"
+    },
+    {
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2014)",
+      "url": "https://www.yahoo.com/news/16-old-girls-win-google-science-fair-simple-194434703.html",
       "score": 151,
-      "comments": 84,
-      "author": "Curiositry",
-      "time": 1788227398,
-      "hn_url": "https://news.ycombinator.com/item?id=49517018",
-      "title_cn": "Wendell Berry has died"
+      "comments": 61,
+      "author": "DamonHD",
+      "time": 1788419053,
+      "hn_url": "https://news.ycombinator.com/item?id=49546800",
+      "title_cn": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2014)"
     },
     {
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "url": "https://github.com/mlc-ai/web-llm",
-      "score": 93,
-      "comments": 17,
-      "author": "saikatsg",
-      "time": 1788357755,
-      "hn_url": "https://news.ycombinator.com/item?id=49536411",
-      "title_cn": "【大语言模型, 推理】WebLLM: high-performance in-browser LLM inference engine"
+      "title": "How to get a free .arpa domain",
+      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+      "score": 127,
+      "comments": 13,
+      "author": "ethanhawksley",
+      "time": 1788214918,
+      "hn_url": "https://news.ycombinator.com/item?id=49515558",
+      "title_cn": "【AI】How to get a free .arpa domain"
     },
     {
-      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-      "score": 92,
-      "comments": 56,
-      "author": "gumby",
-      "time": 1788374561,
-      "hn_url": "https://news.ycombinator.com/item?id=49540565",
-      "title_cn": "【AI】Qantas Airbus A380 engine failure in 2010 (2023)"
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "score": 125,
+      "comments": 46,
+      "author": "screm",
+      "time": 1788470434,
+      "hn_url": "https://news.ycombinator.com/item?id=49557206",
+      "title_cn": "【Claude, 工具】Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out"
     },
     {
-      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-      "url": "https://www.nature.com/articles/s41562-026-02550-0",
-      "score": 62,
-      "comments": 36,
-      "author": "Anon84",
-      "time": 1788091976,
-      "hn_url": "https://news.ycombinator.com/item?id=49497996",
-      "title_cn": "【大语言模型】The shrinking landscape of linguistic diversity in the age of LLMs"
+      "title": "Static Allocation, Constant Work",
+      "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+      "score": 109,
+      "comments": 24,
+      "author": "surprisetalk",
+      "time": 1788370255,
+      "hn_url": "https://news.ycombinator.com/item?id=49539556",
+      "title_cn": "Static Allocation, Constant Work"
     },
     {
-      "title": "Reasons robotics is hard",
-      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-      "score": 60,
-      "comments": 21,
-      "author": "ddp26",
-      "time": 1788386550,
-      "hn_url": "https://news.ycombinator.com/item?id=49543191",
-      "title_cn": "【机器人】Reasons robotics is hard"
+      "title": "Xanadu was waiting for agents",
+      "url": "https://zed.dev/blog/agentic-xanadu",
+      "score": 97,
+      "comments": 38,
+      "author": "nsm",
+      "time": 1788288642,
+      "hn_url": "https://news.ycombinator.com/item?id=49526298",
+      "title_cn": "【AI】Xanadu was waiting for agents"
     },
     {
-      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-      "score": 43,
-      "comments": 30,
-      "author": "Eridanus2",
-      "time": 1788379702,
-      "hn_url": "https://news.ycombinator.com/item?id=49541754",
-      "title_cn": "【AI】Altair Basic Interpreter Source Code (1975) [pdf]"
-    },
-    {
-      "title": "Creating Backup Storage Sucks",
-      "url": "https://smarmelling.com/posts/creating-backup-storage-sucks.html",
-      "score": 3,
+      "title": "From Hookswitch to Grave",
+      "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+      "score": 8,
       "comments": 0,
-      "author": "smarmelling",
-      "time": 1788183211,
-      "hn_url": "https://news.ycombinator.com/item?id=49509606",
-      "title_cn": "Creating Backup Storage Sucks"
+      "author": "Sniffnoy",
+      "time": 1788489612,
+      "hn_url": "https://news.ycombinator.com/item?id=49559901",
+      "title_cn": "From Hookswitch to Grave"
     }
   ]
 }
