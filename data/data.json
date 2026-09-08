@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-07T03:52:22.888426",
+  "updated_at": "2026-09-08T03:55:33.096639",
   "github_projects": [
     {
       "name": "PRAXIST",
       "full_name": "sapientinc/PRAXIST",
       "description": "Autonomous research system for measurable, computer-executable research.",
       "description_cn": "aut开启omous re搜索 系统 for measurable, Computer-可执行文件 re搜索.",
-      "stars": 6479,
-      "forks": 563,
+      "stars": 6496,
+      "forks": 581,
       "language": "Python",
       "url": "https://github.com/sapientinc/PRAXIST",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "lnkiai/m3e-canvas",
       "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "description_cn": "sketCh material 3 Expressive sCreens in the 分支owser and turn them into vibe-Coding prompts.",
-      "stars": 4338,
-      "forks": 374,
+      "stars": 4739,
+      "forks": 413,
       "language": "TypeScript",
       "url": "https://github.com/lnkiai/m3e-canvas",
       "topics": [
@@ -44,8 +44,8 @@
       "full_name": "crmne/fastpotify",
       "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
       "description_cn": "spot如果y, native and 快速. 开启e 轻量级 Rust app for your whole 库, 本地 playbaCk, and spot如果y C开启neCt 开启 linux, maCos, and windows.",
-      "stars": 3383,
-      "forks": 146,
+      "stars": 3493,
+      "forks": 155,
       "language": "Rust",
       "url": "https://github.com/crmne/fastpotify",
       "topics": [
@@ -62,12 +62,28 @@
       }
     },
     {
+      "name": "DLSS5-Swapper",
+      "full_name": "rakanki911/DLSS5-Swapper",
+      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+      "description_cn": "dlss 5 swapper is a 强大, easy-to-use 工具 for installing, managing, and RESToring dlss 5 aCross games and supported emulators. it features automat内联缓存 game 检测, opti开启al drive sCanning, dlss5-feeder for Compatible titles without native dlss, emulator support, and Compatibility with d中间表示eCtx 9/10/11/12, vulkan, and opengl.",
+      "stars": 2772,
+      "forks": 137,
+      "language": "JavaScript",
+      "url": "https://github.com/rakanki911/DLSS5-Swapper",
+      "topics": [],
+      "created_at": "2026-08-29T23:51:32Z",
+      "owner": {
+        "login": "rakanki911",
+        "avatar_url": "https://avatars.githubusercontent.com/u/199753947?v=4"
+      }
+    },
+    {
       "name": "codex-with-chatgpt",
       "full_name": "XiaoDuoYa/codex-with-chatgpt",
       "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "description_cn": "ChatGPT thinks. Codex works. use ChatGPT as the planning 分支AIn while keeping the Codex harness.",
-      "stars": 2566,
-      "forks": 279,
+      "stars": 2738,
+      "forks": 296,
       "language": "TypeScript",
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "topics": [
@@ -84,19 +100,19 @@
       }
     },
     {
-      "name": "DLSS5-Swapper",
-      "full_name": "rakanki911/DLSS5-Swapper",
-      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-      "description_cn": "dlss 5 swapper is a 强大, easy-to-use 工具 for installing, managing, and RESToring dlss 5 aCross games and supported emulators. it features automat内联缓存 game 检测, opti开启al drive sCanning, dlss5-feeder for Compatible titles without native dlss, emulator support, and Compatibility with d中间表示eCtx 9/10/11/12, vulkan, and opengl.",
-      "stars": 2375,
-      "forks": 114,
-      "language": "JavaScript",
-      "url": "https://github.com/rakanki911/DLSS5-Swapper",
+      "name": "commerce-agents",
+      "full_name": "anthropics/commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "description_cn": "referenCe blueprint for building shopping and merChant 智能体s with Claude. 示例s in retAIl, CommerCe, teleCom, and entertAInment inCluded.",
+      "stars": 2421,
+      "forks": 420,
+      "language": "Python",
+      "url": "https://github.com/anthropics/commerce-agents",
       "topics": [],
-      "created_at": "2026-08-29T23:51:32Z",
+      "created_at": "2026-09-01T12:30:12Z",
       "owner": {
-        "login": "rakanki911",
-        "avatar_url": "https://avatars.githubusercontent.com/u/199753947?v=4"
+        "login": "anthropics",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       }
     },
     {
@@ -104,8 +120,8 @@
       "full_name": "Nanako0129/sepia",
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "description_cn": "de-AI writing skill for any 智能体 skills-Compatible 智能体 (77+ via the skills 命令行工具), with native 插件s for Claude Code, Codex, grok build, and antigravity. narrative-架构 re对 for f内联缓存ti开启, venue-matChed rules for professi开启al prose. based 开启 storysCope (arxiv:2604.03136).",
-      "stars": 2347,
-      "forks": 142,
+      "stars": 2417,
+      "forks": 148,
       "language": "Python",
       "url": "https://github.com/Nanako0129/sepia",
       "topics": [
@@ -122,19 +138,35 @@
       }
     },
     {
-      "name": "commerce-agents",
-      "full_name": "anthropics/commerce-agents",
-      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "description_cn": "referenCe blueprint for building shopping and merChant 智能体s with Claude. 示例s in retAIl, CommerCe, teleCom, and entertAInment inCluded.",
-      "stars": 2250,
-      "forks": 386,
-      "language": "Python",
-      "url": "https://github.com/anthropics/commerce-agents",
+      "name": "human-atlas",
+      "full_name": "ashemag/human-atlas",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "description_cn": "开源 3D anatomy explorer: 2,234 选择able bodyparts3D 网格es, 系统 层s, 搜索, and exploded views.",
+      "stars": 2079,
+      "forks": 537,
+      "language": "TypeScript",
+      "url": "https://github.com/ashemag/human-atlas",
       "topics": [],
-      "created_at": "2026-09-01T12:30:12Z",
+      "created_at": "2026-09-05T00:24:43Z",
       "owner": {
-        "login": "anthropics",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+        "login": "ashemag",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8096590?v=4"
+      }
+    },
+    {
+      "name": "wechat-intelligence-hub",
+      "full_name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "description_cn": "本地-f中间表示st we聊天 intelligenCe 系统 with a read-开启ly 命令行工具, Codex skills, 搜索able 聊天 history, dAIly 分支iefings, follow-ups and opport单元y traCking.",
+      "stars": 1852,
+      "forks": 2418,
+      "language": "Python",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "topics": [],
+      "created_at": "2026-09-04T15:00:53Z",
+      "owner": {
+        "login": "Rion-Wu-tech",
+        "avatar_url": "https://avatars.githubusercontent.com/u/184370191?v=4"
       }
     },
     {
@@ -142,8 +174,8 @@
       "full_name": "Player-YN/PawWork_ZhuaZhua",
       "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
       "description_cn": "paw work - 选择i开启-f中间表示st 网页 智能体 for Chrome: 选择 开启 the live 页, desCribe the outCome, take away an edi表 关闭内联缓存e file. byok, sandboxed, 否 服务器.",
-      "stars": 1475,
-      "forks": 5,
+      "stars": 1808,
+      "forks": 6,
       "language": "JavaScript",
       "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
       "topics": [
@@ -158,190 +190,158 @@
         "login": "Player-YN",
         "avatar_url": "https://avatars.githubusercontent.com/u/293915860?v=4"
       }
-    },
-    {
-      "name": "human-atlas",
-      "full_name": "ashemag/human-atlas",
-      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "description_cn": "开源 3D anatomy explorer: 2,234 选择able bodyparts3D 网格es, 系统 层s, 搜索, and exploded views.",
-      "stars": 1434,
-      "forks": 374,
-      "language": "TypeScript",
-      "url": "https://github.com/ashemag/human-atlas",
-      "topics": [],
-      "created_at": "2026-09-05T00:24:43Z",
-      "owner": {
-        "login": "ashemag",
-        "avatar_url": "https://avatars.githubusercontent.com/u/8096590?v=4"
-      }
-    },
-    {
-      "name": "open-higgsfield",
-      "full_name": "wide-trace/open-higgsfield",
-      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-      "description_cn": "a studio for 图像 and 视频 生成 — 开启e prompt 柱状图, eaCh 模型’s own 设置s, and every finished run in 开启e gallery.",
-      "stars": 1398,
-      "forks": 25,
-      "language": "TypeScript",
-      "url": "https://github.com/wide-trace/open-higgsfield",
-      "topics": [],
-      "created_at": "2026-08-26T06:09:58Z",
-      "owner": {
-        "login": "wide-trace",
-        "avatar_url": "https://avatars.githubusercontent.com/u/321257738?v=4"
-      }
     }
   ],
   "ai_news": [
     {
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "score": 2269,
-      "comments": 1579,
-      "author": "moultano",
-      "time": 1788522893,
-      "hn_url": "https://news.ycombinator.com/item?id=49563355",
-      "title_cn": "【AI, OpenAI】Discovery of a new OpenAI agent message board"
+      "title": "De-Brainrot Vacations",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "score": 474,
+      "comments": 189,
+      "author": "DanielVZ",
+      "time": 1788786048,
+      "hn_url": "https://news.ycombinator.com/item?id=49597907",
+      "title_cn": "【AI】De-Brainrot Vacations"
     },
     {
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "score": 581,
-      "comments": 386,
-      "author": "cyb0rg0",
-      "time": 1788695803,
-      "hn_url": "https://news.ycombinator.com/item?id=49585644",
-      "title_cn": "【大语言模型】Your intellectual fly is open when you use an LLM to author a post (2025)"
+      "title": "Bill Gates tries to install MovieMaker (2003)",
+      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "score": 365,
+      "comments": 246,
+      "author": "highfrequency",
+      "time": 1788794823,
+      "hn_url": "https://news.ycombinator.com/item?id=49599481",
+      "title_cn": "Bill Gates tries to install MovieMaker (2003)"
     },
     {
-      "title": "Chrome again exempts Google from user site data settings",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "score": 566,
-      "comments": 112,
-      "author": "ExMachina73",
-      "time": 1788651587,
-      "hn_url": "https://news.ycombinator.com/item?id=49581870",
-      "title_cn": "【AI】Chrome again exempts Google from user site data settings"
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "score": 276,
+      "comments": 170,
+      "author": "mdp2021",
+      "time": 1788781597,
+      "hn_url": "https://news.ycombinator.com/item?id=49597189",
+      "title_cn": "【AI】Smartphone makers don't bother to comply with EU repairability requirements"
     },
     {
-      "title": "A/I shuts down",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "score": 540,
-      "comments": 432,
-      "author": "captainmuon",
-      "time": 1788705274,
-      "hn_url": "https://news.ycombinator.com/item?id=49586898",
-      "title_cn": "A/I shuts down"
-    },
-    {
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind/",
-      "score": 354,
-      "comments": 310,
-      "author": "tosh",
-      "time": 1788712025,
-      "hn_url": "https://news.ycombinator.com/item?id=49588080",
-      "title_cn": "An Alien Mind"
-    },
-    {
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "score": 148,
-      "comments": 65,
-      "author": "firexcy",
-      "time": 1788660766,
-      "hn_url": "https://news.ycombinator.com/item?id=49582656",
-      "title_cn": "【AI, 工具】AI, Tools and Transformation"
-    },
-    {
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "score": 137,
-      "comments": 54,
-      "author": "azhenley",
-      "time": 1788736448,
-      "hn_url": "https://news.ycombinator.com/item?id=49591876",
-      "title_cn": "Making a Python interpreter in 1024 bytes"
-    },
-    {
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "score": 129,
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "url": "https://mathathonchallenge.com/index.html",
+      "score": 244,
       "comments": 84,
-      "author": "iamsyr",
-      "time": 1788707324,
-      "hn_url": "https://news.ycombinator.com/item?id=49587217",
-      "title_cn": "【AI, OpenAI】Research acceleration: The view inside OpenAI"
+      "author": "astroanax",
+      "time": 1788773213,
+      "hn_url": "https://news.ycombinator.com/item?id=49596055",
+      "title_cn": "Caltech Mathathon – first hackathon ever devoted to research level mathematics"
     },
     {
-      "title": "OpenBSD Stories: Strange Medieval Devices",
-      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
-      "score": 89,
-      "comments": 20,
-      "author": "zdw",
-      "time": 1788371064,
-      "hn_url": "https://news.ycombinator.com/item?id=49539759",
-      "title_cn": "OpenBSD Stories: Strange Medieval Devices"
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "score": 172,
+      "comments": 37,
+      "author": "signa11",
+      "time": 1788607518,
+      "hn_url": "https://news.ycombinator.com/item?id=49575515",
+      "title_cn": "【AI】Trusting-Trust Attack against an Entire Linux Distribution"
     },
     {
-      "title": "Research carried out using NetBSD",
-      "url": "https://www.netbsd.org/gallery/research.html",
-      "score": 84,
-      "comments": 20,
-      "author": "Bluestein",
-      "time": 1788711005,
-      "hn_url": "https://news.ycombinator.com/item?id=49587903",
-      "title_cn": "Research carried out using NetBSD"
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "score": 151,
+      "comments": 28,
+      "author": "ahlCVA",
+      "time": 1788830219,
+      "hn_url": "https://news.ycombinator.com/item?id=49604637",
+      "title_cn": "I've factored the RSA keys of a Certificate Authority from the 90s"
     },
     {
-      "title": "The pencil case model of creativity",
-      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-      "score": 61,
-      "comments": 20,
-      "author": "jruohonen",
-      "time": 1788696334,
-      "hn_url": "https://news.ycombinator.com/item?id=49585703",
-      "title_cn": "【模型】The pencil case model of creativity"
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "score": 135,
+      "comments": 49,
+      "author": "ankitg12",
+      "time": 1788773201,
+      "hn_url": "https://news.ycombinator.com/item?id=49596054",
+      "title_cn": "【大语言模型】Speculative Decoding in vLLM on AMD GPUs"
     },
     {
-      "title": "Pivot to AI safety, I beg you",
-      "url": "https://ceselder.substack.com/p/pivot-to-ai-safety-i-beg-you",
-      "score": 11,
+      "title": "Decoding the NEC V20 Microcode",
+      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "score": 127,
       "comments": 9,
-      "author": "doitLP",
-      "time": 1788737824,
-      "hn_url": "https://news.ycombinator.com/item?id=49592035",
-      "title_cn": "【AI】Pivot to AI safety, I beg you"
+      "author": "mariuz",
+      "time": 1788501218,
+      "hn_url": "https://news.ycombinator.com/item?id=49561002",
+      "title_cn": "Decoding the NEC V20 Microcode"
     },
     {
-      "title": "A Week of Bug Reporting",
-      "url": "https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html",
-      "score": 7,
-      "comments": 3,
-      "author": "luu",
-      "time": 1788516482,
-      "hn_url": "https://news.ycombinator.com/item?id=49562594",
-      "title_cn": "A Week of Bug Reporting"
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "score": 121,
+      "comments": 44,
+      "author": "CMDDestory",
+      "time": 1788819158,
+      "hn_url": "https://news.ycombinator.com/item?id=49603546",
+      "title_cn": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon"
     },
     {
-      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
-      "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
-      "score": 7,
-      "comments": 0,
-      "author": "metrofun",
-      "time": 1788741961,
-      "hn_url": "https://news.ycombinator.com/item?id=49592508",
-      "title_cn": "【AI】ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI"
+      "title": "The Dataflow Model Revisited",
+      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+      "score": 93,
+      "comments": 14,
+      "author": "scott_s",
+      "time": 1788718253,
+      "hn_url": "https://news.ycombinator.com/item?id=49589190",
+      "title_cn": "【模型】The Dataflow Model Revisited"
     },
     {
-      "title": "YouTube had a bug – I used ChatGPT to investigate",
-      "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
-      "score": 5,
-      "comments": 5,
-      "author": "theZilber",
-      "time": 1788714099,
-      "hn_url": "https://news.ycombinator.com/item?id=49588483",
-      "title_cn": "【GPT】YouTube had a bug – I used ChatGPT to investigate"
+      "title": "Impedance Matching (2017)",
+      "url": "https://www.edge.org/response-detail/27238",
+      "score": 77,
+      "comments": 22,
+      "author": "muti",
+      "time": 1788774746,
+      "hn_url": "https://news.ycombinator.com/item?id=49596274",
+      "title_cn": "Impedance Matching (2017)"
+    },
+    {
+      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+      "url": "https://kallus.org/blog/dummit_and_foote.html",
+      "score": 74,
+      "comments": 34,
+      "author": "evakhoury",
+      "time": 1788553207,
+      "hn_url": "https://news.ycombinator.com/item?id=49569748",
+      "title_cn": "Finding a bug in Dummit and Foote's Abstract Algebra"
+    },
+    {
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "score": 71,
+      "comments": 112,
+      "author": "MrBuddyCasino",
+      "time": 1788777512,
+      "hn_url": "https://news.ycombinator.com/item?id=49596610",
+      "title_cn": "【AI】Initial effects of AI technology on employment look positive"
+    },
+    {
+      "title": "Show HN: Jigsaw Haiku",
+      "url": "https://jigsawhaiku.com/",
+      "score": 66,
+      "comments": 23,
+      "author": "windowshopping",
+      "time": 1788545684,
+      "hn_url": "https://news.ycombinator.com/item?id=49568162",
+      "title_cn": "【AI】Show HN: Jigsaw Haiku"
+    },
+    {
+      "title": "John Margolies' photographs of roadside America",
+      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+      "score": 41,
+      "comments": 13,
+      "author": "duck",
+      "time": 1788497842,
+      "hn_url": "https://news.ycombinator.com/item?id=49560682",
+      "title_cn": "John Margolies' photographs of roadside America"
     }
   ]
 }
