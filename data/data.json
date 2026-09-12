@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-11T03:56:34.646204",
+  "updated_at": "2026-09-12T03:58:33.087734",
   "github_projects": [
     {
       "name": "m3e-canvas",
       "full_name": "lnkiai/m3e-canvas",
       "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "description_cn": "sketCh material 3 Expressive sCreens in the 分支owser and turn them into vibe-Coding prompts.",
-      "stars": 5929,
-      "forks": 579,
+      "stars": 6176,
+      "forks": 621,
       "language": "TypeScript",
       "url": "https://github.com/lnkiai/m3e-canvas",
       "topics": [
@@ -24,28 +24,12 @@
       }
     },
     {
-      "name": "DLSS5-Swapper",
-      "full_name": "rakanki911/DLSS5-Swapper",
-      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-      "description_cn": "dlss 5 swapper is a 强大, easy-to-use 工具 for installing, managing, and RESToring dlss 5 aCross games and supported emulators. it features automat内联缓存 game 检测, opti开启al drive sCanning, dlss5-feeder for Compatible titles without native dlss, emulator support, and Compatibility with d中间表示eCtx 9/10/11/12, vulkan, and opengl.",
-      "stars": 3506,
-      "forks": 178,
-      "language": "JavaScript",
-      "url": "https://github.com/rakanki911/DLSS5-Swapper",
-      "topics": [],
-      "created_at": "2026-08-29T23:51:32Z",
-      "owner": {
-        "login": "rakanki911",
-        "avatar_url": "https://avatars.githubusercontent.com/u/199753947?v=4"
-      }
-    },
-    {
       "name": "human-atlas",
       "full_name": "ashemag/human-atlas",
       "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "description_cn": "开源 3D anatomy explorer: 2,234 选择able bodyparts3D 网格es, 系统 层s, 搜索, and exploded views.",
-      "stars": 3114,
-      "forks": 754,
+      "stars": 3214,
+      "forks": 784,
       "language": "TypeScript",
       "url": "https://github.com/ashemag/human-atlas",
       "topics": [],
@@ -60,8 +44,8 @@
       "full_name": "anthropics/commerce-agents",
       "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "description_cn": "referenCe blueprint for building shopping and merChant 智能体s with Claude. 示例s in retAIl, CommerCe, teleCom, and entertAInment inCluded.",
-      "stars": 2707,
-      "forks": 501,
+      "stars": 2745,
+      "forks": 511,
       "language": "Python",
       "url": "https://github.com/anthropics/commerce-agents",
       "topics": [],
@@ -76,8 +60,8 @@
       "full_name": "Albert-Weasker/niubigeo",
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "description_cn": "开源 AI 分支and visibility and Competitor reports. 关闭内联缓存ial 网页site: HTTPS://niubigeo.AI/ | pAId serv内联缓存es: AI 测试 by real people and geo 优化. pr内联缓存ing: HTTPS://niubigeo.AI/pr内联缓存ing",
-      "stars": 2310,
-      "forks": 88,
+      "stars": 2353,
+      "forks": 91,
       "language": "TypeScript",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "topics": [],
@@ -92,8 +76,8 @@
       "full_name": "Rion-Wu-tech/wechat-intelligence-hub",
       "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "description_cn": "本地-f中间表示st we聊天 intelligenCe 系统 with a read-开启ly 命令行工具, Codex skills, 搜索able 聊天 history, dAIly 分支iefings, follow-ups and opport单元y traCking.",
-      "stars": 2063,
-      "forks": 2568,
+      "stars": 2096,
+      "forks": 2581,
       "language": "Python",
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "topics": [],
@@ -104,28 +88,12 @@
       }
     },
     {
-      "name": "NavierStokesAndEuler",
-      "full_name": "openai/NavierStokesAndEuler",
-      "description": "Lean certificates accompanying Navier-Stokes and Euler results",
-      "description_cn": "lean 证书s aCCompanying navier-stokes and euler results",
-      "stars": 1726,
-      "forks": 168,
-      "language": "Lean",
-      "url": "https://github.com/openai/NavierStokesAndEuler",
-      "topics": [],
-      "created_at": "2026-09-08T10:53:38Z",
-      "owner": {
-        "login": "openai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
-      }
-    },
-    {
       "name": "dlssg_for_sm86",
       "full_name": "sdli1995/dlssg_for_sm86",
       "description": "Here is a dlssg for RTX30 Series GPU ",
       "description_cn": "here is a dlssg for rtx30 series gpu ",
-      "stars": 1474,
-      "forks": 88,
+      "stars": 1831,
+      "forks": 111,
       "language": "Unknown",
       "url": "https://github.com/sdli1995/dlssg_for_sm86",
       "topics": [],
@@ -136,25 +104,35 @@
       }
     },
     {
-      "name": "cn",
-      "full_name": "shadcn-ui/cn",
-      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "description_cn": "Cn is a 新 引擎 for TAIlwind 类 merging and C开启fl内联缓存t resoluti开启. it replaCes TAIlwind-merge and Clsx. same APIs. full parity. and it is 30× 快速er.",
-      "stars": 1398,
-      "forks": 14,
-      "language": "TypeScript",
-      "url": "https://github.com/shadcn-ui/cn",
-      "topics": [
-        "clsx",
-        "cn",
-        "shadcn",
-        "tailwind-merge",
-        "tailwindcss"
-      ],
-      "created_at": "2026-08-31T07:04:03Z",
+      "name": "NavierStokesAndEuler",
+      "full_name": "openai/NavierStokesAndEuler",
+      "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "description_cn": "lean 证书s aCCompanying navier-stokes and euler results",
+      "stars": 1781,
+      "forks": 177,
+      "language": "Lean",
+      "url": "https://github.com/openai/NavierStokesAndEuler",
+      "topics": [],
+      "created_at": "2026-09-08T10:53:38Z",
       "owner": {
-        "login": "shadcn-ui",
-        "avatar_url": "https://avatars.githubusercontent.com/u/139895814?v=4"
+        "login": "openai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+      }
+    },
+    {
+      "name": "handraw-style",
+      "full_name": "yang0/handraw-style",
+      "description": "手绘风格编号画廊与双语提示词 Skill",
+      "description_cn": "",
+      "stars": 1509,
+      "forks": 192,
+      "language": "HTML",
+      "url": "https://github.com/yang0/handraw-style",
+      "topics": [],
+      "created_at": "2026-09-05T21:57:22Z",
+      "owner": {
+        "login": "yang0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3478629?v=4"
       }
     },
     {
@@ -162,8 +140,8 @@
       "full_name": "vinzdg/codenotch",
       "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
       "description_cn": "a maCos app that pins usage limits from Claude Code, Cursor, Codex, and antigravity to a sCreen 边.",
-      "stars": 1396,
-      "forks": 219,
+      "stars": 1473,
+      "forks": 230,
       "language": "Swift",
       "url": "https://github.com/vinzdg/codenotch",
       "topics": [],
@@ -172,158 +150,174 @@
         "login": "vinzdg",
         "avatar_url": "https://avatars.githubusercontent.com/u/199352226?v=4"
       }
+    },
+    {
+      "name": "holo-card-studio",
+      "full_name": "EverettFish/holo-card-studio",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "description_cn": "turn the 用户's desCrIPti开启 or up加载ed referenCe into a finished, edi表 Blender Card and an inter活跃 three.js 页. preserve the requested subjeCt, style, typo图y and destinati开启. this skill C开启tAIns Code and 文本 开启ly; generated artwork bel开启gs in the 用户's output 项目.",
+      "stars": 1450,
+      "forks": 208,
+      "language": "Python",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "topics": [],
+      "created_at": "2026-09-07T00:41:18Z",
+      "owner": {
+        "login": "EverettFish",
+        "avatar_url": "https://avatars.githubusercontent.com/u/222453586?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "score": 735,
-      "comments": 677,
-      "author": "pred_",
-      "time": 1789022983,
-      "hn_url": "https://news.ycombinator.com/item?id=49639408",
-      "title_cn": "【AI, OpenAI】More questions about whether researchers can trust OpenAI with unpublished math"
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "score": 745,
+      "comments": 748,
+      "author": "meredydd",
+      "time": 1789148712,
+      "hn_url": "https://news.ycombinator.com/item?id=49662371",
+      "title_cn": "【AI】A misalignment of AI in mathematics"
     },
     {
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "score": 366,
-      "comments": 157,
-      "author": "seelos",
-      "time": 1789054187,
-      "hn_url": "https://news.ycombinator.com/item?id=49645443",
-      "title_cn": "【GPT, 模型, 推出】Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra"
+      "title": "Claude is only available to people over 18 years",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "score": 595,
+      "comments": 612,
+      "author": "Muhammad523",
+      "time": 1789123680,
+      "hn_url": "https://news.ycombinator.com/item?id=49656225",
+      "title_cn": "【AI, Claude】Claude is only available to people over 18 years"
     },
     {
-      "title": "Music Theory for the 21st-Century Classroom",
-      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-      "score": 178,
-      "comments": 80,
-      "author": "aanet",
-      "time": 1789060452,
-      "hn_url": "https://news.ycombinator.com/item?id=49647134",
-      "title_cn": "Music Theory for the 21st-Century Classroom"
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "score": 451,
+      "comments": 263,
+      "author": "chao-",
+      "time": 1789168662,
+      "hn_url": "https://news.ycombinator.com/item?id=49666735",
+      "title_cn": "【AI, OpenAI】OpenAI agents carried out an undisclosed attack on RubyGems"
     },
     {
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "score": 173,
-      "comments": 104,
-      "author": "aquir",
-      "time": 1789069402,
-      "hn_url": "https://news.ycombinator.com/item?id=49649213",
-      "title_cn": "【AI, OpenAI, API】OpenAI Agents API"
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "score": 377,
+      "comments": 194,
+      "author": "nickabe",
+      "time": 1789151095,
+      "hn_url": "https://news.ycombinator.com/item?id=49662990",
+      "title_cn": "【机器人】I spent $220 on Google app ads and 60% of the installs were robots"
     },
     {
-      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
-      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-      "score": 148,
-      "comments": 151,
-      "author": "ibobev",
-      "time": 1789075379,
-      "hn_url": "https://news.ycombinator.com/item?id=49650326",
-      "title_cn": "【AI, OpenAI, 发布】OpenAI’s Navier-Stokes release included a Lean 4 formal proof"
+      "title": "Logo Programming Language",
+      "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+      "score": 245,
+      "comments": 103,
+      "author": "azhenley",
+      "time": 1788937646,
+      "hn_url": "https://news.ycombinator.com/item?id=49622406",
+      "title_cn": "Logo Programming Language"
     },
     {
-      "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
-      "url": "https://magic.dev/blog/pretraining#",
-      "score": 111,
-      "comments": 61,
-      "author": "ronfriedhaber",
-      "time": 1788886793,
-      "hn_url": "https://news.ycombinator.com/item?id=49613072",
-      "title_cn": "【AI, 模型, 训练】Compute-efficient pretraining and scaling to trillion-parameter models"
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "score": 186,
+      "comments": 39,
+      "author": "wcrichton",
+      "time": 1788962390,
+      "hn_url": "https://news.ycombinator.com/item?id=49626718",
+      "title_cn": "【AI】A Design Space Exploration of Async/Await"
     },
     {
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "score": 98,
-      "comments": 167,
-      "author": "garo-pro",
-      "time": 1789061022,
-      "hn_url": "https://news.ycombinator.com/item?id=49647300",
-      "title_cn": "【AI】Detecting and countering misuse of AI: September 2026"
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "score": 149,
+      "comments": 76,
+      "author": "michalwarda",
+      "time": 1789125313,
+      "hn_url": "https://news.ycombinator.com/item?id=49656471",
+      "title_cn": "【基准测试】RTK reports token savings, but our cost benchmarks disagree"
     },
     {
-      "title": "AI Is Breaking This Thing We Call Trust",
-      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+      "score": 123,
+      "comments": 62,
+      "author": "stmw",
+      "time": 1789151407,
+      "hn_url": "https://news.ycombinator.com/item?id=49663054",
+      "title_cn": "【AI, 发布】CIA Releases President's Daily Briefs in Commemoration of 9/11"
+    },
+    {
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "url": "https://github.com/kennethwolters/litelm",
+      "score": 108,
+      "comments": 39,
+      "author": "kennethwolters",
+      "time": 1789150220,
+      "hn_url": "https://news.ycombinator.com/item?id=49662767",
+      "title_cn": "【大语言模型】Litelm: LiteLLM Without the Bloat"
+    },
+    {
+      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+      "url": "https://github.com/godot-pty/gpty",
+      "score": 84,
+      "comments": 42,
+      "author": "1nv1n",
+      "time": 1789142585,
+      "hn_url": "https://news.ycombinator.com/item?id=49660676",
+      "title_cn": "Show HN: Godot and Rust based multiplexer (terminal panes and more)"
+    },
+    {
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
       "score": 67,
-      "comments": 20,
-      "author": "matheusml",
-      "time": 1789050080,
-      "hn_url": "https://news.ycombinator.com/item?id=49644179",
-      "title_cn": "【AI】AI Is Breaking This Thing We Call Trust"
+      "comments": 57,
+      "author": "artninja1988",
+      "time": 1789162529,
+      "hn_url": "https://news.ycombinator.com/item?id=49665711",
+      "title_cn": "【AI】AI researchers debate how close we are to recursive self-improvement"
     },
     {
-      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
-      "url": "https://tokenstead.ai/models/swe-2",
-      "score": 60,
-      "comments": 27,
-      "author": "cdnsteve",
-      "time": 1789059131,
-      "hn_url": "https://news.ycombinator.com/item?id=49646778",
-      "title_cn": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1"
-    },
-    {
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "url": "https://system76.com/workstations/thelio-mira-ai",
-      "score": 58,
-      "comments": 36,
-      "author": "jonifico",
-      "time": 1789081806,
-      "hn_url": "https://news.ycombinator.com/item?id=49651372",
-      "title_cn": "【AI】Thelio Mira AI Linux Workstation: 192 GB GPU Memory"
-    },
-    {
-      "title": "What happens when a GPU writes memory",
-      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
-      "score": 54,
-      "comments": 1,
-      "author": "ibobev",
-      "time": 1788896819,
-      "hn_url": "https://news.ycombinator.com/item?id=49615922",
-      "title_cn": "What happens when a GPU writes memory"
-    },
-    {
-      "title": "Embedding a bitmap font in your HyperCard stack",
-      "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
-      "score": 26,
-      "comments": 1,
-      "author": "zdw",
-      "time": 1788910211,
-      "hn_url": "https://news.ycombinator.com/item?id=49618633",
-      "title_cn": "Embedding a bitmap font in your HyperCard stack"
-    },
-    {
-      "title": "Details.so",
-      "url": "https://www.details.so/inspo",
-      "score": 19,
+      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+      "url": "https://twitter.com/venturetwins/status/2098456905526211026",
+      "score": 33,
       "comments": 8,
-      "author": "handfuloflight",
-      "time": 1789086430,
-      "hn_url": "https://news.ycombinator.com/item?id=49651982",
-      "title_cn": "【AI】Details.so"
+      "author": "bilsbie",
+      "time": 1789172676,
+      "hn_url": "https://news.ycombinator.com/item?id=49667253",
+      "title_cn": "【AI】Bernie's AI bill proposes to sentence AI developers to 20 years in prison"
     },
     {
-      "title": "YouTube had a bug – I used ChatGPT to investigate",
-      "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
-      "score": 18,
-      "comments": 15,
-      "author": "theZilber",
-      "time": 1788714099,
-      "hn_url": "https://news.ycombinator.com/item?id=49588483",
-      "title_cn": "【GPT】YouTube had a bug – I used ChatGPT to investigate"
+      "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
+      "url": "https://www.fink-translate.com/blog/hepburn-romanization.html",
+      "score": 32,
+      "comments": 33,
+      "author": "miuraboy",
+      "time": 1789031628,
+      "hn_url": "https://news.ycombinator.com/item?id=49640741",
+      "title_cn": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet"
     },
     {
-      "title": "LLM Visualizer – Build a Transformer from Scratch",
-      "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
-      "score": 7,
-      "comments": 3,
-      "author": "evo_9",
-      "time": 1789095111,
-      "hn_url": "https://news.ycombinator.com/item?id=49652996",
-      "title_cn": "【大语言模型, Transformer模型】LLM Visualizer – Build a Transformer from Scratch"
+      "title": "Testing Race Conditions",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "score": 24,
+      "comments": 0,
+      "author": "alpaylan",
+      "time": 1788990662,
+      "hn_url": "https://news.ycombinator.com/item?id=49634928",
+      "title_cn": "Testing Race Conditions"
+    },
+    {
+      "title": "OpenAI: \"We use ... de-identified data to improve ChatGPT\"",
+      "url": "https://twitter.com/markchen90/status/2097400166554993041",
+      "score": 9,
+      "comments": 4,
+      "author": "nycdatasci",
+      "time": 1789177853,
+      "hn_url": "https://news.ycombinator.com/item?id=49667846",
+      "title_cn": "【AI, GPT, OpenAI】OpenAI: \"We use ... de-identified data to improve ChatGPT\""
     }
   ]
 }
