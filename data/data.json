@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-14T04:16:06.940551",
+  "updated_at": "2026-09-15T04:16:11.184246",
   "github_projects": [
     {
       "name": "m3e-canvas",
       "full_name": "lnkiai/m3e-canvas",
       "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "description_cn": "sketCh material 3 Expressive sCreens in the 分支owser and turn them into vibe-Coding prompts.",
-      "stars": 6553,
-      "forks": 663,
+      "stars": 6811,
+      "forks": 690,
       "language": "TypeScript",
       "url": "https://github.com/lnkiai/m3e-canvas",
       "topics": [
@@ -28,8 +28,8 @@
       "full_name": "ashemag/human-atlas",
       "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "description_cn": "开源 3D anatomy explorer: 2,234 选择able bodyparts3D 网格es, 系统 层s, 搜索, and exploded views.",
-      "stars": 3359,
-      "forks": 821,
+      "stars": 3450,
+      "forks": 831,
       "language": "TypeScript",
       "url": "https://github.com/ashemag/human-atlas",
       "topics": [],
@@ -40,28 +40,12 @@
       }
     },
     {
-      "name": "commerce-agents",
-      "full_name": "anthropics/commerce-agents",
-      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "description_cn": "referenCe blueprint for building shopping and merChant 智能体s with Claude. 示例s in retAIl, CommerCe, teleCom, and entertAInment inCluded.",
-      "stars": 2818,
-      "forks": 533,
-      "language": "Python",
-      "url": "https://github.com/anthropics/commerce-agents",
-      "topics": [],
-      "created_at": "2026-09-01T12:30:12Z",
-      "owner": {
-        "login": "anthropics",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
-      }
-    },
-    {
       "name": "dlssg_for_sm86",
       "full_name": "sdli1995/dlssg_for_sm86",
       "description": "Here is a dlssg for RTX30 Series GPU ",
       "description_cn": "here is a dlssg for rtx30 series gpu ",
-      "stars": 2465,
-      "forks": 146,
+      "stars": 2796,
+      "forks": 166,
       "language": "Unknown",
       "url": "https://github.com/sdli1995/dlssg_for_sm86",
       "topics": [],
@@ -76,7 +60,7 @@
       "full_name": "Albert-Weasker/niubigeo",
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "description_cn": "开源 AI 分支and visibility and Competitor reports. 关闭内联缓存ial 网页site: HTTPS://niubigeo.AI/ | pAId serv内联缓存es: AI 测试 by real people and geo 优化. pr内联缓存ing: HTTPS://niubigeo.AI/pr内联缓存ing",
-      "stars": 2399,
+      "stars": 2414,
       "forks": 95,
       "language": "TypeScript",
       "url": "https://github.com/Albert-Weasker/niubigeo",
@@ -92,8 +76,8 @@
       "full_name": "Rion-Wu-tech/wechat-intelligence-hub",
       "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "description_cn": "本地-f中间表示st we聊天 intelligenCe 系统 with a read-开启ly 命令行工具, Codex skills, 搜索able 聊天 history, dAIly 分支iefings, follow-ups and opport单元y traCking.",
-      "stars": 2132,
-      "forks": 2594,
+      "stars": 2238,
+      "forks": 2640,
       "language": "Python",
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "topics": [],
@@ -104,28 +88,12 @@
       }
     },
     {
-      "name": "NavierStokesAndEuler",
-      "full_name": "openai/NavierStokesAndEuler",
-      "description": "Lean certificates accompanying Navier-Stokes and Euler results",
-      "description_cn": "lean 证书s aCCompanying navier-stokes and euler results",
-      "stars": 1861,
-      "forks": 192,
-      "language": "Lean",
-      "url": "https://github.com/openai/NavierStokesAndEuler",
-      "topics": [],
-      "created_at": "2026-09-08T10:53:38Z",
-      "owner": {
-        "login": "openai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
-      }
-    },
-    {
       "name": "SoL-Pi",
       "full_name": "NVlabs/SoL-Pi",
       "description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
       "description_cn": "sol-pi: sCaling auto-re搜索 循环s for 高效 智能体 harnesses",
-      "stars": 1750,
-      "forks": 133,
+      "stars": 1931,
+      "forks": 143,
       "language": "TypeScript",
       "url": "https://github.com/NVlabs/SoL-Pi",
       "topics": [],
@@ -136,12 +104,28 @@
       }
     },
     {
+      "name": "NavierStokesAndEuler",
+      "full_name": "openai/NavierStokesAndEuler",
+      "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "description_cn": "lean 证书s aCCompanying navier-stokes and euler results",
+      "stars": 1896,
+      "forks": 197,
+      "language": "Lean",
+      "url": "https://github.com/openai/NavierStokesAndEuler",
+      "topics": [],
+      "created_at": "2026-09-08T10:53:38Z",
+      "owner": {
+        "login": "openai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+      }
+    },
+    {
       "name": "handraw-style",
       "full_name": "yang0/handraw-style",
       "description": "手绘风格编号画廊与双语提示词 Skill",
       "description_cn": "",
-      "stars": 1682,
-      "forks": 221,
+      "stars": 1777,
+      "forks": 234,
       "language": "HTML",
       "url": "https://github.com/yang0/handraw-style",
       "topics": [],
@@ -156,8 +140,8 @@
       "full_name": "Edge0-AI/Edge0",
       "description": "No description",
       "description_cn": "",
-      "stars": 1618,
-      "forks": 129,
+      "stars": 1713,
+      "forks": 141,
       "language": "Python",
       "url": "https://github.com/Edge0-AI/Edge0",
       "topics": [],
@@ -166,158 +150,174 @@
         "login": "Edge0-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/310437271?v=4"
       }
+    },
+    {
+      "name": "codenotch",
+      "full_name": "vinzdg/codenotch",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "description_cn": "a maCos app that pins usage limits from Claude Code, Cursor, Codex, and antigravity to a sCreen 边.",
+      "stars": 1593,
+      "forks": 251,
+      "language": "Swift",
+      "url": "https://github.com/vinzdg/codenotch",
+      "topics": [],
+      "created_at": "2026-09-05T14:55:35Z",
+      "owner": {
+        "login": "vinzdg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/199352226?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "score": 601,
-      "comments": 258,
-      "author": "u1hcw9nx",
-      "time": 1789333573,
-      "hn_url": "https://news.ycombinator.com/item?id=49688695",
-      "title_cn": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher"
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "score": 459,
+      "comments": 501,
+      "author": "throw0101d",
+      "time": 1789408229,
+      "hn_url": "https://news.ycombinator.com/item?id=49701004",
+      "title_cn": "iOS 27, iPadOS 27, and macOS 27"
     },
     {
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "score": 372,
-      "comments": 208,
-      "author": "TheJCDenton",
-      "time": 1789314278,
-      "hn_url": "https://news.ycombinator.com/item?id=49685253",
-      "title_cn": "【AI, 模型】Garry Tan wants US open-weight AI labs to 'distill' frontier models, too"
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "score": 402,
+      "comments": 333,
+      "author": "gregnavis",
+      "time": 1789389657,
+      "hn_url": "https://news.ycombinator.com/item?id=49695876",
+      "title_cn": "【AI, OpenAI】OpenAI bots knew about the RubyGems caching vulnerability"
     },
     {
-      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-      "url": "https://twitter.com/TechEmails/status/2099214399840059428",
-      "score": 286,
-      "comments": 125,
-      "author": "mfiguiere",
-      "time": 1789330125,
-      "hn_url": "https://news.ycombinator.com/item?id=49688157",
-      "title_cn": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)"
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "score": 323,
+      "comments": 359,
+      "author": "lukaspetersson",
+      "time": 1789406166,
+      "hn_url": "https://news.ycombinator.com/item?id=49700477",
+      "title_cn": "【自动驾驶】Pion, an agent designed to run any company autonomously"
     },
     {
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "score": 284,
-      "comments": 209,
-      "author": "kolanos",
-      "time": 1789318353,
-      "hn_url": "https://news.ycombinator.com/item?id=49685991",
-      "title_cn": "【AI, OpenAI, Anthropic】David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models"
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "score": 186,
+      "comments": 189,
+      "author": "neom",
+      "time": 1789419922,
+      "hn_url": "https://news.ycombinator.com/item?id=49704008",
+      "title_cn": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit"
     },
     {
-      "title": "Making Startups Powerful",
-      "url": "https://paulgraham.com/powerful.html",
-      "score": 181,
-      "comments": 80,
-      "author": "tosh",
-      "time": 1789308593,
-      "hn_url": "https://news.ycombinator.com/item?id=49684196",
-      "title_cn": "【创业公司】Making Startups Powerful"
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "score": 130,
+      "comments": 118,
+      "author": "theanonymousone",
+      "time": 1789415780,
+      "hn_url": "https://news.ycombinator.com/item?id=49703003",
+      "title_cn": "【GPT, 模型】GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?"
     },
     {
-      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
-      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
-      "score": 81,
-      "comments": 24,
-      "author": "binyu",
-      "time": 1789083132,
-      "hn_url": "https://news.ycombinator.com/item?id=49651567",
-      "title_cn": "【AI】Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)"
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "score": 123,
+      "comments": 68,
+      "author": "0o_MrPatrick_o0",
+      "time": 1789394349,
+      "hn_url": "https://news.ycombinator.com/item?id=49697014",
+      "title_cn": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama"
     },
     {
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "url": "https://github.com/FeralFirmware/TailTalk/",
-      "score": 72,
+      "title": "People who can't picture anything are rewriting the science of imagination",
+      "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+      "score": 117,
+      "comments": 188,
+      "author": "giuliomagnifico",
+      "time": 1789392233,
+      "hn_url": "https://news.ycombinator.com/item?id=49696453",
+      "title_cn": "People who can't picture anything are rewriting the science of imagination"
+    },
+    {
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "score": 112,
+      "comments": 62,
+      "author": "Betelbuddy",
+      "time": 1789403543,
+      "hn_url": "https://news.ycombinator.com/item?id=49699648",
+      "title_cn": "【机器学习】Why don't machine learning research agents overfit?"
+    },
+    {
+      "title": "Show HN: Pelican-bicycle alternatives",
+      "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+      "score": 111,
+      "comments": 42,
+      "author": "tkgally",
+      "time": 1789392022,
+      "hn_url": "https://news.ycombinator.com/item?id=49696402",
+      "title_cn": "Show HN: Pelican-bicycle alternatives"
+    },
+    {
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "score": 96,
+      "comments": 46,
+      "author": "rbanffy",
+      "time": 1789394693,
+      "hn_url": "https://news.ycombinator.com/item?id=49697094",
+      "title_cn": "【AI】Adversarial Fashion Makes a Statement on AI Panopticon"
+    },
+    {
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "score": 77,
+      "comments": 41,
+      "author": "throwworhtthrow",
+      "time": 1789432814,
+      "hn_url": "https://news.ycombinator.com/item?id=49706223",
+      "title_cn": "【AI】Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent"
+    },
+    {
+      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+      "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+      "score": 73,
+      "comments": 23,
+      "author": "toebee",
+      "time": 1789402078,
+      "hn_url": "https://news.ycombinator.com/item?id=49699267",
+      "title_cn": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost"
+    },
+    {
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "score": 64,
+      "comments": 17,
+      "author": "nathannaveen",
+      "time": 1789396163,
+      "hn_url": "https://news.ycombinator.com/item?id=49697477",
+      "title_cn": "【AI】Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)"
+    },
+    {
+      "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+      "url": "https://pub.sakana.ai/pc-alm/",
+      "score": 56,
       "comments": 13,
-      "author": "zdw",
-      "time": 1789256611,
-      "hn_url": "https://news.ycombinator.com/item?id=49678423",
-      "title_cn": "【AI】TailTalk: A modern async user space AppleTalk stack with Rust and Tokio"
+      "author": "guld",
+      "time": 1789408992,
+      "hn_url": "https://news.ycombinator.com/item?id=49701182",
+      "title_cn": "Backprop Alternative: Augmented Lagrangian Predictive Coding"
     },
     {
-      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-      "score": 66,
-      "comments": 16,
-      "author": "rzk",
-      "time": 1789098342,
-      "hn_url": "https://news.ycombinator.com/item?id=49653311",
-      "title_cn": "【Anthropic, Claude】Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace"
-    },
-    {
-      "title": "Show HN: Is It Greg?",
-      "url": "https://github.com/antoineleclair/is-it-greg",
-      "score": 51,
-      "comments": 18,
-      "author": "antoineleclair",
-      "time": 1789351121,
-      "hn_url": "https://news.ycombinator.com/item?id=49690943",
-      "title_cn": "Show HN: Is It Greg?"
-    },
-    {
-      "title": "Open-Source AI and Open Models Reading List",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "score": 50,
-      "comments": 4,
-      "author": "simonpure",
-      "time": 1789345371,
-      "hn_url": "https://news.ycombinator.com/item?id=49690260",
-      "title_cn": "【AI, 模型】Open-Source AI and Open Models Reading List"
-    },
-    {
-      "title": "Device Drivers lab exercise – COSC562",
-      "url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
-      "score": 37,
-      "comments": 5,
-      "author": "azhenley",
-      "time": 1789321310,
-      "hn_url": "https://news.ycombinator.com/item?id=49686503",
-      "title_cn": "Device Drivers lab exercise – COSC562"
-    },
-    {
-      "title": "The Malicious Use of Artificial Intelligence",
-      "url": "https://arxiv.org/abs/1802.07228",
-      "score": 23,
-      "comments": 6,
-      "author": "rasengan0",
-      "time": 1789348955,
-      "hn_url": "https://news.ycombinator.com/item?id=49690678",
-      "title_cn": "The Malicious Use of Artificial Intelligence"
-    },
-    {
-      "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
-      "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
-      "score": 19,
-      "comments": 9,
-      "author": "tomasslavicek",
-      "time": 1789054536,
-      "hn_url": "https://news.ycombinator.com/item?id=49645547",
-      "title_cn": "【AI】I build a mechanical watch face: a real gear train for a watch with no gears"
-    },
-    {
-      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-      "score": 18,
-      "comments": 1,
-      "author": "sbulaev",
-      "time": 1789344429,
-      "hn_url": "https://news.ycombinator.com/item?id=49690139",
-      "title_cn": "【AI】\"Chilling\" warning or overreaction? AI bioweapons report divides experts"
-    },
-    {
-      "title": "AI Robots – When will they be in our homes",
-      "url": "https://spectrum.ieee.org/ai-robots",
-      "score": 12,
-      "comments": 8,
-      "author": "andsoitis",
-      "time": 1789346663,
-      "hn_url": "https://news.ycombinator.com/item?id=49690411",
-      "title_cn": "【AI, 机器人】AI Robots – When will they be in our homes"
+      "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+      "url": "https://poltora.dev/redis",
+      "score": 13,
+      "comments": 2,
+      "author": "poltora",
+      "time": 1789242214,
+      "hn_url": "https://news.ycombinator.com/item?id=49676425",
+      "title_cn": "【模型】Show HN: Redis City – Explore how Redis works in an interactive 3D model"
     }
   ]
 }
