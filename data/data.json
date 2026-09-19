@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-09-18T04:02:26.686794",
+  "updated_at": "2026-09-19T03:59:38.968082",
   "github_projects": [
+    {
+      "name": "jev-ultrafast",
+      "full_name": "browser-use/jev-ultrafast",
+      "description": "i. am. speed.",
+      "description_cn": "",
+      "stars": 5827,
+      "forks": 373,
+      "language": "Python",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "topics": [],
+      "created_at": "2026-09-16T21:30:12Z",
+      "owner": {
+        "login": "browser-use",
+        "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+      }
+    },
     {
       "name": "HowToLiveBetter",
       "full_name": "eternity4719/HowToLiveBetter",
       "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
       "description_cn": "",
-      "stars": 3948,
-      "forks": 315,
+      "stars": 5217,
+      "forks": 400,
       "language": "HTML",
       "url": "https://github.com/eternity4719/HowToLiveBetter",
       "topics": [],
@@ -18,27 +34,11 @@
       }
     },
     {
-      "name": "human-atlas",
-      "full_name": "ashemag/human-atlas",
-      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "description_cn": "开源 3D anatomy explorer: 2,234 选择able bodyparts3D 网格es, 系统 层s, 搜索, and exploded views.",
-      "stars": 3614,
-      "forks": 874,
-      "language": "TypeScript",
-      "url": "https://github.com/ashemag/human-atlas",
-      "topics": [],
-      "created_at": "2026-09-05T00:24:43Z",
-      "owner": {
-        "login": "ashemag",
-        "avatar_url": "https://avatars.githubusercontent.com/u/8096590?v=4"
-      }
-    },
-    {
       "name": "dlssg_for_sm86",
       "full_name": "sdli1995/dlssg_for_sm86",
       "description": "Here is a dlssg for RTX30 Series GPU ",
       "description_cn": "here is a dlssg for rtx30 series gpu ",
-      "stars": 3322,
+      "stars": 3438,
       "forks": 198,
       "language": "Unknown",
       "url": "https://github.com/sdli1995/dlssg_for_sm86",
@@ -50,35 +50,35 @@
       }
     },
     {
-      "name": "jev-ultrafast",
-      "full_name": "browser-use/jev-ultrafast",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 2676,
-      "forks": 152,
-      "language": "Python",
-      "url": "https://github.com/browser-use/jev-ultrafast",
+      "name": "fast-jev-compaction",
+      "full_name": "tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "description_cn": "Claude Code 插件 that replaCes the CompaCti开启 求和mary with jev deCisi开启s: every 工具 调用 and result is sCored in 开启e 快速 request, stale 开启es are 丢弃ped or trunCated, everything kept stays verbatim.",
+      "stars": 3402,
+      "forks": 174,
+      "language": "TypeScript",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
       "topics": [],
-      "created_at": "2026-09-16T21:30:12Z",
+      "created_at": "2026-09-17T05:57:20Z",
       "owner": {
-        "login": "browser-use",
-        "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+        "login": "tamaratran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
       }
     },
     {
-      "name": "handraw-style",
-      "full_name": "yang0/handraw-style",
-      "description": "手绘风格编号画廊与双语提示词 Skill",
+      "name": "Edge0",
+      "full_name": "Edge0-AI/Edge0",
+      "description": "No description",
       "description_cn": "",
-      "stars": 2194,
-      "forks": 287,
-      "language": "HTML",
-      "url": "https://github.com/yang0/handraw-style",
+      "stars": 1968,
+      "forks": 164,
+      "language": "Python",
+      "url": "https://github.com/Edge0-AI/Edge0",
       "topics": [],
-      "created_at": "2026-09-05T21:57:22Z",
+      "created_at": "2026-09-08T13:41:47Z",
       "owner": {
-        "login": "yang0",
-        "avatar_url": "https://avatars.githubusercontent.com/u/3478629?v=4"
+        "login": "Edge0-AI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/310437271?v=4"
       }
     },
     {
@@ -86,7 +86,7 @@
       "full_name": "openai/NavierStokesAndEuler",
       "description": "Lean certificates accompanying Navier-Stokes and Euler results",
       "description_cn": "lean 证书s aCCompanying navier-stokes and euler results",
-      "stars": 1943,
+      "stars": 1951,
       "forks": 200,
       "language": "Lean",
       "url": "https://github.com/openai/NavierStokesAndEuler",
@@ -98,44 +98,12 @@
       }
     },
     {
-      "name": "codenotch",
-      "full_name": "vinzdg/codenotch",
-      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-      "description_cn": "a maCos app that pins usage limits from Claude Code, Cursor, Codex, and antigravity to a sCreen 边.",
-      "stars": 1937,
-      "forks": 294,
-      "language": "Swift",
-      "url": "https://github.com/vinzdg/codenotch",
-      "topics": [],
-      "created_at": "2026-09-05T14:55:35Z",
-      "owner": {
-        "login": "vinzdg",
-        "avatar_url": "https://avatars.githubusercontent.com/u/199352226?v=4"
-      }
-    },
-    {
-      "name": "Edge0",
-      "full_name": "Edge0-AI/Edge0",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 1936,
-      "forks": 162,
-      "language": "Python",
-      "url": "https://github.com/Edge0-AI/Edge0",
-      "topics": [],
-      "created_at": "2026-09-08T13:41:47Z",
-      "owner": {
-        "login": "Edge0-AI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/310437271?v=4"
-      }
-    },
-    {
       "name": "holo-card-studio",
       "full_name": "EverettFish/holo-card-studio",
       "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "description_cn": "turn the 用户's desCrIPti开启 or up加载ed referenCe into a finished, edi表 Blender Card and an inter活跃 three.js 页. preserve the requested subjeCt, style, typo图y and destinati开启. this skill C开启tAIns Code and 文本 开启ly; generated artwork bel开启gs in the 用户's output 项目.",
-      "stars": 1614,
-      "forks": 224,
+      "stars": 1667,
+      "forks": 227,
       "language": "Python",
       "url": "https://github.com/EverettFish/holo-card-studio",
       "topics": [],
@@ -150,8 +118,8 @@
       "full_name": "Vincentwei1021/anything2explainer",
       "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
       "description_cn": "top内联缓存 in, narrated explAIner 视频 out. a Claude Code / Codex skill that turns any top内联缓存 into a blaCk-Canvas moti开启-图内联缓存s explAIner 视频 with tts vo内联缓存eover, subtitles and a Chapter progress 柱状图. Chinese or english; every frame drawn in Code with rEmoti开启.",
-      "stars": 1589,
-      "forks": 256,
+      "stars": 1649,
+      "forks": 263,
       "language": "TypeScript",
       "url": "https://github.com/Vincentwei1021/anything2explainer",
       "topics": [
@@ -166,158 +134,196 @@
         "login": "Vincentwei1021",
         "avatar_url": "https://avatars.githubusercontent.com/u/18239147?v=4"
       }
+    },
+    {
+      "name": "SemIf",
+      "full_name": "TheoLeeCJ/SemIf",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "description_cn": "semant内联缓存 如果s from open 模型s, 开启 a 3090 at home. independent; 否t affiliated with jev or typesafe.",
+      "stars": 1631,
+      "forks": 107,
+      "language": "Python",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "topics": [],
+      "created_at": "2026-09-16T03:51:21Z",
+      "owner": {
+        "login": "TheoLeeCJ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22087932?v=4"
+      }
+    },
+    {
+      "name": "qingjian",
+      "full_name": "qingjian-team/qingjian",
+      "description": "青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词",
+      "description_cn": "",
+      "stars": 1428,
+      "forks": 129,
+      "language": "Rust",
+      "url": "https://github.com/qingjian-team/qingjian",
+      "topics": [
+        "chinese",
+        "chinese-input-method",
+        "english-learning",
+        "ime",
+        "input-method"
+      ],
+      "created_at": "2026-09-07T08:25:30Z",
+      "owner": {
+        "login": "qingjian-team",
+        "avatar_url": "https://avatars.githubusercontent.com/u/325692219?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Astra for Law",
-      "url": "https://openai.com/index/astra-for-law/",
-      "score": 383,
-      "comments": 411,
-      "author": "vertigoruntime",
-      "time": 1789676268,
-      "hn_url": "https://news.ycombinator.com/item?id=49745940",
-      "title_cn": "Astra for Law"
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "score": 558,
+      "comments": 202,
+      "author": "datadrivenangel",
+      "time": 1789765232,
+      "hn_url": "https://news.ycombinator.com/item?id=49760187",
+      "title_cn": "【Claude】Claude Code now reads AGENTS.md if there is no Claude.md"
     },
     {
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "score": 351,
-      "comments": 178,
-      "author": "nicolas-siplis",
-      "time": 1789677373,
-      "hn_url": "https://news.ycombinator.com/item?id=49746163",
-      "title_cn": "【AI】Bend – A language that blocks AI mistakes via proof, on CPU and GPU"
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "score": 422,
+      "comments": 289,
+      "author": "joeriddles",
+      "time": 1789681718,
+      "hn_url": "https://news.ycombinator.com/item?id=49747070",
+      "title_cn": "【大语言模型】How to Write with an LLM"
     },
     {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "score": 296,
-      "comments": 94,
-      "author": "JonSchneider",
-      "time": 1789679611,
-      "hn_url": "https://news.ycombinator.com/item?id=49746618",
-      "title_cn": "【AI】Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "score": 417,
+      "comments": 317,
+      "author": "realsarm",
+      "time": 1789752481,
+      "hn_url": "https://news.ycombinator.com/item?id=49757520",
+      "title_cn": "【AI】US Military had close call after using AI for hallucinated intelligence report"
     },
     {
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "url": "https://mysetup.ai/",
-      "score": 199,
-      "comments": 113,
-      "author": "steveybrown",
-      "time": 1789650104,
-      "hn_url": "https://news.ycombinator.com/item?id=49740105",
-      "title_cn": "【AI】Show HN: Share your AI Setup, Learn from others"
-    },
-    {
-      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-      "url": "https://arxiv.org/abs/2609.18842",
-      "score": 122,
-      "comments": 38,
-      "author": "Betelbuddy",
-      "time": 1789664114,
-      "hn_url": "https://news.ycombinator.com/item?id=49743483",
-      "title_cn": "【大语言模型】Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data"
-    },
-    {
-      "title": "Towards Self-Driving Codebases",
-      "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
-      "score": 105,
-      "comments": 83,
-      "author": "wilhelmklopp",
-      "time": 1789664311,
-      "hn_url": "https://news.ycombinator.com/item?id=49743527",
-      "title_cn": "Towards Self-Driving Codebases"
-    },
-    {
-      "title": "TSMC revealing details about next gen A14 node",
-      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
-      "score": 101,
-      "comments": 40,
-      "author": "osnium123",
-      "time": 1789486315,
-      "hn_url": "https://news.ycombinator.com/item?id=49714096",
-      "title_cn": "【AI】TSMC revealing details about next gen A14 node"
-    },
-    {
-      "title": "LLM Classification Is Feature Engineering",
-      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-      "score": 94,
-      "comments": 19,
-      "author": "minsufficient",
-      "time": 1789659617,
-      "hn_url": "https://news.ycombinator.com/item?id=49742437",
-      "title_cn": "【大语言模型】LLM Classification Is Feature Engineering"
-    },
-    {
-      "title": "Alibaba releases Qwen 3.8 Omni Flash",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "score": 85,
-      "comments": 19,
-      "author": "jjcm",
-      "time": 1789686348,
-      "hn_url": "https://news.ycombinator.com/item?id=49747925",
-      "title_cn": "【发布】Alibaba releases Qwen 3.8 Omni Flash"
-    },
-    {
-      "title": "How Uber Protects Against Retry Storms",
-      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
-      "score": 67,
-      "comments": 29,
-      "author": "iscmt",
-      "time": 1789679672,
-      "hn_url": "https://news.ycombinator.com/item?id=49746628",
-      "title_cn": "【AI】How Uber Protects Against Retry Storms"
-    },
-    {
-      "title": "Hacking OpenAI",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "score": 40,
-      "comments": 12,
-      "author": "Handy-Man",
-      "time": 1789699644,
-      "hn_url": "https://news.ycombinator.com/item?id=49749656",
-      "title_cn": "【AI, OpenAI】Hacking OpenAI"
-    },
-    {
-      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
-      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
-      "score": 39,
-      "comments": 27,
-      "author": "embedding-shape",
-      "time": 1789469184,
-      "hn_url": "https://news.ycombinator.com/item?id=49710447",
-      "title_cn": "【AI】Diplodocus, Long Thought Exclusively American, Turns Up in Spain"
-    },
-    {
-      "title": "How SpaceX Streamlined the Raptor Engine",
+      "title": "How SpaceX streamlined the Raptor engine",
       "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
-      "score": 18,
-      "comments": 1,
+      "score": 178,
+      "comments": 50,
       "author": "JumpCrisscross",
       "time": 1789679659,
       "hn_url": "https://news.ycombinator.com/item?id=49746626",
-      "title_cn": "How SpaceX Streamlined the Raptor Engine"
+      "title_cn": "How SpaceX streamlined the Raptor engine"
     },
     {
-      "title": "Code Scans",
-      "url": "https://devin.ai/blog/introducing-code-scans",
-      "score": 5,
-      "comments": 0,
-      "author": "geoffbp",
-      "time": 1789700440,
-      "hn_url": "https://news.ycombinator.com/item?id=49749744",
-      "title_cn": "Code Scans"
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "score": 174,
+      "comments": 79,
+      "author": "HenryNdubuaku",
+      "time": 1789690304,
+      "hn_url": "https://news.ycombinator.com/item?id=49748553",
+      "title_cn": "【模型】Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash"
     },
     {
-      "title": "The open source version of Claude Project that gives you the context ownershp",
-      "url": "https://github.com/zqiren/Orbital",
-      "score": 4,
+      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+      "score": 120,
+      "comments": 36,
+      "author": "succinct_ideas",
+      "time": 1789700208,
+      "hn_url": "https://news.ycombinator.com/item?id=49749724",
+      "title_cn": "Warez: The Infrastructure and Aesthetics of Piracy (2021)"
+    },
+    {
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+      "score": 107,
+      "comments": 60,
+      "author": "Jimmc414",
+      "time": 1789744327,
+      "hn_url": "https://news.ycombinator.com/item?id=49755533",
+      "title_cn": "【AI】Two parallel neural ectoderm progenitors contribute to the developing brain"
+    },
+    {
+      "title": "AI chatbots are becoming experts at changing people's minds",
+      "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+      "score": 91,
+      "comments": 97,
+      "author": "rbanffy",
+      "time": 1789738767,
+      "hn_url": "https://news.ycombinator.com/item?id=49754250",
+      "title_cn": "【AI】AI chatbots are becoming experts at changing people's minds"
+    },
+    {
+      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+      "score": 72,
+      "comments": 19,
+      "author": "ibobev",
+      "time": 1789742462,
+      "hn_url": "https://news.ycombinator.com/item?id=49755095",
+      "title_cn": "【AI】Mathematicians Build Long-Awaited Graph Sandwich"
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "score": 71,
+      "comments": 64,
+      "author": "maxall4",
+      "time": 1789772657,
+      "hn_url": "https://news.ycombinator.com/item?id=49761432",
+      "title_cn": "【AI, 大语言模型, OpenAI】How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip"
+    },
+    {
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "score": 70,
+      "comments": 12,
+      "author": "rochansinha",
+      "time": 1789757735,
+      "hn_url": "https://news.ycombinator.com/item?id=49758615",
+      "title_cn": "【大语言模型】Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)"
+    },
+    {
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "score": 56,
+      "comments": 7,
+      "author": "yogthos",
+      "time": 1789775682,
+      "hn_url": "https://news.ycombinator.com/item?id=49761840",
+      "title_cn": "【AI, 模型】Alibaba open-sources AI model that can detect cancer and nearly 150 conditions"
+    },
+    {
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852",
+      "score": 56,
+      "comments": 21,
+      "author": "tomjakubowski",
+      "time": 1789758006,
+      "hn_url": "https://news.ycombinator.com/item?id=49758689",
+      "title_cn": "【大语言模型】The Implications of Linguistic Illegibility for LLM Security"
+    },
+    {
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+      "score": 34,
+      "comments": 33,
+      "author": "usernomdeguerre",
+      "time": 1789782035,
+      "hn_url": "https://news.ycombinator.com/item?id=49762493",
+      "title_cn": "【AI】Gemini hacked three companies in first known breakout by Google's AI"
+    },
+    {
+      "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
+      "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
+      "score": 30,
       "comments": 0,
-      "author": "10keane",
-      "time": 1789697661,
-      "hn_url": "https://news.ycombinator.com/item?id=49749457",
-      "title_cn": "【Claude, 开源】The open source version of Claude Project that gives you the context ownershp"
+      "author": "surprisetalk",
+      "time": 1789651203,
+      "hn_url": "https://news.ycombinator.com/item?id=49740371",
+      "title_cn": "【AI】From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]"
     }
   ]
 }
