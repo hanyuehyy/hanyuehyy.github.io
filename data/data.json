@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-19T03:59:38.968082",
+  "updated_at": "2026-09-20T04:18:40.737683",
   "github_projects": [
     {
       "name": "jev-ultrafast",
       "full_name": "browser-use/jev-ultrafast",
       "description": "i. am. speed.",
       "description_cn": "",
-      "stars": 5827,
-      "forks": 373,
+      "stars": 9100,
+      "forks": 570,
       "language": "Python",
       "url": "https://github.com/browser-use/jev-ultrafast",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "eternity4719/HowToLiveBetter",
       "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
       "description_cn": "",
-      "stars": 5217,
-      "forks": 400,
+      "stars": 6097,
+      "forks": 464,
       "language": "HTML",
       "url": "https://github.com/eternity4719/HowToLiveBetter",
       "topics": [],
@@ -34,28 +34,12 @@
       }
     },
     {
-      "name": "dlssg_for_sm86",
-      "full_name": "sdli1995/dlssg_for_sm86",
-      "description": "Here is a dlssg for RTX30 Series GPU ",
-      "description_cn": "here is a dlssg for rtx30 series gpu ",
-      "stars": 3438,
-      "forks": 198,
-      "language": "Unknown",
-      "url": "https://github.com/sdli1995/dlssg_for_sm86",
-      "topics": [],
-      "created_at": "2026-09-07T16:16:48Z",
-      "owner": {
-        "login": "sdli1995",
-        "avatar_url": "https://avatars.githubusercontent.com/u/28560351?v=4"
-      }
-    },
-    {
       "name": "fast-jev-compaction",
       "full_name": "tamaratran/fast-jev-compaction",
       "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
       "description_cn": "Claude Code 插件 that replaCes the CompaCti开启 求和mary with jev deCisi开启s: every 工具 调用 and result is sCored in 开启e 快速 request, stale 开启es are 丢弃ped or trunCated, everything kept stays verbatim.",
-      "stars": 3402,
-      "forks": 174,
+      "stars": 4380,
+      "forks": 241,
       "language": "TypeScript",
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "topics": [],
@@ -66,12 +50,44 @@
       }
     },
     {
+      "name": "dlssg_for_sm86",
+      "full_name": "sdli1995/dlssg_for_sm86",
+      "description": "Here is a dlssg for RTX30 Series GPU ",
+      "description_cn": "here is a dlssg for rtx30 series gpu ",
+      "stars": 3568,
+      "forks": 208,
+      "language": "Unknown",
+      "url": "https://github.com/sdli1995/dlssg_for_sm86",
+      "topics": [],
+      "created_at": "2026-09-07T16:16:48Z",
+      "owner": {
+        "login": "sdli1995",
+        "avatar_url": "https://avatars.githubusercontent.com/u/28560351?v=4"
+      }
+    },
+    {
+      "name": "Compositor",
+      "full_name": "robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "description_cn": "the photoshop alternative for maC",
+      "stars": 2759,
+      "forks": 294,
+      "language": "Swift",
+      "url": "https://github.com/robbietilton/Compositor",
+      "topics": [],
+      "created_at": "2026-09-16T20:35:54Z",
+      "owner": {
+        "login": "robbietilton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1269226?v=4"
+      }
+    },
+    {
       "name": "Edge0",
       "full_name": "Edge0-AI/Edge0",
       "description": "No description",
       "description_cn": "",
-      "stars": 1968,
-      "forks": 164,
+      "stars": 2009,
+      "forks": 174,
       "language": "Python",
       "url": "https://github.com/Edge0-AI/Edge0",
       "topics": [],
@@ -82,12 +98,28 @@
       }
     },
     {
+      "name": "SemIf",
+      "full_name": "TheoLeeCJ/SemIf",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "description_cn": "semant内联缓存 如果s from open 模型s, 开启 a 3090 at home. independent; 否t affiliated with jev or typesafe.",
+      "stars": 2002,
+      "forks": 123,
+      "language": "Python",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "topics": [],
+      "created_at": "2026-09-16T03:51:21Z",
+      "owner": {
+        "login": "TheoLeeCJ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22087932?v=4"
+      }
+    },
+    {
       "name": "NavierStokesAndEuler",
       "full_name": "openai/NavierStokesAndEuler",
       "description": "Lean certificates accompanying Navier-Stokes and Euler results",
       "description_cn": "lean 证书s aCCompanying navier-stokes and euler results",
-      "stars": 1951,
-      "forks": 200,
+      "stars": 1962,
+      "forks": 201,
       "language": "Lean",
       "url": "https://github.com/openai/NavierStokesAndEuler",
       "topics": [],
@@ -98,28 +130,12 @@
       }
     },
     {
-      "name": "holo-card-studio",
-      "full_name": "EverettFish/holo-card-studio",
-      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-      "description_cn": "turn the 用户's desCrIPti开启 or up加载ed referenCe into a finished, edi表 Blender Card and an inter活跃 three.js 页. preserve the requested subjeCt, style, typo图y and destinati开启. this skill C开启tAIns Code and 文本 开启ly; generated artwork bel开启gs in the 用户's output 项目.",
-      "stars": 1667,
-      "forks": 227,
-      "language": "Python",
-      "url": "https://github.com/EverettFish/holo-card-studio",
-      "topics": [],
-      "created_at": "2026-09-07T00:41:18Z",
-      "owner": {
-        "login": "EverettFish",
-        "avatar_url": "https://avatars.githubusercontent.com/u/222453586?v=4"
-      }
-    },
-    {
       "name": "anything2explainer",
       "full_name": "Vincentwei1021/anything2explainer",
       "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
       "description_cn": "top内联缓存 in, narrated explAIner 视频 out. a Claude Code / Codex skill that turns any top内联缓存 into a blaCk-Canvas moti开启-图内联缓存s explAIner 视频 with tts vo内联缓存eover, subtitles and a Chapter progress 柱状图. Chinese or english; every frame drawn in Code with rEmoti开启.",
-      "stars": 1649,
-      "forks": 263,
+      "stars": 1770,
+      "forks": 269,
       "language": "TypeScript",
       "url": "https://github.com/Vincentwei1021/anything2explainer",
       "topics": [
@@ -136,194 +152,172 @@
       }
     },
     {
-      "name": "SemIf",
-      "full_name": "TheoLeeCJ/SemIf",
-      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "description_cn": "semant内联缓存 如果s from open 模型s, 开启 a 3090 at home. independent; 否t affiliated with jev or typesafe.",
-      "stars": 1631,
-      "forks": 107,
+      "name": "holo-card-studio",
+      "full_name": "EverettFish/holo-card-studio",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "description_cn": "turn the 用户's desCrIPti开启 or up加载ed referenCe into a finished, edi表 Blender Card and an inter活跃 three.js 页. preserve the requested subjeCt, style, typo图y and destinati开启. this skill C开启tAIns Code and 文本 开启ly; generated artwork bel开启gs in the 用户's output 项目.",
+      "stars": 1686,
+      "forks": 228,
       "language": "Python",
-      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "url": "https://github.com/EverettFish/holo-card-studio",
       "topics": [],
-      "created_at": "2026-09-16T03:51:21Z",
+      "created_at": "2026-09-07T00:41:18Z",
       "owner": {
-        "login": "TheoLeeCJ",
-        "avatar_url": "https://avatars.githubusercontent.com/u/22087932?v=4"
-      }
-    },
-    {
-      "name": "qingjian",
-      "full_name": "qingjian-team/qingjian",
-      "description": "青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词",
-      "description_cn": "",
-      "stars": 1428,
-      "forks": 129,
-      "language": "Rust",
-      "url": "https://github.com/qingjian-team/qingjian",
-      "topics": [
-        "chinese",
-        "chinese-input-method",
-        "english-learning",
-        "ime",
-        "input-method"
-      ],
-      "created_at": "2026-09-07T08:25:30Z",
-      "owner": {
-        "login": "qingjian-team",
-        "avatar_url": "https://avatars.githubusercontent.com/u/325692219?v=4"
+        "login": "EverettFish",
+        "avatar_url": "https://avatars.githubusercontent.com/u/222453586?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "score": 558,
-      "comments": 202,
-      "author": "datadrivenangel",
-      "time": 1789765232,
-      "hn_url": "https://news.ycombinator.com/item?id=49760187",
-      "title_cn": "【Claude】Claude Code now reads AGENTS.md if there is no Claude.md"
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "score": 1449,
+      "comments": 796,
+      "author": "ereiamjh",
+      "time": 1789809658,
+      "hn_url": "https://news.ycombinator.com/item?id=49764791",
+      "title_cn": "【AI】AI-generated posters don’t have to be horrible"
+    },
+    {
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "score": 1142,
+      "comments": 282,
+      "author": "nandakishor_ml",
+      "time": 1789814818,
+      "hn_url": "https://news.ycombinator.com/item?id=49765348",
+      "title_cn": "【模型】I built non-autoregressive decision models with RL a year ago"
     },
     {
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 422,
-      "comments": 289,
+      "score": 645,
+      "comments": 381,
       "author": "joeriddles",
       "time": 1789681718,
       "hn_url": "https://news.ycombinator.com/item?id=49747070",
       "title_cn": "【大语言模型】How to Write with an LLM"
     },
     {
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "score": 417,
-      "comments": 317,
-      "author": "realsarm",
-      "time": 1789752481,
-      "hn_url": "https://news.ycombinator.com/item?id=49757520",
-      "title_cn": "【AI】US Military had close call after using AI for hallucinated intelligence report"
-    },
-    {
-      "title": "How SpaceX streamlined the Raptor engine",
-      "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
-      "score": 178,
-      "comments": 50,
-      "author": "JumpCrisscross",
-      "time": 1789679659,
-      "hn_url": "https://news.ycombinator.com/item?id=49746626",
-      "title_cn": "How SpaceX streamlined the Raptor engine"
-    },
-    {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://cactuscompute.com/needle",
-      "score": 174,
-      "comments": 79,
-      "author": "HenryNdubuaku",
-      "time": 1789690304,
-      "hn_url": "https://news.ycombinator.com/item?id=49748553",
-      "title_cn": "【模型】Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash"
-    },
-    {
-      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-      "score": 120,
-      "comments": 36,
-      "author": "succinct_ideas",
-      "time": 1789700208,
-      "hn_url": "https://news.ycombinator.com/item?id=49749724",
-      "title_cn": "Warez: The Infrastructure and Aesthetics of Piracy (2021)"
-    },
-    {
       "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-      "score": 107,
-      "comments": 60,
-      "author": "Jimmc414",
-      "time": 1789744327,
-      "hn_url": "https://news.ycombinator.com/item?id=49755533",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "score": 615,
+      "comments": 242,
+      "author": "emigre",
+      "time": 1789796930,
+      "hn_url": "https://news.ycombinator.com/item?id=49763697",
       "title_cn": "【AI】Two parallel neural ectoderm progenitors contribute to the developing brain"
     },
     {
-      "title": "AI chatbots are becoming experts at changing people's minds",
-      "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-      "score": 91,
-      "comments": 97,
-      "author": "rbanffy",
-      "time": 1789738767,
-      "hn_url": "https://news.ycombinator.com/item?id=49754250",
-      "title_cn": "【AI】AI chatbots are becoming experts at changing people's minds"
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "score": 372,
+      "comments": 169,
+      "author": "nsoonhui",
+      "time": 1789800104,
+      "hn_url": "https://news.ycombinator.com/item?id=49763987",
+      "title_cn": "【GPT】GPT-6 Astra Solves a WWI German Radio Cipher"
     },
     {
-      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-      "score": 72,
-      "comments": 19,
-      "author": "ibobev",
-      "time": 1789742462,
-      "hn_url": "https://news.ycombinator.com/item?id=49755095",
-      "title_cn": "【AI】Mathematicians Build Long-Awaited Graph Sandwich"
+      "title": "I think you should almost never use AI to write",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "score": 263,
+      "comments": 134,
+      "author": "erwald",
+      "time": 1789835724,
+      "hn_url": "https://news.ycombinator.com/item?id=49767937",
+      "title_cn": "【AI】I think you should almost never use AI to write"
     },
     {
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "score": 71,
-      "comments": 64,
-      "author": "maxall4",
-      "time": 1789772657,
-      "hn_url": "https://news.ycombinator.com/item?id=49761432",
-      "title_cn": "【AI, 大语言模型, OpenAI】How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip"
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "score": 139,
+      "comments": 43,
+      "author": "jonbaer",
+      "time": 1789842090,
+      "hn_url": "https://news.ycombinator.com/item?id=49768921",
+      "title_cn": "【AI, API】Microsoft director: AI scraping 'the largest theft of labor in human history'"
     },
     {
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "url": "https://arxiv.org/abs/2510.03215",
-      "score": 70,
-      "comments": 12,
-      "author": "rochansinha",
-      "time": 1789757735,
-      "hn_url": "https://news.ycombinator.com/item?id=49758615",
-      "title_cn": "【大语言模型】Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)"
+      "title": "Asking authors about their own papers",
+      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
+      "score": 113,
+      "comments": 67,
+      "author": "stefanpie",
+      "time": 1789601491,
+      "hn_url": "https://news.ycombinator.com/item?id=49734467",
+      "title_cn": "Asking authors about their own papers"
     },
     {
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "score": 56,
-      "comments": 7,
-      "author": "yogthos",
-      "time": 1789775682,
-      "hn_url": "https://news.ycombinator.com/item?id=49761840",
-      "title_cn": "【AI, 模型】Alibaba open-sources AI model that can detect cancer and nearly 150 conditions"
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "url": "https://github.com/trycua/cua",
+      "score": 68,
+      "comments": 8,
+      "author": "frabonacci",
+      "time": 1789833171,
+      "hn_url": "https://news.ycombinator.com/item?id=49767564",
+      "title_cn": "【模型】Show HN: CUA-S1 – A System One Model for Computer Use"
     },
     {
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "url": "https://arxiv.org/abs/2609.02852",
-      "score": 56,
-      "comments": 21,
-      "author": "tomjakubowski",
-      "time": 1789758006,
-      "hn_url": "https://news.ycombinator.com/item?id=49758689",
-      "title_cn": "【大语言模型】The Implications of Linguistic Illegibility for LLM Security"
+      "title": "Learning another language may be one of the best ways to keep your brain healthy",
+      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+      "score": 65,
+      "comments": 62,
+      "author": "nativeit",
+      "time": 1789827822,
+      "hn_url": "https://news.ycombinator.com/item?id=49766821",
+      "title_cn": "【AI】Learning another language may be one of the best ways to keep your brain healthy"
     },
     {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
-      "score": 34,
-      "comments": 33,
-      "author": "usernomdeguerre",
-      "time": 1789782035,
-      "hn_url": "https://news.ycombinator.com/item?id=49762493",
-      "title_cn": "【AI】Gemini hacked three companies in first known breakout by Google's AI"
+      "title": "Deodands put a price on objects that caused death",
+      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+      "score": 62,
+      "comments": 24,
+      "author": "samizdis",
+      "time": 1789588283,
+      "hn_url": "https://news.ycombinator.com/item?id=49731996",
+      "title_cn": "Deodands put a price on objects that caused death"
     },
     {
-      "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
-      "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
-      "score": 30,
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "score": 57,
+      "comments": 13,
+      "author": "madars",
+      "time": 1789870773,
+      "hn_url": "https://news.ycombinator.com/item?id=49771966",
+      "title_cn": "RSA-896"
+    },
+    {
+      "title": "Can you tell which images are AI-generated?",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "score": 57,
+      "comments": 56,
+      "author": "hckr78",
+      "time": 1789858954,
+      "hn_url": "https://news.ycombinator.com/item?id=49770847",
+      "title_cn": "【AI】Can you tell which images are AI-generated?"
+    },
+    {
+      "title": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+      "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
+      "score": 33,
+      "comments": 16,
+      "author": "kgwgk",
+      "time": 1789863000,
+      "hn_url": "https://news.ycombinator.com/item?id=49771266",
+      "title_cn": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be"
+    },
+    {
+      "title": "PyPy v8.0.0 Release",
+      "url": "https://pypy.org/posts/2026/09/pypy-v800-release.html",
+      "score": 8,
       "comments": 0,
-      "author": "surprisetalk",
-      "time": 1789651203,
-      "hn_url": "https://news.ycombinator.com/item?id=49740371",
-      "title_cn": "【AI】From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]"
+      "author": "lumpa",
+      "time": 1789857642,
+      "hn_url": "https://news.ycombinator.com/item?id=49770701",
+      "title_cn": "【发布】PyPy v8.0.0 Release"
     }
   ]
 }
