@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-20T04:18:40.737683",
+  "updated_at": "2026-09-21T04:16:10.963929",
   "github_projects": [
     {
       "name": "jev-ultrafast",
       "full_name": "browser-use/jev-ultrafast",
       "description": "i. am. speed.",
       "description_cn": "",
-      "stars": 9100,
-      "forks": 570,
+      "stars": 12590,
+      "forks": 783,
       "language": "Python",
       "url": "https://github.com/browser-use/jev-ultrafast",
       "topics": [],
@@ -18,28 +18,12 @@
       }
     },
     {
-      "name": "HowToLiveBetter",
-      "full_name": "eternity4719/HowToLiveBetter",
-      "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-      "description_cn": "",
-      "stars": 6097,
-      "forks": 464,
-      "language": "HTML",
-      "url": "https://github.com/eternity4719/HowToLiveBetter",
-      "topics": [],
-      "created_at": "2026-09-07T01:53:36Z",
-      "owner": {
-        "login": "eternity4719",
-        "avatar_url": "https://avatars.githubusercontent.com/u/230156667?v=4"
-      }
-    },
-    {
       "name": "fast-jev-compaction",
       "full_name": "tamaratran/fast-jev-compaction",
       "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
       "description_cn": "Claude Code 插件 that replaCes the CompaCti开启 求和mary with jev deCisi开启s: every 工具 调用 and result is sCored in 开启e 快速 request, stale 开启es are 丢弃ped or trunCated, everything kept stays verbatim.",
-      "stars": 4380,
-      "forks": 241,
+      "stars": 5379,
+      "forks": 295,
       "language": "TypeScript",
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "topics": [],
@@ -50,19 +34,19 @@
       }
     },
     {
-      "name": "dlssg_for_sm86",
-      "full_name": "sdli1995/dlssg_for_sm86",
-      "description": "Here is a dlssg for RTX30 Series GPU ",
-      "description_cn": "here is a dlssg for rtx30 series gpu ",
-      "stars": 3568,
-      "forks": 208,
-      "language": "Unknown",
-      "url": "https://github.com/sdli1995/dlssg_for_sm86",
+      "name": "laya",
+      "full_name": "NandhaKishorM/laya",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 5034,
+      "forks": 450,
+      "language": "Python",
+      "url": "https://github.com/NandhaKishorM/laya",
       "topics": [],
-      "created_at": "2026-09-07T16:16:48Z",
+      "created_at": "2026-09-18T04:46:33Z",
       "owner": {
-        "login": "sdli1995",
-        "avatar_url": "https://avatars.githubusercontent.com/u/28560351?v=4"
+        "login": "NandhaKishorM",
+        "avatar_url": "https://avatars.githubusercontent.com/u/48623612?v=4"
       }
     },
     {
@@ -70,8 +54,8 @@
       "full_name": "robbietilton/Compositor",
       "description": "The Photoshop alternative for Mac",
       "description_cn": "the photoshop alternative for maC",
-      "stars": 2759,
-      "forks": 294,
+      "stars": 3791,
+      "forks": 398,
       "language": "Swift",
       "url": "https://github.com/robbietilton/Compositor",
       "topics": [],
@@ -82,19 +66,19 @@
       }
     },
     {
-      "name": "Edge0",
-      "full_name": "Edge0-AI/Edge0",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 2009,
-      "forks": 174,
-      "language": "Python",
-      "url": "https://github.com/Edge0-AI/Edge0",
+      "name": "ZCode",
+      "full_name": "zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "description_cn": "z.AI's Coding 智能体 harness. 强大, intelligent, extensible.",
+      "stars": 3042,
+      "forks": 786,
+      "language": "TypeScript",
+      "url": "https://github.com/zai-org/ZCode",
       "topics": [],
-      "created_at": "2026-09-08T13:41:47Z",
+      "created_at": "2026-09-20T12:01:16Z",
       "owner": {
-        "login": "Edge0-AI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/310437271?v=4"
+        "login": "zai-org",
+        "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       }
     },
     {
@@ -102,8 +86,8 @@
       "full_name": "TheoLeeCJ/SemIf",
       "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
       "description_cn": "semant内联缓存 如果s from open 模型s, 开启 a 3090 at home. independent; 否t affiliated with jev or typesafe.",
-      "stars": 2002,
-      "forks": 123,
+      "stars": 2524,
+      "forks": 158,
       "language": "Python",
       "url": "https://github.com/TheoLeeCJ/SemIf",
       "topics": [],
@@ -114,12 +98,44 @@
       }
     },
     {
+      "name": "jianying-headless",
+      "full_name": "mcncarl/jianying-headless",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "description_cn": "私有 sourCe preview: native jianying drafts, isolated editing/导出, and standal开启e 智能体 skill.",
+      "stars": 2094,
+      "forks": 1410,
+      "language": "Python",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "topics": [],
+      "created_at": "2026-09-15T11:51:15Z",
+      "owner": {
+        "login": "mcncarl",
+        "avatar_url": "https://avatars.githubusercontent.com/u/204130968?v=4"
+      }
+    },
+    {
+      "name": "Edge0",
+      "full_name": "Edge0-AI/Edge0",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 2025,
+      "forks": 177,
+      "language": "Python",
+      "url": "https://github.com/Edge0-AI/Edge0",
+      "topics": [],
+      "created_at": "2026-09-08T13:41:47Z",
+      "owner": {
+        "login": "Edge0-AI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/310437271?v=4"
+      }
+    },
+    {
       "name": "NavierStokesAndEuler",
       "full_name": "openai/NavierStokesAndEuler",
       "description": "Lean certificates accompanying Navier-Stokes and Euler results",
       "description_cn": "lean 证书s aCCompanying navier-stokes and euler results",
-      "stars": 1962,
-      "forks": 201,
+      "stars": 1967,
+      "forks": 200,
       "language": "Lean",
       "url": "https://github.com/openai/NavierStokesAndEuler",
       "topics": [],
@@ -130,194 +146,178 @@
       }
     },
     {
-      "name": "anything2explainer",
-      "full_name": "Vincentwei1021/anything2explainer",
-      "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
-      "description_cn": "top内联缓存 in, narrated explAIner 视频 out. a Claude Code / Codex skill that turns any top内联缓存 into a blaCk-Canvas moti开启-图内联缓存s explAIner 视频 with tts vo内联缓存eover, subtitles and a Chapter progress 柱状图. Chinese or english; every frame drawn in Code with rEmoti开启.",
-      "stars": 1770,
-      "forks": 269,
-      "language": "TypeScript",
-      "url": "https://github.com/Vincentwei1021/anything2explainer",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ai-video",
-        "claude-code",
-        "claude-code-skill"
-      ],
-      "created_at": "2026-09-08T17:19:54Z",
-      "owner": {
-        "login": "Vincentwei1021",
-        "avatar_url": "https://avatars.githubusercontent.com/u/18239147?v=4"
-      }
-    },
-    {
-      "name": "holo-card-studio",
-      "full_name": "EverettFish/holo-card-studio",
-      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-      "description_cn": "turn the 用户's desCrIPti开启 or up加载ed referenCe into a finished, edi表 Blender Card and an inter活跃 three.js 页. preserve the requested subjeCt, style, typo图y and destinati开启. this skill C开启tAIns Code and 文本 开启ly; generated artwork bel开启gs in the 用户's output 项目.",
-      "stars": 1686,
-      "forks": 228,
+      "name": "laya-mlx",
+      "full_name": "mizorewww/laya-mlx",
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "description_cn": "native mlx 运行时 for laya typed deCisi开启 模型s — 7–14 ms short deCisi开启s 开启 m3 最大. 否 文本 生成, PyTorCh, or Cloud API.",
+      "stars": 1931,
+      "forks": 98,
       "language": "Python",
-      "url": "https://github.com/EverettFish/holo-card-studio",
-      "topics": [],
-      "created_at": "2026-09-07T00:41:18Z",
+      "url": "https://github.com/mizorewww/laya-mlx",
+      "topics": [
+        "apple-silicon",
+        "decision-model",
+        "inference",
+        "laya",
+        "local-ai"
+      ],
+      "created_at": "2026-09-19T13:50:26Z",
       "owner": {
-        "login": "EverettFish",
-        "avatar_url": "https://avatars.githubusercontent.com/u/222453586?v=4"
+        "login": "mizorewww",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "score": 1449,
-      "comments": 796,
-      "author": "ereiamjh",
-      "time": 1789809658,
-      "hn_url": "https://news.ycombinator.com/item?id=49764791",
-      "title_cn": "【AI】AI-generated posters don’t have to be horrible"
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "score": 675,
+      "comments": 356,
+      "author": "lmbbuchodi",
+      "time": 1789917524,
+      "hn_url": "https://news.ycombinator.com/item?id=49776729",
+      "title_cn": "【GPT】ChatGPT now knows what you do on other websites via ad collector"
     },
     {
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "url": "https://laya.convaiinnovations.com/",
-      "score": 1142,
-      "comments": 282,
-      "author": "nandakishor_ml",
-      "time": 1789814818,
-      "hn_url": "https://news.ycombinator.com/item?id=49765348",
-      "title_cn": "【模型】I built non-autoregressive decision models with RL a year ago"
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "score": 541,
+      "comments": 159,
+      "author": "jmillikin",
+      "time": 1789909765,
+      "hn_url": "https://news.ycombinator.com/item?id=49775499",
+      "title_cn": "Qwen Image 2.1"
     },
     {
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 645,
-      "comments": 381,
-      "author": "joeriddles",
-      "time": 1789681718,
-      "hn_url": "https://news.ycombinator.com/item?id=49747070",
-      "title_cn": "【大语言模型】How to Write with an LLM"
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "score": 483,
+      "comments": 141,
+      "author": "skepticalgenius",
+      "time": 1789917367,
+      "hn_url": "https://news.ycombinator.com/item?id=49776699",
+      "title_cn": "【大语言模型, 模型】Pirate Face Rescues LLM Models from Deletion"
     },
     {
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "score": 615,
-      "comments": 242,
-      "author": "emigre",
-      "time": 1789796930,
-      "hn_url": "https://news.ycombinator.com/item?id=49763697",
-      "title_cn": "【AI】Two parallel neural ectoderm progenitors contribute to the developing brain"
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "score": 384,
+      "comments": 252,
+      "author": "giuliomagnifico",
+      "time": 1789925930,
+      "hn_url": "https://news.ycombinator.com/item?id=49778029",
+      "title_cn": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM"
     },
     {
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "score": 372,
-      "comments": 169,
-      "author": "nsoonhui",
-      "time": 1789800104,
-      "hn_url": "https://news.ycombinator.com/item?id=49763987",
-      "title_cn": "【GPT】GPT-6 Astra Solves a WWI German Radio Cipher"
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "score": 297,
+      "comments": 238,
+      "author": "latein",
+      "time": 1789885002,
+      "hn_url": "https://news.ycombinator.com/item?id=49772961",
+      "title_cn": "【AI】Spain Orders Blocks on Archive.today and Its Mirrors"
     },
     {
-      "title": "I think you should almost never use AI to write",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "score": 263,
-      "comments": 134,
-      "author": "erwald",
-      "time": 1789835724,
-      "hn_url": "https://news.ycombinator.com/item?id=49767937",
-      "title_cn": "【AI】I think you should almost never use AI to write"
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "score": 236,
+      "comments": 166,
+      "author": "wglb",
+      "time": 1789606814,
+      "hn_url": "https://news.ycombinator.com/item?id=49735159",
+      "title_cn": "Weeping whales: Stillborn humpback whale grieving documented"
     },
     {
-      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "score": 139,
-      "comments": 43,
-      "author": "jonbaer",
-      "time": 1789842090,
-      "hn_url": "https://news.ycombinator.com/item?id=49768921",
-      "title_cn": "【AI, API】Microsoft director: AI scraping 'the largest theft of labor in human history'"
+      "title": "The LLMentalist Effect (2023)",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "score": 165,
+      "comments": 252,
+      "author": "jalev",
+      "time": 1789906813,
+      "hn_url": "https://news.ycombinator.com/item?id=49775104",
+      "title_cn": "【大语言模型】The LLMentalist Effect (2023)"
     },
     {
-      "title": "Asking authors about their own papers",
-      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
-      "score": 113,
-      "comments": 67,
-      "author": "stefanpie",
-      "time": 1789601491,
-      "hn_url": "https://news.ycombinator.com/item?id=49734467",
-      "title_cn": "Asking authors about their own papers"
+      "title": "Laya on Mac M4 CoreML Offline",
+      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "score": 144,
+      "comments": 28,
+      "author": "putna",
+      "time": 1789919932,
+      "hn_url": "https://news.ycombinator.com/item?id=49777106",
+      "title_cn": "Laya on Mac M4 CoreML Offline"
     },
     {
-      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "url": "https://github.com/trycua/cua",
-      "score": 68,
-      "comments": 8,
-      "author": "frabonacci",
-      "time": 1789833171,
-      "hn_url": "https://news.ycombinator.com/item?id=49767564",
-      "title_cn": "【模型】Show HN: CUA-S1 – A System One Model for Computer Use"
+      "title": "I am often wrong",
+      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "score": 138,
+      "comments": 117,
+      "author": "bcherny",
+      "time": 1789922506,
+      "hn_url": "https://news.ycombinator.com/item?id=49777467",
+      "title_cn": "I am often wrong"
     },
     {
-      "title": "Learning another language may be one of the best ways to keep your brain healthy",
-      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
-      "score": 65,
-      "comments": 62,
-      "author": "nativeit",
-      "time": 1789827822,
-      "hn_url": "https://news.ycombinator.com/item?id=49766821",
-      "title_cn": "【AI】Learning another language may be one of the best ways to keep your brain healthy"
+      "title": "I turned Jev into a (lousy) chatbot",
+      "url": "https://github.com/kyle-pena-nlp/jevchat/",
+      "score": 102,
+      "comments": 36,
+      "author": "kp1197",
+      "time": 1789926687,
+      "hn_url": "https://news.ycombinator.com/item?id=49778162",
+      "title_cn": "I turned Jev into a (lousy) chatbot"
     },
     {
-      "title": "Deodands put a price on objects that caused death",
-      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
-      "score": 62,
-      "comments": 24,
-      "author": "samizdis",
-      "time": 1789588283,
-      "hn_url": "https://news.ycombinator.com/item?id=49731996",
-      "title_cn": "Deodands put a price on objects that caused death"
+      "title": "Trying the software factory pattern",
+      "url": "https://lethain.com/software-factory-experiment/",
+      "score": 76,
+      "comments": 36,
+      "author": "gpi",
+      "time": 1789925231,
+      "hn_url": "https://news.ycombinator.com/item?id=49777913",
+      "title_cn": "Trying the software factory pattern"
     },
     {
-      "title": "RSA-896",
-      "url": "https://saweis.net/posts/rsa-896.html",
-      "score": 57,
-      "comments": 13,
-      "author": "madars",
-      "time": 1789870773,
-      "hn_url": "https://news.ycombinator.com/item?id=49771966",
-      "title_cn": "RSA-896"
+      "title": "Show HN: A competition for small neural networks that play strategy games",
+      "url": "https://tinybrains.dev",
+      "score": 46,
+      "comments": 15,
+      "author": "codetiger",
+      "time": 1789916350,
+      "hn_url": "https://news.ycombinator.com/item?id=49776523",
+      "title_cn": "【神经网络】Show HN: A competition for small neural networks that play strategy games"
     },
     {
-      "title": "Can you tell which images are AI-generated?",
-      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-      "score": 57,
-      "comments": 56,
-      "author": "hckr78",
-      "time": 1789858954,
-      "hn_url": "https://news.ycombinator.com/item?id=49770847",
-      "title_cn": "【AI】Can you tell which images are AI-generated?"
+      "title": "Amiga Unix, Again",
+      "url": "https://amigaux.org/",
+      "score": 28,
+      "comments": 12,
+      "author": "doener",
+      "time": 1789948630,
+      "hn_url": "https://news.ycombinator.com/item?id=49781436",
+      "title_cn": "【AI】Amiga Unix, Again"
     },
     {
-      "title": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-      "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
-      "score": 33,
-      "comments": 16,
-      "author": "kgwgk",
-      "time": 1789863000,
-      "hn_url": "https://news.ycombinator.com/item?id=49771266",
-      "title_cn": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be"
+      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "score": 13,
+      "comments": 2,
+      "author": "the_arun",
+      "time": 1789946344,
+      "hn_url": "https://news.ycombinator.com/item?id=49781138",
+      "title_cn": "【AI】DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR"
     },
     {
-      "title": "PyPy v8.0.0 Release",
-      "url": "https://pypy.org/posts/2026/09/pypy-v800-release.html",
-      "score": 8,
+      "title": "The president wanted to unleash AI. Then came Anthropic",
+      "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212",
+      "score": 3,
       "comments": 0,
-      "author": "lumpa",
-      "time": 1789857642,
-      "hn_url": "https://news.ycombinator.com/item?id=49770701",
-      "title_cn": "【发布】PyPy v8.0.0 Release"
+      "author": "elorant",
+      "time": 1789963291,
+      "hn_url": "https://news.ycombinator.com/item?id=49782916",
+      "title_cn": "【AI, Anthropic】The president wanted to unleash AI. Then came Anthropic"
     }
   ]
 }
