@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-21T04:16:10.963929",
+  "updated_at": "2026-09-22T04:11:55.552170",
   "github_projects": [
     {
       "name": "jev-ultrafast",
       "full_name": "browser-use/jev-ultrafast",
-      "description": "i. am. speed.",
-      "description_cn": "",
-      "stars": 12590,
-      "forks": 783,
+      "description": "Fastest and cheapest web agent",
+      "description_cn": "快速est and C堆est 网页 智能体",
+      "stars": 16282,
+      "forks": 1022,
       "language": "Python",
       "url": "https://github.com/browser-use/jev-ultrafast",
       "topics": [],
@@ -18,28 +18,12 @@
       }
     },
     {
-      "name": "fast-jev-compaction",
-      "full_name": "tamaratran/fast-jev-compaction",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "description_cn": "Claude Code 插件 that replaCes the CompaCti开启 求和mary with jev deCisi开启s: every 工具 调用 and result is sCored in 开启e 快速 request, stale 开启es are 丢弃ped or trunCated, everything kept stays verbatim.",
-      "stars": 5379,
-      "forks": 295,
-      "language": "TypeScript",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "topics": [],
-      "created_at": "2026-09-17T05:57:20Z",
-      "owner": {
-        "login": "tamaratran",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
-      }
-    },
-    {
       "name": "laya",
       "full_name": "NandhaKishorM/laya",
       "description": "No description",
       "description_cn": "",
-      "stars": 5034,
-      "forks": 450,
+      "stars": 11441,
+      "forks": 934,
       "language": "Python",
       "url": "https://github.com/NandhaKishorM/laya",
       "topics": [],
@@ -50,19 +34,19 @@
       }
     },
     {
-      "name": "Compositor",
-      "full_name": "robbietilton/Compositor",
-      "description": "The Photoshop alternative for Mac",
-      "description_cn": "the photoshop alternative for maC",
-      "stars": 3791,
-      "forks": 398,
-      "language": "Swift",
-      "url": "https://github.com/robbietilton/Compositor",
+      "name": "fast-jev-compaction",
+      "full_name": "tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "description_cn": "Claude Code 插件 that replaCes the CompaCti开启 求和mary with jev deCisi开启s: every 工具 调用 and result is sCored in 开启e 快速 request, stale 开启es are 丢弃ped or trunCated, everything kept stays verbatim.",
+      "stars": 6039,
+      "forks": 333,
+      "language": "TypeScript",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
       "topics": [],
-      "created_at": "2026-09-16T20:35:54Z",
+      "created_at": "2026-09-17T05:57:20Z",
       "owner": {
-        "login": "robbietilton",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1269226?v=4"
+        "login": "tamaratran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
       }
     },
     {
@@ -70,8 +54,8 @@
       "full_name": "zai-org/ZCode",
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "description_cn": "z.AI's Coding 智能体 harness. 强大, intelligent, extensible.",
-      "stars": 3042,
-      "forks": 786,
+      "stars": 5854,
+      "forks": 1675,
       "language": "TypeScript",
       "url": "https://github.com/zai-org/ZCode",
       "topics": [],
@@ -82,67 +66,19 @@
       }
     },
     {
-      "name": "SemIf",
-      "full_name": "TheoLeeCJ/SemIf",
-      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "description_cn": "semant内联缓存 如果s from open 模型s, 开启 a 3090 at home. independent; 否t affiliated with jev or typesafe.",
-      "stars": 2524,
-      "forks": 158,
-      "language": "Python",
-      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "name": "Compositor",
+      "full_name": "robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "description_cn": "the photoshop alternative for maC",
+      "stars": 4483,
+      "forks": 472,
+      "language": "Swift",
+      "url": "https://github.com/robbietilton/Compositor",
       "topics": [],
-      "created_at": "2026-09-16T03:51:21Z",
+      "created_at": "2026-09-16T20:35:54Z",
       "owner": {
-        "login": "TheoLeeCJ",
-        "avatar_url": "https://avatars.githubusercontent.com/u/22087932?v=4"
-      }
-    },
-    {
-      "name": "jianying-headless",
-      "full_name": "mcncarl/jianying-headless",
-      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "description_cn": "私有 sourCe preview: native jianying drafts, isolated editing/导出, and standal开启e 智能体 skill.",
-      "stars": 2094,
-      "forks": 1410,
-      "language": "Python",
-      "url": "https://github.com/mcncarl/jianying-headless",
-      "topics": [],
-      "created_at": "2026-09-15T11:51:15Z",
-      "owner": {
-        "login": "mcncarl",
-        "avatar_url": "https://avatars.githubusercontent.com/u/204130968?v=4"
-      }
-    },
-    {
-      "name": "Edge0",
-      "full_name": "Edge0-AI/Edge0",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 2025,
-      "forks": 177,
-      "language": "Python",
-      "url": "https://github.com/Edge0-AI/Edge0",
-      "topics": [],
-      "created_at": "2026-09-08T13:41:47Z",
-      "owner": {
-        "login": "Edge0-AI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/310437271?v=4"
-      }
-    },
-    {
-      "name": "NavierStokesAndEuler",
-      "full_name": "openai/NavierStokesAndEuler",
-      "description": "Lean certificates accompanying Navier-Stokes and Euler results",
-      "description_cn": "lean 证书s aCCompanying navier-stokes and euler results",
-      "stars": 1967,
-      "forks": 200,
-      "language": "Lean",
-      "url": "https://github.com/openai/NavierStokesAndEuler",
-      "topics": [],
-      "created_at": "2026-09-08T10:53:38Z",
-      "owner": {
-        "login": "openai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+        "login": "robbietilton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1269226?v=4"
       }
     },
     {
@@ -150,8 +86,8 @@
       "full_name": "mizorewww/laya-mlx",
       "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "description_cn": "native mlx 运行时 for laya typed deCisi开启 模型s — 7–14 ms short deCisi开启s 开启 m3 最大. 否 文本 生成, PyTorCh, or Cloud API.",
-      "stars": 1931,
-      "forks": 98,
+      "stars": 4162,
+      "forks": 266,
       "language": "Python",
       "url": "https://github.com/mizorewww/laya-mlx",
       "topics": [
@@ -166,158 +102,226 @@
         "login": "mizorewww",
         "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
       }
+    },
+    {
+      "name": "SemIf",
+      "full_name": "TheoLeeCJ/SemIf",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "description_cn": "semant内联缓存 如果s from open 模型s, 开启 a 3090 at home. independent; 否t affiliated with jev or typesafe.",
+      "stars": 3346,
+      "forks": 218,
+      "language": "Python",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "topics": [],
+      "created_at": "2026-09-16T03:51:21Z",
+      "owner": {
+        "login": "TheoLeeCJ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22087932?v=4"
+      }
+    },
+    {
+      "name": "kev",
+      "full_name": "jaredpalmer/kev",
+      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "description_cn": "tiny jev-like family of deCisi开启 模型s built 开启 top of qwen3.5 you Can trAIn and run 开启 your own",
+      "stars": 2620,
+      "forks": 132,
+      "language": "Python",
+      "url": "https://github.com/jaredpalmer/kev",
+      "topics": [
+        "decision-model",
+        "jev",
+        "qwen3"
+      ],
+      "created_at": "2026-09-17T20:49:39Z",
+      "owner": {
+        "login": "jaredpalmer",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4060187?v=4"
+      }
+    },
+    {
+      "name": "jianying-headless",
+      "full_name": "mcncarl/jianying-headless",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "description_cn": "私有 sourCe preview: native jianying drafts, isolated editing/导出, and standal开启e 智能体 skill.",
+      "stars": 2402,
+      "forks": 1811,
+      "language": "Python",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "topics": [],
+      "created_at": "2026-09-15T11:51:15Z",
+      "owner": {
+        "login": "mcncarl",
+        "avatar_url": "https://avatars.githubusercontent.com/u/204130968?v=4"
+      }
+    },
+    {
+      "name": "jev-trader",
+      "full_name": "jarrodwatts/jev-trader",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "description_cn": "开启e AI trade deCisi开启 every m开启ad 块. jev 开启 kuru m开启-usdC.",
+      "stars": 1880,
+      "forks": 364,
+      "language": "TypeScript",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "topics": [],
+      "created_at": "2026-09-16T21:36:20Z",
+      "owner": {
+        "login": "jarrodwatts",
+        "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "score": 675,
-      "comments": 356,
-      "author": "lmbbuchodi",
-      "time": 1789917524,
-      "hn_url": "https://news.ycombinator.com/item?id=49776729",
-      "title_cn": "【GPT】ChatGPT now knows what you do on other websites via ad collector"
+      "title": "Grok 4.7",
+      "url": "https://x.ai/news/grok-4-7",
+      "score": 522,
+      "comments": 442,
+      "author": "meetpateltech",
+      "time": 1790005815,
+      "hn_url": "https://news.ycombinator.com/item?id=49788838",
+      "title_cn": "Grok 4.7"
     },
     {
-      "title": "Qwen Image 2.1",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "score": 541,
-      "comments": 159,
-      "author": "jmillikin",
-      "time": 1789909765,
-      "hn_url": "https://news.ycombinator.com/item?id=49775499",
-      "title_cn": "Qwen Image 2.1"
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "score": 417,
+      "comments": 191,
+      "author": "tosh",
+      "time": 1789974715,
+      "hn_url": "https://news.ycombinator.com/item?id=49783999",
+      "title_cn": "【模型】Kev: Tiny Jev-like family of decision models built on top of Qwen3.5"
     },
     {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
-      "score": 483,
-      "comments": 141,
-      "author": "skepticalgenius",
-      "time": 1789917367,
-      "hn_url": "https://news.ycombinator.com/item?id=49776699",
-      "title_cn": "【大语言模型, 模型】Pirate Face Rescues LLM Models from Deletion"
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "score": 249,
+      "comments": 41,
+      "author": "aray07",
+      "time": 1790019829,
+      "hn_url": "https://news.ycombinator.com/item?id=49792342",
+      "title_cn": "【AI, Transformer模型】Transformers Explained Visually"
     },
     {
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "score": 384,
-      "comments": 252,
-      "author": "giuliomagnifico",
-      "time": 1789925930,
-      "hn_url": "https://news.ycombinator.com/item?id=49778029",
-      "title_cn": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM"
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "score": 216,
+      "comments": 121,
+      "author": "allanbreyes",
+      "time": 1790016119,
+      "hn_url": "https://news.ycombinator.com/item?id=49791509",
+      "title_cn": "【AI】US halts flights at busy East Coast airports, says fiber line cut"
     },
     {
-      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "score": 297,
-      "comments": 238,
-      "author": "latein",
-      "time": 1789885002,
-      "hn_url": "https://news.ycombinator.com/item?id=49772961",
-      "title_cn": "【AI】Spain Orders Blocks on Archive.today and Its Mirrors"
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "score": 197,
+      "comments": 32,
+      "author": "torutofu",
+      "time": 1789997899,
+      "hn_url": "https://news.ycombinator.com/item?id=49787142",
+      "title_cn": "【AI】Python Workers are now generally available"
     },
     {
-      "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-      "score": 236,
-      "comments": 166,
-      "author": "wglb",
-      "time": 1789606814,
-      "hn_url": "https://news.ycombinator.com/item?id=49735159",
-      "title_cn": "Weeping whales: Stillborn humpback whale grieving documented"
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "score": 170,
+      "comments": 177,
+      "author": "julian_digital",
+      "time": 1790018613,
+      "hn_url": "https://news.ycombinator.com/item?id=49792067",
+      "title_cn": "【AI】AI coding has made CI a bottleneck, so we reworked ours to keep up"
     },
     {
-      "title": "The LLMentalist Effect (2023)",
-      "url": "https://softwarecrisis.dev/letters/llmentalist/",
-      "score": 165,
-      "comments": 252,
-      "author": "jalev",
-      "time": 1789906813,
-      "hn_url": "https://news.ycombinator.com/item?id=49775104",
-      "title_cn": "【大语言模型】The LLMentalist Effect (2023)"
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "score": 120,
+      "comments": 61,
+      "author": "pretext",
+      "time": 1790016781,
+      "hn_url": "https://news.ycombinator.com/item?id=49791647",
+      "title_cn": "【AI】Frontier AI on Your Own Hardware"
     },
     {
-      "title": "Laya on Mac M4 CoreML Offline",
-      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-      "score": 144,
-      "comments": 28,
-      "author": "putna",
-      "time": 1789919932,
-      "hn_url": "https://news.ycombinator.com/item?id=49777106",
-      "title_cn": "Laya on Mac M4 CoreML Offline"
+      "title": "Why does mathmain need an encrypted loader?",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "score": 117,
+      "comments": 35,
+      "author": "abhisek",
+      "time": 1790015624,
+      "hn_url": "https://news.ycombinator.com/item?id=49791378",
+      "title_cn": "【AI】Why does mathmain need an encrypted loader?"
     },
     {
-      "title": "I am often wrong",
-      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "score": 138,
-      "comments": 117,
-      "author": "bcherny",
-      "time": 1789922506,
-      "hn_url": "https://news.ycombinator.com/item?id=49777467",
-      "title_cn": "I am often wrong"
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "score": 107,
+      "comments": 52,
+      "author": "digital55",
+      "time": 1790018262,
+      "hn_url": "https://news.ycombinator.com/item?id=49791997",
+      "title_cn": "The Advisory Group on Mathematics and Artificial Intelligence"
     },
     {
-      "title": "I turned Jev into a (lousy) chatbot",
-      "url": "https://github.com/kyle-pena-nlp/jevchat/",
-      "score": 102,
-      "comments": 36,
-      "author": "kp1197",
-      "time": 1789926687,
-      "hn_url": "https://news.ycombinator.com/item?id=49778162",
-      "title_cn": "I turned Jev into a (lousy) chatbot"
+      "title": "Divide by depth for instant 3D",
+      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+      "score": 101,
+      "comments": 17,
+      "author": "gabrieloc",
+      "time": 1789846993,
+      "hn_url": "https://news.ycombinator.com/item?id=49769561",
+      "title_cn": "Divide by depth for instant 3D"
     },
     {
-      "title": "Trying the software factory pattern",
-      "url": "https://lethain.com/software-factory-experiment/",
-      "score": 76,
-      "comments": 36,
-      "author": "gpi",
-      "time": 1789925231,
-      "hn_url": "https://news.ycombinator.com/item?id=49777913",
-      "title_cn": "Trying the software factory pattern"
+      "title": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "score": 77,
+      "comments": 61,
+      "author": "corvad",
+      "time": 1790039119,
+      "hn_url": "https://news.ycombinator.com/item?id=49795579",
+      "title_cn": "【Claude, 模型】Claude Status – Elevated errors for multiple models"
     },
     {
-      "title": "Show HN: A competition for small neural networks that play strategy games",
-      "url": "https://tinybrains.dev",
+      "title": "In Search of a Compositional Theory of Self-Stabilization",
+      "url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
       "score": 46,
-      "comments": 15,
-      "author": "codetiger",
-      "time": 1789916350,
-      "hn_url": "https://news.ycombinator.com/item?id=49776523",
-      "title_cn": "【神经网络】Show HN: A competition for small neural networks that play strategy games"
+      "comments": 4,
+      "author": "matt_d",
+      "time": 1790017476,
+      "hn_url": "https://news.ycombinator.com/item?id=49791797",
+      "title_cn": "In Search of a Compositional Theory of Self-Stabilization"
     },
     {
-      "title": "Amiga Unix, Again",
-      "url": "https://amigaux.org/",
-      "score": 28,
-      "comments": 12,
-      "author": "doener",
-      "time": 1789948630,
-      "hn_url": "https://news.ycombinator.com/item?id=49781436",
-      "title_cn": "【AI】Amiga Unix, Again"
+      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+      "url": "https://robocurve.org/roboharm/",
+      "score": 38,
+      "comments": 21,
+      "author": "msadowski",
+      "time": 1790017106,
+      "hn_url": "https://news.ycombinator.com/item?id=49791720",
+      "title_cn": "【机器人】Roboharm: Do frontier robot policies refuse unsafe instructions?"
     },
     {
-      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
-      "score": 13,
-      "comments": 2,
-      "author": "the_arun",
-      "time": 1789946344,
-      "hn_url": "https://news.ycombinator.com/item?id=49781138",
-      "title_cn": "【AI】DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR"
-    },
-    {
-      "title": "The president wanted to unleash AI. Then came Anthropic",
-      "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212",
-      "score": 3,
+      "title": "Paper Models of Polyhedra",
+      "url": "https://www.polyhedra.net/en/",
+      "score": 10,
       "comments": 0,
-      "author": "elorant",
-      "time": 1789963291,
-      "hn_url": "https://news.ycombinator.com/item?id=49782916",
-      "title_cn": "【AI, Anthropic】The president wanted to unleash AI. Then came Anthropic"
+      "author": "pykello",
+      "time": 1789864113,
+      "hn_url": "https://news.ycombinator.com/item?id=49771389",
+      "title_cn": "【模型】Paper Models of Polyhedra"
+    },
+    {
+      "title": "Copper-Rs: Live Telemetry Deterministic Twins for Robots",
+      "url": "https://www.copper-robotics.com/whats-new/copper-12-live-telemetry-and-replayable-logs-over-a-lossy-one-way-connection-with-twinning",
+      "score": 5,
+      "comments": 1,
+      "author": "gbin",
+      "time": 1789861447,
+      "hn_url": "https://news.ycombinator.com/item?id=49771092",
+      "title_cn": "【机器人】Copper-Rs: Live Telemetry Deterministic Twins for Robots"
     }
   ]
 }
