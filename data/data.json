@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-22T04:11:55.552170",
+  "updated_at": "2026-09-23T04:08:56.132685",
   "github_projects": [
     {
       "name": "jev-ultrafast",
       "full_name": "browser-use/jev-ultrafast",
       "description": "Fastest and cheapest web agent",
       "description_cn": "快速est and C堆est 网页 智能体",
-      "stars": 16282,
-      "forks": 1022,
+      "stars": 18288,
+      "forks": 1183,
       "language": "Python",
       "url": "https://github.com/browser-use/jev-ultrafast",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "NandhaKishorM/laya",
       "description": "No description",
       "description_cn": "",
-      "stars": 11441,
-      "forks": 934,
+      "stars": 17323,
+      "forks": 1468,
       "language": "Python",
       "url": "https://github.com/NandhaKishorM/laya",
       "topics": [],
@@ -34,28 +34,12 @@
       }
     },
     {
-      "name": "fast-jev-compaction",
-      "full_name": "tamaratran/fast-jev-compaction",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "description_cn": "Claude Code 插件 that replaCes the CompaCti开启 求和mary with jev deCisi开启s: every 工具 调用 and result is sCored in 开启e 快速 request, stale 开启es are 丢弃ped or trunCated, everything kept stays verbatim.",
-      "stars": 6039,
-      "forks": 333,
-      "language": "TypeScript",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "topics": [],
-      "created_at": "2026-09-17T05:57:20Z",
-      "owner": {
-        "login": "tamaratran",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
-      }
-    },
-    {
       "name": "ZCode",
       "full_name": "zai-org/ZCode",
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "description_cn": "z.AI's Coding 智能体 harness. 强大, intelligent, extensible.",
-      "stars": 5854,
-      "forks": 1675,
+      "stars": 6363,
+      "forks": 1870,
       "language": "TypeScript",
       "url": "https://github.com/zai-org/ZCode",
       "topics": [],
@@ -66,19 +50,19 @@
       }
     },
     {
-      "name": "Compositor",
-      "full_name": "robbietilton/Compositor",
-      "description": "The Photoshop alternative for Mac",
-      "description_cn": "the photoshop alternative for maC",
-      "stars": 4483,
-      "forks": 472,
-      "language": "Swift",
-      "url": "https://github.com/robbietilton/Compositor",
+      "name": "fast-jev-compaction",
+      "full_name": "tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "description_cn": "Claude Code 插件 that replaCes the CompaCti开启 求和mary with jev deCisi开启s: every 工具 调用 and result is sCored in 开启e 快速 request, stale 开启es are 丢弃ped or trunCated, everything kept stays verbatim.",
+      "stars": 6357,
+      "forks": 361,
+      "language": "TypeScript",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
       "topics": [],
-      "created_at": "2026-09-16T20:35:54Z",
+      "created_at": "2026-09-17T05:57:20Z",
       "owner": {
-        "login": "robbietilton",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1269226?v=4"
+        "login": "tamaratran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
       }
     },
     {
@@ -86,8 +70,8 @@
       "full_name": "mizorewww/laya-mlx",
       "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "description_cn": "native mlx 运行时 for laya typed deCisi开启 模型s — 7–14 ms short deCisi开启s 开启 m3 最大. 否 文本 生成, PyTorCh, or Cloud API.",
-      "stars": 4162,
-      "forks": 266,
+      "stars": 5560,
+      "forks": 402,
       "language": "Python",
       "url": "https://github.com/mizorewww/laya-mlx",
       "topics": [
@@ -104,19 +88,19 @@
       }
     },
     {
-      "name": "SemIf",
-      "full_name": "TheoLeeCJ/SemIf",
-      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "description_cn": "semant内联缓存 如果s from open 模型s, 开启 a 3090 at home. independent; 否t affiliated with jev or typesafe.",
-      "stars": 3346,
-      "forks": 218,
-      "language": "Python",
-      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "name": "Compositor",
+      "full_name": "robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "description_cn": "the photoshop alternative for maC",
+      "stars": 4951,
+      "forks": 520,
+      "language": "Swift",
+      "url": "https://github.com/robbietilton/Compositor",
       "topics": [],
-      "created_at": "2026-09-16T03:51:21Z",
+      "created_at": "2026-09-16T20:35:54Z",
       "owner": {
-        "login": "TheoLeeCJ",
-        "avatar_url": "https://avatars.githubusercontent.com/u/22087932?v=4"
+        "login": "robbietilton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1269226?v=4"
       }
     },
     {
@@ -124,8 +108,8 @@
       "full_name": "jaredpalmer/kev",
       "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
       "description_cn": "tiny jev-like family of deCisi开启 模型s built 开启 top of qwen3.5 you Can trAIn and run 开启 your own",
-      "stars": 2620,
-      "forks": 132,
+      "stars": 4566,
+      "forks": 247,
       "language": "Python",
       "url": "https://github.com/jaredpalmer/kev",
       "topics": [
@@ -140,188 +124,210 @@
       }
     },
     {
-      "name": "jianying-headless",
-      "full_name": "mcncarl/jianying-headless",
-      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "description_cn": "私有 sourCe preview: native jianying drafts, isolated editing/导出, and standal开启e 智能体 skill.",
-      "stars": 2402,
-      "forks": 1811,
-      "language": "Python",
-      "url": "https://github.com/mcncarl/jianying-headless",
-      "topics": [],
-      "created_at": "2026-09-15T11:51:15Z",
+      "name": "jev-chat-jarvis",
+      "full_name": "jev-chat/jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "description_cn": "",
+      "stars": 4269,
+      "forks": 903,
+      "language": "Kotlin",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "topics": [
+        "accessibility-service",
+        "android",
+        "chat-assistant",
+        "llm",
+        "qq"
+      ],
+      "created_at": "2026-09-21T11:12:53Z",
       "owner": {
-        "login": "mcncarl",
-        "avatar_url": "https://avatars.githubusercontent.com/u/204130968?v=4"
+        "login": "jev-chat",
+        "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
       }
     },
     {
-      "name": "jev-trader",
-      "full_name": "jarrodwatts/jev-trader",
-      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "description_cn": "开启e AI trade deCisi开启 every m开启ad 块. jev 开启 kuru m开启-usdC.",
-      "stars": 1880,
-      "forks": 364,
-      "language": "TypeScript",
-      "url": "https://github.com/jarrodwatts/jev-trader",
+      "name": "SemIf",
+      "full_name": "TheoLeeCJ/SemIf",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "description_cn": "semant内联缓存 如果s from open 模型s, 开启 a 3090 at home. independent; 否t affiliated with jev or typesafe.",
+      "stars": 3892,
+      "forks": 253,
+      "language": "Python",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
       "topics": [],
-      "created_at": "2026-09-16T21:36:20Z",
+      "created_at": "2026-09-16T03:51:21Z",
       "owner": {
-        "login": "jarrodwatts",
-        "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+        "login": "TheoLeeCJ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22087932?v=4"
+      }
+    },
+    {
+      "name": "AirCard",
+      "full_name": "Mak5er/AirCard",
+      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "description_cn": "apple wallet Card skinner for ios 18+ (否 jAIl分支eak requ中间表示ed)",
+      "stars": 2919,
+      "forks": 121,
+      "language": "Swift",
+      "url": "https://github.com/Mak5er/AirCard",
+      "topics": [],
+      "created_at": "2026-09-16T22:20:15Z",
+      "owner": {
+        "login": "Mak5er",
+        "avatar_url": "https://avatars.githubusercontent.com/u/98599732?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Grok 4.7",
-      "url": "https://x.ai/news/grok-4-7",
-      "score": 522,
-      "comments": 442,
-      "author": "meetpateltech",
-      "time": 1790005815,
-      "hn_url": "https://news.ycombinator.com/item?id=49788838",
-      "title_cn": "Grok 4.7"
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "score": 1308,
+      "comments": 861,
+      "author": "km144",
+      "time": 1790094545,
+      "hn_url": "https://news.ycombinator.com/item?id=49803892",
+      "title_cn": "【Claude】Claude Opus 5.5"
     },
     {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "score": 417,
-      "comments": 191,
-      "author": "tosh",
-      "time": 1789974715,
-      "hn_url": "https://news.ycombinator.com/item?id=49783999",
-      "title_cn": "【模型】Kev: Tiny Jev-like family of decision models built on top of Qwen3.5"
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "score": 1298,
+      "comments": 646,
+      "author": "OfficialTurkey",
+      "time": 1790100034,
+      "hn_url": "https://news.ycombinator.com/item?id=49805509",
+      "title_cn": "【GPT】GPT-6 Sol and Luna"
     },
     {
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "score": 249,
-      "comments": 41,
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "score": 594,
+      "comments": 372,
+      "author": "sohkamyung",
+      "time": 1790085135,
+      "hn_url": "https://news.ycombinator.com/item?id=49801324",
+      "title_cn": "【AI, GPT, OpenAI】OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005"
+    },
+    {
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "score": 498,
+      "comments": 248,
+      "author": "devonnull",
+      "time": 1790103818,
+      "hn_url": "https://news.ycombinator.com/item?id=49806430",
+      "title_cn": "【AI】Pentagon says overreliance on AI contributed to missile strike on Iran school"
+    },
+    {
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "score": 271,
+      "comments": 197,
+      "author": "JohnBerryman",
+      "time": 1790088179,
+      "hn_url": "https://news.ycombinator.com/item?id=49802161",
+      "title_cn": "【AI, OpenAI】OpenAI is well positioned to fast-follow Jev"
+    },
+    {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "score": 251,
+      "comments": 77,
+      "author": "theanonymousone",
+      "time": 1790095891,
+      "hn_url": "https://news.ycombinator.com/item?id=49804316",
+      "title_cn": "【Claude】Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)"
+    },
+    {
+      "title": "SAML: A fractal of bad design",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "score": 186,
+      "comments": 106,
       "author": "aray07",
-      "time": 1790019829,
-      "hn_url": "https://news.ycombinator.com/item?id=49792342",
-      "title_cn": "【AI, Transformer模型】Transformers Explained Visually"
+      "time": 1790103437,
+      "hn_url": "https://news.ycombinator.com/item?id=49806335",
+      "title_cn": "SAML: A fractal of bad design"
     },
     {
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
-      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "score": 216,
-      "comments": 121,
-      "author": "allanbreyes",
-      "time": 1790016119,
-      "hn_url": "https://news.ycombinator.com/item?id=49791509",
-      "title_cn": "【AI】US halts flights at busy East Coast airports, says fiber line cut"
+      "title": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "score": 147,
+      "comments": 87,
+      "author": "trollied",
+      "time": 1790100953,
+      "hn_url": "https://news.ycombinator.com/item?id=49805748",
+      "title_cn": "Unreal Agent"
     },
     {
-      "title": "Python Workers are now generally available",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "score": 197,
-      "comments": 32,
-      "author": "torutofu",
-      "time": 1789997899,
-      "hn_url": "https://news.ycombinator.com/item?id=49787142",
-      "title_cn": "【AI】Python Workers are now generally available"
-    },
-    {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "score": 170,
-      "comments": 177,
-      "author": "julian_digital",
-      "time": 1790018613,
-      "hn_url": "https://news.ycombinator.com/item?id=49792067",
-      "title_cn": "【AI】AI coding has made CI a bottleneck, so we reworked ours to keep up"
-    },
-    {
-      "title": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "score": 120,
-      "comments": 61,
-      "author": "pretext",
-      "time": 1790016781,
-      "hn_url": "https://news.ycombinator.com/item?id=49791647",
-      "title_cn": "【AI】Frontier AI on Your Own Hardware"
-    },
-    {
-      "title": "Why does mathmain need an encrypted loader?",
-      "url": "https://safedep.io/mathmain-encrypted-loader/",
-      "score": 117,
-      "comments": 35,
-      "author": "abhisek",
-      "time": 1790015624,
-      "hn_url": "https://news.ycombinator.com/item?id=49791378",
-      "title_cn": "【AI】Why does mathmain need an encrypted loader?"
-    },
-    {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "score": 107,
-      "comments": 52,
-      "author": "digital55",
-      "time": 1790018262,
-      "hn_url": "https://news.ycombinator.com/item?id=49791997",
-      "title_cn": "The Advisory Group on Mathematics and Artificial Intelligence"
-    },
-    {
-      "title": "Divide by depth for instant 3D",
-      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
       "score": 101,
-      "comments": 17,
-      "author": "gabrieloc",
-      "time": 1789846993,
-      "hn_url": "https://news.ycombinator.com/item?id=49769561",
-      "title_cn": "Divide by depth for instant 3D"
+      "comments": 51,
+      "author": "tomjakubowski",
+      "time": 1790036640,
+      "hn_url": "https://news.ycombinator.com/item?id=49795260",
+      "title_cn": "【AI, OpenAI】Did OpenAI solve the wrong Navier-Stokes problem?"
     },
     {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "score": 77,
-      "comments": 61,
-      "author": "corvad",
-      "time": 1790039119,
-      "hn_url": "https://news.ycombinator.com/item?id=49795579",
-      "title_cn": "【Claude, 模型】Claude Status – Elevated errors for multiple models"
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "score": 78,
+      "comments": 20,
+      "author": "florianstandhar",
+      "time": 1790082063,
+      "hn_url": "https://news.ycombinator.com/item?id=49800574",
+      "title_cn": "【模型, 基准测试】Show HN: JevBench, a reproducible benchmark for typed decision models"
     },
     {
-      "title": "In Search of a Compositional Theory of Self-Stabilization",
-      "url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
-      "score": 46,
-      "comments": 4,
-      "author": "matt_d",
-      "time": 1790017476,
-      "hn_url": "https://news.ycombinator.com/item?id=49791797",
-      "title_cn": "In Search of a Compositional Theory of Self-Stabilization"
+      "title": "The current balance of power in open models",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "score": 57,
+      "comments": 20,
+      "author": "gmays",
+      "time": 1790114626,
+      "hn_url": "https://news.ycombinator.com/item?id=49808816",
+      "title_cn": "【模型】The current balance of power in open models"
     },
     {
-      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-      "url": "https://robocurve.org/roboharm/",
-      "score": 38,
-      "comments": 21,
-      "author": "msadowski",
-      "time": 1790017106,
-      "hn_url": "https://news.ycombinator.com/item?id=49791720",
-      "title_cn": "【机器人】Roboharm: Do frontier robot policies refuse unsafe instructions?"
+      "title": "Show HN: Training a model to identify AI web content from structure alone",
+      "url": "https://arxiv.org/abs/2609.15369",
+      "score": 49,
+      "comments": 10,
+      "author": "jochenmadler",
+      "time": 1790082049,
+      "hn_url": "https://news.ycombinator.com/item?id=49800566",
+      "title_cn": "【AI, 模型, 训练】Show HN: Training a model to identify AI web content from structure alone"
     },
     {
-      "title": "Paper Models of Polyhedra",
-      "url": "https://www.polyhedra.net/en/",
-      "score": 10,
-      "comments": 0,
-      "author": "pykello",
-      "time": 1789864113,
-      "hn_url": "https://news.ycombinator.com/item?id=49771389",
-      "title_cn": "【模型】Paper Models of Polyhedra"
-    },
-    {
-      "title": "Copper-Rs: Live Telemetry Deterministic Twins for Robots",
-      "url": "https://www.copper-robotics.com/whats-new/copper-12-live-telemetry-and-replayable-logs-over-a-lossy-one-way-connection-with-twinning",
-      "score": 5,
+      "title": "Transit rewards (Waymo pays you to take the train)",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "score": 19,
       "comments": 1,
-      "author": "gbin",
-      "time": 1789861447,
-      "hn_url": "https://news.ycombinator.com/item?id=49771092",
-      "title_cn": "【机器人】Copper-Rs: Live Telemetry Deterministic Twins for Robots"
+      "author": "raybb",
+      "time": 1790131949,
+      "hn_url": "https://news.ycombinator.com/item?id=49811065",
+      "title_cn": "【AI】Transit rewards (Waymo pays you to take the train)"
+    },
+    {
+      "title": "The Softness of Metal",
+      "url": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
+      "score": 8,
+      "comments": 1,
+      "author": "NaOH",
+      "time": 1790035150,
+      "hn_url": "https://news.ycombinator.com/item?id=49795053",
+      "title_cn": "The Softness of Metal"
+    },
+    {
+      "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
+      "url": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
+      "score": 7,
+      "comments": 0,
+      "author": "grep_it",
+      "time": 1790033382,
+      "hn_url": "https://news.ycombinator.com/item?id=49794844",
+      "title_cn": "【AI】Delta: Highly available, strongly consistent storage using chain replication (2022)"
     }
   ]
 }
