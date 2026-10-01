@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-30T04:55:26.315080",
+  "updated_at": "2026-10-01T05:08:46.176340",
   "github_projects": [
     {
       "name": "laya",
       "full_name": "NandhaKishorM/laya",
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "description_cn": "n开启-autoregressive 系统 1 deCisi开启 引擎. typed Cho内联缓存e, sCore and 是/否 deCisi开启s over any 文本 in a single forward pass, in 100+ languages, with a router that p内联缓存ks the right CheCk点 per request.",
-      "stars": 28742,
-      "forks": 2511,
+      "stars": 29351,
+      "forks": 2551,
       "language": "Python",
       "url": "https://github.com/NandhaKishorM/laya",
       "topics": [
@@ -24,48 +24,12 @@
       }
     },
     {
-      "name": "kev",
-      "full_name": "jaredpalmer/kev",
-      "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
-      "description_cn": "jev-like family of deCisi开启 模型s built 开启 top of qwen3.5/3.8 you Can trAIn and run 开启 your own",
-      "stars": 7935,
-      "forks": 501,
-      "language": "Python",
-      "url": "https://github.com/jaredpalmer/kev",
-      "topics": [
-        "decision-model",
-        "jev",
-        "qwen3"
-      ],
-      "created_at": "2026-09-17T20:49:39Z",
-      "owner": {
-        "login": "jaredpalmer",
-        "avatar_url": "https://avatars.githubusercontent.com/u/4060187?v=4"
-      }
-    },
-    {
-      "name": "fast-jev-compaction",
-      "full_name": "tamaratran/fast-jev-compaction",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "description_cn": "Claude Code 插件 that replaCes the CompaCti开启 求和mary with jev deCisi开启s: every 工具 调用 and result is sCored in 开启e 快速 request, stale 开启es are 丢弃ped or trunCated, everything kept stays verbatim.",
-      "stars": 7213,
-      "forks": 462,
-      "language": "TypeScript",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "topics": [],
-      "created_at": "2026-09-17T05:57:20Z",
-      "owner": {
-        "login": "tamaratran",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
-      }
-    },
-    {
       "name": "ZCode",
       "full_name": "zai-org/ZCode",
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "description_cn": "z.AI's Coding 智能体 harness. 强大, intelligent, extensible.",
-      "stars": 7194,
-      "forks": 2185,
+      "stars": 7263,
+      "forks": 2202,
       "language": "TypeScript",
       "url": "https://github.com/zai-org/ZCode",
       "topics": [],
@@ -80,8 +44,8 @@
       "full_name": "jev-chat/jev-chat-jarvis",
       "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
       "description_cn": "",
-      "stars": 7128,
-      "forks": 1209,
+      "stars": 7187,
+      "forks": 1215,
       "language": "Kotlin",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
       "topics": [
@@ -102,8 +66,8 @@
       "full_name": "mizorewww/laya-mlx",
       "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "description_cn": "native mlx 运行时 for laya typed deCisi开启 模型s — 7–14 ms short deCisi开启s 开启 m3 最大. 否 文本 生成, PyTorCh, or Cloud API.",
-      "stars": 6638,
-      "forks": 522,
+      "stars": 6662,
+      "forks": 526,
       "language": "Python",
       "url": "https://github.com/mizorewww/laya-mlx",
       "topics": [
@@ -124,8 +88,8 @@
       "full_name": "cdyforever/how-to-live-better",
       "description": "《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线",
       "description_cn": "",
-      "stars": 5095,
-      "forks": 344,
+      "stars": 5872,
+      "forks": 405,
       "language": "HTML",
       "url": "https://github.com/cdyforever/how-to-live-better",
       "topics": [],
@@ -140,16 +104,16 @@
       "full_name": "KKKKhazix/AIHOT",
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "description_cn": "",
-      "stars": 3482,
-      "forks": 998,
+      "stars": 4179,
+      "forks": 1205,
       "language": "TypeScript",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "topics": [
         "ai",
+        "content-curation",
         "llm",
         "mcp",
-        "news-aggregator",
-        "rss"
+        "news-aggregator"
       ],
       "created_at": "2026-09-28T23:40:05Z",
       "owner": {
@@ -162,8 +126,8 @@
       "full_name": "yetone/magpie",
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "description_cn": "every 智能体's 模型. 开启e plaCe. Codex 开启 deepseek, Claude Code 开启 kimi, from the menu 柱状图.",
-      "stars": 3043,
-      "forks": 181,
+      "stars": 3868,
+      "forks": 237,
       "language": "Go",
       "url": "https://github.com/yetone/magpie",
       "topics": [
@@ -180,12 +144,28 @@
       }
     },
     {
+      "name": "Strata",
+      "full_name": "Niko1221/Strata",
+      "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "description_cn": "qwen3.8-flash-next 开启 any 消费者 hardware: 开启e-命令行工具Ck install for windows / linux. strata 推理 引擎, openAI/anthrop内联缓存 API 开启 本地host, opti开启al 图像 input.",
+      "stars": 3284,
+      "forks": 313,
+      "language": "C++",
+      "url": "https://github.com/Niko1221/Strata",
+      "topics": [],
+      "created_at": "2026-09-24T16:40:20Z",
+      "owner": {
+        "login": "Niko1221",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86886444?v=4"
+      }
+    },
+    {
       "name": "apk-reverse",
       "full_name": "newliver666/apk-reverse",
       "description": "Suitable for Android APK reverse engineering analysis",
       "description_cn": "sui表 for android apk reverse 引擎ering 分析",
-      "stars": 3030,
-      "forks": 612,
+      "stars": 3099,
+      "forks": 630,
       "language": "Python",
       "url": "https://github.com/newliver666/apk-reverse",
       "topics": [],
@@ -194,158 +174,174 @@
         "login": "newliver666",
         "avatar_url": "https://avatars.githubusercontent.com/u/328839634?v=4"
       }
+    },
+    {
+      "name": "CLM",
+      "full_name": "Contrastive-LM/CLM",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 2629,
+      "forks": 226,
+      "language": "Python",
+      "url": "https://github.com/Contrastive-LM/CLM",
+      "topics": [],
+      "created_at": "2026-09-23T19:29:56Z",
+      "owner": {
+        "login": "Contrastive-LM",
+        "avatar_url": "https://avatars.githubusercontent.com/u/332430450?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "score": 844,
-      "comments": 762,
-      "author": "crorella",
-      "time": 1790701605,
-      "hn_url": "https://news.ycombinator.com/item?id=49896586",
-      "title_cn": "【GPT】GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price"
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "score": 1161,
+      "comments": 765,
+      "author": "bradleyg223",
+      "time": 1790798677,
+      "hn_url": "https://news.ycombinator.com/item?id=49913571",
+      "title_cn": "Gemini 4 Argon"
     },
     {
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "score": 509,
-      "comments": 381,
-      "author": "alvis",
-      "time": 1790701677,
-      "hn_url": "https://news.ycombinator.com/item?id=49896604",
-      "title_cn": "Dots: Always-on agents"
+      "title": "You said no MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "score": 622,
+      "comments": 350,
+      "author": "yarapavan",
+      "time": 1790762123,
+      "hn_url": "https://news.ycombinator.com/item?id=49906637",
+      "title_cn": "【AI】You said no MCP"
     },
     {
-      "title": "Tcl/Tk 9.1",
-      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-      "score": 255,
-      "comments": 98,
-      "author": "dmux",
-      "time": 1790702018,
-      "hn_url": "https://news.ycombinator.com/item?id=49896712",
-      "title_cn": "Tcl/Tk 9.1"
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "score": 150,
+      "comments": 49,
+      "author": "ibobev",
+      "time": 1790795090,
+      "hn_url": "https://news.ycombinator.com/item?id=49912955",
+      "title_cn": "【AI】Surprisingly complex waves reveal the brain's inner workings"
     },
     {
-      "title": "Sustainable energy without the hot air (2008)",
-      "url": "https://www.withouthotair.com/",
-      "score": 140,
-      "comments": 80,
-      "author": "0sake_rs",
-      "time": 1790685498,
-      "hn_url": "https://news.ycombinator.com/item?id=49892175",
-      "title_cn": "【AI】Sustainable energy without the hot air (2008)"
+      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+      "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+      "score": 124,
+      "comments": 29,
+      "author": "gvuksic",
+      "time": 1790676356,
+      "hn_url": "https://news.ycombinator.com/item?id=49890707",
+      "title_cn": "【机器人】Show HN: JBR-001 – An open-source 3D printable desktop robot"
     },
     {
-      "title": "NAND-16: a computer built from 277,248 NAND gates",
-      "url": "https://somethingbig.ai/computer",
-      "score": 118,
-      "comments": 66,
-      "author": "rossant",
-      "time": 1790544366,
-      "hn_url": "https://news.ycombinator.com/item?id=49871018",
-      "title_cn": "NAND-16: a computer built from 277,248 NAND gates"
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "url": "https://www.mattkeeter.com/projects/halfspace/",
+      "score": 97,
+      "comments": 9,
+      "author": "luu",
+      "time": 1790797477,
+      "hn_url": "https://news.ycombinator.com/item?id=49913350",
+      "title_cn": "【模型】Halfspace experimental IDE for solid modeling with distance fields"
     },
     {
-      "title": "Virus Stole a Human Gene and Won't Let Go of It",
-      "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
-      "score": 87,
-      "comments": 32,
-      "author": "gumby",
-      "time": 1790626034,
-      "hn_url": "https://news.ycombinator.com/item?id=49883635",
-      "title_cn": "Virus Stole a Human Gene and Won't Let Go of It"
-    },
-    {
-      "title": "NASA asked several former SR-71A staffers to help secret restart",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-      "score": 83,
-      "comments": 92,
-      "author": "ilamont",
-      "time": 1790676620,
-      "hn_url": "https://news.ycombinator.com/item?id=49890733",
-      "title_cn": "NASA asked several former SR-71A staffers to help secret restart"
-    },
-    {
-      "title": "Walking Men",
-      "url": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html",
-      "score": 76,
-      "comments": 26,
-      "author": "surprisetalk",
-      "time": 1790604017,
-      "hn_url": "https://news.ycombinator.com/item?id=49878093",
-      "title_cn": "Walking Men"
-    },
-    {
-      "title": "Language models for text classification: From bag-of-words to Jev",
-      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "score": 64,
-      "comments": 2,
-      "author": "Anon84",
-      "time": 1790679985,
-      "hn_url": "https://news.ycombinator.com/item?id=49891203",
-      "title_cn": "【模型】Language models for text classification: From bag-of-words to Jev"
+      "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+      "score": 97,
+      "comments": 50,
+      "author": "theanonymousone",
+      "time": 1790801428,
+      "hn_url": "https://news.ycombinator.com/item?id=49914236",
+      "title_cn": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis"
     },
     {
       "title": "Show HN: A working 3D model of an Enigma machine",
       "url": "https://enigma.design",
-      "score": 48,
-      "comments": 18,
+      "score": 95,
+      "comments": 40,
       "author": "primitivesuave",
       "time": 1790702156,
       "hn_url": "https://news.ycombinator.com/item?id=49896757",
       "title_cn": "【模型】Show HN: A working 3D model of an Enigma machine"
     },
     {
-      "title": "Commodore 64: Mercenary",
-      "url": "https://gamesexplained.com/c64/mercenary/",
-      "score": 40,
-      "comments": 6,
-      "author": "a1r",
-      "time": 1790449246,
-      "hn_url": "https://news.ycombinator.com/item?id=49859482",
-      "title_cn": "Commodore 64: Mercenary"
-    },
-    {
-      "title": "PSSA: A non-transformer language model written from scratch in Rust",
-      "url": "https://github.com/Sparticle62ops/pssa",
-      "score": 31,
-      "comments": 6,
-      "author": "sparticle62",
-      "time": 1790738394,
-      "hn_url": "https://news.ycombinator.com/item?id=49903993",
-      "title_cn": "【Transformer模型, 模型】PSSA: A non-transformer language model written from scratch in Rust"
-    },
-    {
-      "title": "Ballmer Peak",
-      "url": "https://en.wikipedia.org/wiki/Ballmer_Peak",
-      "score": 18,
-      "comments": 0,
-      "author": "thunderbong",
-      "time": 1790735758,
-      "hn_url": "https://news.ycombinator.com/item?id=49903712",
-      "title_cn": "【大语言模型】Ballmer Peak"
-    },
-    {
-      "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
-      "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
-      "score": 7,
-      "comments": 2,
-      "author": "EA-3167",
-      "time": 1790740978,
-      "hn_url": "https://news.ycombinator.com/item?id=49904221",
-      "title_cn": "【AI, 工具】AI tools generated nearly $1B in extra costs, Blue Cross insurers say"
-    },
-    {
       "title": "Responsible Release of AI-Generated Mathematics",
       "url": "https://agmai.org/general-sep29/",
-      "score": 5,
-      "comments": 0,
+      "score": 83,
+      "comments": 104,
       "author": "aureianimus",
       "time": 1790735772,
       "hn_url": "https://news.ycombinator.com/item?id=49903713",
       "title_cn": "【AI, 发布】Responsible Release of AI-Generated Mathematics"
+    },
+    {
+      "title": "Getting out of the way: my robotics crash course",
+      "url": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/",
+      "score": 73,
+      "comments": 19,
+      "author": "systemerror",
+      "time": 1790608363,
+      "hn_url": "https://news.ycombinator.com/item?id=49879346",
+      "title_cn": "【机器人】Getting out of the way: my robotics crash course"
+    },
+    {
+      "title": "Doing a Machine Learning PhD While Working in Japan",
+      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "score": 70,
+      "comments": 23,
+      "author": "pwim",
+      "time": 1790753625,
+      "hn_url": "https://news.ycombinator.com/item?id=49905644",
+      "title_cn": "【机器学习】Doing a Machine Learning PhD While Working in Japan"
+    },
+    {
+      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+      "url": "https://lathoa.ai/en",
+      "score": 45,
+      "comments": 20,
+      "author": "thanouil1411",
+      "time": 1790779137,
+      "hn_url": "https://news.ycombinator.com/item?id=49909648",
+      "title_cn": "【AI】Show HN: Lathoa, a math app for kids where the AI is wrong on purpose"
+    },
+    {
+      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+      "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+      "score": 35,
+      "comments": 7,
+      "author": "pminimax",
+      "time": 1790798799,
+      "hn_url": "https://news.ycombinator.com/item?id=49913604",
+      "title_cn": "Functional Ultrasound Imaging (fUSI) from scratch"
+    },
+    {
+      "title": "Hacking SimCity 2000 saved games",
+      "url": "https://log.schemescape.com/posts/memoir/dos.html",
+      "score": 18,
+      "comments": 11,
+      "author": "zdw",
+      "time": 1790722916,
+      "hn_url": "https://news.ycombinator.com/item?id=49901999",
+      "title_cn": "Hacking SimCity 2000 saved games"
+    },
+    {
+      "title": "Understanding the Dual Polytope for Hull Simplification",
+      "url": "https://cairnc.github.io/posts/understanding-the-dual-polytope/",
+      "score": 18,
+      "comments": 2,
+      "author": "OlympicMarmoto",
+      "time": 1790692061,
+      "hn_url": "https://news.ycombinator.com/item?id=49893909",
+      "title_cn": "Understanding the Dual Polytope for Hull Simplification"
+    },
+    {
+      "title": "Steelers ex-coach Mike Tomlin has been building a Minecraft city for 12 years",
+      "url": "https://www.youtube.com/playlist?list=PLS-_IoE-EKXU",
+      "score": 13,
+      "comments": 0,
+      "author": "Vaslo",
+      "time": 1790822728,
+      "hn_url": "https://news.ycombinator.com/item?id=49917102",
+      "title_cn": "Steelers ex-coach Mike Tomlin has been building a Minecraft city for 12 years"
     }
   ]
 }
