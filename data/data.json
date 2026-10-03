@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-02T04:57:43.816454",
+  "updated_at": "2026-10-03T04:41:04.251814",
   "github_projects": [
     {
       "name": "ZCode",
       "full_name": "zai-org/ZCode",
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "description_cn": "z.AI's Coding 智能体 harness. 强大, intelligent, extensible.",
-      "stars": 7307,
-      "forks": 2222,
+      "stars": 7341,
+      "forks": 2237,
       "language": "TypeScript",
       "url": "https://github.com/zai-org/ZCode",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "jev-chat/jev-chat-jarvis",
       "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
       "description_cn": "",
-      "stars": 7237,
-      "forks": 1218,
+      "stars": 7270,
+      "forks": 1221,
       "language": "Kotlin",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
       "topics": [
@@ -40,34 +40,12 @@
       }
     },
     {
-      "name": "laya-mlx",
-      "full_name": "mizorewww/laya-mlx",
-      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-      "description_cn": "native mlx 运行时 for laya typed deCisi开启 模型s — 7–14 ms short deCisi开启s 开启 m3 最大. 否 文本 生成, PyTorCh, or Cloud API.",
-      "stars": 6696,
-      "forks": 534,
-      "language": "Python",
-      "url": "https://github.com/mizorewww/laya-mlx",
-      "topics": [
-        "apple-silicon",
-        "decision-model",
-        "inference",
-        "laya",
-        "local-ai"
-      ],
-      "created_at": "2026-09-19T13:50:26Z",
-      "owner": {
-        "login": "mizorewww",
-        "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
-      }
-    },
-    {
       "name": "Strata",
       "full_name": "Niko1221/Strata",
       "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
       "description_cn": "qwen3.8-flash-next 开启 any 消费者 hardware: 开启e-命令行工具Ck install for windows / linux. strata 推理 引擎, openAI/anthrop内联缓存 API 开启 本地host, opti开启al 图像 input.",
-      "stars": 4925,
-      "forks": 440,
+      "stars": 6715,
+      "forks": 600,
       "language": "C++",
       "url": "https://github.com/Niko1221/Strata",
       "topics": [],
@@ -82,8 +60,8 @@
       "full_name": "KKKKhazix/AIHOT",
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "description_cn": "",
-      "stars": 4729,
-      "forks": 1304,
+      "stars": 5007,
+      "forks": 1364,
       "language": "TypeScript",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "topics": [
@@ -104,8 +82,8 @@
       "full_name": "yetone/magpie",
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "description_cn": "every 智能体's 模型. 开启e plaCe. Codex 开启 deepseek, Claude Code 开启 kimi, from the menu 柱状图.",
-      "stars": 4122,
-      "forks": 268,
+      "stars": 4299,
+      "forks": 289,
       "language": "Go",
       "url": "https://github.com/yetone/magpie",
       "topics": [
@@ -122,44 +100,12 @@
       }
     },
     {
-      "name": "apk-reverse",
-      "full_name": "newliver666/apk-reverse",
-      "description": "Suitable for Android APK reverse engineering analysis",
-      "description_cn": "sui表 for android apk reverse 引擎ering 分析",
-      "stars": 3140,
-      "forks": 641,
-      "language": "Python",
-      "url": "https://github.com/newliver666/apk-reverse",
-      "topics": [],
-      "created_at": "2026-09-19T13:12:54Z",
-      "owner": {
-        "login": "newliver666",
-        "avatar_url": "https://avatars.githubusercontent.com/u/328839634?v=4"
-      }
-    },
-    {
-      "name": "CLM",
-      "full_name": "Contrastive-LM/CLM",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 2698,
-      "forks": 233,
-      "language": "Python",
-      "url": "https://github.com/Contrastive-LM/CLM",
-      "topics": [],
-      "created_at": "2026-09-23T19:29:56Z",
-      "owner": {
-        "login": "Contrastive-LM",
-        "avatar_url": "https://avatars.githubusercontent.com/u/332430450?v=4"
-      }
-    },
-    {
       "name": "coucou",
       "full_name": "Louis-CFM/coucou",
-      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more.",
-      "description_cn": "a tiny friend that lives in your 否tCh (maCos) or at the top of your sCreen (windows, linux) and keeps an eye 开启 your Coding 智能体s: Claude Code, Ge最小i 命令行工具, antigravity and more.",
-      "stars": 2538,
-      "forks": 377,
+      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
+      "description_cn": "a tiny friend that lives in your 否tCh (maCos) or at the top of your sCreen (windows, linux) and keeps an eye 开启 your Coding 智能体s: Claude Code, Codex, Cursor, Ge最小i 命令行工具, antigravity and more.",
+      "stars": 3021,
+      "forks": 463,
       "language": "Swift",
       "url": "https://github.com/Louis-CFM/coucou",
       "topics": [
@@ -176,12 +122,44 @@
       }
     },
     {
+      "name": "CLM",
+      "full_name": "Contrastive-LM/CLM",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 2739,
+      "forks": 238,
+      "language": "Python",
+      "url": "https://github.com/Contrastive-LM/CLM",
+      "topics": [],
+      "created_at": "2026-09-23T19:29:56Z",
+      "owner": {
+        "login": "Contrastive-LM",
+        "avatar_url": "https://avatars.githubusercontent.com/u/332430450?v=4"
+      }
+    },
+    {
+      "name": "DiPlay",
+      "full_name": "shihabal3amri/DiPlay",
+      "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+      "description_cn": "independent Carplay reCeiver for Compatible android head 单元s. w中间表示ed and w中间表示eLess 公开 preview.",
+      "stars": 2567,
+      "forks": 350,
+      "language": "Kotlin",
+      "url": "https://github.com/shihabal3amri/DiPlay",
+      "topics": [],
+      "created_at": "2026-09-24T15:36:38Z",
+      "owner": {
+        "login": "shihabal3amri",
+        "avatar_url": "https://avatars.githubusercontent.com/u/42039842?v=4"
+      }
+    },
+    {
       "name": "dots",
       "full_name": "feder-cr/dots",
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "description_cn": "开源 dots for the 网页: an AI 智能体 with its own 分支owser, 开启e that does 否t get 阻止.",
-      "stars": 2402,
-      "forks": 419,
+      "stars": 2530,
+      "forks": 434,
       "language": "Python",
       "url": "https://github.com/feder-cr/dots",
       "topics": [
@@ -196,158 +174,174 @@
         "login": "feder-cr",
         "avatar_url": "https://avatars.githubusercontent.com/u/85809106?v=4"
       }
+    },
+    {
+      "name": "Search",
+      "full_name": "driceroland/Search",
+      "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+      "description_cn": "a small, 快速 网页kit 分支owser for maCos, by 关闭内联缓存e Commun.",
+      "stars": 2323,
+      "forks": 213,
+      "language": "Swift",
+      "url": "https://github.com/driceroland/Search",
+      "topics": [],
+      "created_at": "2026-09-20T10:29:47Z",
+      "owner": {
+        "login": "driceroland",
+        "avatar_url": "https://avatars.githubusercontent.com/u/74648512?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "score": 1646,
-      "comments": 1129,
-      "author": "bradleyg223",
-      "time": 1790798677,
-      "hn_url": "https://news.ycombinator.com/item?id=49913571",
-      "title_cn": "Gemini 4 Argon"
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "score": 371,
+      "comments": 92,
+      "author": "CoryOndrejka",
+      "time": 1790878818,
+      "hn_url": "https://news.ycombinator.com/item?id=49925184",
+      "title_cn": "Mike Tomlin spent 12 years building a Minecraft city"
     },
     {
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "score": 464,
-      "comments": 170,
-      "author": "jasondavies",
-      "time": 1790871537,
-      "hn_url": "https://news.ycombinator.com/item?id=49923692",
-      "title_cn": "【模型】Clef: Open-weight decision models, and new RL fine-tuning platform"
+      "title": "FLUX 3 Image",
+      "url": "https://bfl.ai/models/flux-3-image",
+      "score": 296,
+      "comments": 62,
+      "author": "minimaxir",
+      "time": 1790882669,
+      "hn_url": "https://news.ycombinator.com/item?id=49925974",
+      "title_cn": "FLUX 3 Image"
     },
     {
-      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
-      "url": "https://bookofshapes.com/",
-      "score": 258,
-      "comments": 23,
-      "author": "eustoria",
-      "time": 1790693782,
-      "hn_url": "https://news.ycombinator.com/item?id=49894430",
-      "title_cn": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns"
+      "title": "Sites in ChatGPT",
+      "url": "https://chatgpt.com/features/sites/",
+      "score": 239,
+      "comments": 229,
+      "author": "polvi",
+      "time": 1790893341,
+      "hn_url": "https://news.ycombinator.com/item?id=49927747",
+      "title_cn": "【GPT】Sites in ChatGPT"
     },
     {
-      "title": "How to speed up the Rust compiler in September 2026",
-      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-      "score": 238,
-      "comments": 123,
-      "author": "trickypr",
-      "time": 1790858678,
-      "hn_url": "https://news.ycombinator.com/item?id=49920896",
-      "title_cn": "How to speed up the Rust compiler in September 2026"
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
+      "score": 233,
+      "comments": 75,
+      "author": "alstonite",
+      "time": 1790900876,
+      "hn_url": "https://news.ycombinator.com/item?id=49928566",
+      "title_cn": "【AI】Show HN: Giving Opus 5.5 a simulated paint canvas"
     },
     {
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "score": 176,
-      "comments": 106,
-      "author": "giuliomagnifico",
-      "time": 1790850096,
-      "hn_url": "https://news.ycombinator.com/item?id=49919910",
-      "title_cn": "【GPT】GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design"
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "score": 201,
+      "comments": 53,
+      "author": "usernomdeguerre",
+      "time": 1790909487,
+      "hn_url": "https://news.ycombinator.com/item?id=49929391",
+      "title_cn": "【大语言模型】Greg Kroah-Hartman – Security in the LLM Age [video]"
     },
     {
-      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "score": 158,
-      "comments": 151,
-      "author": "rafaelc",
-      "time": 1790886207,
-      "hn_url": "https://news.ycombinator.com/item?id=49926628",
-      "title_cn": "Automatic Transmission – a data-privacy study of connected vehicles"
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "score": 196,
+      "comments": 95,
+      "author": "PaulHoule",
+      "time": 1790950284,
+      "hn_url": "https://news.ycombinator.com/item?id=49933740",
+      "title_cn": "【AI】With most information hidden, the game Stratego had stumped AI until now"
     },
     {
-      "title": "Context Language Models",
-      "url": "https://arxiv.org/abs/2609.37725",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "score": 189,
+      "comments": 53,
+      "author": "fibo",
+      "time": 1790964076,
+      "hn_url": "https://news.ycombinator.com/item?id=49936575",
+      "title_cn": "【大语言模型】From the creator of Redis; run LLM locally with ds4"
+    },
+    {
+      "title": "Muse Gadgets",
+      "url": "https://gadgets.muse.ai",
+      "score": 159,
+      "comments": 75,
+      "author": "anant",
+      "time": 1790969214,
+      "hn_url": "https://news.ycombinator.com/item?id=49937504",
+      "title_cn": "Muse Gadgets"
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "score": 157,
+      "comments": 67,
+      "author": "signa11",
+      "time": 1790950932,
+      "hn_url": "https://news.ycombinator.com/item?id=49933869",
+      "title_cn": "The Forgetful CPU (Linux on M4)"
+    },
+    {
+      "title": "One month coding with GLM 5.3 Flash",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
       "score": 130,
-      "comments": 28,
-      "author": "emersonmacro",
-      "time": 1790866293,
-      "hn_url": "https://news.ycombinator.com/item?id=49922437",
-      "title_cn": "【模型】Context Language Models"
+      "comments": 105,
+      "author": "ThibWeb",
+      "time": 1790954955,
+      "hn_url": "https://news.ycombinator.com/item?id=49934620",
+      "title_cn": "One month coding with GLM 5.3 Flash"
     },
     {
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "url": "https://stoppels.ch/goalposts/",
-      "score": 117,
-      "comments": 121,
-      "author": "stabbles",
-      "time": 1790875963,
-      "hn_url": "https://news.ycombinator.com/item?id=49924618",
-      "title_cn": "【AI】Vote on which of Hacker News' challenges for AI have been met"
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "url": "https://bigthink.com/books/a-fabulous-debt/",
+      "score": 92,
+      "comments": 27,
+      "author": "RickJWagner",
+      "time": 1790947067,
+      "hn_url": "https://news.ycombinator.com/item?id=49933230",
+      "title_cn": "【AI】Venice’s failed war against Constantinople led to the first bond market"
     },
     {
-      "title": "Frog and Toad and the Increasingly Capable Machines",
-      "url": "https://www.frogandtoad.ai/",
-      "score": 87,
-      "comments": 15,
-      "author": "supermdguy",
-      "time": 1790893418,
-      "hn_url": "https://news.ycombinator.com/item?id=49927760",
-      "title_cn": "Frog and Toad and the Increasingly Capable Machines"
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "score": 84,
+      "comments": 41,
+      "author": "antelocnova",
+      "time": 1790971215,
+      "hn_url": "https://news.ycombinator.com/item?id=49937916",
+      "title_cn": "【AI】Show HN: Made an open-source Lego AI generator"
     },
     {
-      "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "score": 70,
-      "comments": 23,
-      "author": "cgeier",
-      "time": 1790867470,
-      "hn_url": "https://news.ycombinator.com/item?id=49922736",
-      "title_cn": "【AI】Identity Management for Agentic AI [pdf] (2025)"
+      "title": "Our Project Suncatcher prototype satellite is in orbit",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "score": 58,
+      "comments": 56,
+      "author": "pantalaimon",
+      "time": 1790939582,
+      "hn_url": "https://news.ycombinator.com/item?id=49932191",
+      "title_cn": "Our Project Suncatcher prototype satellite is in orbit"
     },
     {
-      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-      "url": "https://github.com/Vibra-Ingenn/Janus",
-      "score": 60,
-      "comments": 9,
-      "author": "Maverick617",
-      "time": 1790887007,
-      "hn_url": "https://news.ycombinator.com/item?id=49926773",
-      "title_cn": "【模型】Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia"
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+      "score": 27,
+      "comments": 11,
+      "author": "sdko",
+      "time": 1790989741,
+      "hn_url": "https://news.ycombinator.com/item?id=49940467",
+      "title_cn": "【AI】NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]"
     },
     {
-      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-      "url": "https://www.polyedergarten.de/e_index.htm",
-      "score": 53,
-      "comments": 6,
-      "author": "isaacimagine",
-      "time": 1790866971,
-      "hn_url": "https://news.ycombinator.com/item?id=49922594",
-      "title_cn": "【模型】Polyedergarten: Garden of Paper Polyhedron Models"
-    },
-    {
-      "title": "Aweb – Communication for AI Agents",
-      "url": "https://aweb.ai",
-      "score": 30,
-      "comments": 23,
-      "author": "gurjeet",
-      "time": 1790892151,
-      "hn_url": "https://news.ycombinator.com/item?id=49927587",
-      "title_cn": "【AI】Aweb – Communication for AI Agents"
-    },
-    {
-      "title": "OpenAI has a LOT of work to do if they think Luna can compete with Jev",
-      "url": "https://anth.us/blog/openai-decisions-api-preview/",
-      "score": 10,
-      "comments": 3,
-      "author": "AnthusAI",
-      "time": 1790894020,
-      "hn_url": "https://news.ycombinator.com/item?id=49927854",
-      "title_cn": "【AI, OpenAI】OpenAI has a LOT of work to do if they think Luna can compete with Jev"
-    },
-    {
-      "title": "Merchants, Slaves, Peculium: The History of LLCs",
-      "url": "https://www.kjmlaw.com/merchants-slaves-peculium-history-llcs/",
-      "score": 5,
-      "comments": 3,
-      "author": "gradus_ad",
-      "time": 1790902526,
-      "hn_url": "https://news.ycombinator.com/item?id=49928740",
-      "title_cn": "Merchants, Slaves, Peculium: The History of LLCs"
+      "title": "OKI Develops 124-Layer PCB Technology",
+      "url": "https://www.oki.com/global/press/2025/z25006e.html",
+      "score": 13,
+      "comments": 4,
+      "author": "luu",
+      "time": 1790863254,
+      "hn_url": "https://news.ycombinator.com/item?id=49921825",
+      "title_cn": "OKI Develops 124-Layer PCB Technology"
     }
   ]
 }
