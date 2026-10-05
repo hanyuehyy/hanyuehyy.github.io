@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-04T05:12:28.691640",
+  "updated_at": "2026-10-05T04:57:23.427344",
   "github_projects": [
     {
       "name": "Strata",
       "full_name": "Niko1221/Strata",
       "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
       "description_cn": "qwen3.8-flash-next 开启 any 消费者 hardware: 开启e-命令行工具Ck install for windows / linux. strata 推理 引擎, openAI/anthrop内联缓存 API 开启 本地host, opti开启al 图像 input.",
-      "stars": 8793,
-      "forks": 785,
+      "stars": 11513,
+      "forks": 1002,
       "language": "C++",
       "url": "https://github.com/Niko1221/Strata",
       "topics": [],
@@ -18,42 +18,20 @@
       }
     },
     {
-      "name": "jev-chat-jarvis",
-      "full_name": "jev-chat/jev-chat-jarvis",
-      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "description_cn": "",
-      "stars": 7303,
-      "forks": 1221,
-      "language": "Kotlin",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "topics": [
-        "accessibility-service",
-        "ai-assistant",
-        "android",
-        "chat-assistant",
-        "chat-copilot"
-      ],
-      "created_at": "2026-09-21T11:12:53Z",
-      "owner": {
-        "login": "jev-chat",
-        "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
-      }
-    },
-    {
       "name": "AIHOT",
       "full_name": "KKKKhazix/AIHOT",
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "description_cn": "",
-      "stars": 5509,
-      "forks": 1438,
+      "stars": 5830,
+      "forks": 1489,
       "language": "TypeScript",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "topics": [
         "ai",
+        "chinese",
         "content-curation",
-        "llm",
-        "mcp",
-        "news-aggregator"
+        "daily-digest",
+        "docker-compose"
       ],
       "created_at": "2026-09-28T23:40:05Z",
       "owner": {
@@ -66,8 +44,8 @@
       "full_name": "yetone/magpie",
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "description_cn": "every 智能体's 模型. 开启e plaCe. Codex 开启 deepseek, Claude Code 开启 kimi, from the menu 柱状图.",
-      "stars": 4498,
-      "forks": 317,
+      "stars": 4893,
+      "forks": 346,
       "language": "Go",
       "url": "https://github.com/yetone/magpie",
       "topics": [
@@ -84,12 +62,28 @@
       }
     },
     {
+      "name": "DiPlay",
+      "full_name": "shihabal3amri/DiPlay",
+      "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+      "description_cn": "independent Carplay reCeiver for Compatible android head 单元s. w中间表示ed and w中间表示eLess 公开 preview.",
+      "stars": 4070,
+      "forks": 527,
+      "language": "Kotlin",
+      "url": "https://github.com/shihabal3amri/DiPlay",
+      "topics": [],
+      "created_at": "2026-09-24T15:36:38Z",
+      "owner": {
+        "login": "shihabal3amri",
+        "avatar_url": "https://avatars.githubusercontent.com/u/42039842?v=4"
+      }
+    },
+    {
       "name": "coucou",
       "full_name": "Louis-CFM/coucou",
       "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
       "description_cn": "a tiny friend that lives in your 否tCh (maCos) or at the top of your sCreen (windows, linux) and keeps an eye 开启 your Coding 智能体s: Claude Code, Codex, Cursor, Ge最小i 命令行工具, antigravity and more.",
-      "stars": 3259,
-      "forks": 505,
+      "stars": 3501,
+      "forks": 553,
       "language": "Swift",
       "url": "https://github.com/Louis-CFM/coucou",
       "topics": [
@@ -106,44 +100,12 @@
       }
     },
     {
-      "name": "DiPlay",
-      "full_name": "shihabal3amri/DiPlay",
-      "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
-      "description_cn": "independent Carplay reCeiver for Compatible android head 单元s. w中间表示ed and w中间表示eLess 公开 preview.",
-      "stars": 3125,
-      "forks": 421,
-      "language": "Kotlin",
-      "url": "https://github.com/shihabal3amri/DiPlay",
-      "topics": [],
-      "created_at": "2026-09-24T15:36:38Z",
-      "owner": {
-        "login": "shihabal3amri",
-        "avatar_url": "https://avatars.githubusercontent.com/u/42039842?v=4"
-      }
-    },
-    {
-      "name": "CLM",
-      "full_name": "Contrastive-LM/CLM",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 2765,
-      "forks": 238,
-      "language": "Python",
-      "url": "https://github.com/Contrastive-LM/CLM",
-      "topics": [],
-      "created_at": "2026-09-23T19:29:56Z",
-      "owner": {
-        "login": "Contrastive-LM",
-        "avatar_url": "https://avatars.githubusercontent.com/u/332430450?v=4"
-      }
-    },
-    {
       "name": "universal-modder",
       "full_name": "rehan-remade/universal-modder",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "description_cn": "点 Claude at any game. skills, 工具s and the fal mCp that let Claude Code mod almost any pC game you own: reC开启, reverse 引擎ering, fal-generated art/3D/音频, in-game 测试, showCase 视频s.",
-      "stars": 2682,
-      "forks": 237,
+      "stars": 3298,
+      "forks": 291,
       "language": "Python",
       "url": "https://github.com/rehan-remade/universal-modder",
       "topics": [
@@ -164,8 +126,8 @@
       "full_name": "CopilotKit/OpenDots",
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "description_cn": "your always-开启 AI Co工作进程s that move between 文本, 调用s, and slaCk.",
-      "stars": 2651,
-      "forks": 326,
+      "stars": 3260,
+      "forks": 430,
       "language": "TypeScript",
       "url": "https://github.com/CopilotKit/OpenDots",
       "topics": [],
@@ -176,12 +138,28 @@
       }
     },
     {
+      "name": "CLM",
+      "full_name": "Contrastive-LM/CLM",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 2823,
+      "forks": 243,
+      "language": "Python",
+      "url": "https://github.com/Contrastive-LM/CLM",
+      "topics": [],
+      "created_at": "2026-09-23T19:29:56Z",
+      "owner": {
+        "login": "Contrastive-LM",
+        "avatar_url": "https://avatars.githubusercontent.com/u/332430450?v=4"
+      }
+    },
+    {
       "name": "dots",
       "full_name": "feder-cr/dots",
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "description_cn": "开源 dots for the 网页: an AI 智能体 with its own 分支owser, 开启e that does 否t get 阻止.",
-      "stars": 2576,
-      "forks": 436,
+      "stars": 2605,
+      "forks": 437,
       "language": "Python",
       "url": "https://github.com/feder-cr/dots",
       "topics": [
@@ -196,158 +174,174 @@
         "login": "feder-cr",
         "avatar_url": "https://avatars.githubusercontent.com/u/85809106?v=4"
       }
+    },
+    {
+      "name": "pdoom-video",
+      "full_name": "mexicat/pdoom-video",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "description_cn": "Code-rendered mus内联缓存 视频 for \"i'm upping my p(doom)\"",
+      "stars": 2350,
+      "forks": 256,
+      "language": "TypeScript",
+      "url": "https://github.com/mexicat/pdoom-video",
+      "topics": [],
+      "created_at": "2026-09-24T21:33:53Z",
+      "owner": {
+        "login": "mexicat",
+        "avatar_url": "https://avatars.githubusercontent.com/u/699380?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Mike Tomlin spent 12 years building a Minecraft city",
-      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "score": 654,
-      "comments": 162,
-      "author": "CoryOndrejka",
-      "time": 1790878818,
-      "hn_url": "https://news.ycombinator.com/item?id=49925184",
-      "title_cn": "Mike Tomlin spent 12 years building a Minecraft city"
-    },
-    {
       "title": "Kolibri: A Sovereign Open-Weight Model",
       "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "score": 552,
-      "comments": 310,
+      "score": 659,
+      "comments": 326,
       "author": "bastitx",
       "time": 1791020164,
       "hn_url": "https://news.ycombinator.com/item?id=49942706",
       "title_cn": "【模型】Kolibri: A Sovereign Open-Weight Model"
     },
     {
-      "title": "Muse Gadgets",
-      "url": "https://gadgets.muse.ai",
-      "score": 241,
-      "comments": 108,
-      "author": "anant",
-      "time": 1790969214,
-      "hn_url": "https://news.ycombinator.com/item?id=49937504",
-      "title_cn": "Muse Gadgets"
-    },
-    {
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "score": 196,
-      "comments": 133,
-      "author": "saikatsg",
-      "time": 1791052170,
-      "hn_url": "https://news.ycombinator.com/item?id=49946567",
-      "title_cn": "【Claude】Getting the most out of Opus 5.5 in Claude and Claude Code"
-    },
-    {
-      "title": "I quit OpenAI because its culture is broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "score": 123,
-      "comments": 375,
-      "author": "Brajeshwar",
-      "time": 1791035194,
-      "hn_url": "https://news.ycombinator.com/item?id=49944227",
-      "title_cn": "【AI, OpenAI】I quit OpenAI because its culture is broken"
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "score": 460,
+      "comments": 285,
+      "author": "privacyisntdead",
+      "time": 1791142945,
+      "hn_url": "https://news.ycombinator.com/item?id=49957116",
+      "title_cn": "Turn off Apple Intelligence on macOS 27 and get its disk space back"
     },
     {
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "score": 88,
-      "comments": 112,
+      "score": 389,
+      "comments": 731,
       "author": "Anon84",
       "time": 1791049469,
       "hn_url": "https://news.ycombinator.com/item?id=49946228",
       "title_cn": "【AI】LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents"
     },
     {
-      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
-      "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
-      "score": 72,
-      "comments": 27,
-      "author": "nor-and-or-not",
-      "time": 1790937631,
-      "hn_url": "https://news.ycombinator.com/item?id=49931993",
-      "title_cn": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux"
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "score": 146,
+      "comments": 66,
+      "author": "allenleee",
+      "time": 1791105892,
+      "hn_url": "https://news.ycombinator.com/item?id=49952111",
+      "title_cn": "【AI】Show HN: AI search for every photo and every frame of video on macOS"
     },
     {
-      "title": "New York City should carefully measure a new tree",
-      "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
-      "score": 60,
-      "comments": 10,
-      "author": "willmeyers",
-      "time": 1790994483,
-      "hn_url": "https://news.ycombinator.com/item?id=49940877",
-      "title_cn": "New York City should carefully measure a new tree"
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "score": 139,
+      "comments": 70,
+      "author": "llm_nerd",
+      "time": 1791165248,
+      "hn_url": "https://news.ycombinator.com/item?id=49959869",
+      "title_cn": "【AI】Powerless F1 drivers frustrated by Bahrain F1 software glitch"
     },
     {
-      "title": "Religious scholars met with Anthropic",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "score": 54,
-      "comments": 78,
-      "author": "bookofjoe",
-      "time": 1791081262,
-      "hn_url": "https://news.ycombinator.com/item?id=49950052",
-      "title_cn": "【Anthropic】Religious scholars met with Anthropic"
+      "title": "cp: -r or -R?",
+      "url": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
+      "score": 112,
+      "comments": 103,
+      "author": "zdw",
+      "time": 1790783042,
+      "hn_url": "https://news.ycombinator.com/item?id=49910465",
+      "title_cn": "cp: -r or -R?"
     },
     {
       "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
       "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
-      "score": 34,
-      "comments": 10,
+      "score": 108,
+      "comments": 74,
       "author": "rkagerer",
       "time": 1791012767,
       "hn_url": "https://news.ycombinator.com/item?id=49942130",
       "title_cn": "Former SR-71 engineer talks NASA's Blackbird revival program"
     },
     {
-      "title": "How to hack time, with C2PA",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-      "score": 29,
-      "comments": 3,
-      "author": "Retr0id",
-      "time": 1791053526,
-      "hn_url": "https://news.ycombinator.com/item?id=49946707",
-      "title_cn": "How to hack time, with C2PA"
-    },
-    {
-      "title": "Gboard Conveyor Belt Version",
-      "url": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
-      "score": 27,
-      "comments": 3,
-      "author": "xnx",
-      "time": 1790891666,
-      "hn_url": "https://news.ycombinator.com/item?id=49927514",
-      "title_cn": "Gboard Conveyor Belt Version"
-    },
-    {
-      "title": "Direct retinal projection display for smart glasses using a meta-optic mirror",
-      "url": "https://www.tdk.com/en/news_center/press/20261002_01.html",
-      "score": 25,
-      "comments": 2,
+      "title": "Bill Draper has died",
+      "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+      "score": 98,
+      "comments": 27,
       "author": "bookofjoe",
-      "time": 1791036267,
-      "hn_url": "https://news.ycombinator.com/item?id=49944369",
-      "title_cn": "Direct retinal projection display for smart glasses using a meta-optic mirror"
+      "time": 1791116495,
+      "hn_url": "https://news.ycombinator.com/item?id=49953288",
+      "title_cn": "Bill Draper has died"
     },
     {
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "score": 16,
-      "comments": 0,
-      "author": "effects",
-      "time": 1790973545,
-      "hn_url": "https://news.ycombinator.com/item?id=49938326",
-      "title_cn": "【AI】Three AI agents, two countries, and one uneven world wide web"
+      "title": "The Tao of Backup",
+      "url": "http://www.taobackup.com/index.html",
+      "score": 74,
+      "comments": 15,
+      "author": "vntok",
+      "time": 1790939976,
+      "hn_url": "https://news.ycombinator.com/item?id=49932236",
+      "title_cn": "The Tao of Backup"
     },
     {
-      "title": "AI can clone your indie game, but not its soul",
-      "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
-      "score": 9,
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "score": 70,
+      "comments": 17,
+      "author": "simonjgreen",
+      "time": 1791103318,
+      "hn_url": "https://news.ycombinator.com/item?id=49951891",
+      "title_cn": "【AI】How to scale intent, quality, and artistry with AI [video]"
+    },
+    {
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "score": 65,
+      "comments": 29,
+      "author": "signa11",
+      "time": 1791142945,
+      "hn_url": "https://news.ycombinator.com/item?id=49957117",
+      "title_cn": "【AI】Homa: The end of TCP for AI clusters [video]"
+    },
+    {
+      "title": "What's the future for pure math research in the age of AI?",
+      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+      "score": 59,
+      "comments": 46,
+      "author": "6bitquant",
+      "time": 1791100425,
+      "hn_url": "https://news.ycombinator.com/item?id=49951641",
+      "title_cn": "【AI】What's the future for pure math research in the age of AI?"
+    },
+    {
+      "title": "Quantitative Finance with OCaml",
+      "url": "https://qcaml.com/index.html",
+      "score": 49,
+      "comments": 9,
+      "author": "leonry",
+      "time": 1790925274,
+      "hn_url": "https://news.ycombinator.com/item?id=49930690",
+      "title_cn": "Quantitative Finance with OCaml"
+    },
+    {
+      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "url": "https://alexalejandre.com/interviews/peter-bex/",
+      "score": 25,
+      "comments": 5,
+      "author": "veqq",
+      "time": 1790979424,
+      "hn_url": "https://news.ycombinator.com/item?id=49939308",
+      "title_cn": "【AI】Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex"
+    },
+    {
+      "title": "The AI industry is booming. Women are getting left behind",
+      "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
+      "score": 5,
       "comments": 2,
-      "author": "robertvaradan",
-      "time": 1791083935,
-      "hn_url": "https://news.ycombinator.com/item?id=49950288",
-      "title_cn": "【AI】AI can clone your indie game, but not its soul"
+      "author": "shadow28",
+      "time": 1791175010,
+      "hn_url": "https://news.ycombinator.com/item?id=49960725",
+      "title_cn": "【AI】The AI industry is booming. Women are getting left behind"
     }
   ]
 }
