@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-05T04:57:23.427344",
+  "updated_at": "2026-10-06T05:44:20.607479",
   "github_projects": [
     {
       "name": "Strata",
       "full_name": "Niko1221/Strata",
       "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
       "description_cn": "qwen3.8-flash-next 开启 any 消费者 hardware: 开启e-命令行工具Ck install for windows / linux. strata 推理 引擎, openAI/anthrop内联缓存 API 开启 本地host, opti开启al 图像 input.",
-      "stars": 11513,
-      "forks": 1002,
+      "stars": 14330,
+      "forks": 1213,
       "language": "C++",
       "url": "https://github.com/Niko1221/Strata",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "KKKKhazix/AIHOT",
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "description_cn": "",
-      "stars": 5830,
-      "forks": 1489,
+      "stars": 6049,
+      "forks": 1524,
       "language": "TypeScript",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "topics": [
@@ -44,8 +44,8 @@
       "full_name": "yetone/magpie",
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "description_cn": "every 智能体's 模型. 开启e plaCe. Codex 开启 deepseek, Claude Code 开启 kimi, from the menu 柱状图.",
-      "stars": 4893,
-      "forks": 346,
+      "stars": 5227,
+      "forks": 373,
       "language": "Go",
       "url": "https://github.com/yetone/magpie",
       "topics": [
@@ -66,8 +66,8 @@
       "full_name": "shihabal3amri/DiPlay",
       "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
       "description_cn": "independent Carplay reCeiver for Compatible android head 单元s. w中间表示ed and w中间表示eLess 公开 preview.",
-      "stars": 4070,
-      "forks": 527,
+      "stars": 4863,
+      "forks": 630,
       "language": "Kotlin",
       "url": "https://github.com/shihabal3amri/DiPlay",
       "topics": [],
@@ -78,34 +78,12 @@
       }
     },
     {
-      "name": "coucou",
-      "full_name": "Louis-CFM/coucou",
-      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
-      "description_cn": "a tiny friend that lives in your 否tCh (maCos) or at the top of your sCreen (windows, linux) and keeps an eye 开启 your Coding 智能体s: Claude Code, Codex, Cursor, Ge最小i 命令行工具, antigravity and more.",
-      "stars": 3501,
-      "forks": 553,
-      "language": "Swift",
-      "url": "https://github.com/Louis-CFM/coucou",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "antigravity",
-        "claude",
-        "claude-code"
-      ],
-      "created_at": "2026-09-27T21:54:12Z",
-      "owner": {
-        "login": "Louis-CFM",
-        "avatar_url": "https://avatars.githubusercontent.com/u/72659375?v=4"
-      }
-    },
-    {
       "name": "universal-modder",
       "full_name": "rehan-remade/universal-modder",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "description_cn": "点 Claude at any game. skills, 工具s and the fal mCp that let Claude Code mod almost any pC game you own: reC开启, reverse 引擎ering, fal-generated art/3D/音频, in-game 测试, showCase 视频s.",
-      "stars": 3298,
-      "forks": 291,
+      "stars": 3939,
+      "forks": 352,
       "language": "Python",
       "url": "https://github.com/rehan-remade/universal-modder",
       "topics": [
@@ -126,8 +104,8 @@
       "full_name": "CopilotKit/OpenDots",
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "description_cn": "your always-开启 AI Co工作进程s that move between 文本, 调用s, and slaCk.",
-      "stars": 3260,
-      "forks": 430,
+      "stars": 3724,
+      "forks": 494,
       "language": "TypeScript",
       "url": "https://github.com/CopilotKit/OpenDots",
       "topics": [],
@@ -138,12 +116,34 @@
       }
     },
     {
+      "name": "coucou",
+      "full_name": "Louis-CFM/coucou",
+      "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
+      "description_cn": "a tiny friend in your maC's 否tCh and 开启 your IPh开启e that keeps an eye 开启 your AI Coding 智能体s: Claude Code, Codex, Cursor, Ge最小i 命令行工具, antigravity and more. approve from the 否tCh or your 锁 sCreen.",
+      "stars": 3719,
+      "forks": 611,
+      "language": "Swift",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "antigravity",
+        "claude",
+        "claude-code"
+      ],
+      "created_at": "2026-09-27T21:54:12Z",
+      "owner": {
+        "login": "Louis-CFM",
+        "avatar_url": "https://avatars.githubusercontent.com/u/72659375?v=4"
+      }
+    },
+    {
       "name": "CLM",
       "full_name": "Contrastive-LM/CLM",
       "description": "No description",
       "description_cn": "",
-      "stars": 2823,
-      "forks": 243,
+      "stars": 2859,
+      "forks": 246,
       "language": "Python",
       "url": "https://github.com/Contrastive-LM/CLM",
       "topics": [],
@@ -158,8 +158,8 @@
       "full_name": "feder-cr/dots",
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "description_cn": "开源 dots for the 网页: an AI 智能体 with its own 分支owser, 开启e that does 否t get 阻止.",
-      "stars": 2605,
-      "forks": 437,
+      "stars": 2620,
+      "forks": 438,
       "language": "Python",
       "url": "https://github.com/feder-cr/dots",
       "topics": [
@@ -180,8 +180,8 @@
       "full_name": "mexicat/pdoom-video",
       "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
       "description_cn": "Code-rendered mus内联缓存 视频 for \"i'm upping my p(doom)\"",
-      "stars": 2350,
-      "forks": 256,
+      "stars": 2400,
+      "forks": 264,
       "language": "TypeScript",
       "url": "https://github.com/mexicat/pdoom-video",
       "topics": [],
@@ -194,154 +194,154 @@
   ],
   "ai_news": [
     {
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "score": 659,
-      "comments": 326,
-      "author": "bastitx",
-      "time": 1791020164,
-      "hn_url": "https://news.ycombinator.com/item?id=49942706",
-      "title_cn": "【模型】Kolibri: A Sovereign Open-Weight Model"
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "score": 648,
+      "comments": 510,
+      "author": "emptybits",
+      "time": 1791178660,
+      "hn_url": "https://news.ycombinator.com/item?id=49961057",
+      "title_cn": "【Anthropic】Anthropic reported diary entry to police, woman faces felony charge"
     },
     {
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "score": 460,
-      "comments": 285,
-      "author": "privacyisntdead",
-      "time": 1791142945,
-      "hn_url": "https://news.ycombinator.com/item?id=49957116",
-      "title_cn": "Turn off Apple Intelligence on macOS 27 and get its disk space back"
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "score": 384,
+      "comments": 119,
+      "author": "Philpax",
+      "time": 1791227795,
+      "hn_url": "https://news.ycombinator.com/item?id=49969183",
+      "title_cn": "【模型】Beam: Reflection's 501B open-weight model"
     },
     {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "score": 389,
-      "comments": 731,
-      "author": "Anon84",
-      "time": 1791049469,
-      "hn_url": "https://news.ycombinator.com/item?id=49946228",
-      "title_cn": "【AI】LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents"
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "score": 362,
+      "comments": 266,
+      "author": "rdmuser",
+      "time": 1791240405,
+      "hn_url": "https://news.ycombinator.com/item?id=49971846",
+      "title_cn": "【GPT】ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons"
     },
     {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "url": "https://github.com/allenv0/SCM",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "score": 278,
+      "comments": 188,
+      "author": "outlier99",
+      "time": 1791234021,
+      "hn_url": "https://news.ycombinator.com/item?id=49970667",
+      "title_cn": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates"
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
       "score": 146,
-      "comments": 66,
-      "author": "allenleee",
-      "time": 1791105892,
-      "hn_url": "https://news.ycombinator.com/item?id=49952111",
-      "title_cn": "【AI】Show HN: AI search for every photo and every frame of video on macOS"
+      "comments": 32,
+      "author": "E-Reverance",
+      "time": 1791234907,
+      "hn_url": "https://news.ycombinator.com/item?id=49970871",
+      "title_cn": "【AI, Transformer模型, 训练】Dust: Pretraining Transformers Without Backpropagation"
     },
     {
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "score": 139,
-      "comments": 70,
-      "author": "llm_nerd",
-      "time": 1791165248,
-      "hn_url": "https://news.ycombinator.com/item?id=49959869",
-      "title_cn": "【AI】Powerless F1 drivers frustrated by Bahrain F1 software glitch"
-    },
-    {
-      "title": "cp: -r or -R?",
-      "url": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
+      "title": "Linux containers in 500 lines of code (2016)",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
       "score": 112,
-      "comments": 103,
-      "author": "zdw",
-      "time": 1790783042,
-      "hn_url": "https://news.ycombinator.com/item?id=49910465",
-      "title_cn": "cp: -r or -R?"
+      "comments": 22,
+      "author": "mkornaukhov",
+      "time": 1791209355,
+      "hn_url": "https://news.ycombinator.com/item?id=49965118",
+      "title_cn": "【AI】Linux containers in 500 lines of code (2016)"
     },
     {
-      "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
-      "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
-      "score": 108,
-      "comments": 74,
-      "author": "rkagerer",
-      "time": 1791012767,
-      "hn_url": "https://news.ycombinator.com/item?id=49942130",
-      "title_cn": "Former SR-71 engineer talks NASA's Blackbird revival program"
+      "title": "Martian chaos terrain",
+      "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
+      "score": 101,
+      "comments": 26,
+      "author": "tiagod",
+      "time": 1790903488,
+      "hn_url": "https://news.ycombinator.com/item?id=49928862",
+      "title_cn": "【AI】Martian chaos terrain"
     },
     {
-      "title": "Bill Draper has died",
-      "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-      "score": 98,
-      "comments": 27,
-      "author": "bookofjoe",
-      "time": 1791116495,
-      "hn_url": "https://news.ycombinator.com/item?id=49953288",
-      "title_cn": "Bill Draper has died"
-    },
-    {
-      "title": "The Tao of Backup",
-      "url": "http://www.taobackup.com/index.html",
-      "score": 74,
-      "comments": 15,
-      "author": "vntok",
-      "time": 1790939976,
-      "hn_url": "https://news.ycombinator.com/item?id=49932236",
-      "title_cn": "The Tao of Backup"
-    },
-    {
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "score": 70,
-      "comments": 17,
-      "author": "simonjgreen",
-      "time": 1791103318,
-      "hn_url": "https://news.ycombinator.com/item?id=49951891",
-      "title_cn": "【AI】How to scale intent, quality, and artistry with AI [video]"
-    },
-    {
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "score": 65,
-      "comments": 29,
-      "author": "signa11",
-      "time": 1791142945,
-      "hn_url": "https://news.ycombinator.com/item?id=49957117",
-      "title_cn": "【AI】Homa: The end of TCP for AI clusters [video]"
-    },
-    {
-      "title": "What's the future for pure math research in the age of AI?",
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-      "score": 59,
-      "comments": 46,
-      "author": "6bitquant",
-      "time": 1791100425,
-      "hn_url": "https://news.ycombinator.com/item?id=49951641",
-      "title_cn": "【AI】What's the future for pure math research in the age of AI?"
-    },
-    {
-      "title": "Quantitative Finance with OCaml",
-      "url": "https://qcaml.com/index.html",
-      "score": 49,
+      "title": "ExplainDB: A Database System Built for Understandability",
+      "url": "https://github.com/explaindb/explaindb",
+      "score": 72,
       "comments": 9,
-      "author": "leonry",
-      "time": 1790925274,
-      "hn_url": "https://news.ycombinator.com/item?id=49930690",
-      "title_cn": "Quantitative Finance with OCaml"
+      "author": "pykello",
+      "time": 1790876847,
+      "hn_url": "https://news.ycombinator.com/item?id=49924795",
+      "title_cn": "【AI】ExplainDB: A Database System Built for Understandability"
     },
     {
-      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-      "url": "https://alexalejandre.com/interviews/peter-bex/",
-      "score": 25,
-      "comments": 5,
-      "author": "veqq",
-      "time": 1790979424,
-      "hn_url": "https://news.ycombinator.com/item?id=49939308",
-      "title_cn": "【AI】Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex"
+      "title": "An algorithmic failure beneath the secret ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "score": 59,
+      "comments": 20,
+      "author": "leecoursey",
+      "time": 1791044587,
+      "hn_url": "https://news.ycombinator.com/item?id=49945588",
+      "title_cn": "【AI】An algorithmic failure beneath the secret ballot"
     },
     {
-      "title": "The AI industry is booming. Women are getting left behind",
-      "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
-      "score": 5,
+      "title": "AI tutoring with Khanmigo in a two-year school experiment",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "score": 58,
+      "comments": 47,
+      "author": "bryan0",
+      "time": 1791244845,
+      "hn_url": "https://news.ycombinator.com/item?id=49972419",
+      "title_cn": "【AI】AI tutoring with Khanmigo in a two-year school experiment"
+    },
+    {
+      "title": "Mystery Function",
+      "url": "https://codeset.ai/function",
+      "score": 47,
+      "comments": 10,
+      "author": "andre15silva",
+      "time": 1790960588,
+      "hn_url": "https://news.ycombinator.com/item?id=49935872",
+      "title_cn": "Mystery Function"
+    },
+    {
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "score": 36,
+      "comments": 14,
+      "author": "networked",
+      "time": 1791243335,
+      "hn_url": "https://news.ycombinator.com/item?id=49972211",
+      "title_cn": "Samon: Designing a Zen Garden Raking Puzzle"
+    },
+    {
+      "title": "Hot Flashing Guide Rev. 2.0 (2004)",
+      "url": "https://archive.techarp.com/showarticle504a.html?pgno=0",
+      "score": 18,
+      "comments": 3,
+      "author": "userbinator",
+      "time": 1791019088,
+      "hn_url": "https://news.ycombinator.com/item?id=49942617",
+      "title_cn": "Hot Flashing Guide Rev. 2.0 (2004)"
+    },
+    {
+      "title": "The AI boom is making the cheapest smartphones disappear",
+      "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
+      "score": 9,
       "comments": 2,
-      "author": "shadow28",
-      "time": 1791175010,
-      "hn_url": "https://news.ycombinator.com/item?id=49960725",
-      "title_cn": "【AI】The AI industry is booming. Women are getting left behind"
+      "author": "jethronethro",
+      "time": 1791261437,
+      "hn_url": "https://news.ycombinator.com/item?id=49974238",
+      "title_cn": "【AI】The AI boom is making the cheapest smartphones disappear"
+    },
+    {
+      "title": "DGX Station GB300 Cluster: Two 400G DACs, and Frontier Models",
+      "url": "https://www.storagereview.com/review/dgx-station-gb300-cluster-two-towers-two-400g-dacs",
+      "score": 3,
+      "comments": 0,
+      "author": "pella",
+      "time": 1791259637,
+      "hn_url": "https://news.ycombinator.com/item?id=49974038",
+      "title_cn": "【模型】DGX Station GB300 Cluster: Two 400G DACs, and Frontier Models"
     }
   ]
 }
