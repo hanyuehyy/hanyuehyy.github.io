@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-06T05:44:20.607479",
+  "updated_at": "2026-10-07T05:15:31.223224",
   "github_projects": [
     {
       "name": "Strata",
       "full_name": "Niko1221/Strata",
       "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
       "description_cn": "qwen3.8-flash-next 开启 any 消费者 hardware: 开启e-命令行工具Ck install for windows / linux. strata 推理 引擎, openAI/anthrop内联缓存 API 开启 本地host, opti开启al 图像 input.",
-      "stars": 14330,
-      "forks": 1213,
+      "stars": 16023,
+      "forks": 1381,
       "language": "C++",
       "url": "https://github.com/Niko1221/Strata",
       "topics": [],
@@ -18,12 +18,34 @@
       }
     },
     {
+      "name": "photocraft",
+      "full_name": "storytold/photocraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "description_cn": "an 开源, Clean-room reimplementati开启 of adobe photoshop in 纯 Rust",
+      "stars": 8840,
+      "forks": 1135,
+      "language": "Rust",
+      "url": "https://github.com/storytold/photocraft",
+      "topics": [
+        "adobe",
+        "adobe-photoshop-2026",
+        "adobe-photoshop-2026-ai",
+        "art",
+        "image-editing"
+      ],
+      "created_at": "2026-09-30T13:37:48Z",
+      "owner": {
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      }
+    },
+    {
       "name": "AIHOT",
       "full_name": "KKKKhazix/AIHOT",
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "description_cn": "",
-      "stars": 6049,
-      "forks": 1524,
+      "stars": 6233,
+      "forks": 1557,
       "language": "TypeScript",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "topics": [
@@ -40,34 +62,12 @@
       }
     },
     {
-      "name": "magpie",
-      "full_name": "yetone/magpie",
-      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "description_cn": "every 智能体's 模型. 开启e plaCe. Codex 开启 deepseek, Claude Code 开启 kimi, from the menu 柱状图.",
-      "stars": 5227,
-      "forks": 373,
-      "language": "Go",
-      "url": "https://github.com/yetone/magpie",
-      "topics": [
-        "claude-code",
-        "codex",
-        "deepseek",
-        "gemini-cli",
-        "llm"
-      ],
-      "created_at": "2026-09-23T16:22:35Z",
-      "owner": {
-        "login": "yetone",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
-      }
-    },
-    {
       "name": "DiPlay",
       "full_name": "shihabal3amri/DiPlay",
       "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
       "description_cn": "independent Carplay reCeiver for Compatible android head 单元s. w中间表示ed and w中间表示eLess 公开 preview.",
-      "stars": 4863,
-      "forks": 630,
+      "stars": 5496,
+      "forks": 709,
       "language": "Kotlin",
       "url": "https://github.com/shihabal3amri/DiPlay",
       "topics": [],
@@ -82,8 +82,8 @@
       "full_name": "rehan-remade/universal-modder",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "description_cn": "点 Claude at any game. skills, 工具s and the fal mCp that let Claude Code mod almost any pC game you own: reC开启, reverse 引擎ering, fal-generated art/3D/音频, in-game 测试, showCase 视频s.",
-      "stars": 3939,
-      "forks": 352,
+      "stars": 4720,
+      "forks": 421,
       "language": "Python",
       "url": "https://github.com/rehan-remade/universal-modder",
       "topics": [
@@ -100,12 +100,28 @@
       }
     },
     {
+      "name": "math",
+      "full_name": "openai/math",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 4187,
+      "forks": 377,
+      "language": "Lean",
+      "url": "https://github.com/openai/math",
+      "topics": [],
+      "created_at": "2026-10-06T21:47:02Z",
+      "owner": {
+        "login": "openai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+      }
+    },
+    {
       "name": "OpenDots",
       "full_name": "CopilotKit/OpenDots",
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "description_cn": "your always-开启 AI Co工作进程s that move between 文本, 调用s, and slaCk.",
-      "stars": 3724,
-      "forks": 494,
+      "stars": 3978,
+      "forks": 546,
       "language": "TypeScript",
       "url": "https://github.com/CopilotKit/OpenDots",
       "topics": [],
@@ -120,8 +136,8 @@
       "full_name": "Louis-CFM/coucou",
       "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
       "description_cn": "a tiny friend in your maC's 否tCh and 开启 your IPh开启e that keeps an eye 开启 your AI Coding 智能体s: Claude Code, Codex, Cursor, Ge最小i 命令行工具, antigravity and more. approve from the 否tCh or your 锁 sCreen.",
-      "stars": 3719,
-      "forks": 611,
+      "stars": 3857,
+      "forks": 651,
       "language": "Swift",
       "url": "https://github.com/Louis-CFM/coucou",
       "topics": [
@@ -138,210 +154,194 @@
       }
     },
     {
-      "name": "CLM",
-      "full_name": "Contrastive-LM/CLM",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 2859,
-      "forks": 246,
-      "language": "Python",
-      "url": "https://github.com/Contrastive-LM/CLM",
-      "topics": [],
-      "created_at": "2026-09-23T19:29:56Z",
-      "owner": {
-        "login": "Contrastive-LM",
-        "avatar_url": "https://avatars.githubusercontent.com/u/332430450?v=4"
-      }
-    },
-    {
-      "name": "dots",
-      "full_name": "feder-cr/dots",
-      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "description_cn": "开源 dots for the 网页: an AI 智能体 with its own 分支owser, 开启e that does 否t get 阻止.",
-      "stars": 2620,
-      "forks": 438,
-      "language": "Python",
-      "url": "https://github.com/feder-cr/dots",
+      "name": "RemoveMacAI",
+      "full_name": "omlahore/RemoveMacAI",
+      "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
+      "description_cn": "debloat maCos: turn 关闭 apple intelligenCe, analyt内联缓存s, ads and pop-ups. a native app and 命令行工具, and every Change Can be und开启e.",
+      "stars": 3192,
+      "forks": 80,
+      "language": "Swift",
+      "url": "https://github.com/omlahore/RemoveMacAI",
       "topics": [
-        "ai-agent",
-        "ai-agents",
-        "ai-browser",
-        "anti-detect-browser",
-        "browser-agent"
+        "apple-intelligence",
+        "cli",
+        "debloat",
+        "macos",
+        "macos-27"
       ],
-      "created_at": "2026-09-29T23:06:00Z",
+      "created_at": "2026-09-29T11:02:39Z",
       "owner": {
-        "login": "feder-cr",
-        "avatar_url": "https://avatars.githubusercontent.com/u/85809106?v=4"
+        "login": "omlahore",
+        "avatar_url": "https://avatars.githubusercontent.com/u/119071446?v=4"
       }
     },
     {
-      "name": "pdoom-video",
-      "full_name": "mexicat/pdoom-video",
-      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
-      "description_cn": "Code-rendered mus内联缓存 视频 for \"i'm upping my p(doom)\"",
-      "stars": 2400,
-      "forks": 264,
-      "language": "TypeScript",
-      "url": "https://github.com/mexicat/pdoom-video",
+      "name": "DroidDeck",
+      "full_name": "Droid-Deck/DroidDeck",
+      "description": "DroidDeck brings the SteamOS experience to Android",
+      "description_cn": "droiddeCk 分支ings the s团队os experienCe to android",
+      "stars": 2799,
+      "forks": 90,
+      "language": "Kotlin",
+      "url": "https://github.com/Droid-Deck/DroidDeck",
       "topics": [],
-      "created_at": "2026-09-24T21:33:53Z",
+      "created_at": "2026-09-24T15:14:13Z",
       "owner": {
-        "login": "mexicat",
-        "avatar_url": "https://avatars.githubusercontent.com/u/699380?v=4"
+        "login": "Droid-Deck",
+        "avatar_url": "https://avatars.githubusercontent.com/u/333418672?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "score": 648,
-      "comments": 510,
-      "author": "emptybits",
-      "time": 1791178660,
-      "hn_url": "https://news.ycombinator.com/item?id=49961057",
-      "title_cn": "【Anthropic】Anthropic reported diary entry to police, woman faces felony charge"
-    },
-    {
-      "title": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "score": 384,
-      "comments": 119,
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 1657,
+      "comments": 989,
       "author": "Philpax",
-      "time": 1791227795,
-      "hn_url": "https://news.ycombinator.com/item?id=49969183",
-      "title_cn": "【模型】Beam: Reflection's 501B open-weight model"
+      "time": 1791292549,
+      "hn_url": "https://news.ycombinator.com/item?id=49977979",
+      "title_cn": "Mistral Large 4"
     },
     {
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "score": 362,
-      "comments": 266,
-      "author": "rdmuser",
-      "time": 1791240405,
-      "hn_url": "https://news.ycombinator.com/item?id=49971846",
-      "title_cn": "【GPT】ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons"
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "score": 649,
+      "comments": 587,
+      "author": "OfficialTurkey",
+      "time": 1791325041,
+      "hn_url": "https://news.ycombinator.com/item?id=49984923",
+      "title_cn": "【AI】Sharing AI progress in mathematics"
     },
     {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "score": 278,
-      "comments": 188,
-      "author": "outlier99",
-      "time": 1791234021,
-      "hn_url": "https://news.ycombinator.com/item?id=49970667",
-      "title_cn": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates"
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "score": 271,
+      "comments": 31,
+      "author": "ilreb",
+      "time": 1791302629,
+      "hn_url": "https://news.ycombinator.com/item?id=49980487",
+      "title_cn": "【模型】EmbeddingGemma 2: An open, lightweight multimodal embedding model"
     },
     {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "score": 146,
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "score": 255,
+      "comments": 321,
+      "author": "fsbonetto",
+      "time": 1791303805,
+      "hn_url": "https://news.ycombinator.com/item?id=49980715",
+      "title_cn": "【AI】OpenTPU – An open-source AI accelerator, developed by AI"
+    },
+    {
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "score": 202,
+      "comments": 96,
+      "author": "chiefstorm",
+      "time": 1791320245,
+      "hn_url": "https://news.ycombinator.com/item?id=49984025",
+      "title_cn": "【API】Decisions API is in public beta"
+    },
+    {
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "score": 151,
+      "comments": 79,
+      "author": "zed_labs_dev",
+      "time": 1791309634,
+      "hn_url": "https://news.ycombinator.com/item?id=49981905",
+      "title_cn": "【Claude, 模型】Claude Code’s suggested message feature: I think the real customer is the model"
+    },
+    {
+      "title": "Benchmark in Milliseconds",
+      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+      "score": 131,
+      "comments": 40,
+      "author": "surprisetalk",
+      "time": 1791219610,
+      "hn_url": "https://news.ycombinator.com/item?id=49967427",
+      "title_cn": "【基准测试】Benchmark in Milliseconds"
+    },
+    {
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "score": 123,
+      "comments": 51,
+      "author": "kavourias",
+      "time": 1791323983,
+      "hn_url": "https://news.ycombinator.com/item?id=49984716",
+      "title_cn": "【AI】Penguin Mail – open-source Rust email client for Linux with AI"
+    },
+    {
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "score": 117,
+      "comments": 115,
+      "author": "healsdata",
+      "time": 1791306112,
+      "hn_url": "https://news.ycombinator.com/item?id=49981197",
+      "title_cn": "【AI】Utah to let AI examine patients and prescribe medication without human oversight"
+    },
+    {
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "score": 85,
+      "comments": 12,
+      "author": "gmays",
+      "time": 1791338531,
+      "hn_url": "https://news.ycombinator.com/item?id=49987076",
+      "title_cn": "【模型】Strands Decider 2B: a small, open-source, decision model"
+    },
+    {
+      "title": "LLMs may have helped my RSI",
+      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+      "score": 70,
       "comments": 32,
-      "author": "E-Reverance",
-      "time": 1791234907,
-      "hn_url": "https://news.ycombinator.com/item?id=49970871",
-      "title_cn": "【AI, Transformer模型, 训练】Dust: Pretraining Transformers Without Backpropagation"
+      "author": "vaughands",
+      "time": 1791255664,
+      "hn_url": "https://news.ycombinator.com/item?id=49973644",
+      "title_cn": "【大语言模型】LLMs may have helped my RSI"
     },
     {
-      "title": "Linux containers in 500 lines of code (2016)",
-      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-      "score": 112,
-      "comments": 22,
-      "author": "mkornaukhov",
-      "time": 1791209355,
-      "hn_url": "https://news.ycombinator.com/item?id=49965118",
-      "title_cn": "【AI】Linux containers in 500 lines of code (2016)"
+      "title": "ESP32-C3 Adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "score": 35,
+      "comments": 7,
+      "author": "jayhoon",
+      "time": 1791337161,
+      "hn_url": "https://news.ycombinator.com/item?id=49986862",
+      "title_cn": "ESP32-C3 Adblock"
     },
     {
-      "title": "Martian chaos terrain",
-      "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
-      "score": 101,
-      "comments": 26,
-      "author": "tiagod",
-      "time": 1790903488,
-      "hn_url": "https://news.ycombinator.com/item?id=49928862",
-      "title_cn": "【AI】Martian chaos terrain"
+      "title": "Calling It Quits on ServerFault",
+      "url": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
+      "score": 22,
+      "comments": 6,
+      "author": "zdw",
+      "time": 1791346924,
+      "hn_url": "https://news.ycombinator.com/item?id=49988142",
+      "title_cn": "Calling It Quits on ServerFault"
     },
     {
-      "title": "ExplainDB: A Database System Built for Understandability",
-      "url": "https://github.com/explaindb/explaindb",
-      "score": 72,
-      "comments": 9,
-      "author": "pykello",
-      "time": 1790876847,
-      "hn_url": "https://news.ycombinator.com/item?id=49924795",
-      "title_cn": "【AI】ExplainDB: A Database System Built for Understandability"
-    },
-    {
-      "title": "An algorithmic failure beneath the secret ballot",
-      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "score": 59,
-      "comments": 20,
-      "author": "leecoursey",
-      "time": 1791044587,
-      "hn_url": "https://news.ycombinator.com/item?id=49945588",
-      "title_cn": "【AI】An algorithmic failure beneath the secret ballot"
-    },
-    {
-      "title": "AI tutoring with Khanmigo in a two-year school experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
-      "score": 58,
-      "comments": 47,
-      "author": "bryan0",
-      "time": 1791244845,
-      "hn_url": "https://news.ycombinator.com/item?id=49972419",
-      "title_cn": "【AI】AI tutoring with Khanmigo in a two-year school experiment"
-    },
-    {
-      "title": "Mystery Function",
-      "url": "https://codeset.ai/function",
-      "score": 47,
-      "comments": 10,
-      "author": "andre15silva",
-      "time": 1790960588,
-      "hn_url": "https://news.ycombinator.com/item?id=49935872",
-      "title_cn": "Mystery Function"
-    },
-    {
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-      "score": 36,
-      "comments": 14,
-      "author": "networked",
-      "time": 1791243335,
-      "hn_url": "https://news.ycombinator.com/item?id=49972211",
-      "title_cn": "Samon: Designing a Zen Garden Raking Puzzle"
-    },
-    {
-      "title": "Hot Flashing Guide Rev. 2.0 (2004)",
-      "url": "https://archive.techarp.com/showarticle504a.html?pgno=0",
-      "score": 18,
-      "comments": 3,
-      "author": "userbinator",
-      "time": 1791019088,
-      "hn_url": "https://news.ycombinator.com/item?id=49942617",
-      "title_cn": "Hot Flashing Guide Rev. 2.0 (2004)"
-    },
-    {
-      "title": "The AI boom is making the cheapest smartphones disappear",
-      "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
-      "score": 9,
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "score": 20,
       "comments": 2,
-      "author": "jethronethro",
-      "time": 1791261437,
-      "hn_url": "https://news.ycombinator.com/item?id=49974238",
-      "title_cn": "【AI】The AI boom is making the cheapest smartphones disappear"
+      "author": "nanochess",
+      "time": 1791343005,
+      "hn_url": "https://news.ycombinator.com/item?id=49987675",
+      "title_cn": "La Cueva BBS in Mexico in 1993 (session replay)"
     },
     {
-      "title": "DGX Station GB300 Cluster: Two 400G DACs, and Frontier Models",
-      "url": "https://www.storagereview.com/review/dgx-station-gb300-cluster-two-towers-two-400g-dacs",
-      "score": 3,
-      "comments": 0,
-      "author": "pella",
-      "time": 1791259637,
-      "hn_url": "https://news.ycombinator.com/item?id=49974038",
-      "title_cn": "【模型】DGX Station GB300 Cluster: Two 400G DACs, and Frontier Models"
+      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+      "score": 16,
+      "comments": 4,
+      "author": "matt_d",
+      "time": 1791336469,
+      "hn_url": "https://news.ycombinator.com/item?id=49986765",
+      "title_cn": "【AI】Jev-Driven SRE Diagnosis: What Worked and What Failed"
     }
   ]
 }
