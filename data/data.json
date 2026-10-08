@@ -1,29 +1,13 @@
 {
-  "updated_at": "2026-10-07T05:15:31.223224",
+  "updated_at": "2026-10-08T05:25:25.805700",
   "github_projects": [
-    {
-      "name": "Strata",
-      "full_name": "Niko1221/Strata",
-      "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-      "description_cn": "qwen3.8-flash-next 开启 any 消费者 hardware: 开启e-命令行工具Ck install for windows / linux. strata 推理 引擎, openAI/anthrop内联缓存 API 开启 本地host, opti开启al 图像 input.",
-      "stars": 16023,
-      "forks": 1381,
-      "language": "C++",
-      "url": "https://github.com/Niko1221/Strata",
-      "topics": [],
-      "created_at": "2026-09-24T16:40:20Z",
-      "owner": {
-        "login": "Niko1221",
-        "avatar_url": "https://avatars.githubusercontent.com/u/86886444?v=4"
-      }
-    },
     {
       "name": "photocraft",
       "full_name": "storytold/photocraft",
       "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
       "description_cn": "an 开源, Clean-room reimplementati开启 of adobe photoshop in 纯 Rust",
-      "stars": 8840,
-      "forks": 1135,
+      "stars": 19020,
+      "forks": 2487,
       "language": "Rust",
       "url": "https://github.com/storytold/photocraft",
       "topics": [
@@ -40,12 +24,28 @@
       }
     },
     {
+      "name": "math",
+      "full_name": "openai/math",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 10280,
+      "forks": 1028,
+      "language": "Lean",
+      "url": "https://github.com/openai/math",
+      "topics": [],
+      "created_at": "2026-10-06T21:47:02Z",
+      "owner": {
+        "login": "openai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+      }
+    },
+    {
       "name": "AIHOT",
       "full_name": "KKKKhazix/AIHOT",
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "description_cn": "",
-      "stars": 6233,
-      "forks": 1557,
+      "stars": 6516,
+      "forks": 1608,
       "language": "TypeScript",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "topics": [
@@ -62,28 +62,12 @@
       }
     },
     {
-      "name": "DiPlay",
-      "full_name": "shihabal3amri/DiPlay",
-      "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
-      "description_cn": "independent Carplay reCeiver for Compatible android head 单元s. w中间表示ed and w中间表示eLess 公开 preview.",
-      "stars": 5496,
-      "forks": 709,
-      "language": "Kotlin",
-      "url": "https://github.com/shihabal3amri/DiPlay",
-      "topics": [],
-      "created_at": "2026-09-24T15:36:38Z",
-      "owner": {
-        "login": "shihabal3amri",
-        "avatar_url": "https://avatars.githubusercontent.com/u/42039842?v=4"
-      }
-    },
-    {
       "name": "universal-modder",
       "full_name": "rehan-remade/universal-modder",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "description_cn": "点 Claude at any game. skills, 工具s and the fal mCp that let Claude Code mod almost any pC game you own: reC开启, reverse 引擎ering, fal-generated art/3D/音频, in-game 测试, showCase 视频s.",
-      "stars": 4720,
-      "forks": 421,
+      "stars": 5287,
+      "forks": 483,
       "language": "Python",
       "url": "https://github.com/rehan-remade/universal-modder",
       "topics": [
@@ -100,28 +84,12 @@
       }
     },
     {
-      "name": "math",
-      "full_name": "openai/math",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 4187,
-      "forks": 377,
-      "language": "Lean",
-      "url": "https://github.com/openai/math",
-      "topics": [],
-      "created_at": "2026-10-06T21:47:02Z",
-      "owner": {
-        "login": "openai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
-      }
-    },
-    {
       "name": "OpenDots",
       "full_name": "CopilotKit/OpenDots",
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "description_cn": "your always-开启 AI Co工作进程s that move between 文本, 调用s, and slaCk.",
-      "stars": 3978,
-      "forks": 546,
+      "stars": 4269,
+      "forks": 600,
       "language": "TypeScript",
       "url": "https://github.com/CopilotKit/OpenDots",
       "topics": [],
@@ -136,8 +104,8 @@
       "full_name": "Louis-CFM/coucou",
       "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
       "description_cn": "a tiny friend in your maC's 否tCh and 开启 your IPh开启e that keeps an eye 开启 your AI Coding 智能体s: Claude Code, Codex, Cursor, Ge最小i 命令行工具, antigravity and more. approve from the 否tCh or your 锁 sCreen.",
-      "stars": 3857,
-      "forks": 651,
+      "stars": 4062,
+      "forks": 680,
       "language": "Swift",
       "url": "https://github.com/Louis-CFM/coucou",
       "topics": [
@@ -154,12 +122,34 @@
       }
     },
     {
+      "name": "filmcraft",
+      "full_name": "storytold/filmcraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+      "description_cn": "an 开源, Clean-room reimplementati开启 of adobe premiere pro built in 纯 Rust.",
+      "stars": 3644,
+      "forks": 1172,
+      "language": "Rust",
+      "url": "https://github.com/storytold/filmcraft",
+      "topics": [
+        "adobe",
+        "art",
+        "rust",
+        "video",
+        "video-editing"
+      ],
+      "created_at": "2026-09-30T13:41:20Z",
+      "owner": {
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      }
+    },
+    {
       "name": "RemoveMacAI",
       "full_name": "omlahore/RemoveMacAI",
       "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
       "description_cn": "debloat maCos: turn 关闭 apple intelligenCe, analyt内联缓存s, ads and pop-ups. a native app and 命令行工具, and every Change Can be und开启e.",
-      "stars": 3192,
-      "forks": 80,
+      "stars": 3607,
+      "forks": 95,
       "language": "Swift",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "topics": [
@@ -176,19 +166,41 @@
       }
     },
     {
-      "name": "DroidDeck",
-      "full_name": "Droid-Deck/DroidDeck",
-      "description": "DroidDeck brings the SteamOS experience to Android",
-      "description_cn": "droiddeCk 分支ings the s团队os experienCe to android",
-      "stars": 2799,
-      "forks": 90,
-      "language": "Kotlin",
-      "url": "https://github.com/Droid-Deck/DroidDeck",
-      "topics": [],
-      "created_at": "2026-09-24T15:14:13Z",
+      "name": "lightcraft",
+      "full_name": "storytold/lightcraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+      "description_cn": "an 开源, Clean-room reimplementati开启 of adobe lightroom in 纯 Rust.",
+      "stars": 3383,
+      "forks": 1000,
+      "language": "Rust",
+      "url": "https://github.com/storytold/lightcraft",
+      "topics": [
+        "art",
+        "lightroom",
+        "photography",
+        "raw",
+        "raw-editor"
+      ],
+      "created_at": "2026-09-30T14:09:27Z",
       "owner": {
-        "login": "Droid-Deck",
-        "avatar_url": "https://avatars.githubusercontent.com/u/333418672?v=4"
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      }
+    },
+    {
+      "name": "vibe-wise",
+      "full_name": "nykooi1/vibe-wise",
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "description_cn": "a Claude Code 插件 that helps you learn how to build while AI writes the Code.",
+      "stars": 3007,
+      "forks": 128,
+      "language": "Python",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "topics": [],
+      "created_at": "2026-09-29T01:29:57Z",
+      "owner": {
+        "login": "nykooi1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/74839315?v=4"
       }
     }
   ],
@@ -196,8 +208,8 @@
     {
       "title": "Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "score": 1657,
-      "comments": 989,
+      "score": 2005,
+      "comments": 1193,
       "author": "Philpax",
       "time": 1791292549,
       "hn_url": "https://news.ycombinator.com/item?id=49977979",
@@ -206,142 +218,142 @@
     {
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 649,
-      "comments": 587,
+      "score": 1260,
+      "comments": 1429,
       "author": "OfficialTurkey",
       "time": 1791325041,
       "hn_url": "https://news.ycombinator.com/item?id=49984923",
       "title_cn": "【AI】Sharing AI progress in mathematics"
     },
     {
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "score": 271,
-      "comments": 31,
-      "author": "ilreb",
-      "time": 1791302629,
-      "hn_url": "https://news.ycombinator.com/item?id=49980487",
-      "title_cn": "【模型】EmbeddingGemma 2: An open, lightweight multimodal embedding model"
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "score": 779,
+      "comments": 387,
+      "author": "sfkgtbor",
+      "time": 1791396092,
+      "hn_url": "https://news.ycombinator.com/item?id=49996437",
+      "title_cn": "【AI, Claude】Claude Haiku 5.5"
     },
     {
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "url": "https://github.com/FeSens/openTPU",
-      "score": 255,
-      "comments": 321,
-      "author": "fsbonetto",
-      "time": 1791303805,
-      "hn_url": "https://news.ycombinator.com/item?id=49980715",
-      "title_cn": "【AI】OpenTPU – An open-source AI accelerator, developed by AI"
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "score": 566,
+      "comments": 293,
+      "author": "joshuawright11",
+      "time": 1791396058,
+      "hn_url": "https://news.ycombinator.com/item?id=49996425",
+      "title_cn": "【GPT】GPT‑6 and Intelligent UI for everyone"
     },
     {
-      "title": "Decisions API is in public beta",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "score": 202,
-      "comments": 96,
-      "author": "chiefstorm",
-      "time": 1791320245,
-      "hn_url": "https://news.ycombinator.com/item?id=49984025",
-      "title_cn": "【API】Decisions API is in public beta"
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "score": 386,
+      "comments": 64,
+      "author": "sohkamyung",
+      "time": 1791364675,
+      "hn_url": "https://news.ycombinator.com/item?id=49990224",
+      "title_cn": "A font recreated from photographs of classic Commodore 64 keycaps"
     },
     {
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "score": 151,
-      "comments": 79,
-      "author": "zed_labs_dev",
-      "time": 1791309634,
-      "hn_url": "https://news.ycombinator.com/item?id=49981905",
-      "title_cn": "【Claude, 模型】Claude Code’s suggested message feature: I think the real customer is the model"
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "score": 324,
+      "comments": 309,
+      "author": "speckx",
+      "time": 1791398980,
+      "hn_url": "https://news.ycombinator.com/item?id=49997161",
+      "title_cn": "【AI, Claude】Meta and Microsoft take steps to reduce employee usage of Claude AI"
     },
     {
-      "title": "Benchmark in Milliseconds",
-      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+      "title": "Wood Tape (2004)",
+      "url": "http://gamesbyemail.com/WoodTape/Default.htm",
+      "score": 178,
+      "comments": 27,
+      "author": "NaOH",
+      "time": 1791260741,
+      "hn_url": "https://news.ycombinator.com/item?id=49974173",
+      "title_cn": "Wood Tape (2004)"
+    },
+    {
+      "title": "Google Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "score": 131,
-      "comments": 40,
-      "author": "surprisetalk",
-      "time": 1791219610,
-      "hn_url": "https://news.ycombinator.com/item?id=49967427",
-      "title_cn": "【基准测试】Benchmark in Milliseconds"
+      "comments": 211,
+      "author": "acossta",
+      "time": 1791376116,
+      "hn_url": "https://news.ycombinator.com/item?id=49991823",
+      "title_cn": "Google Playground: Create and play custom games"
     },
     {
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "score": 123,
-      "comments": 51,
-      "author": "kavourias",
-      "time": 1791323983,
-      "hn_url": "https://news.ycombinator.com/item?id=49984716",
-      "title_cn": "【AI】Penguin Mail – open-source Rust email client for Linux with AI"
+      "title": "AI-assisted proof of optimal packing for 11 squares",
+      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+      "score": 113,
+      "comments": 52,
+      "author": "bluepeter",
+      "time": 1791382255,
+      "hn_url": "https://news.ycombinator.com/item?id=49993121",
+      "title_cn": "【AI】AI-assisted proof of optimal packing for 11 squares"
     },
     {
-      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-      "score": 117,
-      "comments": 115,
-      "author": "healsdata",
-      "time": 1791306112,
-      "hn_url": "https://news.ycombinator.com/item?id=49981197",
-      "title_cn": "【AI】Utah to let AI examine patients and prescribe medication without human oversight"
+      "title": "Living off-grid: Hundred Rabbits",
+      "url": "https://100r.ca/site/home.html",
+      "score": 98,
+      "comments": 19,
+      "author": "Muhammad523",
+      "time": 1791234513,
+      "hn_url": "https://news.ycombinator.com/item?id=49970767",
+      "title_cn": "Living off-grid: Hundred Rabbits"
     },
     {
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "score": 85,
-      "comments": 12,
-      "author": "gmays",
-      "time": 1791338531,
-      "hn_url": "https://news.ycombinator.com/item?id=49987076",
-      "title_cn": "【模型】Strands Decider 2B: a small, open-source, decision model"
+      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "score": 88,
+      "comments": 56,
+      "author": "Theory42",
+      "time": 1791374676,
+      "hn_url": "https://news.ycombinator.com/item?id=49991580",
+      "title_cn": "【大语言模型】Write Like It's 1866: LLMs Relearn Telegraphese"
     },
     {
-      "title": "LLMs may have helped my RSI",
-      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
-      "score": 70,
-      "comments": 32,
-      "author": "vaughands",
-      "time": 1791255664,
-      "hn_url": "https://news.ycombinator.com/item?id=49973644",
-      "title_cn": "【大语言模型】LLMs may have helped my RSI"
+      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+      "score": 61,
+      "comments": 5,
+      "author": "gumby",
+      "time": 1791395974,
+      "hn_url": "https://news.ycombinator.com/item?id=49996406",
+      "title_cn": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick"
     },
     {
-      "title": "ESP32-C3 Adblock",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "score": 35,
-      "comments": 7,
-      "author": "jayhoon",
-      "time": 1791337161,
-      "hn_url": "https://news.ycombinator.com/item?id=49986862",
-      "title_cn": "ESP32-C3 Adblock"
+      "title": "A new write and space optimized storage engine for MySQL is here",
+      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+      "score": 51,
+      "comments": 20,
+      "author": "alexpadula",
+      "time": 1791200415,
+      "hn_url": "https://news.ycombinator.com/item?id=49963568",
+      "title_cn": "A new write and space optimized storage engine for MySQL is here"
     },
     {
-      "title": "Calling It Quits on ServerFault",
-      "url": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
-      "score": 22,
-      "comments": 6,
-      "author": "zdw",
-      "time": 1791346924,
-      "hn_url": "https://news.ycombinator.com/item?id=49988142",
-      "title_cn": "Calling It Quits on ServerFault"
+      "title": "ENIAC Programmers (2011)",
+      "url": "https://www.columbia.edu/cu/computinghistory/eniac.html",
+      "score": 4,
+      "comments": 0,
+      "author": "adunk",
+      "time": 1791237023,
+      "hn_url": "https://news.ycombinator.com/item?id=49971347",
+      "title_cn": "ENIAC Programmers (2011)"
     },
     {
-      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-      "url": "https://nanochess.org/la_cueva_bbs.html",
-      "score": 20,
-      "comments": 2,
-      "author": "nanochess",
-      "time": 1791343005,
-      "hn_url": "https://news.ycombinator.com/item?id=49987675",
-      "title_cn": "La Cueva BBS in Mexico in 1993 (session replay)"
-    },
-    {
-      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-      "score": 16,
-      "comments": 4,
-      "author": "matt_d",
-      "time": 1791336469,
-      "hn_url": "https://news.ycombinator.com/item?id=49986765",
-      "title_cn": "【AI】Jev-Driven SRE Diagnosis: What Worked and What Failed"
+      "title": "Terence Tao Responds to the OpenAI Math Drop",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "score": 4,
+      "comments": 0,
+      "author": "ent101",
+      "time": 1791436454,
+      "hn_url": "https://news.ycombinator.com/item?id=50002008",
+      "title_cn": "【AI, OpenAI】Terence Tao Responds to the OpenAI Math Drop"
     }
   ]
 }
