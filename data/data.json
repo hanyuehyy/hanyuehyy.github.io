@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-10T05:12:46.896232",
+  "updated_at": "2026-10-11T05:03:30.516676",
   "github_projects": [
     {
       "name": "photocraft",
       "full_name": "storytold/photocraft",
       "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
       "description_cn": "an 开源, Clean-room reimplementati开启 of adobe photoshop in 纯 Rust",
-      "stars": 36575,
-      "forks": 5246,
+      "stars": 42984,
+      "forks": 6498,
       "language": "Rust",
       "url": "https://github.com/storytold/photocraft",
       "topics": [
@@ -28,8 +28,8 @@
       "full_name": "openai/math",
       "description": "No description",
       "description_cn": "",
-      "stars": 13225,
-      "forks": 1441,
+      "stars": 13747,
+      "forks": 1518,
       "language": "Lean",
       "url": "https://github.com/openai/math",
       "topics": [],
@@ -44,8 +44,8 @@
       "full_name": "storytold/lightcraft",
       "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
       "description_cn": "an 开源, Clean-room reimplementati开启 of adobe lightroom in 纯 Rust.",
-      "stars": 7937,
-      "forks": 2364,
+      "stars": 9187,
+      "forks": 2937,
       "language": "Rust",
       "url": "https://github.com/storytold/lightcraft",
       "topics": [
@@ -66,8 +66,8 @@
       "full_name": "storytold/filmcraft",
       "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
       "description_cn": "an 开源, Clean-room reimplementati开启 of adobe premiere pro built in 纯 Rust.",
-      "stars": 7369,
-      "forks": 2575,
+      "stars": 8855,
+      "forks": 3253,
       "language": "Rust",
       "url": "https://github.com/storytold/filmcraft",
       "topics": [
@@ -84,34 +84,12 @@
       }
     },
     {
-      "name": "AIHOT",
-      "full_name": "KKKKhazix/AIHOT",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "description_cn": "",
-      "stars": 6961,
-      "forks": 1708,
-      "language": "TypeScript",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "topics": [
-        "ai",
-        "chinese",
-        "content-curation",
-        "daily-digest",
-        "docker-compose"
-      ],
-      "created_at": "2026-09-28T23:40:05Z",
-      "owner": {
-        "login": "KKKKhazix",
-        "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
-      }
-    },
-    {
       "name": "pdfcraft",
       "full_name": "storytold/pdfcraft",
       "description": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
       "description_cn": "an 开源, Clean-room reimplementati开启 of adobe aCrobat built in 纯 Rust",
-      "stars": 6662,
-      "forks": 2313,
+      "stars": 8184,
+      "forks": 2927,
       "language": "Rust",
       "url": "https://github.com/storytold/pdfcraft",
       "topics": [
@@ -128,12 +106,34 @@
       }
     },
     {
+      "name": "AIHOT",
+      "full_name": "KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "description_cn": "",
+      "stars": 7100,
+      "forks": 1732,
+      "language": "TypeScript",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "topics": [
+        "ai",
+        "chinese",
+        "content-curation",
+        "daily-digest",
+        "docker-compose"
+      ],
+      "created_at": "2026-09-28T23:40:05Z",
+      "owner": {
+        "login": "KKKKhazix",
+        "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
+      }
+    },
+    {
       "name": "universal-modder",
       "full_name": "rehan-remade/universal-modder",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "description_cn": "点 Claude at any game. skills, 工具s and the fal mCp that let Claude Code mod almost any pC game you own: reC开启, reverse 引擎ering, fal-generated art/3D/音频, in-game 测试, showCase 视频s.",
-      "stars": 6097,
-      "forks": 580,
+      "stars": 6428,
+      "forks": 633,
       "language": "Python",
       "url": "https://github.com/rehan-remade/universal-modder",
       "topics": [
@@ -154,8 +154,8 @@
       "full_name": "storytold/vectorcraft",
       "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
       "description_cn": "an 开源, Clean-room reimplementati开启 of adobe illustrator, built in 纯 Rust.",
-      "stars": 5355,
-      "forks": 2128,
+      "stars": 6312,
+      "forks": 2652,
       "language": "Rust",
       "url": "https://github.com/storytold/vectorcraft",
       "topics": [
@@ -176,8 +176,8 @@
       "full_name": "CopilotKit/OpenDots",
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "description_cn": "your always-开启 AI Co工作进程s that move between 文本, 调用s, and slaCk.",
-      "stars": 4710,
-      "forks": 666,
+      "stars": 4824,
+      "forks": 688,
       "language": "TypeScript",
       "url": "https://github.com/CopilotKit/OpenDots",
       "topics": [],
@@ -188,178 +188,172 @@
       }
     },
     {
-      "name": "coucou",
-      "full_name": "Louis-CFM/coucou",
-      "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
-      "description_cn": "a tiny friend in your maC's 否tCh and 开启 your IPh开启e that keeps an eye 开启 your AI Coding 智能体s: Claude Code, Codex, Cursor, Ge最小i 命令行工具, antigravity and more. approve from the 否tCh or your 锁 sCreen.",
-      "stars": 4555,
-      "forks": 761,
-      "language": "Swift",
-      "url": "https://github.com/Louis-CFM/coucou",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "antigravity",
-        "claude",
-        "claude-code"
-      ],
-      "created_at": "2026-09-27T21:54:12Z",
+      "name": "effectcraft",
+      "full_name": "storytold/effectcraft",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 4669,
+      "forks": 2138,
+      "language": "Rust",
+      "url": "https://github.com/storytold/effectcraft",
+      "topics": [],
+      "created_at": "2026-10-01T14:24:46Z",
       "owner": {
-        "login": "Louis-CFM",
-        "avatar_url": "https://avatars.githubusercontent.com/u/72659375?v=4"
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "score": 497,
-      "comments": 278,
-      "author": "gumby",
-      "time": 1791580019,
-      "hn_url": "https://news.ycombinator.com/item?id=50026555",
-      "title_cn": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops"
+      "title": "Grieving the loss of details",
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "score": 385,
+      "comments": 302,
+      "author": "signa11",
+      "time": 1791304641,
+      "hn_url": "https://news.ycombinator.com/item?id=49980880",
+      "title_cn": "【AI】Grieving the loss of details"
     },
     {
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "score": 390,
-      "comments": 171,
-      "author": "franze",
-      "time": 1791543828,
-      "hn_url": "https://news.ycombinator.com/item?id=50018817",
-      "title_cn": "【AI】Show HN: Let your AI agents paint big arrows, boxes and text on your screen"
+      "title": "Bitwarden Dual License Model",
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "score": 364,
+      "comments": 262,
+      "author": "Cider9986",
+      "time": 1791642770,
+      "hn_url": "https://news.ycombinator.com/item?id=50033407",
+      "title_cn": "【模型】Bitwarden Dual License Model"
     },
     {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "score": 321,
-      "comments": 235,
-      "author": "tosh",
-      "time": 1791565351,
-      "hn_url": "https://news.ycombinator.com/item?id=50023450",
-      "title_cn": "【AI】Typesafe AI raises $870M at $7.5B"
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "score": 270,
+      "comments": 124,
+      "author": "rociiu",
+      "time": 1791629529,
+      "hn_url": "https://news.ycombinator.com/item?id=50031614",
+      "title_cn": "【AI】Talorys – A self-hosted personal AI agent on Cloudflare's free tier"
     },
     {
-      "title": "Programming Isn't Special",
-      "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-      "score": 193,
-      "comments": 215,
-      "author": "ingve",
-      "time": 1791531876,
-      "hn_url": "https://news.ycombinator.com/item?id=50017357",
-      "title_cn": "Programming Isn't Special"
-    },
-    {
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "score": 130,
-      "comments": 69,
-      "author": "piratebroadcast",
-      "time": 1791545780,
-      "hn_url": "https://news.ycombinator.com/item?id=50019056",
-      "title_cn": "【AI】Pointing AI at archives found a forgotten meteorite, lost rhinos, and more"
-    },
-    {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "score": 119,
-      "comments": 95,
-      "author": "Zambyte",
-      "time": 1791583235,
-      "hn_url": "https://news.ycombinator.com/item?id=50027118",
-      "title_cn": "【AI, Anthropic, 模型】Anthropic AI model submits false tip on unsolved Philly murder"
-    },
-    {
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "score": 69,
-      "comments": 11,
-      "author": "matt_d",
-      "time": 1791567732,
-      "hn_url": "https://news.ycombinator.com/item?id=50024090",
-      "title_cn": "【AI】What mathematicians should know about the Lean Theorem Prover: reliability & AI"
-    },
-    {
-      "title": "Lobbying",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
-      "score": 67,
-      "comments": 6,
-      "author": "smilelamp",
-      "time": 1791607236,
-      "hn_url": "https://news.ycombinator.com/item?id=50029630",
-      "title_cn": "Lobbying"
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "score": 180,
+      "comments": 36,
+      "author": "softwaredoug",
+      "time": 1791672610,
+      "hn_url": "https://news.ycombinator.com/item?id=50037949",
+      "title_cn": "【模型】Build your own decision model"
     },
     {
       "title": "Can you use autoregressive diffusion to generate market data?",
       "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "score": 44,
-      "comments": 20,
+      "score": 178,
+      "comments": 56,
       "author": "jsomers",
       "time": 1791557773,
       "hn_url": "https://news.ycombinator.com/item?id=50021410",
       "title_cn": "【扩散模型】Can you use autoregressive diffusion to generate market data?"
     },
     {
-      "title": "Rewriting Prime Agent in Rust",
-      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
-      "score": 39,
-      "comments": 13,
-      "author": "piotrgrabowski",
-      "time": 1791587185,
-      "hn_url": "https://news.ycombinator.com/item?id=50027694",
-      "title_cn": "Rewriting Prime Agent in Rust"
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "score": 174,
+      "comments": 40,
+      "author": "smokel",
+      "time": 1791528769,
+      "hn_url": "https://news.ycombinator.com/item?id=50016956",
+      "title_cn": "【AI】Mxc: Microsoft Execution Containers version 1.0.0"
     },
     {
-      "title": "Has the Autonomous Trucking Revolution Arrived?",
-      "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
-      "score": 20,
-      "comments": 34,
-      "author": "demonsthenes",
-      "time": 1791590232,
-      "hn_url": "https://news.ycombinator.com/item?id=50028062",
-      "title_cn": "【自动驾驶】Has the Autonomous Trucking Revolution Arrived?"
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+      "score": 145,
+      "comments": 60,
+      "author": "geox",
+      "time": 1791337499,
+      "hn_url": "https://news.ycombinator.com/item?id=49986919",
+      "title_cn": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years"
     },
     {
-      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-      "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-      "score": 16,
-      "comments": 5,
-      "author": "reaperducer",
-      "time": 1791603731,
-      "hn_url": "https://news.ycombinator.com/item?id=50029330",
-      "title_cn": "【Anthropic】Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website"
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "score": 142,
+      "comments": 95,
+      "author": "arkj",
+      "time": 1791658115,
+      "hn_url": "https://news.ycombinator.com/item?id=50035886",
+      "title_cn": "【AI, 模型, 创业公司】Nvidia in talks to acquire US 'open' model startup Reflection AI"
     },
     {
-      "title": "Put a price on breakthroughs",
-      "url": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
-      "score": 8,
-      "comments": 1,
-      "author": "ketothekingdom",
-      "time": 1791599867,
-      "hn_url": "https://news.ycombinator.com/item?id=50028982",
-      "title_cn": "Put a price on breakthroughs"
+      "title": "Food processing influences metabolism and brain activity",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "score": 125,
+      "comments": 95,
+      "author": "gmays",
+      "time": 1791609750,
+      "hn_url": "https://news.ycombinator.com/item?id=50029830",
+      "title_cn": "【AI】Food processing influences metabolism and brain activity"
     },
     {
-      "title": "The Alchemical Transformations of the Mutus Liber (1677)",
-      "url": "https://publicdomainreview.org/collection/mutus-liber/",
-      "score": 6,
-      "comments": 0,
-      "author": "benbreen",
-      "time": 1791351020,
-      "hn_url": "https://news.ycombinator.com/item?id=49988640",
-      "title_cn": "The Alchemical Transformations of the Mutus Liber (1677)"
+      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+      "url": "https://openscad.org/",
+      "score": 122,
+      "comments": 101,
+      "author": "b-man",
+      "time": 1791321764,
+      "hn_url": "https://news.ycombinator.com/item?id=49984349",
+      "title_cn": "【模型】OpenSCAD the Programmers Solid 3D CAD Modeller"
     },
     {
-      "title": "Communication Between the Compiler, the Build System, and Beyond",
-      "url": "https://shrub.industries/words/problem.html",
-      "score": 3,
-      "comments": 0,
-      "author": "shrub900",
-      "time": 1791301482,
-      "hn_url": "https://news.ycombinator.com/item?id=49980208",
-      "title_cn": "Communication Between the Compiler, the Build System, and Beyond"
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "url": "https://epoch.ai/publications/innovationeval",
+      "score": 85,
+      "comments": 70,
+      "author": "merksittich",
+      "time": 1791584080,
+      "hn_url": "https://news.ycombinator.com/item?id=50027257",
+      "title_cn": "【AI, 模型】Recent AI models struggled to match a human algorithmic innovation"
+    },
+    {
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "score": 65,
+      "comments": 50,
+      "author": "davikr",
+      "time": 1791684158,
+      "hn_url": "https://news.ycombinator.com/item?id=50039092",
+      "title_cn": "【AI】500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter"
+    },
+    {
+      "title": "Retrofitting language models to operate over bytes",
+      "url": "https://www.nature.com/articles/s41586-026-11111-4",
+      "score": 33,
+      "comments": 2,
+      "author": "theanonymousone",
+      "time": 1791425716,
+      "hn_url": "https://news.ycombinator.com/item?id=50001234",
+      "title_cn": "【模型】Retrofitting language models to operate over bytes"
+    },
+    {
+      "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "score": 30,
+      "comments": 32,
+      "author": "jonbaer",
+      "time": 1791690113,
+      "hn_url": "https://news.ycombinator.com/item?id=50039627",
+      "title_cn": "【AI, 模型】Satya Nadella says we should assume all AI models are 'compromised'"
+    },
+    {
+      "title": "A plastic once thought harmless may be fueling fatty liver disease",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
+      "score": 26,
+      "comments": 3,
+      "author": "gradus_ad",
+      "time": 1791683764,
+      "hn_url": "https://news.ycombinator.com/item?id=50039062",
+      "title_cn": "A plastic once thought harmless may be fueling fatty liver disease"
     }
   ]
 }
