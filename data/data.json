@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-12T05:17:34.194205",
+  "updated_at": "2026-10-13T06:16:11.669743",
   "github_projects": [
     {
       "name": "photocraft",
       "full_name": "storytold/photocraft",
       "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
       "description_cn": "photoCraft: an 开源, photo 编辑者 written by sCratCh in 纯 Rust",
-      "stars": 48816,
-      "forks": 7866,
+      "stars": 54520,
+      "forks": 9135,
       "language": "Rust",
       "url": "https://github.com/storytold/photocraft",
       "topics": [
@@ -28,8 +28,8 @@
       "full_name": "openai/math",
       "description": "No description",
       "description_cn": "",
-      "stars": 14156,
-      "forks": 1595,
+      "stars": 14502,
+      "forks": 1641,
       "language": "Lean",
       "url": "https://github.com/openai/math",
       "topics": [],
@@ -44,8 +44,8 @@
       "full_name": "storytold/filmcraft",
       "description": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
       "description_cn": "filmCraft: an 开源, n在线ar 视频 编辑者 written by sCratCh in 纯 Rust",
-      "stars": 10373,
-      "forks": 4094,
+      "stars": 11751,
+      "forks": 4732,
       "language": "Rust",
       "url": "https://github.com/storytold/filmcraft",
       "topics": [
@@ -62,34 +62,12 @@
       }
     },
     {
-      "name": "lightcraft",
-      "full_name": "storytold/lightcraft",
-      "description": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
-      "description_cn": "lightCraft: an 开源 n开启-de结构体ive photo 编辑者 written by sCratCh in 纯 Rust",
-      "stars": 10368,
-      "forks": 3566,
-      "language": "Rust",
-      "url": "https://github.com/storytold/lightcraft",
-      "topics": [
-        "art",
-        "photography",
-        "raw",
-        "raw-editor",
-        "raw-processing"
-      ],
-      "created_at": "2026-09-30T14:09:27Z",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      }
-    },
-    {
       "name": "pdfcraft",
       "full_name": "storytold/pdfcraft",
       "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
       "description_cn": "pdfCraft: an 开源 pdf reader and 编辑者 written by sCratCh in 纯 Rust",
-      "stars": 9891,
-      "forks": 3744,
+      "stars": 11723,
+      "forks": 4470,
       "language": "Rust",
       "url": "https://github.com/storytold/pdfcraft",
       "topics": [
@@ -106,12 +84,50 @@
       }
     },
     {
+      "name": "lightcraft",
+      "full_name": "storytold/lightcraft",
+      "description": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
+      "description_cn": "lightCraft: an 开源 n开启-de结构体ive photo 编辑者 written by sCratCh in 纯 Rust",
+      "stars": 11411,
+      "forks": 4098,
+      "language": "Rust",
+      "url": "https://github.com/storytold/lightcraft",
+      "topics": [
+        "art",
+        "photography",
+        "raw",
+        "raw-editor",
+        "raw-processing"
+      ],
+      "created_at": "2026-09-30T14:09:27Z",
+      "owner": {
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      }
+    },
+    {
+      "name": "wordcraft",
+      "full_name": "storytold/wordcraft",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "description_cn": "an 开源, Clean-room reimplementati开启 of m内联缓存rosoft 字 in 纯 Rust",
+      "stars": 9607,
+      "forks": 2498,
+      "language": "Rust",
+      "url": "https://github.com/storytold/wordcraft",
+      "topics": [],
+      "created_at": "2026-10-07T08:34:24Z",
+      "owner": {
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      }
+    },
+    {
       "name": "vectorcraft",
       "full_name": "storytold/vectorcraft",
       "description": "VectorCraft: An open-source, vector art tool written by scratch in pure Rust",
       "description_cn": "矢量Craft: an 开源, 矢量 art 工具 written by sCratCh in 纯 Rust",
-      "stars": 7238,
-      "forks": 3248,
+      "stars": 8030,
+      "forks": 3747,
       "language": "Rust",
       "url": "https://github.com/storytold/vectorcraft",
       "topics": [
@@ -132,8 +148,8 @@
       "full_name": "rehan-remade/universal-modder",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "description_cn": "点 Claude at any game. skills, 工具s and the fal mCp that let Claude Code mod almost any pC game you own: reC开启, reverse 引擎ering, fal-generated art/3D/音频, in-game 测试, showCase 视频s.",
-      "stars": 6734,
-      "forks": 682,
+      "stars": 7153,
+      "forks": 749,
       "language": "Python",
       "url": "https://github.com/rehan-remade/universal-modder",
       "topics": [
@@ -150,19 +166,24 @@
       }
     },
     {
-      "name": "wordcraft",
-      "full_name": "storytold/wordcraft",
-      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "description_cn": "an 开源, Clean-room reimplementati开启 of m内联缓存rosoft 字 in 纯 Rust",
-      "stars": 6564,
-      "forks": 1858,
-      "language": "Rust",
-      "url": "https://github.com/storytold/wordcraft",
-      "topics": [],
-      "created_at": "2026-10-07T08:34:24Z",
+      "name": "anatomy",
+      "full_name": "wheresryan22/anatomy",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "description_cn": "an 智能体 skill for Creating detAIled, inter活跃 isometr内联缓存 illustrati开启s of real-world maChines and 复杂 系统s. generates polished SVGs with opti开启al WebGL shaders and 3D effeCts.",
+      "stars": 6749,
+      "forks": 489,
+      "language": "JavaScript",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "created_at": "2026-10-08T10:12:49Z",
       "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+        "login": "wheresryan22",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96392276?v=4"
       }
     },
     {
@@ -170,8 +191,8 @@
       "full_name": "storytold/effectcraft",
       "description": "EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust",
       "description_cn": "effeCtCraft: an 开源 moti开启 图内联缓存s and Compositing 工具 written by sCratCh in 纯 Rust",
-      "stars": 5269,
-      "forks": 2579,
+      "stars": 5896,
+      "forks": 3010,
       "language": "Rust",
       "url": "https://github.com/storytold/effectcraft",
       "topics": [
@@ -186,174 +207,158 @@
         "login": "storytold",
         "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
       }
-    },
-    {
-      "name": "OpenDots",
-      "full_name": "CopilotKit/OpenDots",
-      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "description_cn": "your always-开启 AI Co工作进程s that move between 文本, 调用s, and slaCk.",
-      "stars": 4937,
-      "forks": 700,
-      "language": "TypeScript",
-      "url": "https://github.com/CopilotKit/OpenDots",
-      "topics": [],
-      "created_at": "2026-09-29T17:13:58Z",
-      "owner": {
-        "login": "CopilotKit",
-        "avatar_url": "https://avatars.githubusercontent.com/u/131273140?v=4"
-      }
     }
   ],
   "ai_news": [
     {
-      "title": "NYC's \"Click to Cancel\" rule is now in effect",
-      "url": "https://www.nyc.gov/main/click-to-cancel",
-      "score": 415,
-      "comments": 197,
-      "author": "gregsadetsky",
-      "time": 1791741676,
-      "hn_url": "https://news.ycombinator.com/item?id=50045946",
-      "title_cn": "NYC's \"Click to Cancel\" rule is now in effect"
+      "title": "Muse Wonder",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "score": 595,
+      "comments": 324,
+      "author": "meetpateltech",
+      "time": 1791823681,
+      "hn_url": "https://news.ycombinator.com/item?id=50059115",
+      "title_cn": "Muse Wonder"
     },
     {
-      "title": "I paid people to try and follow my README",
-      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-      "score": 381,
-      "comments": 190,
-      "author": "edent",
-      "time": 1791719249,
-      "hn_url": "https://news.ycombinator.com/item?id=50042219",
-      "title_cn": "【AI】I paid people to try and follow my README"
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "score": 525,
+      "comments": 268,
+      "author": "whimblepop",
+      "time": 1791829744,
+      "hn_url": "https://news.ycombinator.com/item?id=50060694",
+      "title_cn": "Codex CLI installs a persistent, self-updating background daemon by default"
     },
     {
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "score": 353,
-      "comments": 519,
-      "author": "albertzeyer",
-      "time": 1791750052,
-      "hn_url": "https://news.ycombinator.com/item?id=50047422",
-      "title_cn": "【大语言模型】The gap in shared understanding of LLM capability is widening"
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "score": 509,
+      "comments": 297,
+      "author": "ilreb",
+      "time": 1791821505,
+      "hn_url": "https://news.ycombinator.com/item?id=50058507",
+      "title_cn": "GLM-Legal"
     },
     {
-      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "score": 187,
-      "comments": 137,
-      "author": "davikr",
-      "time": 1791684158,
-      "hn_url": "https://news.ycombinator.com/item?id=50039092",
-      "title_cn": "【AI】500B tokens later: Letting AI agents decompile a first-person shooter"
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "score": 327,
+      "comments": 273,
+      "author": "layer8",
+      "time": 1791841218,
+      "hn_url": "https://news.ycombinator.com/item?id=50063427",
+      "title_cn": "【AI, 工具】AI is a tool and using it well takes skill"
     },
     {
-      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-      "score": 91,
-      "comments": 93,
-      "author": "giuliomagnifico",
-      "time": 1791715641,
-      "hn_url": "https://news.ycombinator.com/item?id=50041765",
-      "title_cn": "【AI】Using AI for just 10 minutes erodes your ability to persist at hard things"
+      "title": "'AI' Is Not a Tool by Rich Hickey",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "score": 254,
+      "comments": 125,
+      "author": "svieira",
+      "time": 1791828025,
+      "hn_url": "https://news.ycombinator.com/item?id=50060269",
+      "title_cn": "【AI, 工具】'AI' Is Not a Tool by Rich Hickey"
     },
     {
-      "title": "Recursive self-improvement through collective intelligence",
-      "url": "https://pub.sakana.ai/mass/",
-      "score": 88,
-      "comments": 47,
-      "author": "hardmaru",
-      "time": 1791757330,
-      "hn_url": "https://news.ycombinator.com/item?id=50048522",
-      "title_cn": "Recursive self-improvement through collective intelligence"
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "score": 242,
+      "comments": 87,
+      "author": "lukaslalinsky",
+      "time": 1791781354,
+      "hn_url": "https://news.ycombinator.com/item?id=50051573",
+      "title_cn": "Type-safe HTML templating in Zig"
     },
     {
-      "title": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
-      "url": "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html",
-      "score": 69,
-      "comments": 92,
-      "author": "optimalsolver",
-      "time": 1791720442,
-      "hn_url": "https://news.ycombinator.com/item?id=50042370",
-      "title_cn": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests"
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "score": 171,
+      "comments": 63,
+      "author": "surprisetalk",
+      "time": 1791818205,
+      "hn_url": "https://news.ycombinator.com/item?id=50057668",
+      "title_cn": "【AI】Kevin Kelly's 2016 AI Predictions, 10 Years Later"
     },
     {
-      "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
-      "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
-      "score": 55,
-      "comments": 3,
-      "author": "sinnsro",
-      "time": 1791544849,
-      "hn_url": "https://news.ycombinator.com/item?id=50018929",
-      "title_cn": "【AI】Plumbers, chains, and famous painters: The history of the pipe operator in R"
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "score": 153,
+      "comments": 68,
+      "author": "hurricanepootis",
+      "time": 1791840935,
+      "hn_url": "https://news.ycombinator.com/item?id=50063365",
+      "title_cn": "【AI】Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X"
     },
     {
-      "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
-      "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
-      "score": 49,
-      "comments": 60,
-      "author": "birdculture",
-      "time": 1791714883,
-      "hn_url": "https://news.ycombinator.com/item?id=50041667",
-      "title_cn": "【机器人】\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot"
+      "title": "Making big downloads resumable in Firefox",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "score": 152,
+      "comments": 54,
+      "author": "speckx",
+      "time": 1791833762,
+      "hn_url": "https://news.ycombinator.com/item?id=50061791",
+      "title_cn": "Making big downloads resumable in Firefox"
     },
     {
-      "title": "Cbirds: A flock of birds in your terminal",
-      "url": "https://github.com/clainstone/cbirds",
-      "score": 24,
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "score": 111,
+      "comments": 53,
+      "author": "sbulaev",
+      "time": 1791857228,
+      "hn_url": "https://news.ycombinator.com/item?id=50065692",
+      "title_cn": "【AI, 模型】AI Models Can Provably Hide Arbitrary Capabilities"
+    },
+    {
+      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "score": 93,
       "comments": 17,
-      "author": "epestr",
-      "time": 1791658955,
-      "hn_url": "https://news.ycombinator.com/item?id=50036023",
-      "title_cn": "Cbirds: A flock of birds in your terminal"
+      "author": "SaarthRanka",
+      "time": 1791764112,
+      "hn_url": "https://news.ycombinator.com/item?id=50049588",
+      "title_cn": "【Claude】Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p"
     },
     {
-      "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
-      "url": "https://github.com/swimmingbrain/brainotes",
-      "score": 22,
-      "comments": 1,
-      "author": "swimmingbrain",
-      "time": 1791760949,
-      "hn_url": "https://news.ycombinator.com/item?id=50049132",
-      "title_cn": "【AI】Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab"
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "score": 92,
+      "comments": 31,
+      "author": "khalidkhair",
+      "time": 1791842743,
+      "hn_url": "https://news.ycombinator.com/item?id=50063717",
+      "title_cn": "【大语言模型】Janas: Run LLMs larger than RAM by streaming experts from SSD"
+    },
+    {
+      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "score": 85,
+      "comments": 58,
+      "author": "mochomocha",
+      "time": 1791859603,
+      "hn_url": "https://news.ycombinator.com/item?id=50065932",
+      "title_cn": "【AI, OpenAI】A look at OpenAI’s math that’s claimed computes faster Fourier transforms"
     },
     {
       "title": "No portable way to detect string-to-float conversion errors in standard C",
       "url": "https://sebsite.pw/w/20261009-strtod.html",
-      "score": 15,
-      "comments": 6,
+      "score": 69,
+      "comments": 88,
       "author": "signa11",
       "time": 1791646770,
       "hn_url": "https://news.ycombinator.com/item?id=50034001",
       "title_cn": "No portable way to detect string-to-float conversion errors in standard C"
     },
     {
-      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-      "url": "https://github.com/plimsollmark/plimsoll",
-      "score": 13,
-      "comments": 2,
-      "author": "cagster",
-      "time": 1791762479,
-      "hn_url": "https://news.ycombinator.com/item?id=50049388",
-      "title_cn": "【AI】Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes"
-    },
-    {
-      "title": "Xerox PARC chip shatters on command (2015)",
-      "url": "https://techxplore.com/news/2015-09-xerox-parc-chip-shatters-shards.html",
-      "score": 8,
-      "comments": 1,
-      "author": "gurjeet",
-      "time": 1791775029,
-      "hn_url": "https://news.ycombinator.com/item?id=50050971",
-      "title_cn": "Xerox PARC chip shatters on command (2015)"
-    },
-    {
-      "title": "Type-safe HTML templating in Zig",
-      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-      "score": 7,
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "score": 5,
       "comments": 0,
-      "author": "lukaslalinsky",
-      "time": 1791781354,
-      "hn_url": "https://news.ycombinator.com/item?id=50051573",
-      "title_cn": "Type-safe HTML templating in Zig"
+      "author": "novaRom",
+      "time": 1791871052,
+      "hn_url": "https://news.ycombinator.com/item?id=50067356",
+      "title_cn": "【AI】Threat of AI share crash puts world financial stability at risk, says IMF"
     }
   ]
 }
