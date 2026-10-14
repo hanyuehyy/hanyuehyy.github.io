@@ -1,35 +1,13 @@
 {
-  "updated_at": "2026-10-13T06:16:11.669743",
+  "updated_at": "2026-10-14T04:17:51.661812",
   "github_projects": [
-    {
-      "name": "photocraft",
-      "full_name": "storytold/photocraft",
-      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-      "description_cn": "photoCraft: an 开源, photo 编辑者 written by sCratCh in 纯 Rust",
-      "stars": 54520,
-      "forks": 9135,
-      "language": "Rust",
-      "url": "https://github.com/storytold/photocraft",
-      "topics": [
-        "art",
-        "image-editing",
-        "image-editing-software",
-        "image-editor",
-        "images"
-      ],
-      "created_at": "2026-09-30T13:37:48Z",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      }
-    },
     {
       "name": "math",
       "full_name": "openai/math",
       "description": "No description",
       "description_cn": "",
-      "stars": 14502,
-      "forks": 1641,
+      "stars": 14702,
+      "forks": 1672,
       "language": "Lean",
       "url": "https://github.com/openai/math",
       "topics": [],
@@ -40,78 +18,12 @@
       }
     },
     {
-      "name": "filmcraft",
-      "full_name": "storytold/filmcraft",
-      "description": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
-      "description_cn": "filmCraft: an 开源, n在线ar 视频 编辑者 written by sCratCh in 纯 Rust",
-      "stars": 11751,
-      "forks": 4732,
-      "language": "Rust",
-      "url": "https://github.com/storytold/filmcraft",
-      "topics": [
-        "art",
-        "rust",
-        "video",
-        "video-editing",
-        "video-editor"
-      ],
-      "created_at": "2026-09-30T13:41:20Z",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      }
-    },
-    {
-      "name": "pdfcraft",
-      "full_name": "storytold/pdfcraft",
-      "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
-      "description_cn": "pdfCraft: an 开源 pdf reader and 编辑者 written by sCratCh in 纯 Rust",
-      "stars": 11723,
-      "forks": 4470,
-      "language": "Rust",
-      "url": "https://github.com/storytold/pdfcraft",
-      "topics": [
-        "document-processing",
-        "documents",
-        "pdf",
-        "pdf-generation",
-        "pdf-processing"
-      ],
-      "created_at": "2026-09-30T13:39:37Z",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      }
-    },
-    {
-      "name": "lightcraft",
-      "full_name": "storytold/lightcraft",
-      "description": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
-      "description_cn": "lightCraft: an 开源 n开启-de结构体ive photo 编辑者 written by sCratCh in 纯 Rust",
-      "stars": 11411,
-      "forks": 4098,
-      "language": "Rust",
-      "url": "https://github.com/storytold/lightcraft",
-      "topics": [
-        "art",
-        "photography",
-        "raw",
-        "raw-editor",
-        "raw-processing"
-      ],
-      "created_at": "2026-09-30T14:09:27Z",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      }
-    },
-    {
       "name": "wordcraft",
       "full_name": "storytold/wordcraft",
       "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
       "description_cn": "an 开源, Clean-room reimplementati开启 of m内联缓存rosoft 字 in 纯 Rust",
-      "stars": 9607,
-      "forks": 2498,
+      "stars": 11326,
+      "forks": 2820,
       "language": "Rust",
       "url": "https://github.com/storytold/wordcraft",
       "topics": [],
@@ -122,56 +34,12 @@
       }
     },
     {
-      "name": "vectorcraft",
-      "full_name": "storytold/vectorcraft",
-      "description": "VectorCraft: An open-source, vector art tool written by scratch in pure Rust",
-      "description_cn": "矢量Craft: an 开源, 矢量 art 工具 written by sCratCh in 纯 Rust",
-      "stars": 8030,
-      "forks": 3747,
-      "language": "Rust",
-      "url": "https://github.com/storytold/vectorcraft",
-      "topics": [
-        "art",
-        "rust",
-        "rust-lang",
-        "svg",
-        "svg-editor"
-      ],
-      "created_at": "2026-09-30T13:43:03Z",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      }
-    },
-    {
-      "name": "universal-modder",
-      "full_name": "rehan-remade/universal-modder",
-      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "description_cn": "点 Claude at any game. skills, 工具s and the fal mCp that let Claude Code mod almost any pC game you own: reC开启, reverse 引擎ering, fal-generated art/3D/音频, in-game 测试, showCase 视频s.",
-      "stars": 7153,
-      "forks": 749,
-      "language": "Python",
-      "url": "https://github.com/rehan-remade/universal-modder",
-      "topics": [
-        "age-of-empires",
-        "claude-code",
-        "claude-code-plugin",
-        "fal",
-        "game-assets"
-      ],
-      "created_at": "2026-09-30T05:00:35Z",
-      "owner": {
-        "login": "rehan-remade",
-        "avatar_url": "https://avatars.githubusercontent.com/u/173837546?v=4"
-      }
-    },
-    {
       "name": "anatomy",
       "full_name": "wheresryan22/anatomy",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "description_cn": "an 智能体 skill for Creating detAIled, inter活跃 isometr内联缓存 illustrati开启s of real-world maChines and 复杂 系统s. generates polished SVGs with opti开启al WebGL shaders and 3D effeCts.",
-      "stars": 6749,
-      "forks": 489,
+      "stars": 8485,
+      "forks": 614,
       "language": "JavaScript",
       "url": "https://github.com/wheresryan22/anatomy",
       "topics": [
@@ -191,8 +59,8 @@
       "full_name": "storytold/effectcraft",
       "description": "EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust",
       "description_cn": "effeCtCraft: an 开源 moti开启 图内联缓存s and Compositing 工具 written by sCratCh in 纯 Rust",
-      "stars": 5896,
-      "forks": 3010,
+      "stars": 6301,
+      "forks": 3239,
       "language": "Rust",
       "url": "https://github.com/storytold/effectcraft",
       "topics": [
@@ -207,158 +75,259 @@
         "login": "storytold",
         "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
       }
+    },
+    {
+      "name": "gridcraft",
+      "full_name": "storytold/gridcraft",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "description_cn": "网格Craft: an 开源, Clean-room spreadsheet (m内联缓存rosoft exCel-style) in 纯 Rust. by artCraft.",
+      "stars": 4512,
+      "forks": 1974,
+      "language": "Rust",
+      "url": "https://github.com/storytold/gridcraft",
+      "topics": [],
+      "created_at": "2026-10-07T05:18:16Z",
+      "owner": {
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      }
+    },
+    {
+      "name": "cadcraft",
+      "full_name": "storytold/cadcraft",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "description_cn": "CadCraft: Computer-AIded design and drafting — an 开源, Clean-room autoCad-style app in 纯 Rust",
+      "stars": 4302,
+      "forks": 1957,
+      "language": "Rust",
+      "url": "https://github.com/storytold/cadcraft",
+      "topics": [],
+      "created_at": "2026-10-07T05:22:31Z",
+      "owner": {
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      }
+    },
+    {
+      "name": "ARTEX",
+      "full_name": "mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "description_cn": "",
+      "stars": 3924,
+      "forks": 6253,
+      "language": "Go",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "topics": [],
+      "created_at": "2026-10-08T05:33:06Z",
+      "owner": {
+        "login": "mhtsec",
+        "avatar_url": "https://avatars.githubusercontent.com/u/83952182?v=4"
+      }
+    },
+    {
+      "name": "huashu-art-motion",
+      "full_name": "alchaincyf/huashu-art-motion",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "description_cn": "",
+      "stars": 3879,
+      "forks": 423,
+      "language": "JavaScript",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "topics": [],
+      "created_at": "2026-10-06T04:49:37Z",
+      "owner": {
+        "login": "alchaincyf",
+        "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+      }
+    },
+    {
+      "name": "designcraft",
+      "full_name": "storytold/designcraft",
+      "description": "DesignCraft: An open-source page and layout design editor written by scratch in pure Rust",
+      "description_cn": "designCraft: an 开源 页 and layout design 编辑者 written by sCratCh in 纯 Rust",
+      "stars": 3740,
+      "forks": 2512,
+      "language": "Rust",
+      "url": "https://github.com/storytold/designcraft",
+      "topics": [
+        "art",
+        "layout",
+        "print",
+        "rust"
+      ],
+      "created_at": "2026-10-01T13:13:14Z",
+      "owner": {
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      }
+    },
+    {
+      "name": "iPhone-use",
+      "full_name": "zhongerxin/iPhone-use",
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "description_cn": "",
+      "stars": 3620,
+      "forks": 360,
+      "language": "Python",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "topics": [],
+      "created_at": "2026-10-06T15:09:33Z",
+      "owner": {
+        "login": "zhongerxin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8215057?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Muse Wonder",
-      "url": "https://research.meta.ai/blog/muse-wonder",
-      "score": 595,
-      "comments": 324,
-      "author": "meetpateltech",
-      "time": 1791823681,
-      "hn_url": "https://news.ycombinator.com/item?id=50059115",
-      "title_cn": "Muse Wonder"
-    },
-    {
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "url": "https://github.com/openai/codex/issues/48195",
-      "score": 525,
-      "comments": 268,
-      "author": "whimblepop",
-      "time": 1791829744,
-      "hn_url": "https://news.ycombinator.com/item?id=50060694",
-      "title_cn": "Codex CLI installs a persistent, self-updating background daemon by default"
-    },
-    {
-      "title": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
-      "score": 509,
-      "comments": 297,
-      "author": "ilreb",
-      "time": 1791821505,
-      "hn_url": "https://news.ycombinator.com/item?id=50058507",
-      "title_cn": "GLM-Legal"
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 1118,
+      "comments": 808,
+      "author": "737max",
+      "time": 1791907396,
+      "hn_url": "https://news.ycombinator.com/item?id=50073879",
+      "title_cn": "Gemini 4 Argon"
     },
     {
       "title": "AI is a tool and using it well takes skill",
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "score": 327,
-      "comments": 273,
+      "score": 656,
+      "comments": 526,
       "author": "layer8",
       "time": 1791841218,
       "hn_url": "https://news.ycombinator.com/item?id=50063427",
       "title_cn": "【AI, 工具】AI is a tool and using it well takes skill"
     },
     {
-      "title": "'AI' Is Not a Tool by Rich Hickey",
-      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "score": 254,
-      "comments": 125,
-      "author": "svieira",
-      "time": 1791828025,
-      "hn_url": "https://news.ycombinator.com/item?id=50060269",
-      "title_cn": "【AI, 工具】'AI' Is Not a Tool by Rich Hickey"
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "score": 611,
+      "comments": 590,
+      "author": "Philpax",
+      "time": 1791906596,
+      "hn_url": "https://news.ycombinator.com/item?id=50073633",
+      "title_cn": "【Anthropic】Redesigning source control at Anthropic"
     },
     {
-      "title": "Type-safe HTML templating in Zig",
-      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-      "score": 242,
-      "comments": 87,
-      "author": "lukaslalinsky",
-      "time": 1791781354,
-      "hn_url": "https://news.ycombinator.com/item?id=50051573",
-      "title_cn": "Type-safe HTML templating in Zig"
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "score": 474,
+      "comments": 411,
+      "author": "forthwall",
+      "time": 1791923035,
+      "hn_url": "https://news.ycombinator.com/item?id=50078141",
+      "title_cn": "【AI, OpenAI】OpenAI engineer arrested in bugging of executive conference room"
     },
     {
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
-      "score": 171,
-      "comments": 63,
-      "author": "surprisetalk",
-      "time": 1791818205,
-      "hn_url": "https://news.ycombinator.com/item?id=50057668",
-      "title_cn": "【AI】Kevin Kelly's 2016 AI Predictions, 10 Years Later"
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "score": 375,
+      "comments": 164,
+      "author": "mjorgers",
+      "time": 1791904057,
+      "hn_url": "https://news.ycombinator.com/item?id=50072913",
+      "title_cn": "Thunderbird for iOS"
     },
     {
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "score": 153,
-      "comments": 68,
-      "author": "hurricanepootis",
-      "time": 1791840935,
-      "hn_url": "https://news.ycombinator.com/item?id=50063365",
-      "title_cn": "【AI】Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X"
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "score": 311,
+      "comments": 274,
+      "author": "nryoo",
+      "time": 1791876514,
+      "hn_url": "https://news.ycombinator.com/item?id=50068036",
+      "title_cn": "【AI】Character.ai has initiated voluntary Chapter 11 bankruptcy"
     },
     {
-      "title": "Making big downloads resumable in Firefox",
-      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-      "score": 152,
-      "comments": 54,
-      "author": "speckx",
-      "time": 1791833762,
-      "hn_url": "https://news.ycombinator.com/item?id=50061791",
-      "title_cn": "Making big downloads resumable in Firefox"
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "score": 286,
+      "comments": 159,
+      "author": "sammy0910",
+      "time": 1791905150,
+      "hn_url": "https://news.ycombinator.com/item?id=50073221",
+      "title_cn": "【AI】I posted to HN, and then my website was flooded with AI bot traffic"
     },
     {
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "score": 111,
-      "comments": 53,
-      "author": "sbulaev",
-      "time": 1791857228,
-      "hn_url": "https://news.ycombinator.com/item?id=50065692",
-      "title_cn": "【AI, 模型】AI Models Can Provably Hide Arbitrary Capabilities"
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "score": 222,
+      "comments": 368,
+      "author": "ivell",
+      "time": 1791901568,
+      "hn_url": "https://news.ycombinator.com/item?id=50072286",
+      "title_cn": "【AI】Apple's new 'Switch to Safari' campaign details why you should ditch Chrome"
     },
     {
-      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-      "url": "https://github.com/SaarthurR/atticus-mac",
-      "score": 93,
-      "comments": 17,
-      "author": "SaarthRanka",
-      "time": 1791764112,
-      "hn_url": "https://news.ycombinator.com/item?id=50049588",
-      "title_cn": "【Claude】Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p"
+      "title": "How to engineer an AI harness for game development",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "score": 139,
+      "comments": 64,
+      "author": "kkukshtel",
+      "time": 1791900863,
+      "hn_url": "https://news.ycombinator.com/item?id=50072120",
+      "title_cn": "【AI】How to engineer an AI harness for game development"
     },
     {
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "url": "https://github.com/prabanta-dev/janas",
-      "score": 92,
-      "comments": 31,
-      "author": "khalidkhair",
-      "time": 1791842743,
-      "hn_url": "https://news.ycombinator.com/item?id=50063717",
-      "title_cn": "【大语言模型】Janas: Run LLMs larger than RAM by streaming experts from SSD"
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "score": 81,
+      "comments": 8,
+      "author": "mdp2021",
+      "time": 1791795902,
+      "hn_url": "https://news.ycombinator.com/item?id=50053487",
+      "title_cn": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)"
     },
     {
-      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
-      "url": "https://www.argmin.net/p/faster-fourier-transforms",
-      "score": 85,
-      "comments": 58,
-      "author": "mochomocha",
-      "time": 1791859603,
-      "hn_url": "https://news.ycombinator.com/item?id=50065932",
-      "title_cn": "【AI, OpenAI】A look at OpenAI’s math that’s claimed computes faster Fourier transforms"
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "score": 80,
+      "comments": 47,
+      "author": "niztk",
+      "time": 1791933203,
+      "hn_url": "https://news.ycombinator.com/item?id=50080275",
+      "title_cn": "【AI, 模型】Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine"
     },
     {
-      "title": "No portable way to detect string-to-float conversion errors in standard C",
-      "url": "https://sebsite.pw/w/20261009-strtod.html",
-      "score": 69,
-      "comments": 88,
-      "author": "signa11",
-      "time": 1791646770,
-      "hn_url": "https://news.ycombinator.com/item?id=50034001",
-      "title_cn": "No portable way to detect string-to-float conversion errors in standard C"
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "score": 62,
+      "comments": 9,
+      "author": "lasu",
+      "time": 1791921031,
+      "hn_url": "https://news.ycombinator.com/item?id=50077619",
+      "title_cn": "【AI, 模型, 基准测试】Show HN: Parsimony – an open-source benchmark for how much code AI models add"
     },
     {
-      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-      "score": 5,
+      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+      "url": "https://www.pi.website/blog/api-beta",
+      "score": 47,
       "comments": 0,
-      "author": "novaRom",
-      "time": 1791871052,
-      "hn_url": "https://news.ycombinator.com/item?id=50067356",
-      "title_cn": "【AI】Threat of AI share crash puts world financial stability at risk, says IMF"
+      "author": "modeless",
+      "time": 1791928525,
+      "hn_url": "https://news.ycombinator.com/item?id=50079437",
+      "title_cn": "【机器人, 模型, API】Physical Intelligence API Beta: Frontier Models for Every Robot"
+    },
+    {
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
+      "score": 38,
+      "comments": 24,
+      "author": "gcsydney",
+      "time": 1791940153,
+      "hn_url": "https://news.ycombinator.com/item?id=50081151",
+      "title_cn": "【AI, 工具】I built a tool to track what AI leaders say and how their views change on video"
+    },
+    {
+      "title": "Maybe a better way to track the release history of a Git repo",
+      "url": "https://blog.plover.com/prog/git/history-proposal.html",
+      "score": 11,
+      "comments": 0,
+      "author": "evakhoury",
+      "time": 1791816087,
+      "hn_url": "https://news.ycombinator.com/item?id=50057119",
+      "title_cn": "【发布】Maybe a better way to track the release history of a Git repo"
     }
   ]
 }
