@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-15T04:00:16.775672",
+  "updated_at": "2026-10-16T03:57:12.813594",
   "github_projects": [
     {
       "name": "math",
       "full_name": "openai/math",
       "description": "No description",
       "description_cn": "",
-      "stars": 14833,
-      "forks": 1695,
+      "stars": 14961,
+      "forks": 1716,
       "language": "Lean",
       "url": "https://github.com/openai/math",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "storytold/wordcraft",
       "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
       "description_cn": "an 开源, Clean-room reimplementati开启 of m内联缓存rosoft 字 in 纯 Rust",
-      "stars": 12526,
-      "forks": 3162,
+      "stars": 13267,
+      "forks": 3409,
       "language": "Rust",
       "url": "https://github.com/storytold/wordcraft",
       "topics": [],
@@ -38,8 +38,8 @@
       "full_name": "wheresryan22/anatomy",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "description_cn": "an 智能体 skill for Creating detAIled, inter活跃 isometr内联缓存 illustrati开启s of real-world maChines and 复杂 系统s. generates polished SVGs with opti开启al WebGL shaders and 3D effeCts.",
-      "stars": 10797,
-      "forks": 773,
+      "stars": 13006,
+      "forks": 950,
       "language": "JavaScript",
       "url": "https://github.com/wheresryan22/anatomy",
       "topics": [
@@ -59,8 +59,8 @@
       "full_name": "storytold/gridcraft",
       "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
       "description_cn": "网格Craft: an 开源, Clean-room spreadsheet (m内联缓存rosoft exCel-style) in 纯 Rust. by artCraft.",
-      "stars": 4914,
-      "forks": 2194,
+      "stars": 5217,
+      "forks": 2367,
       "language": "Rust",
       "url": "https://github.com/storytold/gridcraft",
       "topics": [],
@@ -75,8 +75,8 @@
       "full_name": "storytold/cadcraft",
       "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
       "description_cn": "CadCraft: Computer-AIded design and drafting — an 开源, Clean-room autoCad-style app in 纯 Rust",
-      "stars": 4870,
-      "forks": 2172,
+      "stars": 5181,
+      "forks": 2296,
       "language": "Rust",
       "url": "https://github.com/storytold/cadcraft",
       "topics": [],
@@ -91,8 +91,8 @@
       "full_name": "mhtsec/ARTEX",
       "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "description_cn": "",
-      "stars": 4131,
-      "forks": 6397,
+      "stars": 4295,
+      "forks": 6528,
       "language": "Go",
       "url": "https://github.com/mhtsec/ARTEX",
       "topics": [],
@@ -103,44 +103,12 @@
       }
     },
     {
-      "name": "huashu-art-motion",
-      "full_name": "alchaincyf/huashu-art-motion",
-      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "description_cn": "",
-      "stars": 3994,
-      "forks": 433,
-      "language": "JavaScript",
-      "url": "https://github.com/alchaincyf/huashu-art-motion",
-      "topics": [],
-      "created_at": "2026-10-06T04:49:37Z",
-      "owner": {
-        "login": "alchaincyf",
-        "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
-      }
-    },
-    {
-      "name": "iPhone-use",
-      "full_name": "zhongerxin/iPhone-use",
-      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-      "description_cn": "",
-      "stars": 3760,
-      "forks": 381,
-      "language": "Python",
-      "url": "https://github.com/zhongerxin/iPhone-use",
-      "topics": [],
-      "created_at": "2026-10-06T15:09:33Z",
-      "owner": {
-        "login": "zhongerxin",
-        "avatar_url": "https://avatars.githubusercontent.com/u/8215057?v=4"
-      }
-    },
-    {
       "name": "DigUp",
       "full_name": "ARahim3/DigUp",
       "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
       "description_cn": "搜索 your Computer by what's in your files: photos, pdfs, doCuments, 记录ings, 视频s and Code. 开启-dev内联缓存e 开启 maC, windows and linux, built 开启 Google deep最小d's 嵌入gemma 2.",
-      "stars": 3727,
-      "forks": 254,
+      "stars": 4138,
+      "forks": 288,
       "language": "Swift",
       "url": "https://github.com/ARahim3/DigUp",
       "topics": [
@@ -157,178 +125,210 @@
       }
     },
     {
-      "name": "answer-me-with-html",
-      "full_name": "QingYunA/answer-me-with-html",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "description_cn": "answer me with HTML — an 智能体 skill that answers hard questi开启s with a 开启e-页 HTML you Can aCtually read. 让 AI 智能体 用一页 HTML 回答复杂问题。",
-      "stars": 3387,
-      "forks": 235,
+      "name": "huashu-art-motion",
+      "full_name": "alchaincyf/huashu-art-motion",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "description_cn": "",
+      "stars": 4089,
+      "forks": 445,
       "language": "JavaScript",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "topics": [
-        "agent-skill",
-        "ai-agent",
-        "claude-code",
-        "claude-code-skill",
-        "claude-skill"
-      ],
-      "created_at": "2026-10-02T09:57:40Z",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "topics": [],
+      "created_at": "2026-10-06T04:49:37Z",
       "owner": {
-        "login": "QingYunA",
-        "avatar_url": "https://avatars.githubusercontent.com/u/41177312?v=4"
+        "login": "alchaincyf",
+        "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+      }
+    },
+    {
+      "name": "iPhone-use",
+      "full_name": "zhongerxin/iPhone-use",
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "description_cn": "",
+      "stars": 3843,
+      "forks": 391,
+      "language": "Python",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "topics": [],
+      "created_at": "2026-10-06T15:09:33Z",
+      "owner": {
+        "login": "zhongerxin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8215057?v=4"
+      }
+    },
+    {
+      "name": "aurelio-finance",
+      "full_name": "LosaLosSantos/aurelio-finance",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "description_cn": "开源 pers开启al fi非数字Ce app with an AI fi非数字Cial advisor: traCk your net worth, investments, etfs, Cash and debts 开启 your own Computer.",
+      "stars": 3604,
+      "forks": 495,
+      "language": "Python",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "topics": [
+        "ai",
+        "dividends",
+        "etf",
+        "finance",
+        "financial-planning"
+      ],
+      "created_at": "2026-10-06T20:14:19Z",
+      "owner": {
+        "login": "LosaLosSantos",
+        "avatar_url": "https://avatars.githubusercontent.com/u/154470154?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "score": 1440,
-      "comments": 1027,
-      "author": "737max",
-      "time": 1791907396,
-      "hn_url": "https://news.ycombinator.com/item?id=50073879",
-      "title_cn": "Gemini 4 Argon"
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "score": 673,
+      "comments": 364,
+      "author": "bigwheels",
+      "time": 1792086459,
+      "hn_url": "https://news.ycombinator.com/item?id=50107379",
+      "title_cn": "Muse Spark Open"
     },
     {
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "score": 853,
-      "comments": 471,
-      "author": "latexr",
-      "time": 1791999923,
-      "hn_url": "https://news.ycombinator.com/item?id=50091788",
-      "title_cn": "【AI】Containment and monitoring failures are to blame for AI hacking reports: experts"
-    },
-    {
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "score": 328,
-      "comments": 234,
-      "author": "smartmic",
-      "time": 1792002772,
-      "hn_url": "https://news.ycombinator.com/item?id=50092664",
-      "title_cn": "【AI】Banks are now trying to offload the AI data center debt they just underwrote"
-    },
-    {
-      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-      "score": 314,
-      "comments": 207,
-      "author": "ilamont",
-      "time": 1792003041,
-      "hn_url": "https://news.ycombinator.com/item?id=50092730",
-      "title_cn": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland"
-    },
-    {
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-      "score": 294,
-      "comments": 118,
-      "author": "sunshowers",
-      "time": 1792009854,
-      "hn_url": "https://news.ycombinator.com/item?id=50094694",
-      "title_cn": "【Anthropic】Anthropic's Scion is heavily inspired by Mononoke"
-    },
-    {
-      "title": "Why is every rationalist blog post way too long?",
-      "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
-      "score": 240,
-      "comments": 166,
-      "author": "epestr",
-      "time": 1791957736,
-      "hn_url": "https://news.ycombinator.com/item?id=50083028",
-      "title_cn": "Why is every rationalist blog post way too long?"
-    },
-    {
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "url": "https://typesafe.ai/blog/jev-1-14",
-      "score": 223,
-      "comments": 76,
-      "author": "emschwartz",
-      "time": 1792012263,
-      "hn_url": "https://news.ycombinator.com/item?id=50095353",
-      "title_cn": "We’re releasing Jev 1.14.0 along with experimental features for dreamers"
-    },
-    {
-      "title": "TV4 postpones show after AI agent erases edited material",
-      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-      "score": 143,
-      "comments": 84,
-      "author": "tobr",
-      "time": 1791973706,
-      "hn_url": "https://news.ycombinator.com/item?id=50085323",
-      "title_cn": "【AI】TV4 postpones show after AI agent erases edited material"
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "score": 554,
+      "comments": 210,
+      "author": "themgt",
+      "time": 1792080241,
+      "hn_url": "https://news.ycombinator.com/item?id=50105647",
+      "title_cn": "【神经网络】Neural networks are clean"
     },
     {
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "score": 108,
-      "comments": 30,
+      "score": 284,
+      "comments": 78,
       "author": "gmays",
       "time": 1792022377,
       "hn_url": "https://news.ycombinator.com/item?id=50097369",
       "title_cn": "LFM2.5-24B-A2B: Built for fast on-device agents"
     },
     {
-      "title": "Fancy Curl Sites",
-      "url": "https://nytpu.com/gemlog/2026-03-18",
-      "score": 96,
-      "comments": 17,
-      "author": "adunk",
-      "time": 1792006152,
-      "hn_url": "https://news.ycombinator.com/item?id=50093612",
-      "title_cn": "Fancy Curl Sites"
+      "title": "Krea 3 – An image model built for editing at scale",
+      "url": "https://www.krea.ai/krea-3",
+      "score": 269,
+      "comments": 85,
+      "author": "dvrp",
+      "time": 1792080245,
+      "hn_url": "https://news.ycombinator.com/item?id=50105648",
+      "title_cn": "【模型】Krea 3 – An image model built for editing at scale"
     },
     {
-      "title": "Has AI tells",
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "score": 93,
-      "comments": 80,
-      "author": "7777777phil",
-      "time": 1791996762,
-      "hn_url": "https://news.ycombinator.com/item?id=50090799",
-      "title_cn": "【AI】Has AI tells"
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "url": "https://libreboot.org/news/libreboot2610.html",
+      "score": 260,
+      "comments": 162,
+      "author": "iamnothere",
+      "time": 1792068736,
+      "hn_url": "https://news.ycombinator.com/item?id=50102923",
+      "title_cn": "【发布】Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support"
     },
     {
-      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-      "url": "https://clova.email/",
-      "score": 93,
-      "comments": 70,
-      "author": "edpin2000",
-      "time": 1791997259,
-      "hn_url": "https://news.ycombinator.com/item?id=50090932",
-      "title_cn": "【AI】Show HN: I wrote an email app that accepts only one sender per inbox"
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "score": 233,
+      "comments": 191,
+      "author": "aaraujo002",
+      "time": 1792076328,
+      "hn_url": "https://news.ycombinator.com/item?id=50104654",
+      "title_cn": "【AI, 推出】Simons Foundation launches $15M effort to help mathematicians navigate AI era"
     },
     {
-      "title": "Your C is not standard C",
-      "url": "https://sebsite.pw/w/20261012-notstdc.html",
-      "score": 47,
+      "title": "E Ink Kaleido 4",
+      "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+      "score": 146,
+      "comments": 82,
+      "author": "Perroboc",
+      "time": 1792089496,
+      "hn_url": "https://news.ycombinator.com/item?id=50108229",
+      "title_cn": "E Ink Kaleido 4"
+    },
+    {
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "score": 137,
+      "comments": 120,
+      "author": "ErenayDev",
+      "time": 1792074915,
+      "hn_url": "https://news.ycombinator.com/item?id=50104299",
+      "title_cn": "【AI】Using AI to reverse engineer hardware"
+    },
+    {
+      "title": "Why I Wrote PGP (1991, revised 1999)",
+      "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+      "score": 123,
+      "comments": 49,
+      "author": "GaryBluto",
+      "time": 1791969426,
+      "hn_url": "https://news.ycombinator.com/item?id=50084674",
+      "title_cn": "Why I Wrote PGP (1991, revised 1999)"
+    },
+    {
+      "title": "The 8-mile hole in a Hawaii national park that no one can explain",
+      "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+      "score": 61,
+      "comments": 42,
+      "author": "elsewhen",
+      "time": 1791954489,
+      "hn_url": "https://news.ycombinator.com/item?id=50082637",
+      "title_cn": "【AI】The 8-mile hole in a Hawaii national park that no one can explain"
+    },
+    {
+      "title": "Major ICQ security hole (1998)",
+      "url": "https://opennet.ru/base/maillist/169.txt.html",
+      "score": 53,
+      "comments": 27,
+      "author": "sysoleg",
+      "time": 1791886877,
+      "hn_url": "https://news.ycombinator.com/item?id=50069439",
+      "title_cn": "Major ICQ security hole (1998)"
+    },
+    {
+      "title": "Frontier Pre-Training at Microsoft AI",
+      "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+      "score": 37,
+      "comments": 3,
+      "author": "psoulos",
+      "time": 1792080733,
+      "hn_url": "https://news.ycombinator.com/item?id=50105791",
+      "title_cn": "【AI, 训练】Frontier Pre-Training at Microsoft AI"
+    },
+    {
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "url": "https://github.com/johnrash/bebox",
+      "score": 34,
+      "comments": 9,
+      "author": "rguiscard",
+      "time": 1792106573,
+      "hn_url": "https://news.ycombinator.com/item?id=50111742",
+      "title_cn": "【AI】BeBox is a Haiku application that emulates Be Inc.'s BeBox"
+    },
+    {
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "score": 20,
       "comments": 16,
-      "author": "dverlaeckt80",
-      "time": 1791898581,
-      "hn_url": "https://news.ycombinator.com/item?id=50071546",
-      "title_cn": "Your C is not standard C"
+      "author": "pramodbiligiri",
+      "time": 1792048839,
+      "hn_url": "https://news.ycombinator.com/item?id=50100387",
+      "title_cn": "【AI】Aidlc: Adaptive workflow steering rules for AI coding agents"
     },
     {
-      "title": "How I manage persistent Claude Code loops: Spool",
-      "url": "https://github.com/enes-alatas/spool",
-      "score": 13,
-      "comments": 4,
-      "author": "enesalatas",
-      "time": 1791755414,
-      "hn_url": "https://news.ycombinator.com/item?id=50048193",
-      "title_cn": "【Claude】How I manage persistent Claude Code loops: Spool"
-    },
-    {
-      "title": "A new model for open source: closed to pull requests, open to remix",
-      "url": "https://ghuntley.com/remix/",
-      "score": 12,
-      "comments": 10,
-      "author": "ghuntley",
-      "time": 1792021228,
-      "hn_url": "https://news.ycombinator.com/item?id=50097182",
-      "title_cn": "【模型, 开源】A new model for open source: closed to pull requests, open to remix"
+      "title": "A model where companies lease critical minerals instead of selling them",
+      "url": "https://ccsi.columbia.edu/metals-service-maas/",
+      "score": 7,
+      "comments": 3,
+      "author": "crookedroad44",
+      "time": 1792111952,
+      "hn_url": "https://news.ycombinator.com/item?id=50112329",
+      "title_cn": "【模型】A model where companies lease critical minerals instead of selling them"
     }
   ]
 }
