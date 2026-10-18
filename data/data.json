@@ -1,29 +1,13 @@
 {
-  "updated_at": "2026-10-17T03:47:02.040468",
+  "updated_at": "2026-10-18T03:53:40.517970",
   "github_projects": [
-    {
-      "name": "math",
-      "full_name": "openai/math",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 15040,
-      "forks": 1731,
-      "language": "Lean",
-      "url": "https://github.com/openai/math",
-      "topics": [],
-      "created_at": "2026-10-06T21:47:02Z",
-      "owner": {
-        "login": "openai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
-      }
-    },
     {
       "name": "anatomy",
       "full_name": "wheresryan22/anatomy",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "description_cn": "an 智能体 skill for Creating detAIled, inter活跃 isometr内联缓存 illustrati开启s of real-world maChines and 复杂 系统s. generates polished SVGs with opti开启al WebGL shaders and 3D effeCts.",
-      "stars": 14077,
-      "forks": 1057,
+      "stars": 15242,
+      "forks": 1167,
       "language": "JavaScript",
       "url": "https://github.com/wheresryan22/anatomy",
       "topics": [
@@ -39,12 +23,28 @@
       }
     },
     {
+      "name": "math",
+      "full_name": "openai/math",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 15114,
+      "forks": 1749,
+      "language": "Lean",
+      "url": "https://github.com/openai/math",
+      "topics": [],
+      "created_at": "2026-10-06T21:47:02Z",
+      "owner": {
+        "login": "openai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+      }
+    },
+    {
       "name": "wordcraft",
       "full_name": "storytold/wordcraft",
       "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
       "description_cn": "an 开源, Clean-room reimplementati开启 of m内联缓存rosoft 字 in 纯 Rust",
-      "stars": 13704,
-      "forks": 3559,
+      "stars": 14087,
+      "forks": 3694,
       "language": "Rust",
       "url": "https://github.com/storytold/wordcraft",
       "topics": [],
@@ -59,8 +59,8 @@
       "full_name": "storytold/gridcraft",
       "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
       "description_cn": "网格Craft: an 开源, Clean-room spreadsheet (m内联缓存rosoft exCel-style) in 纯 Rust. by artCraft.",
-      "stars": 5424,
-      "forks": 2469,
+      "stars": 5620,
+      "forks": 2573,
       "language": "Rust",
       "url": "https://github.com/storytold/gridcraft",
       "topics": [],
@@ -75,8 +75,8 @@
       "full_name": "storytold/cadcraft",
       "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
       "description_cn": "CadCraft: Computer-AIded design and drafting — an 开源, Clean-room autoCad-style app in 纯 Rust",
-      "stars": 5423,
-      "forks": 2386,
+      "stars": 5614,
+      "forks": 2504,
       "language": "Rust",
       "url": "https://github.com/storytold/cadcraft",
       "topics": [],
@@ -91,8 +91,8 @@
       "full_name": "ARahim3/DigUp",
       "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
       "description_cn": "搜索 your Computer by what's in your files: photos, pdfs, doCuments, 记录ings, 视频s and Code. 开启-dev内联缓存e 开启 maC, windows and linux, built 开启 Google deep最小d's 嵌入gemma 2.",
-      "stars": 4350,
-      "forks": 304,
+      "stars": 4613,
+      "forks": 331,
       "language": "Swift",
       "url": "https://github.com/ARahim3/DigUp",
       "topics": [
@@ -109,12 +109,34 @@
       }
     },
     {
+      "name": "solidcraft",
+      "full_name": "tangency-labs/solidcraft",
+      "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+      "description_cn": "SOLID原则Craft: an 开源 parametr内联缓存 3D Cad appl内联缓存ati开启 built in 纯 Rust. desktop, 网页, and automati开启 through mCp.",
+      "stars": 4403,
+      "forks": 514,
+      "language": "Rust",
+      "url": "https://github.com/tangency-labs/solidcraft",
+      "topics": [
+        "3d-modeling",
+        "brep",
+        "cad",
+        "egui",
+        "mcp"
+      ],
+      "created_at": "2026-10-07T18:57:48Z",
+      "owner": {
+        "login": "tangency-labs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/343519248?v=4"
+      }
+    },
+    {
       "name": "huashu-art-motion",
       "full_name": "alchaincyf/huashu-art-motion",
       "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "description_cn": "",
-      "stars": 4165,
-      "forks": 450,
+      "stars": 4251,
+      "forks": 459,
       "language": "JavaScript",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
       "topics": [],
@@ -129,8 +151,8 @@
       "full_name": "zhongerxin/iPhone-use",
       "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
       "description_cn": "",
-      "stars": 4003,
-      "forks": 406,
+      "stars": 4088,
+      "forks": 408,
       "language": "Python",
       "url": "https://github.com/zhongerxin/iPhone-use",
       "topics": [],
@@ -145,7 +167,7 @@
       "full_name": "LosaLosSantos/aurelio-finance",
       "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "description_cn": "开源 pers开启al fi非数字Ce app with an AI fi非数字Cial advisor: traCk your net worth, investments, etfs, Cash and debts 开启 your own Computer.",
-      "stars": 3945,
+      "stars": 3951,
       "forks": 498,
       "language": "Python",
       "url": "https://github.com/LosaLosSantos/aurelio-finance",
@@ -161,110 +183,74 @@
         "login": "LosaLosSantos",
         "avatar_url": "https://avatars.githubusercontent.com/u/154470154?v=4"
       }
-    },
-    {
-      "name": "deckcraft",
-      "full_name": "storytold/deckcraft",
-      "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
-      "description_cn": "presentati开启s and slide shows: an 开源, Clean-room reimplementati开启 of m内联缓存rosoft power点 in 纯 Rust. part of the artCraft Crafting apps.",
-      "stars": 3591,
-      "forks": 2016,
-      "language": "Rust",
-      "url": "https://github.com/storytold/deckcraft",
-      "topics": [],
-      "created_at": "2026-10-07T05:27:21Z",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      }
     }
   ],
   "ai_news": [
     {
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 738,
-      "comments": 283,
+      "score": 1027,
+      "comments": 378,
       "author": "ahlCVA",
       "time": 1792176959,
       "hn_url": "https://news.ycombinator.com/item?id=50122800",
       "title_cn": "【Claude】Claude reveals ECDSA curve origins"
     },
     {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 746,
+      "comments": 607,
+      "author": "theykk",
+      "time": 1792225285,
+      "hn_url": "https://news.ycombinator.com/item?id=50129045",
+      "title_cn": "DeepSeek-v4.1-Flash-1017"
+    },
+    {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "score": 433,
-      "comments": 371,
+      "score": 599,
+      "comments": 548,
       "author": "speckx",
       "time": 1792170518,
       "hn_url": "https://news.ycombinator.com/item?id=50121179",
       "title_cn": "【AI, 基准测试】90% of US working hours are spent on tasks not covered well by AI benchmarks"
     },
     {
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "score": 281,
-      "comments": 128,
-      "author": "antipaul",
-      "time": 1792158228,
-      "hn_url": "https://news.ycombinator.com/item?id=50118320",
-      "title_cn": "Apple ML Research: Muse Spark Open with MLX on Mac Studio"
-    },
-    {
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "score": 261,
-      "comments": 251,
-      "author": "pretext",
-      "time": 1792177487,
-      "hn_url": "https://news.ycombinator.com/item?id=50122951",
-      "title_cn": "【Claude】How the Claude Code team does code review"
-    },
-    {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "score": 224,
-      "comments": 62,
-      "author": "Anon84",
-      "time": 1792175555,
-      "hn_url": "https://news.ycombinator.com/item?id=50122431",
-      "title_cn": "【AI, 模型】Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console"
-    },
-    {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "score": 195,
-      "comments": 89,
-      "author": "__cayenne__",
-      "time": 1792160324,
-      "hn_url": "https://news.ycombinator.com/item?id=50118688",
-      "title_cn": "Show HN: Gemini 4 Argon plays StarCraft"
-    },
-    {
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
-      "score": 176,
-      "comments": 49,
+      "score": 517,
+      "comments": 120,
       "author": "speckx",
       "time": 1792177277,
       "hn_url": "https://news.ycombinator.com/item?id=50122878",
       "title_cn": "【Transformer模型】You could have invented transformers from memory"
     },
     {
-      "title": "What on Earth Is Dekton?",
-      "url": "https://www.worksinprogress.news/p/porcelain",
-      "score": 135,
-      "comments": 46,
-      "author": "wawayanda",
-      "time": 1792161103,
-      "hn_url": "https://news.ycombinator.com/item?id=50118828",
-      "title_cn": "What on Earth Is Dekton?"
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "score": 303,
+      "comments": 27,
+      "author": "dchest",
+      "time": 1792252509,
+      "hn_url": "https://news.ycombinator.com/item?id=50132193",
+      "title_cn": "【AI】Pele – Mermaid diagrams as themeable SVG"
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "score": 263,
+      "comments": 77,
+      "author": "albinstman",
+      "time": 1792211813,
+      "hn_url": "https://news.ycombinator.com/item?id=50127979",
+      "title_cn": "【大语言模型】Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware"
     },
     {
       "title": "FLUX 3 Image Klein",
       "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "score": 126,
-      "comments": 37,
+      "score": 208,
+      "comments": 57,
       "author": "gmays",
       "time": 1792180033,
       "hn_url": "https://news.ycombinator.com/item?id=50123580",
@@ -273,62 +259,82 @@
     {
       "title": "Designing more efficient quantum circuits with Claude",
       "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "score": 110,
-      "comments": 21,
+      "score": 172,
+      "comments": 36,
       "author": "pretext",
       "time": 1792173618,
       "hn_url": "https://news.ycombinator.com/item?id=50121939",
       "title_cn": "【Claude】Designing more efficient quantum circuits with Claude"
     },
     {
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "score": 108,
-      "comments": 66,
-      "author": "ohjeez",
-      "time": 1791908763,
-      "hn_url": "https://news.ycombinator.com/item?id=50074322",
-      "title_cn": "【AI】Stolen Renoir paintings found hidden, and damaged, behind cinder block wall"
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "score": 99,
+      "comments": 33,
+      "author": "AIorNot",
+      "time": 1792259108,
+      "hn_url": "https://news.ycombinator.com/item?id=50133231",
+      "title_cn": "Codex Desktop continuously generates Crashpad pending dumps"
     },
     {
-      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-      "score": 78,
-      "comments": 10,
-      "author": "giuliomagnifico",
-      "time": 1791962472,
-      "hn_url": "https://news.ycombinator.com/item?id=50083673",
-      "title_cn": "【机器人】Wireless magnetic millirobots that deliver medicine inside the beating heart"
-    },
-    {
-      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
-      "url": "https://wonderhop.io/en/",
+      "title": "The history of development of Norton Commander (2011)",
+      "url": "https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml",
       "score": 73,
-      "comments": 64,
-      "author": "mtlduo",
-      "time": 1791933004,
-      "hn_url": "https://news.ycombinator.com/item?id=50080246",
-      "title_cn": "【AI】Show HN: Wonderhop – A daily game: guess what most people say, or what none do"
+      "comments": 24,
+      "author": "Michelangelo11",
+      "time": 1792136496,
+      "hn_url": "https://news.ycombinator.com/item?id=50115354",
+      "title_cn": "The history of development of Norton Commander (2011)"
     },
     {
-      "title": "Nine-Inch Snails",
-      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "score": 37,
-      "comments": 17,
-      "author": "zdw",
-      "time": 1792189265,
-      "hn_url": "https://news.ycombinator.com/item?id=50125545",
-      "title_cn": "【AI】Nine-Inch Snails"
+      "title": "Microsoft and CMU team up to train early career software engineers",
+      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "score": 62,
+      "comments": 73,
+      "author": "azhenley",
+      "time": 1792262707,
+      "hn_url": "https://news.ycombinator.com/item?id=50133830",
+      "title_cn": "【AI】Microsoft and CMU team up to train early career software engineers"
     },
     {
-      "title": "Coconuts in Medieval Britain (2015)",
-      "url": "https://www.themarysue.com/monty-python-holy-grail-coconuts/",
-      "score": 6,
+      "title": "0/1 Knapsack Problem in PyTorch",
+      "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+      "score": 47,
+      "comments": 6,
+      "author": "yu3zhou4",
+      "time": 1791990273,
+      "hn_url": "https://news.ycombinator.com/item?id=50088767",
+      "title_cn": "【PyTorch】0/1 Knapsack Problem in PyTorch"
+    },
+    {
+      "title": "The math that OpenAI keeps for itself",
+      "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
+      "score": 23,
+      "comments": 8,
+      "author": "dpaleka",
+      "time": 1792264972,
+      "hn_url": "https://news.ycombinator.com/item?id=50134211",
+      "title_cn": "【AI, OpenAI】The math that OpenAI keeps for itself"
+    },
+    {
+      "title": "Abolish AI Manifesto",
+      "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
+      "score": 14,
+      "comments": 8,
+      "author": "drpixie",
+      "time": 1792279426,
+      "hn_url": "https://news.ycombinator.com/item?id=50136124",
+      "title_cn": "【AI】Abolish AI Manifesto"
+    },
+    {
+      "title": "Processing my father's death by climbing in his footsteps",
+      "url": "https://www.nytimes.com/interactive/2026/10/14/magazine/yosemite-climbing-dad-east-buttress.html",
+      "score": 8,
       "comments": 0,
-      "author": "wolfi1",
-      "time": 1792139334,
-      "hn_url": "https://news.ycombinator.com/item?id=50115703",
-      "title_cn": "【AI】Coconuts in Medieval Britain (2015)"
+      "author": "elemeno",
+      "time": 1792143336,
+      "hn_url": "https://news.ycombinator.com/item?id=50116213",
+      "title_cn": "Processing my father's death by climbing in his footsteps"
     }
   ]
 }
