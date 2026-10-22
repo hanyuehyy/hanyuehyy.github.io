@@ -1,50 +1,13 @@
 {
-  "updated_at": "2026-10-21T04:03:45.672667",
+  "updated_at": "2026-10-22T04:04:38.533377",
   "github_projects": [
-    {
-      "name": "anatomy",
-      "full_name": "wheresryan22/anatomy",
-      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "description_cn": "an 智能体 skill for Creating detAIled, inter活跃 isometr内联缓存 illustrati开启s of real-world maChines and 复杂 系统s. generates polished SVGs with opti开启al WebGL shaders and 3D effeCts.",
-      "stars": 17719,
-      "forks": 1360,
-      "language": "JavaScript",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "topics": [
-        "agent-skill",
-        "open-source",
-        "svg",
-        "vizualization"
-      ],
-      "created_at": "2026-10-08T10:12:49Z",
-      "owner": {
-        "login": "wheresryan22",
-        "avatar_url": "https://avatars.githubusercontent.com/u/96392276?v=4"
-      }
-    },
-    {
-      "name": "DeepInfer",
-      "full_name": "deepseek-ai/DeepInfer",
-      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "description_cn": "deep无穷大er: high-性能, large-sCale 推理 框架 for deepseek 模型s",
-      "stars": 14229,
-      "forks": 1348,
-      "language": "Python",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "topics": [],
-      "created_at": "2026-10-16T07:47:23Z",
-      "owner": {
-        "login": "deepseek-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      }
-    },
     {
       "name": "cleanyourtv",
       "full_name": "Gathin23/cleanyourtv",
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "description_cn": "debloat any android or Google tv over wi-fi and get an apple tv-style home.",
-      "stars": 12979,
-      "forks": 1450,
+      "stars": 20054,
+      "forks": 2173,
       "language": "Java",
       "url": "https://github.com/Gathin23/cleanyourtv",
       "topics": [
@@ -61,25 +24,19 @@
       }
     },
     {
-      "name": "DigUp",
-      "full_name": "ARahim3/DigUp",
-      "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
-      "description_cn": "搜索 your Computer by what's in your files: photos, pdfs, doCuments, 记录ings, 视频s and Code. 开启-dev内联缓存e 开启 maC, windows and linux, built 开启 Google deep最小d's 嵌入gemma 2.",
-      "stars": 5254,
-      "forks": 389,
-      "language": "Swift",
-      "url": "https://github.com/ARahim3/DigUp",
-      "topics": [
-        "embeddinggemma",
-        "embeddings",
-        "file-search",
-        "linux",
-        "llama-cpp"
-      ],
-      "created_at": "2026-10-08T20:37:51Z",
+      "name": "DeepInfer",
+      "full_name": "deepseek-ai/DeepInfer",
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "description_cn": "deep无穷大er: high-性能, large-sCale 推理 框架 for deepseek 模型s",
+      "stars": 18376,
+      "forks": 1897,
+      "language": "Python",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "topics": [],
+      "created_at": "2026-10-16T07:47:23Z",
       "owner": {
-        "login": "ARahim3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/41390319?v=4"
+        "login": "deepseek-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       }
     },
     {
@@ -87,8 +44,8 @@
       "full_name": "jhaizhou-ops/d2r-mobile",
       "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
       "description_cn": "开源 ios / maCos Compatibility 层 for diablo ii: resurreCted with the reign of the war锁 expansi开启. runs your own switCh Copy natively 开启 IPh开启e, IPad and maC — full touCh C开启trols, 60 fps, 新 endgame 众数s. 分支ing your own game files. 开源的《暗黑破坏神 ii：狱火重生》术士君临 ios / maCos 兼容层",
-      "stars": 4201,
-      "forks": 1155,
+      "stars": 4334,
+      "forks": 1181,
       "language": "C",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
       "topics": [
@@ -105,12 +62,28 @@
       }
     },
     {
+      "name": "MacNativeGames",
+      "full_name": "ly05010419/MacNativeGames",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 4000,
+      "forks": 564,
+      "language": "C",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "topics": [],
+      "created_at": "2026-10-17T19:52:00Z",
+      "owner": {
+        "login": "ly05010419",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1425386?v=4"
+      }
+    },
+    {
       "name": "craft-launcher",
       "full_name": "storytold/craft-launcher",
       "description": "The Craft App Launcher",
       "description_cn": "the Craft app launCher",
-      "stars": 3677,
-      "forks": 1189,
+      "stars": 3778,
+      "forks": 1216,
       "language": "Rust",
       "url": "https://github.com/storytold/craft-launcher",
       "topics": [],
@@ -125,8 +98,8 @@
       "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
       "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "description_cn": "qwen-图像 2.1 nsfw/姿势出图 skill：作者级提示词配方 + nsfw lora + 136 姿势 vnCCs 人偶控制；适用 Claude Code / Codex / Cursor / openClaw",
-      "stars": 3515,
-      "forks": 631,
+      "stars": 3590,
+      "forks": 643,
       "language": "Python",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "topics": [
@@ -143,32 +116,12 @@
       }
     },
     {
-      "name": "dsh-ops",
-      "full_name": "T-Auto/dsh-ops",
-      "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-      "description_cn": "a 工具kit for low-level operati开启s in dsh, designed to reduCe 令牌 usage and 任务 exeCuti开启 time / dsh 底层操作工具插件，旨在减少 令牌 消耗与任务耗时",
-      "stars": 3508,
-      "forks": 98,
-      "language": "JavaScript",
-      "url": "https://github.com/T-Auto/dsh-ops",
-      "topics": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins"
-      ],
-      "created_at": "2026-10-08T07:09:25Z",
-      "owner": {
-        "login": "T-Auto",
-        "avatar_url": "https://avatars.githubusercontent.com/u/183904010?v=4"
-      }
-    },
-    {
       "name": "esp32-iphone-agent",
       "full_name": "onehumanbeing/esp32-iphone-agent",
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "description_cn": "let an AI 模型 use a real IPh开启e with a $7 esp32: AIrplay e是, usb hid hands, any openAI-Compatible visi开启 模型. 否 maC, 否 developer aC计数, 否 jAIl分支eak.",
-      "stars": 3416,
-      "forks": 458,
+      "stars": 3496,
+      "forks": 461,
       "language": "C",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "topics": [
@@ -189,8 +142,8 @@
       "full_name": "HeyPuter/everything",
       "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "description_cn": "we're rebuilding and open-sourCing the world’s software from sCratCh.",
-      "stars": 3244,
-      "forks": 404,
+      "stars": 3484,
+      "forks": 432,
       "language": "JavaScript",
       "url": "https://github.com/HeyPuter/everything",
       "topics": [
@@ -205,158 +158,194 @@
         "login": "HeyPuter",
         "avatar_url": "https://avatars.githubusercontent.com/u/103972607?v=4"
       }
+    },
+    {
+      "name": "figcraft",
+      "full_name": "storytold/figcraft",
+      "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+      "description_cn": "figCraft: inter面 design and prototyping; an 开源, Clean-room reimplementati开启 of Collaborative design 工作流s in 纯 Rust",
+      "stars": 3068,
+      "forks": 1220,
+      "language": "Rust",
+      "url": "https://github.com/storytold/figcraft",
+      "topics": [
+        "design",
+        "rust",
+        "tools"
+      ],
+      "created_at": "2026-10-09T16:02:13Z",
+      "owner": {
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      }
+    },
+    {
+      "name": "CCBaga",
+      "full_name": "liseami/CCBaga",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 2851,
+      "forks": 300,
+      "language": "Rust",
+      "url": "https://github.com/liseami/CCBaga",
+      "topics": [],
+      "created_at": "2026-10-11T03:47:06Z",
+      "owner": {
+        "login": "liseami",
+        "avatar_url": "https://avatars.githubusercontent.com/u/51239614?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 2174,
-      "comments": 844,
-      "author": "ggcr",
-      "time": 1792487334,
-      "hn_url": "https://news.ycombinator.com/item?id=50163277",
-      "title_cn": "【模型, 推理, 框架】DeepInfer: High-performance inference framework for DeepSeek models"
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "score": 458,
+      "comments": 156,
+      "author": "abhisek",
+      "time": 1792591226,
+      "hn_url": "https://news.ycombinator.com/item?id=50181114",
+      "title_cn": "【大语言模型】Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor"
     },
     {
-      "title": "Show HN: SimCity, but with Permits",
-      "url": "https://permit.petercai.com/",
-      "score": 639,
-      "comments": 327,
-      "author": "pcai",
-      "time": 1792520949,
-      "hn_url": "https://news.ycombinator.com/item?id=50170593",
-      "title_cn": "Show HN: SimCity, but with Permits"
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "score": 430,
+      "comments": 277,
+      "author": "cbg0",
+      "time": 1792604713,
+      "hn_url": "https://news.ycombinator.com/item?id=50184820",
+      "title_cn": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case"
     },
     {
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "score": 559,
-      "comments": 147,
-      "author": "ilreb",
-      "time": 1792512127,
-      "hn_url": "https://news.ycombinator.com/item?id=50168396",
-      "title_cn": "Voxtral 3"
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "score": 364,
+      "comments": 208,
+      "author": "passenger",
+      "time": 1792619883,
+      "hn_url": "https://news.ycombinator.com/item?id=50188228",
+      "title_cn": "Security Disclosure"
     },
     {
-      "title": "Facebook Pages require paid subscription to post more than two links per month",
-      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-      "score": 427,
-      "comments": 383,
-      "author": "AshleysBrain",
-      "time": 1792508768,
-      "hn_url": "https://news.ycombinator.com/item?id=50167536",
-      "title_cn": "【AI】Facebook Pages require paid subscription to post more than two links per month"
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "score": 329,
+      "comments": 296,
+      "author": "kuberwastaken",
+      "time": 1792610041,
+      "hn_url": "https://news.ycombinator.com/item?id=50186037",
+      "title_cn": "【Claude】Claude Duet"
     },
     {
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "score": 327,
-      "comments": 192,
-      "author": "robtherobber",
-      "time": 1792501582,
-      "hn_url": "https://news.ycombinator.com/item?id=50165801",
-      "title_cn": "【大语言模型】Publish fake stats, get cited in LLMs"
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "score": 258,
+      "comments": 107,
+      "author": "armcat",
+      "time": 1792587191,
+      "hn_url": "https://news.ycombinator.com/item?id=50180079",
+      "title_cn": "【AI, OpenAI, 模型】OpenAI models are coming to Google Cloud"
     },
     {
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "score": 288,
-      "comments": 65,
-      "author": "ilreb",
-      "time": 1792514424,
-      "hn_url": "https://news.ycombinator.com/item?id=50169053",
-      "title_cn": "【PyTorch】Google open-sources TorchTPU, a native PyTorch back end for TPUs"
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "score": 243,
+      "comments": 163,
+      "author": "nr378",
+      "time": 1792591423,
+      "hn_url": "https://news.ycombinator.com/item?id=50181175",
+      "title_cn": "Patch the Planet: global response coordination as agents uncover vulnerabilities"
     },
     {
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "score": 202,
+      "title": "Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "score": 240,
+      "comments": 132,
+      "author": "kaycebasques",
+      "time": 1792609917,
+      "hn_url": "https://news.ycombinator.com/item?id=50186010",
+      "title_cn": "Rust Style Guide"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "score": 137,
       "comments": 86,
-      "author": "dhorthy",
-      "time": 1792091374,
-      "hn_url": "https://news.ycombinator.com/item?id=50108717",
-      "title_cn": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful"
+      "author": "raahelb",
+      "time": 1792589820,
+      "hn_url": "https://news.ycombinator.com/item?id=50180752",
+      "title_cn": "【AI】Using thousands of AI agents to uncover new leads in biological data"
     },
     {
-      "title": "NixOS is making me less afraid",
-      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-      "score": 173,
-      "comments": 115,
-      "author": "ibobev",
-      "time": 1792500185,
-      "hn_url": "https://news.ycombinator.com/item?id=50165484",
-      "title_cn": "【AI】NixOS is making me less afraid"
-    },
-    {
-      "title": "JAXA is about to perform a Phobos sample return mission",
-      "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
       "score": 101,
-      "comments": 22,
-      "author": "Muhammad523",
-      "time": 1792305655,
-      "hn_url": "https://news.ycombinator.com/item?id=50138490",
-      "title_cn": "JAXA is about to perform a Phobos sample return mission"
+      "comments": 15,
+      "author": "Maxious",
+      "time": 1792591874,
+      "hn_url": "https://news.ycombinator.com/item?id=50181326",
+      "title_cn": "【AI】Cloudflare deploys protections against php2shell vulnerability"
     },
     {
-      "title": "Advanced coding in low-resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages/",
-      "score": 47,
-      "comments": 65,
-      "author": "sumnole",
-      "time": 1792518191,
-      "hn_url": "https://news.ycombinator.com/item?id=50169955",
-      "title_cn": "Advanced coding in low-resource programming languages"
+      "title": "Chain of Thought for Humans",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "score": 50,
+      "comments": 24,
+      "author": "ibobev",
+      "time": 1792425982,
+      "hn_url": "https://news.ycombinator.com/item?id=50154100",
+      "title_cn": "【AI】Chain of Thought for Humans"
     },
     {
-      "title": "Good type against all odds",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "score": 40,
-      "comments": 8,
-      "author": "firloop",
-      "time": 1792547107,
-      "hn_url": "https://news.ycombinator.com/item?id=50175059",
-      "title_cn": "【AI】Good type against all odds"
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "score": 39,
+      "comments": 12,
+      "author": "kmansm27",
+      "time": 1792601093,
+      "hn_url": "https://news.ycombinator.com/item?id=50183892",
+      "title_cn": "【Claude】Show HN: Omnara – Open-source alternative to Claude Managed Agents"
     },
     {
-      "title": "In Hilbert space, all things are quantumly possible",
-      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "score": 36,
-      "comments": 10,
-      "author": "unprovable",
-      "time": 1792548255,
-      "hn_url": "https://news.ycombinator.com/item?id=50175185",
-      "title_cn": "In Hilbert space, all things are quantumly possible"
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "score": 25,
+      "comments": 17,
+      "author": "jimauthors",
+      "time": 1792556871,
+      "hn_url": "https://news.ycombinator.com/item?id=50176082",
+      "title_cn": "【大语言模型】Using LLM for confidence scoring is a bad idea"
     },
     {
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "url": "https://research.poh.org/bot-benchmarking-2026/",
-      "score": 35,
-      "comments": 2,
-      "author": "mdahardy",
-      "time": 1792516231,
-      "hn_url": "https://news.ycombinator.com/item?id=50169506",
-      "title_cn": "【AI, 基准测试】Benchmarking Bot Detection Systems Against Modern AI Agents in 2026"
-    },
-    {
-      "title": "To Make, or to Buy: The Economics of Decision Models",
-      "url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
+      "title": "LLM Agents Play Pokemon Showdown",
+      "url": "https://olivergrabner.com/research/pokemon/",
       "score": 15,
-      "comments": 0,
-      "author": "pncnmnp",
-      "time": 1792345256,
-      "hn_url": "https://news.ycombinator.com/item?id=50143360",
-      "title_cn": "【模型】To Make, or to Buy: The Economics of Decision Models"
+      "comments": 10,
+      "author": "grabnero",
+      "time": 1792635228,
+      "hn_url": "https://news.ycombinator.com/item?id=50190334",
+      "title_cn": "【大语言模型】LLM Agents Play Pokemon Showdown"
     },
     {
-      "title": "LabRobotBench v0.1: Benchmarking wet lab robotics",
-      "url": "https://gamowlabs.com/lab-robot-bench-v0-1",
-      "score": 11,
-      "comments": 1,
-      "author": "wardbradt",
-      "time": 1792540503,
-      "hn_url": "https://news.ycombinator.com/item?id=50174317",
-      "title_cn": "【机器人, 基准测试】LabRobotBench v0.1: Benchmarking wet lab robotics"
+      "title": "Show HN: Can you tell an AI's real 30-day memory from a fabricated one?",
+      "url": "https://kairos-experiment.com/distinguish.html",
+      "score": 7,
+      "comments": 0,
+      "author": "gcolella",
+      "time": 1792419957,
+      "hn_url": "https://news.ycombinator.com/item?id=50152912",
+      "title_cn": "【AI】Show HN: Can you tell an AI's real 30-day memory from a fabricated one?"
+    },
+    {
+      "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "score": 3,
+      "comments": 0,
+      "author": "gmays",
+      "time": 1792635478,
+      "hn_url": "https://news.ycombinator.com/item?id=50190357",
+      "title_cn": "【Claude】Claude Now Works with Google Docs, Sheets, and Slides"
     }
   ]
 }
