@@ -1,353 +1,156 @@
 {
-  "updated_at": "2026-10-23T04:08:00.411548",
-  "github_projects": [
-    {
-      "name": "cleanyourtv",
-      "full_name": "Gathin23/cleanyourtv",
-      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "description_cn": "debloat any android or Google tv over wi-fi and get an apple tv-style home.",
-      "stars": 24753,
-      "forks": 2718,
-      "language": "Java",
-      "url": "https://github.com/Gathin23/cleanyourtv",
-      "topics": [
-        "adb",
-        "adblock",
-        "android-tv",
-        "android-tv-launcher",
-        "apple-tv"
-      ],
-      "created_at": "2026-10-17T08:12:35Z",
-      "owner": {
-        "login": "Gathin23",
-        "avatar_url": "https://avatars.githubusercontent.com/u/94786511?v=4"
-      }
-    },
-    {
-      "name": "DeepInfer",
-      "full_name": "deepseek-ai/DeepInfer",
-      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "description_cn": "deep无穷大er: high-性能, large-sCale 推理 框架 for deepseek 模型s",
-      "stars": 20124,
-      "forks": 2156,
-      "language": "Python",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "topics": [],
-      "created_at": "2026-10-16T07:47:23Z",
-      "owner": {
-        "login": "deepseek-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      }
-    },
-    {
-      "name": "MacNativeGames",
-      "full_name": "ly05010419/MacNativeGames",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 4561,
-      "forks": 646,
-      "language": "C",
-      "url": "https://github.com/ly05010419/MacNativeGames",
-      "topics": [],
-      "created_at": "2026-10-17T19:52:00Z",
-      "owner": {
-        "login": "ly05010419",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1425386?v=4"
-      }
-    },
-    {
-      "name": "d2r-mobile",
-      "full_name": "jhaizhou-ops/d2r-mobile",
-      "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层",
-      "description_cn": "开源 Compatibility 层 for diablo ii: resurreCted with the reign of the war锁 expansi开启. runs your own switCh Copy natively 开启 IPh开启e, IPad, maC, android and harm开启yos — full touCh C开启trols, 60 fps, 新 endgame 众数s. 分支ing your own game files. 开源的《暗黑破坏神 ii：狱火重生》术士君临 ios / maCos / 安卓 / 鸿蒙兼容层",
-      "stars": 4424,
-      "forks": 1203,
-      "language": "C",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "topics": [
-        "android",
-        "compatibility-layer",
-        "diablo-2-resurrected",
-        "diablo2",
-        "game-port"
-      ],
-      "created_at": "2026-10-12T08:41:19Z",
-      "owner": {
-        "login": "jhaizhou-ops",
-        "avatar_url": "https://avatars.githubusercontent.com/u/258432107?v=4"
-      }
-    },
-    {
-      "name": "qwen21-nsfw-pose-skill",
-      "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "description_cn": "qwen-图像 2.1 nsfw/姿势出图 skill：作者级提示词配方 + nsfw lora + 136 姿势 vnCCs 人偶控制；适用 Claude Code / Codex / Cursor / openClaw",
-      "stars": 3635,
-      "forks": 648,
-      "language": "Python",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "topics": [
-        "agent-skill",
-        "comfyui",
-        "image-generation",
-        "openclaw",
-        "pose-control"
-      ],
-      "created_at": "2026-10-13T03:09:42Z",
-      "owner": {
-        "login": "Arekejoker",
-        "avatar_url": "https://avatars.githubusercontent.com/u/131444687?v=4"
-      }
-    },
-    {
-      "name": "everything",
-      "full_name": "HeyPuter/everything",
-      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
-      "description_cn": "we're rebuilding and open-sourCing the world’s software from sCratCh.",
-      "stars": 3604,
-      "forks": 449,
-      "language": "JavaScript",
-      "url": "https://github.com/HeyPuter/everything",
-      "topics": [
-        "adobe",
-        "cad",
-        "office",
-        "photoshop",
-        "saas"
-      ],
-      "created_at": "2026-10-13T16:18:22Z",
-      "owner": {
-        "login": "HeyPuter",
-        "avatar_url": "https://avatars.githubusercontent.com/u/103972607?v=4"
-      }
-    },
-    {
-      "name": "esp32-iphone-agent",
-      "full_name": "onehumanbeing/esp32-iphone-agent",
-      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "description_cn": "let an AI 模型 use a real IPh开启e with a $7 esp32: AIrplay e是, usb hid hands, any openAI-Compatible visi开启 模型. 否 maC, 否 developer aC计数, 否 jAIl分支eak.",
-      "stars": 3572,
-      "forks": 472,
-      "language": "C",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "topics": [
-        "ai-agent",
-        "airplay",
-        "automation",
-        "computer-use",
-        "esp32"
-      ],
-      "created_at": "2026-10-11T19:10:25Z",
-      "owner": {
-        "login": "onehumanbeing",
-        "avatar_url": "https://avatars.githubusercontent.com/u/20528382?v=4"
-      }
-    },
-    {
-      "name": "free-my-tv",
-      "full_name": "simbasjungles/free-my-tv",
-      "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
-      "description_cn": "a 快速, ad-免费 home sCreen for Google tv. open sourCe, built with Claude Code. 开启e butt开启 to undo.",
-      "stars": 3523,
-      "forks": 501,
-      "language": "Java",
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "topics": [
-        "android-tv",
-        "claude-code",
-        "google-tv",
-        "home-screen",
-        "launcher"
-      ],
-      "created_at": "2026-10-19T19:29:01Z",
-      "owner": {
-        "login": "simbasjungles",
-        "avatar_url": "https://avatars.githubusercontent.com/u/192837953?v=4"
-      }
-    },
-    {
-      "name": "aerial-tv",
-      "full_name": "pengchujin/aerial-tv",
-      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-      "description_cn": "给国产电视的一块干净桌面：参照 tvos 设计的开源 android tv 桌面，没有广告，开机自动接管。a tvos-style launCher for xiaomi, tCl and other China-market tvs.",
-      "stars": 3294,
-      "forks": 238,
-      "language": "Kotlin",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "topics": [],
-      "created_at": "2026-10-20T09:13:06Z",
-      "owner": {
-        "login": "pengchujin",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16513318?v=4"
-      }
-    },
-    {
-      "name": "CCBaga",
-      "full_name": "liseami/CCBaga",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 2881,
-      "forks": 303,
-      "language": "Rust",
-      "url": "https://github.com/liseami/CCBaga",
-      "topics": [],
-      "created_at": "2026-10-11T03:47:06Z",
-      "owner": {
-        "login": "liseami",
-        "avatar_url": "https://avatars.githubusercontent.com/u/51239614?v=4"
-      }
-    }
-  ],
+  "updated_at": "2026-10-24T04:00:52.879947",
+  "github_projects": [],
   "ai_news": [
     {
-      "title": "Jailbreaking the Switch 2",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "score": 749,
-      "comments": 263,
-      "author": "ledoge",
-      "time": 1792656112,
-      "hn_url": "https://news.ycombinator.com/item?id=50192536",
-      "title_cn": "【AI】Jailbreaking the Switch 2"
-    },
-    {
-      "title": "Woman faces six years in prison over Cash App account she never opened",
-      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-      "score": 568,
-      "comments": 583,
-      "author": "oidar",
-      "time": 1792674660,
-      "hn_url": "https://news.ycombinator.com/item?id=50194833",
-      "title_cn": "Woman faces six years in prison over Cash App account she never opened"
-    },
-    {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "score": 512,
-      "comments": 159,
-      "author": "alphax314",
-      "time": 1792635521,
-      "hn_url": "https://news.ycombinator.com/item?id=50190363",
-      "title_cn": "【AI, 模型】WorldTUI: I trained a 360M model to pretend to be a terminal"
-    },
-    {
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "score": 328,
-      "comments": 170,
-      "author": "niemandhier",
-      "time": 1792691046,
-      "hn_url": "https://news.ycombinator.com/item?id=50198675",
-      "title_cn": "【AI, 自动驾驶】OpenShell – A safe, private runtime for fleets of autonomous AI agents"
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "score": 779,
+      "comments": 478,
+      "author": "Jowsey",
+      "time": 1792774748,
+      "hn_url": "https://news.ycombinator.com/item?id=50212065",
+      "title_cn": "Kimi K3.1 Pro and K3.1 Pro Highspeed"
     },
     {
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "score": 287,
-      "comments": 340,
+      "score": 619,
+      "comments": 595,
       "author": "rakannimer",
       "time": 1792685280,
       "hn_url": "https://news.ycombinator.com/item?id=50197313",
       "title_cn": "【AI, 模型】Every AI model has the same \"controversial\" take on humans"
     },
     {
-      "title": "Getting ready to operate GNU Taler in Germany",
-      "url": "https://www.taler.net/en/news/2026-13.html",
-      "score": 240,
-      "comments": 95,
-      "author": "dewey",
-      "time": 1792685671,
-      "hn_url": "https://news.ycombinator.com/item?id=50197404",
-      "title_cn": "Getting ready to operate GNU Taler in Germany"
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "score": 615,
+      "comments": 185,
+      "author": "alphax314",
+      "time": 1792635521,
+      "hn_url": "https://news.ycombinator.com/item?id=50190363",
+      "title_cn": "【AI, 模型】WorldTUI: I trained a 360M model to pretend to be a terminal"
     },
     {
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "score": 193,
-      "comments": 104,
-      "author": "johnbender",
-      "time": 1792709683,
-      "hn_url": "https://news.ycombinator.com/item?id=50202217",
-      "title_cn": "【大语言模型】LLMs are making formal software verification feasible at a much larger scale"
-    },
-    {
-      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-      "score": 157,
-      "comments": 31,
-      "author": "maxilevi",
-      "time": 1792694676,
-      "hn_url": "https://news.ycombinator.com/item?id=50199389",
-      "title_cn": "Hedra is a 3D open world game I wrote from scratch while in highschool"
-    },
-    {
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "url": "https://arxiv.org/abs/2610.27251",
-      "score": 122,
-      "comments": 72,
-      "author": "jrepinc",
-      "time": 1792693696,
-      "hn_url": "https://news.ycombinator.com/item?id=50199230",
-      "title_cn": "【AI】AI and the Enclosure of the Scientific Commons"
-    },
-    {
-      "title": "Show HN: UI micro interactions prompts for AI",
-      "url": "https://www.typeui.sh/micro-interactions",
-      "score": 74,
-      "comments": 42,
-      "author": "elwingo1",
-      "time": 1792693977,
-      "hn_url": "https://news.ycombinator.com/item?id=50199290",
-      "title_cn": "【AI】Show HN: UI micro interactions prompts for AI"
-    },
-    {
-      "title": "Railpass",
-      "url": "https://train.samismith.com/",
-      "score": 68,
-      "comments": 21,
-      "author": "CharlesW",
-      "time": 1792705112,
-      "hn_url": "https://news.ycombinator.com/item?id=50201414",
-      "title_cn": "【AI】Railpass"
-    },
-    {
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "score": 64,
-      "comments": 54,
-      "author": "xiaoyu2006",
-      "time": 1792716721,
-      "hn_url": "https://news.ycombinator.com/item?id=50203161",
-      "title_cn": "The foolishness of \"natural language programming\" (1978)"
-    },
-    {
-      "title": "AI compute is the new oil–and needs a new market",
-      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-      "score": 32,
-      "comments": 23,
-      "author": "ijidak",
-      "time": 1792712716,
-      "hn_url": "https://news.ycombinator.com/item?id=50202671",
-      "title_cn": "【AI】AI compute is the new oil–and needs a new market"
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "url": "https://block.xyz/dessa",
+      "score": 284,
+      "comments": 113,
+      "author": "dsr12",
+      "time": 1792782594,
+      "hn_url": "https://news.ycombinator.com/item?id=50213925",
+      "title_cn": "【模型】Dessa: the most authentic full-duplex speech model ever built"
     },
     {
       "title": "Jank – The native Clojure dialect with seamless C++ interop",
       "url": "https://jank-lang.org/",
-      "score": 32,
-      "comments": 1,
+      "score": 174,
+      "comments": 45,
       "author": "giancarlostoro",
       "time": 1792713396,
       "hn_url": "https://news.ycombinator.com/item?id=50202762",
       "title_cn": "Jank – The native Clojure dialect with seamless C++ interop"
     },
     {
-      "title": "Speeding up code review with `small-change`",
-      "url": "https://lethain.com/small-changes/",
-      "score": 31,
-      "comments": 17,
-      "author": "alexmolas",
-      "time": 1792406114,
-      "hn_url": "https://news.ycombinator.com/item?id=50150681",
-      "title_cn": "Speeding up code review with `small-change`"
+      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "score": 121,
+      "comments": 64,
+      "author": "cowlevel",
+      "time": 1792798217,
+      "hn_url": "https://news.ycombinator.com/item?id=50216791",
+      "title_cn": "Evolving Threat: http2shell is an RCE in Node, Python, and more"
+    },
+    {
+      "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+      "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+      "score": 106,
+      "comments": 26,
+      "author": "armcat",
+      "time": 1792766582,
+      "hn_url": "https://news.ycombinator.com/item?id=50209907",
+      "title_cn": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "score": 90,
+      "comments": 99,
+      "author": "pretext",
+      "time": 1792785056,
+      "hn_url": "https://news.ycombinator.com/item?id=50214416",
+      "title_cn": "【AI, 模型, 训练】Securing our frontier model training environment"
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "score": 86,
+      "comments": 101,
+      "author": "luu",
+      "time": 1792776516,
+      "hn_url": "https://news.ycombinator.com/item?id=50212507",
+      "title_cn": "【AI】Air Purifiers as White Noise Machines"
+    },
+    {
+      "title": "Animations for System Builders",
+      "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
+      "score": 46,
+      "comments": 3,
+      "author": "KraftyOne",
+      "time": 1792774944,
+      "hn_url": "https://news.ycombinator.com/item?id=50212124",
+      "title_cn": "Animations for System Builders"
+    },
+    {
+      "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+      "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+      "score": 45,
+      "comments": 38,
+      "author": "njx",
+      "time": 1792783896,
+      "hn_url": "https://news.ycombinator.com/item?id=50214185",
+      "title_cn": "【AI】New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors"
+    },
+    {
+      "title": "We have traits at home",
+      "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+      "score": 43,
+      "comments": 18,
+      "author": "Ygg2",
+      "time": 1792711457,
+      "hn_url": "https://news.ycombinator.com/item?id=50202482",
+      "title_cn": "【AI】We have traits at home"
+    },
+    {
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "score": 39,
+      "comments": 6,
+      "author": "amichail",
+      "time": 1792806790,
+      "hn_url": "https://news.ycombinator.com/item?id=50217683",
+      "title_cn": "【AI】Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques"
+    },
+    {
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "score": 36,
+      "comments": 7,
+      "author": "ibobev",
+      "time": 1792787832,
+      "hn_url": "https://news.ycombinator.com/item?id=50214983",
+      "title_cn": "【AI】A whirlwind tour of systemd-nspawn containers (2025)"
+    },
+    {
+      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+      "score": 21,
+      "comments": 0,
+      "author": "gmays",
+      "time": 1792510888,
+      "hn_url": "https://news.ycombinator.com/item?id=50168075",
+      "title_cn": "【AI】Rise of collagen-eating microbes may help explain gaps in the fossil record"
     }
   ]
 }
