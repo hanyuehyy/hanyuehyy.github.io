@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-25T04:01:30.584971",
+  "updated_at": "2026-10-26T04:05:56.817309",
   "github_projects": [
     {
       "name": "cleanyourtv",
       "full_name": "Gathin23/cleanyourtv",
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "description_cn": "debloat any android or Google tv over wi-fi and get an apple tv-style home.",
-      "stars": 32189,
-      "forks": 3754,
+      "stars": 35820,
+      "forks": 4281,
       "language": "Java",
       "url": "https://github.com/Gathin23/cleanyourtv",
       "topics": [
@@ -28,8 +28,8 @@
       "full_name": "deepseek-ai/DeepInfer",
       "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "description_cn": "deep无穷大er: high-性能, large-sCale 推理 框架 for deepseek 模型s",
-      "stars": 21928,
-      "forks": 2505,
+      "stars": 22551,
+      "forks": 2605,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "topics": [],
@@ -40,15 +40,37 @@
       }
     },
     {
+      "name": "gpu-unlock",
+      "full_name": "Zagitta/gpu-unlock",
+      "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+      "description_cn": "un锁 fp/bf16 in结构体i开启 issue rate 开启 nvidia 3000's Cards to the中间表示 professi开启al equivalents",
+      "stars": 7244,
+      "forks": 755,
+      "language": "C",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "topics": [],
+      "created_at": "2026-10-18T01:28:31Z",
+      "owner": {
+        "login": "Zagitta",
+        "avatar_url": "https://avatars.githubusercontent.com/u/865977?v=4"
+      }
+    },
+    {
       "name": "MacNativeGames",
       "full_name": "ly05010419/MacNativeGames",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 5249,
-      "forks": 760,
+      "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.",
+      "description_cn": "play your own tears of the kingdom and 分支eath of the wild natively 开启 apple sil内联缓存开启 maC, IPh开启e and IPad. 否t an emulator: the game's arm64 Code runs d中间表示eCtly, nvn rebuilt 开启 metal. 分支ing your own game.",
+      "stars": 5524,
+      "forks": 800,
       "language": "C",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "topics": [],
+      "topics": [
+        "apple-silicon",
+        "arm64",
+        "breath-of-the-wild",
+        "game-port",
+        "ios"
+      ],
       "created_at": "2026-10-17T19:52:00Z",
       "owner": {
         "login": "ly05010419",
@@ -56,34 +78,12 @@
       }
     },
     {
-      "name": "d2r-mobile",
-      "full_name": "jhaizhou-ops/d2r-mobile",
-      "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层",
-      "description_cn": "开源 Compatibility 层 for diablo ii: resurreCted with the reign of the war锁 expansi开启. runs your own switCh Copy natively 开启 IPh开启e, IPad, maC, android and harm开启yos — full touCh C开启trols, 60 fps, 新 endgame 众数s. 分支ing your own game files. 开源的《暗黑破坏神 ii：狱火重生》术士君临 ios / maCos / 安卓 / 鸿蒙兼容层",
-      "stars": 4569,
-      "forks": 1232,
-      "language": "C",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "topics": [
-        "android",
-        "compatibility-layer",
-        "diablo-2-resurrected",
-        "diablo2",
-        "game-port"
-      ],
-      "created_at": "2026-10-12T08:41:19Z",
-      "owner": {
-        "login": "jhaizhou-ops",
-        "avatar_url": "https://avatars.githubusercontent.com/u/258432107?v=4"
-      }
-    },
-    {
       "name": "aerial-tv",
       "full_name": "pengchujin/aerial-tv",
       "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "description_cn": "给国产电视的一块干净桌面：参照 tvos 设计的开源 android tv 桌面，没有广告，开机自动接管。a tvos-style launCher for xiaomi, tCl and other China-market tvs.",
-      "stars": 4440,
-      "forks": 348,
+      "stars": 5222,
+      "forks": 424,
       "language": "Kotlin",
       "url": "https://github.com/pengchujin/aerial-tv",
       "topics": [],
@@ -98,8 +98,8 @@
       "full_name": "simbasjungles/free-my-tv",
       "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
       "description_cn": "a 快速, ad-免费 home sCreen for Google tv, lg 网页os and samsung tizen. 开启e butt开启 to undo.",
-      "stars": 4331,
-      "forks": 707,
+      "stars": 4646,
+      "forks": 766,
       "language": "Java",
       "url": "https://github.com/simbasjungles/free-my-tv",
       "topics": [
@@ -116,12 +116,28 @@
       }
     },
     {
+      "name": "nxnative",
+      "full_name": "seedds/nxnative",
+      "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+      "description_cn": "switCh games running natively 开启 IPh开启e, IPad and maC: an nsp folder beComes an unsigned IPa (nso rewriter, horiz开启 hle host, nvn→metal)",
+      "stars": 4475,
+      "forks": 786,
+      "language": "Objective-C",
+      "url": "https://github.com/seedds/nxnative",
+      "topics": [],
+      "created_at": "2026-10-13T05:20:14Z",
+      "owner": {
+        "login": "seedds",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3463322?v=4"
+      }
+    },
+    {
       "name": "everything",
       "full_name": "HeyPuter/everything",
       "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "description_cn": "we're rebuilding and open-sourCing the world’s software from sCratCh.",
-      "stars": 3835,
-      "forks": 481,
+      "stars": 3884,
+      "forks": 483,
       "language": "JavaScript",
       "url": "https://github.com/HeyPuter/everything",
       "topics": [
@@ -138,50 +154,12 @@
       }
     },
     {
-      "name": "qwen21-nsfw-pose-skill",
-      "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "description_cn": "qwen-图像 2.1 nsfw/姿势出图 skill：作者级提示词配方 + nsfw lora + 136 姿势 vnCCs 人偶控制；适用 Claude Code / Codex / Cursor / openClaw",
-      "stars": 3707,
-      "forks": 656,
-      "language": "Python",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "topics": [
-        "agent-skill",
-        "comfyui",
-        "image-generation",
-        "openclaw",
-        "pose-control"
-      ],
-      "created_at": "2026-10-13T03:09:42Z",
-      "owner": {
-        "login": "Arekejoker",
-        "avatar_url": "https://avatars.githubusercontent.com/u/131444687?v=4"
-      }
-    },
-    {
-      "name": "gpu-unlock",
-      "full_name": "Zagitta/gpu-unlock",
-      "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
-      "description_cn": "un锁 fp/bf16 in结构体i开启 issue rate 开启 nvidia 3000's Cards to the中间表示 professi开启al equivalents",
-      "stars": 3328,
-      "forks": 368,
-      "language": "C",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "topics": [],
-      "created_at": "2026-10-18T01:28:31Z",
-      "owner": {
-        "login": "Zagitta",
-        "avatar_url": "https://avatars.githubusercontent.com/u/865977?v=4"
-      }
-    },
-    {
       "name": "cn-math-taxonomy",
       "full_name": "xiaoyang111222/cn-math-taxonomy",
       "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "description_cn": "",
-      "stars": 3315,
-      "forks": 780,
+      "stars": 3815,
+      "forks": 932,
       "language": "Python",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "topics": [
@@ -196,158 +174,180 @@
         "login": "xiaoyang111222",
         "avatar_url": "https://avatars.githubusercontent.com/u/79557224?v=4"
       }
+    },
+    {
+      "name": "qwen21-nsfw-pose-skill",
+      "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "description_cn": "qwen-图像 2.1 nsfw/姿势出图 skill：作者级提示词配方 + nsfw lora + 136 姿势 vnCCs 人偶控制；适用 Claude Code / Codex / Cursor / openClaw",
+      "stars": 3728,
+      "forks": 658,
+      "language": "Python",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "topics": [
+        "agent-skill",
+        "comfyui",
+        "image-generation",
+        "openclaw",
+        "pose-control"
+      ],
+      "created_at": "2026-10-13T03:09:42Z",
+      "owner": {
+        "login": "Arekejoker",
+        "avatar_url": "https://avatars.githubusercontent.com/u/131444687?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 1060,
-      "comments": 655,
-      "author": "Jowsey",
-      "time": 1792774748,
-      "hn_url": "https://news.ycombinator.com/item?id=50212065",
-      "title_cn": "Kimi K3.1 Pro and K3.1 Pro Highspeed"
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "score": 486,
+      "comments": 220,
+      "author": "sungam",
+      "time": 1792948538,
+      "hn_url": "https://news.ycombinator.com/item?id=50233779",
+      "title_cn": "【大语言模型】A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis"
     },
     {
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "score": 508,
-      "comments": 523,
-      "author": "the-mitr",
-      "time": 1792871239,
-      "hn_url": "https://news.ycombinator.com/item?id=50224463",
-      "title_cn": "【AI】No signs of AI payoff outside the tech sector"
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "score": 208,
+      "comments": 304,
+      "author": "romanhn",
+      "time": 1792945706,
+      "hn_url": "https://news.ycombinator.com/item?id=50233304",
+      "title_cn": "【AI】AI use leads UC Berkeley math professor to see 'no point' in grading homework"
     },
     {
-      "title": "I don't understand quantum physics (2018)",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "score": 289,
-      "comments": 229,
-      "author": "rramadass",
-      "time": 1792835606,
-      "hn_url": "https://news.ycombinator.com/item?id=50219666",
-      "title_cn": "I don't understand quantum physics (2018)"
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "score": 206,
+      "comments": 232,
+      "author": "minimaxir",
+      "time": 1792962691,
+      "hn_url": "https://news.ycombinator.com/item?id=50236102",
+      "title_cn": "【AI, 大语言模型, OpenAI】OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?"
     },
     {
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "score": 288,
-      "comments": 140,
-      "author": "theanonymousone",
-      "time": 1792829199,
-      "hn_url": "https://news.ycombinator.com/item?id=50219177",
-      "title_cn": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps"
+      "title": "JetBrains Thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "score": 192,
+      "comments": 144,
+      "author": "hmokiguess",
+      "time": 1792945632,
+      "hn_url": "https://news.ycombinator.com/item?id=50233294",
+      "title_cn": "【AI】JetBrains Thinkrail"
     },
     {
-      "title": "FreeDNS",
-      "url": "https://freedns.afraid.org/",
-      "score": 263,
-      "comments": 66,
-      "author": "esher",
-      "time": 1792855201,
-      "hn_url": "https://news.ycombinator.com/item?id=50222133",
-      "title_cn": "FreeDNS"
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "score": 163,
+      "comments": 56,
+      "author": "jruohonen",
+      "time": 1792955491,
+      "hn_url": "https://news.ycombinator.com/item?id=50235017",
+      "title_cn": "Why I Am a Programmer"
     },
     {
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "score": 247,
-      "comments": 83,
-      "author": "westsmith",
-      "time": 1792524159,
-      "hn_url": "https://news.ycombinator.com/item?id=50171379",
-      "title_cn": "【AI, 扩散模型】A practical guide to AI image generation, from diffusion to agents"
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "score": 115,
+      "comments": 32,
+      "author": "pchristensen",
+      "time": 1792960351,
+      "hn_url": "https://news.ycombinator.com/item?id=50235780",
+      "title_cn": "The State of Context Engineering"
     },
     {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "score": 229,
-      "comments": 225,
-      "author": "gnabgib",
-      "time": 1792883514,
-      "hn_url": "https://news.ycombinator.com/item?id=50226419",
-      "title_cn": "【AI】America has lost 200k of jobs in media, film and the arts. How much is AI?"
-    },
-    {
-      "title": "Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "score": 168,
-      "comments": 152,
-      "author": "canjobear",
-      "time": 1792865097,
-      "hn_url": "https://news.ycombinator.com/item?id=50223647",
-      "title_cn": "【AI】Why is AI generated language so hard to understand?"
-    },
-    {
-      "title": "Dream-1",
-      "url": "https://dreamlabs.ai/research/dream-1/",
-      "score": 156,
-      "comments": 76,
-      "author": "GaggiX",
-      "time": 1792866204,
-      "hn_url": "https://news.ycombinator.com/item?id=50223785",
-      "title_cn": "Dream-1"
-    },
-    {
-      "title": "Neural chip decodes interactions between brain regions",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "score": 97,
-      "comments": 34,
-      "author": "giuliomagnifico",
-      "time": 1792857437,
-      "hn_url": "https://news.ycombinator.com/item?id=50222525",
-      "title_cn": "【AI】Neural chip decodes interactions between brain regions"
-    },
-    {
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "score": 38,
-      "comments": 30,
-      "author": "tokepi",
-      "time": 1792856117,
-      "hn_url": "https://news.ycombinator.com/item?id=50222283",
-      "title_cn": "【AI, OpenAI】Oai-math-revised: a community hub for revising OpenAI's math write-ups"
-    },
-    {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "score": 30,
-      "comments": 8,
-      "author": "gmays",
-      "time": 1792892029,
-      "hn_url": "https://news.ycombinator.com/item?id=50227356",
-      "title_cn": "【AI, 模型】Cerebras Deploys Trillion-Parameter AI Models"
-    },
-    {
-      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-      "url": "https://xingjianbai.com/reactive-optimizers/",
-      "score": 22,
-      "comments": 1,
-      "author": "matt_d",
-      "time": 1792621032,
-      "hn_url": "https://news.ycombinator.com/item?id=50188440",
-      "title_cn": "【AI, 训练】Reactive Optimizers: rewrite the optimizer's source code during training"
-    },
-    {
-      "title": "In Rainbows",
-      "url": "https://hitogata.neocities.org/Rainbows",
-      "score": 8,
-      "comments": 0,
+      "title": "The U.S. Power Grid",
+      "url": "https://nomagicpill.site/knowledge/powergrid.html",
+      "score": 84,
+      "comments": 25,
       "author": "surprisetalk",
-      "time": 1792675204,
-      "hn_url": "https://news.ycombinator.com/item?id=50194935",
-      "title_cn": "【AI】In Rainbows"
+      "time": 1792682404,
+      "hn_url": "https://news.ycombinator.com/item?id=50196623",
+      "title_cn": "The U.S. Power Grid"
     },
     {
-      "title": "Making My Blog Readable by AI Agents",
-      "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
-      "score": 8,
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "score": 79,
+      "comments": 40,
+      "author": "bpierre",
+      "time": 1792970850,
+      "hn_url": "https://news.ycombinator.com/item?id=50237078",
+      "title_cn": "F-Zero X on Nintendo 3DS"
+    },
+    {
+      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "score": 73,
+      "comments": 34,
+      "author": "Betelbuddy",
+      "time": 1792979266,
+      "hn_url": "https://news.ycombinator.com/item?id=50238088",
+      "title_cn": "【模型】IBM CEO says open weight models are now irresistibly good and cheap on-prem"
+    },
+    {
+      "title": "A mathematician reads the AI future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "score": 55,
+      "comments": 77,
+      "author": "artninja1988",
+      "time": 1792945881,
+      "hn_url": "https://news.ycombinator.com/item?id=50233347",
+      "title_cn": "【AI】A mathematician reads the AI future"
+    },
+    {
+      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+      "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+      "score": 34,
+      "comments": 14,
+      "author": "hacker_v_s",
+      "time": 1792953743,
+      "hn_url": "https://news.ycombinator.com/item?id=50234699",
+      "title_cn": "【AI】AI didn't cause the tech jobs bust, but it explains why there's no recovery"
+    },
+    {
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "score": 29,
       "comments": 0,
-      "author": "ingve",
-      "time": 1792876893,
-      "hn_url": "https://news.ycombinator.com/item?id=50225443",
-      "title_cn": "【AI】Making My Blog Readable by AI Agents"
+      "author": "laybak",
+      "time": 1792781160,
+      "hn_url": "https://news.ycombinator.com/item?id=50213610",
+      "title_cn": "【AI】Making the Buddha Head from Merv Whole Again"
+    },
+    {
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "url": "https://adrs.systems",
+      "score": 15,
+      "comments": 11,
+      "author": "lumbroso",
+      "time": 1792889027,
+      "hn_url": "https://news.ycombinator.com/item?id=50227041",
+      "title_cn": "【AI】Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git"
+    },
+    {
+      "title": "If AI displaces human workers, they will lose more than just pay",
+      "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+      "score": 12,
+      "comments": 7,
+      "author": "andsoitis",
+      "time": 1792981358,
+      "hn_url": "https://news.ycombinator.com/item?id=50238351",
+      "title_cn": "【AI】If AI displaces human workers, they will lose more than just pay"
+    },
+    {
+      "title": "Show HN: RainbowSay – Learn, teach, research languages live with shows you love",
+      "url": "https://rainbowsay.ai/",
+      "score": 5,
+      "comments": 0,
+      "author": "gigapotential",
+      "time": 1792976893,
+      "hn_url": "https://news.ycombinator.com/item?id=50237773",
+      "title_cn": "【AI】Show HN: RainbowSay – Learn, teach, research languages live with shows you love"
     }
   ]
 }
