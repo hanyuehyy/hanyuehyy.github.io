@@ -1,35 +1,13 @@
 {
-  "updated_at": "2026-10-30T05:08:02.537917",
+  "updated_at": "2026-10-31T04:53:57.537707",
   "github_projects": [
-    {
-      "name": "cleanyourtv",
-      "full_name": "Gathin23/cleanyourtv",
-      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "description_cn": "debloat any android or Google tv over wi-fi and get an apple tv-style home.",
-      "stars": 45681,
-      "forks": 5611,
-      "language": "Python",
-      "url": "https://github.com/Gathin23/cleanyourtv",
-      "topics": [
-        "adb",
-        "adblock",
-        "android-tv",
-        "android-tv-launcher",
-        "apple-tv"
-      ],
-      "created_at": "2026-10-17T08:12:35Z",
-      "owner": {
-        "login": "Gathin23",
-        "avatar_url": "https://avatars.githubusercontent.com/u/94786511?v=4"
-      }
-    },
     {
       "name": "gpu-unlock",
       "full_name": "Zagitta/gpu-unlock",
       "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
       "description_cn": "your geforCe runs AI at half speed. this fixes it for 20/30/40 series Cards. up to 2× fp16 / bf16 / tf32 张量 吞吐量",
-      "stars": 13179,
-      "forks": 1288,
+      "stars": 13531,
+      "forks": 1329,
       "language": "C",
       "url": "https://github.com/Zagitta/gpu-unlock",
       "topics": [],
@@ -44,8 +22,8 @@
       "full_name": "pengchujin/aerial-tv",
       "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "description_cn": "给国产电视的一块干净桌面：参照 tvos 设计的开源 android tv 桌面，没有广告，开机自动接管。a tvos-style launCher for xiaomi, tCl and other China-market tvs.",
-      "stars": 7822,
-      "forks": 652,
+      "stars": 8115,
+      "forks": 681,
       "language": "Kotlin",
       "url": "https://github.com/pengchujin/aerial-tv",
       "topics": [],
@@ -56,56 +34,12 @@
       }
     },
     {
-      "name": "MacNativeGames",
-      "full_name": "ly05010419/MacNativeGames",
-      "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.",
-      "description_cn": "play your own tears of the kingdom and 分支eath of the wild natively 开启 apple sil内联缓存开启 maC, IPh开启e and IPad. 否t an emulator: the game's arm64 Code runs d中间表示eCtly, nvn rebuilt 开启 metal. 分支ing your own game.",
-      "stars": 6469,
-      "forks": 945,
-      "language": "C",
-      "url": "https://github.com/ly05010419/MacNativeGames",
-      "topics": [
-        "apple-silicon",
-        "arm64",
-        "breath-of-the-wild",
-        "game-port",
-        "ios"
-      ],
-      "created_at": "2026-10-17T19:52:00Z",
-      "owner": {
-        "login": "ly05010419",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1425386?v=4"
-      }
-    },
-    {
-      "name": "free-my-tv",
-      "full_name": "simbasjungles/free-my-tv",
-      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-      "description_cn": "a 快速, ad-免费 home sCreen for Google tv, lg 网页os and samsung tizen. 开启e butt开启 to undo.",
-      "stars": 5407,
-      "forks": 901,
-      "language": "Java",
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "topics": [
-        "android-tv",
-        "claude-code",
-        "google-tv",
-        "home-screen",
-        "launcher"
-      ],
-      "created_at": "2026-10-19T19:29:01Z",
-      "owner": {
-        "login": "simbasjungles",
-        "avatar_url": "https://avatars.githubusercontent.com/u/192837953?v=4"
-      }
-    },
-    {
       "name": "cn-math-taxonomy",
       "full_name": "xiaoyang111222/cn-math-taxonomy",
       "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "description_cn": "",
-      "stars": 5303,
-      "forks": 1346,
+      "stars": 5518,
+      "forks": 1401,
       "language": "Python",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "topics": [
@@ -122,12 +56,34 @@
       }
     },
     {
+      "name": "free-my-tv",
+      "full_name": "simbasjungles/free-my-tv",
+      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+      "description_cn": "a 快速, ad-免费 home sCreen for Google tv, lg 网页os and samsung tizen. 开启e butt开启 to undo.",
+      "stars": 5498,
+      "forks": 919,
+      "language": "Java",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "topics": [
+        "android-tv",
+        "claude-code",
+        "google-tv",
+        "home-screen",
+        "launcher"
+      ],
+      "created_at": "2026-10-19T19:29:01Z",
+      "owner": {
+        "login": "simbasjungles",
+        "avatar_url": "https://avatars.githubusercontent.com/u/192837953?v=4"
+      }
+    },
+    {
       "name": "ub-mode",
       "full_name": "unclebob/ub-mode",
       "description": "No description",
       "description_cn": "",
-      "stars": 4862,
-      "forks": 269,
+      "stars": 5445,
+      "forks": 300,
       "language": "Unknown",
       "url": "https://github.com/unclebob/ub-mode",
       "topics": [],
@@ -142,8 +98,8 @@
       "full_name": "rddmwmddr/android-ad-cleaner",
       "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "description_cn": "",
-      "stars": 4801,
-      "forks": 435,
+      "stars": 5142,
+      "forks": 466,
       "language": "Python",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "topics": [
@@ -164,8 +120,8 @@
       "full_name": "JustAResearcher/gpu-unlock-ada",
       "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
       "description_cn": "gpu 张量 un锁 sourCe for rtx 4090 and experimental rtx 4070 ti super; f中间表示mware generated 本地ly",
-      "stars": 4535,
-      "forks": 579,
+      "stars": 4592,
+      "forks": 589,
       "language": "C",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
       "topics": [],
@@ -176,172 +132,216 @@
       }
     },
     {
-      "name": "leanrea",
-      "full_name": "aicodeking/leanrea",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "description_cn": "开启e 8 kb skill that replaCes rea (reverse 引擎er anything): plAIn 命令行工具 工具s, 否 mCp. 基准测试ed: 38% 快速er, 35% C堆er.",
-      "stars": 3662,
-      "forks": 557,
-      "language": "Python",
-      "url": "https://github.com/aicodeking/leanrea",
-      "topics": [],
-      "created_at": "2026-10-17T02:53:24Z",
+      "name": "ai-pose-gallery-zh",
+      "full_name": "anhao/ai-pose-gallery-zh",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "description_cn": "",
+      "stars": 4100,
+      "forks": 1049,
+      "language": "TypeScript",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "topics": [
+        "ai-art",
+        "chinese",
+        "cloudflare-pages",
+        "gallery",
+        "i18n"
+      ],
+      "created_at": "2026-10-27T12:24:37Z",
       "owner": {
-        "login": "aicodeking",
-        "avatar_url": "https://avatars.githubusercontent.com/u/167222040?v=4"
+        "login": "anhao",
+        "avatar_url": "https://avatars.githubusercontent.com/u/9844218?v=4"
+      }
+    },
+    {
+      "name": "Zero-Breach-Toolkit",
+      "full_name": "interplains/Zero-Breach-Toolkit",
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "description_cn": "免费, 开源, 离线 CheCks for traCes of k否wn merCenary spyware. works 开启 windows, maCos and linux, android ph开启es and IPh开启e baCkups.",
+      "stars": 3894,
+      "forks": 417,
+      "language": "Python",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "topics": [],
+      "created_at": "2026-10-25T14:41:34Z",
+      "owner": {
+        "login": "interplains",
+        "avatar_url": "https://avatars.githubusercontent.com/u/39777629?v=4"
+      }
+    },
+    {
+      "name": "day-trader-skill",
+      "full_name": "Jakeschincariol/day-trader-skill",
+      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "description_cn": "11 Claude skills for day trading: sCan thousands of Charts, traCk 分支eaking 新s, time every 条目 and exit, and replay every outCome before you risk a dollar.",
+      "stars": 3676,
+      "forks": 845,
+      "language": "Python",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "topics": [
+        "backtesting",
+        "claude",
+        "claude-skills",
+        "day-trading",
+        "stock-market"
+      ],
+      "created_at": "2026-10-20T14:17:54Z",
+      "owner": {
+        "login": "Jakeschincariol",
+        "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Patrick Stewart has died",
-      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "score": 2634,
-      "comments": 558,
-      "author": "j4mie",
-      "time": 1793302899,
-      "hn_url": "https://news.ycombinator.com/item?id=50294702",
-      "title_cn": "Patrick Stewart has died"
-    },
-    {
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "score": 1284,
-      "comments": 359,
+      "score": 1688,
+      "comments": 435,
       "author": "kuberwastaken",
       "time": 1793283201,
       "hn_url": "https://news.ycombinator.com/item?id=50289418",
       "title_cn": "We're releasing the weights of Mistral Large 4"
     },
     {
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "score": 392,
-      "comments": 207,
-      "author": "ibobev",
-      "time": 1793285875,
-      "hn_url": "https://news.ycombinator.com/item?id=50290177",
-      "title_cn": "【大语言模型】LLM Voice"
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "score": 843,
+      "comments": 508,
+      "author": "_chall",
+      "time": 1793344152,
+      "hn_url": "https://news.ycombinator.com/item?id=50300683",
+      "title_cn": "【Claude】Backdoor in Claude Code for VS Code extension on the Cursor Marketplace"
+    },
+    {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "score": 538,
+      "comments": 404,
+      "author": "dorianniemiec",
+      "time": 1793375538,
+      "hn_url": "https://news.ycombinator.com/item?id=50305693",
+      "title_cn": "【AI】AI isn't replacing SREs, it's deskilling them"
     },
     {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "score": 226,
-      "comments": 72,
+      "score": 400,
+      "comments": 164,
       "author": "sandslash",
       "time": 1793310028,
       "hn_url": "https://news.ycombinator.com/item?id=50296486",
       "title_cn": "【AI】We ran AI agent swarms in Minecraft and Mindustry"
     },
     {
-      "title": "What we know so far about Spain train crash",
-      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-      "score": 172,
-      "comments": 328,
-      "author": "ZeljkoS",
-      "time": 1793264108,
-      "hn_url": "https://news.ycombinator.com/item?id=50286197",
-      "title_cn": "【AI】What we know so far about Spain train crash"
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "score": 263,
+      "comments": 145,
+      "author": "apress",
+      "time": 1793391810,
+      "hn_url": "https://news.ycombinator.com/item?id=50309647",
+      "title_cn": "【AI】Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man"
     },
     {
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
-      "score": 166,
-      "comments": 9,
-      "author": "airinei",
-      "time": 1793305948,
-      "hn_url": "https://news.ycombinator.com/item?id=50295450",
-      "title_cn": "【模型】A tiny world model running games on a Raspberry Pi Pico 2 W"
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "score": 186,
+      "comments": 20,
+      "author": "acossta",
+      "time": 1793190265,
+      "hn_url": "https://news.ycombinator.com/item?id=50272479",
+      "title_cn": "【AI, 大语言模型, 框架】Sleep framework: A new way for LLMs to retain knowledge in continual learning"
     },
     {
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "score": 154,
-      "comments": 66,
-      "author": "mektrik",
-      "time": 1793286377,
-      "hn_url": "https://news.ycombinator.com/item?id=50290283",
-      "title_cn": "【AI】Zombie stats: Where the numbers AI quotes come from"
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "score": 139,
+      "comments": 173,
+      "author": "taubek",
+      "time": 1793369300,
+      "hn_url": "https://news.ycombinator.com/item?id=50304122",
+      "title_cn": "【AI】Cisco gives engineer unlimited AI tokens to rewrite legacy code"
     },
     {
-      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-      "score": 133,
-      "comments": 21,
-      "author": "wondersky",
-      "time": 1793288705,
-      "hn_url": "https://news.ycombinator.com/item?id=50290912",
-      "title_cn": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks"
+      "title": "Infinite Mac: BeOS",
+      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+      "score": 127,
+      "comments": 53,
+      "author": "ecliptik",
+      "time": 1793388609,
+      "hn_url": "https://news.ycombinator.com/item?id=50309029",
+      "title_cn": "Infinite Mac: BeOS"
     },
     {
-      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "url": "https://journal.animationstudies.org/article/id/66/",
-      "score": 80,
-      "comments": 13,
-      "author": "simonebrunozzi",
-      "time": 1793312798,
-      "hn_url": "https://news.ycombinator.com/item?id=50297089",
-      "title_cn": "【AI】A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)"
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "score": 122,
+      "comments": 164,
+      "author": "sgondala_ycapp",
+      "time": 1793311114,
+      "hn_url": "https://news.ycombinator.com/item?id=50296730",
+      "title_cn": "【AI】Building an AI-native engineering org"
     },
     {
-      "title": "Pico CSS is no longer maintained",
-      "url": "https://github.com/picocss/pico/discussions/754",
-      "score": 74,
-      "comments": 21,
-      "author": "henrid",
-      "time": 1793325524,
-      "hn_url": "https://news.ycombinator.com/item?id=50298964",
-      "title_cn": "【AI】Pico CSS is no longer maintained"
-    },
-    {
-      "title": "Iterating Backwards in C",
-      "url": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
-      "score": 67,
-      "comments": 34,
-      "author": "cremno",
-      "time": 1793042899,
-      "hn_url": "https://news.ycombinator.com/item?id=50249598",
-      "title_cn": "Iterating Backwards in C"
-    },
-    {
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "url": "https://github.com/mottopanikeiku/doomformer",
-      "score": 60,
-      "comments": 14,
-      "author": "falperc",
-      "time": 1793316346,
-      "hn_url": "https://news.ycombinator.com/item?id=50297697",
-      "title_cn": "【Transformer模型】Show HN: I Turned DOOM into a Transformer"
-    },
-    {
-      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
-      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
-      "score": 44,
+      "title": "AO3 Down for Maintenance",
+      "url": "https://www.otwstatus.org",
+      "score": 115,
       "comments": 33,
-      "author": "matco11",
-      "time": 1793301948,
-      "hn_url": "https://news.ycombinator.com/item?id=50294486",
-      "title_cn": "【Claude】IgE disruptor for food allergy with Claude-enabled antibody design [pdf]"
+      "author": "idlewords",
+      "time": 1793395043,
+      "hn_url": "https://news.ycombinator.com/item?id=50310258",
+      "title_cn": "【AI】AO3 Down for Maintenance"
     },
     {
-      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
-      "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
-      "score": 29,
-      "comments": 22,
-      "author": "cobychapple",
-      "time": 1793327584,
-      "hn_url": "https://news.ycombinator.com/item?id=50299182",
-      "title_cn": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation"
+      "title": "OpenAI raises less than half of $30B target",
+      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "score": 45,
+      "comments": 17,
+      "author": "timr",
+      "time": 1793416964,
+      "hn_url": "https://news.ycombinator.com/item?id=50312922",
+      "title_cn": "【AI, OpenAI】OpenAI raises less than half of $30B target"
     },
     {
-      "title": "Python on My Wrist",
-      "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
-      "score": 9,
-      "comments": 3,
-      "author": "roywashere",
-      "time": 1793085045,
-      "hn_url": "https://news.ycombinator.com/item?id=50255573",
-      "title_cn": "Python on My Wrist"
+      "title": "Some Thing is Happening A note from the AI companies",
+      "url": "https://alanbellows.com/some-thing-is-happening/",
+      "score": 32,
+      "comments": 8,
+      "author": "DamnInteresting",
+      "time": 1793375622,
+      "hn_url": "https://news.ycombinator.com/item?id=50305724",
+      "title_cn": "【AI】Some Thing is Happening A note from the AI companies"
+    },
+    {
+      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "url": "https://sketch.wakeshift.ai/games/q5ucru",
+      "score": 31,
+      "comments": 9,
+      "author": "ericlevine",
+      "time": 1793373791,
+      "hn_url": "https://news.ycombinator.com/item?id=50305218",
+      "title_cn": "Show HN: Sketch Stadium – watch your agent play Pictionary"
+    },
+    {
+      "title": "Trapped in the Technologist Factory",
+      "url": "https://ideolalia.com/essays/trapped-in-the-technologist-factory.html",
+      "score": 17,
+      "comments": 7,
+      "author": "luu",
+      "time": 1793205038,
+      "hn_url": "https://news.ycombinator.com/item?id=50276355",
+      "title_cn": "Trapped in the Technologist Factory"
+    },
+    {
+      "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
+      "url": "https://publicdomainreview.org/essay/wonderful-weather/",
+      "score": 14,
+      "comments": 0,
+      "author": "Thevet",
+      "time": 1793208899,
+      "hn_url": "https://news.ycombinator.com/item?id=50277518",
+      "title_cn": "【AI】Wonderful Weather: Floods and Foreboding in 17th-Century Britain"
     }
   ]
 }
