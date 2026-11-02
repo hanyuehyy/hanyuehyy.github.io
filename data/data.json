@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-11-01T05:20:59.422182",
+  "updated_at": "2026-11-02T05:19:37.619814",
   "github_projects": [
+    {
+      "name": "dsh-superagent-prototype",
+      "full_name": "deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "description_cn": "towards a more aut开启omous 智能体 系统",
+      "stars": 9231,
+      "forks": 939,
+      "language": "TypeScript",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "topics": [],
+      "created_at": "2026-10-31T09:32:46Z",
+      "owner": {
+        "login": "deepseek-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+      }
+    },
     {
       "name": "aerial-tv",
       "full_name": "pengchujin/aerial-tv",
       "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "description_cn": "给国产电视的一块干净桌面：参照 tvos 设计的开源 android tv 桌面，没有广告，开机自动接管。a tvos-style launCher for xiaomi, tCl and other China-market tvs.",
-      "stars": 8390,
-      "forks": 699,
+      "stars": 8764,
+      "forks": 743,
       "language": "Kotlin",
       "url": "https://github.com/pengchujin/aerial-tv",
       "topics": [],
@@ -22,8 +38,8 @@
       "full_name": "unclebob/ub-mode",
       "description": "No description",
       "description_cn": "",
-      "stars": 5892,
-      "forks": 327,
+      "stars": 6328,
+      "forks": 357,
       "language": "Unknown",
       "url": "https://github.com/unclebob/ub-mode",
       "topics": [],
@@ -34,34 +50,12 @@
       }
     },
     {
-      "name": "free-my-tv",
-      "full_name": "simbasjungles/free-my-tv",
-      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-      "description_cn": "a 快速, ad-免费 home sCreen for Google tv, lg 网页os and samsung tizen. 开启e butt开启 to undo.",
-      "stars": 5586,
-      "forks": 944,
-      "language": "Java",
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "topics": [
-        "android-tv",
-        "claude-code",
-        "google-tv",
-        "home-screen",
-        "launcher"
-      ],
-      "created_at": "2026-10-19T19:29:01Z",
-      "owner": {
-        "login": "simbasjungles",
-        "avatar_url": "https://avatars.githubusercontent.com/u/192837953?v=4"
-      }
-    },
-    {
       "name": "android-ad-cleaner",
       "full_name": "rddmwmddr/android-ad-cleaner",
       "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "description_cn": "",
-      "stars": 5433,
-      "forks": 488,
+      "stars": 5717,
+      "forks": 512,
       "language": "Python",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "topics": [
@@ -82,8 +76,8 @@
       "full_name": "anhao/ai-pose-gallery-zh",
       "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "description_cn": "",
-      "stars": 4808,
-      "forks": 1222,
+      "stars": 5243,
+      "forks": 1336,
       "language": "TypeScript",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "topics": [
@@ -100,57 +94,19 @@
       }
     },
     {
-      "name": "gpu-unlock-ada",
-      "full_name": "JustAResearcher/gpu-unlock-ada",
-      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-      "description_cn": "gpu 张量 un锁 sourCe for rtx 4090 and experimental rtx 4070 ti super; f中间表示mware generated 本地ly",
-      "stars": 4633,
-      "forks": 593,
-      "language": "C",
-      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "name": "unslop",
+      "full_name": "heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "description_cn": "a Claude skill that turns vibeCoded, AI-looking ui into a designed inter面",
+      "stars": 5069,
+      "forks": 255,
+      "language": "JavaScript",
+      "url": "https://github.com/heydamir/unslop",
       "topics": [],
-      "created_at": "2026-10-23T21:00:53Z",
+      "created_at": "2026-10-29T15:41:21Z",
       "owner": {
-        "login": "JustAResearcher",
-        "avatar_url": "https://avatars.githubusercontent.com/u/62031663?v=4"
-      }
-    },
-    {
-      "name": "Zero-Breach-Toolkit",
-      "full_name": "interplains/Zero-Breach-Toolkit",
-      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-      "description_cn": "免费, 开源, 离线 CheCks for traCes of k否wn merCenary spyware. works 开启 windows, maCos and linux, android ph开启es and IPh开启e baCkups.",
-      "stars": 4018,
-      "forks": 428,
-      "language": "Python",
-      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "topics": [],
-      "created_at": "2026-10-25T14:41:34Z",
-      "owner": {
-        "login": "interplains",
-        "avatar_url": "https://avatars.githubusercontent.com/u/39777629?v=4"
-      }
-    },
-    {
-      "name": "day-trader-skill",
-      "full_name": "Jakeschincariol/day-trader-skill",
-      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-      "description_cn": "11 Claude skills for day trading: sCan thousands of Charts, traCk 分支eaking 新s, time every 条目 and exit, and replay every outCome before you risk a dollar.",
-      "stars": 4014,
-      "forks": 943,
-      "language": "Python",
-      "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "topics": [
-        "backtesting",
-        "claude",
-        "claude-skills",
-        "day-trading",
-        "stock-market"
-      ],
-      "created_at": "2026-10-20T14:17:54Z",
-      "owner": {
-        "login": "Jakeschincariol",
-        "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+        "login": "heydamir",
+        "avatar_url": "https://avatars.githubusercontent.com/u/97800728?v=4"
       }
     },
     {
@@ -158,8 +114,8 @@
       "full_name": "ccch1mneyyy/dsh-Go",
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "description_cn": "",
-      "stars": 3799,
-      "forks": 178,
+      "stars": 4983,
+      "forks": 244,
       "language": "Dart",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
       "topics": [
@@ -176,172 +132,216 @@
       }
     },
     {
-      "name": "unslop",
-      "full_name": "heydamir/unslop",
-      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "description_cn": "a Claude skill that turns vibeCoded, AI-looking ui into a designed inter面",
-      "stars": 3724,
-      "forks": 183,
-      "language": "JavaScript",
-      "url": "https://github.com/heydamir/unslop",
+      "name": "gpu-unlock-ada",
+      "full_name": "JustAResearcher/gpu-unlock-ada",
+      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "description_cn": "gpu 张量 un锁 sourCe for rtx 4090 and experimental rtx 4070 ti super; f中间表示mware generated 本地ly",
+      "stars": 4675,
+      "forks": 598,
+      "language": "C",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
       "topics": [],
-      "created_at": "2026-10-29T15:41:21Z",
+      "created_at": "2026-10-23T21:00:53Z",
       "owner": {
-        "login": "heydamir",
-        "avatar_url": "https://avatars.githubusercontent.com/u/97800728?v=4"
+        "login": "JustAResearcher",
+        "avatar_url": "https://avatars.githubusercontent.com/u/62031663?v=4"
+      }
+    },
+    {
+      "name": "day-trader-skill",
+      "full_name": "Jakeschincariol/day-trader-skill",
+      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "description_cn": "11 Claude skills for day trading: sCan thousands of Charts, traCk 分支eaking 新s, time every 条目 and exit, and replay every outCome before you risk a dollar.",
+      "stars": 4364,
+      "forks": 1039,
+      "language": "Python",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "topics": [
+        "backtesting",
+        "claude",
+        "claude-skills",
+        "day-trading",
+        "stock-market"
+      ],
+      "created_at": "2026-10-20T14:17:54Z",
+      "owner": {
+        "login": "Jakeschincariol",
+        "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+      }
+    },
+    {
+      "name": "Mika",
+      "full_name": "wangzan101/Mika",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "description_cn": "an 开启-dev内联缓存e AI 智能体 for android that operates apps and the 网页 to get things d开启e for you.",
+      "stars": 4273,
+      "forks": 815,
+      "language": "Kotlin",
+      "url": "https://github.com/wangzan101/Mika",
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose"
+      ],
+      "created_at": "2026-10-29T14:34:07Z",
+      "owner": {
+        "login": "wangzan101",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102038245?v=4"
       }
     }
   ],
   "ai_news": [
     {
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "score": 972,
-      "comments": 547,
-      "author": "_chall",
-      "time": 1793344152,
-      "hn_url": "https://news.ycombinator.com/item?id=50300683",
-      "title_cn": "【Claude】Backdoor in Claude Code for VS Code extension on the Cursor Marketplace"
-    },
-    {
-      "title": "Serbia just elected the world's brainiest parliament",
-      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "score": 843,
-      "comments": 479,
-      "author": "input_sh",
-      "time": 1793442090,
-      "hn_url": "https://news.ycombinator.com/item?id=50314654",
-      "title_cn": "【AI】Serbia just elected the world's brainiest parliament"
-    },
-    {
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "score": 314,
-      "comments": 157,
-      "author": "armcat",
-      "time": 1793442611,
-      "hn_url": "https://news.ycombinator.com/item?id=50314699",
-      "title_cn": "【GPT】Do the math: How we took over ChatGPT accounts"
-    },
-    {
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "score": 281,
-      "comments": 152,
-      "author": "pretext",
-      "time": 1793475559,
-      "hn_url": "https://news.ycombinator.com/item?id=50319358",
-      "title_cn": "【AI, Anthropic, 模型】Anthropic blocks users for anything touching training larger models"
-    },
-    {
-      "title": "Simple circuits can create complex behaviors",
-      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-      "score": 227,
-      "comments": 73,
-      "author": "aatish",
-      "time": 1793116866,
-      "hn_url": "https://news.ycombinator.com/item?id=50261253",
-      "title_cn": "Simple circuits can create complex behaviors"
-    },
-    {
-      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-      "score": 195,
-      "comments": 47,
-      "author": "datascientist",
-      "time": 1793287788,
-      "hn_url": "https://news.ycombinator.com/item?id=50290652",
-      "title_cn": "【AI】AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura"
-    },
-    {
       "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
       "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "score": 147,
-      "comments": 82,
+      "score": 434,
+      "comments": 211,
       "author": "guregodevo",
       "time": 1793486772,
       "hn_url": "https://news.ycombinator.com/item?id=50320995",
       "title_cn": "【模型】Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard"
     },
     {
-      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
-      "score": 124,
-      "comments": 76,
-      "author": "firesteelrain",
-      "time": 1793480878,
-      "hn_url": "https://news.ycombinator.com/item?id=50320255",
-      "title_cn": "【Anthropic, Claude】Anthropic takes steps to block Claude from reverse-engineering video games"
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "score": 334,
+      "comments": 254,
+      "author": "luu",
+      "time": 1793513179,
+      "hn_url": "https://news.ycombinator.com/item?id=50323088",
+      "title_cn": "【AI, 框架】The AI cost of JavaScript frameworks"
     },
     {
-      "title": "The Duty of a Scholar",
-      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-      "score": 104,
-      "comments": 31,
-      "author": "gslin",
-      "time": 1793473656,
-      "hn_url": "https://news.ycombinator.com/item?id=50319061",
-      "title_cn": "The Duty of a Scholar"
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "score": 203,
+      "comments": 122,
+      "author": "soheilpro",
+      "time": 1793410736,
+      "hn_url": "https://news.ycombinator.com/item?id=50312408",
+      "title_cn": "Postgres 19 is late because so many more bugs are being found now"
     },
     {
-      "title": "Show HN: A language model that lives in a boot sector",
-      "url": "https://github.com/kerlenton/bootgpt",
-      "score": 71,
-      "comments": 3,
-      "author": "kerlenton",
-      "time": 1793451509,
-      "hn_url": "https://news.ycombinator.com/item?id=50315782",
-      "title_cn": "【模型】Show HN: A language model that lives in a boot sector"
+      "title": "Frontier Airlines Likely Breached",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "score": 192,
+      "comments": 75,
+      "author": "999900000999",
+      "time": 1793551593,
+      "hn_url": "https://news.ycombinator.com/item?id=50327266",
+      "title_cn": "【AI】Frontier Airlines Likely Breached"
     },
     {
-      "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
-      "url": "https://github.com/Koppar-AI/koppar-lte-modem",
-      "score": 52,
-      "comments": 36,
-      "author": "abijahkaj",
-      "time": 1793462201,
-      "hn_url": "https://news.ycombinator.com/item?id=50317331",
-      "title_cn": "Show HN: A USB-C LTE modem that gives my computer a phone line"
-    },
-    {
-      "title": "ChatGPT and Codex usage limits merging",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "score": 45,
-      "comments": 16,
-      "author": "Zariel",
-      "time": 1793483347,
-      "hn_url": "https://news.ycombinator.com/item?id=50320588",
-      "title_cn": "【GPT】ChatGPT and Codex usage limits merging"
-    },
-    {
-      "title": "AI text watermarking and quality loss",
-      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "score": 41,
-      "comments": 7,
-      "author": "danielfoster",
-      "time": 1793483413,
-      "hn_url": "https://news.ycombinator.com/item?id=50320599",
-      "title_cn": "【AI】AI text watermarking and quality loss"
-    },
-    {
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
       "url": "https://arxiv.org/abs/2409.02292",
-      "score": 35,
-      "comments": 14,
+      "score": 188,
+      "comments": 95,
       "author": "hapax_legomena",
       "time": 1793497589,
       "hn_url": "https://news.ycombinator.com/item?id=50322022",
-      "title_cn": "【AI】Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM"
+      "title_cn": "【AI】Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)"
     },
     {
-      "title": "Edgar Allan Poe, Quintessential American Writer",
-      "url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
-      "score": 19,
-      "comments": 0,
-      "author": "samclemens",
-      "time": 1793250600,
-      "hn_url": "https://news.ycombinator.com/item?id=50284789",
-      "title_cn": "Edgar Allan Poe, Quintessential American Writer"
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "score": 162,
+      "comments": 77,
+      "author": "entryleveljobsc",
+      "time": 1793540844,
+      "hn_url": "https://news.ycombinator.com/item?id=50325662",
+      "title_cn": "【AI】AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy"
+    },
+    {
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "score": 152,
+      "comments": 43,
+      "author": "gmays",
+      "time": 1793550206,
+      "hn_url": "https://news.ycombinator.com/item?id=50327058",
+      "title_cn": "Seoul Viosys begins production of rare-earth-free white light emitter"
+    },
+    {
+      "title": "Understanding Email Encryption (2025)",
+      "url": "https://www.fastmail.com/blog/email-encryption/",
+      "score": 130,
+      "comments": 27,
+      "author": "nmjenkins",
+      "time": 1793393756,
+      "hn_url": "https://news.ycombinator.com/item?id=50310038",
+      "title_cn": "【AI】Understanding Email Encryption (2025)"
+    },
+    {
+      "title": "Novellas with Groff",
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "score": 118,
+      "comments": 51,
+      "author": "dverlaeckt80",
+      "time": 1793541101,
+      "hn_url": "https://news.ycombinator.com/item?id=50325694",
+      "title_cn": "Novellas with Groff"
+    },
+    {
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+      "score": 68,
+      "comments": 48,
+      "author": "n_plus_1_acc",
+      "time": 1793529860,
+      "hn_url": "https://news.ycombinator.com/item?id=50324371",
+      "title_cn": "【AI】Domain hacks with unusual Unicode characters (2018)"
+    },
+    {
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "score": 60,
+      "comments": 31,
+      "author": "stevenalowe",
+      "time": 1793329612,
+      "hn_url": "https://news.ycombinator.com/item?id=50299427",
+      "title_cn": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras"
+    },
+    {
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "score": 53,
+      "comments": 25,
+      "author": "rdmuser",
+      "time": 1793584027,
+      "hn_url": "https://news.ycombinator.com/item?id=50332086",
+      "title_cn": "【AI】AI fan wikis riddled with errors are muddying the waters of games culture"
+    },
+    {
+      "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
+      "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
+      "score": 36,
+      "comments": 7,
+      "author": "gulmothrowaway",
+      "time": 1793552494,
+      "hn_url": "https://news.ycombinator.com/item?id=50327416",
+      "title_cn": "【AI, OpenAI】I Am the Reason OpenAI Is Killing Unlimited Chats"
+    },
+    {
+      "title": "The Megadonors Who Have Poured $1.2B into the Midterms",
+      "url": "https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html",
+      "score": 34,
+      "comments": 18,
+      "author": "doener",
+      "time": 1793576819,
+      "hn_url": "https://news.ycombinator.com/item?id=50331158",
+      "title_cn": "The Megadonors Who Have Poured $1.2B into the Midterms"
+    },
+    {
+      "title": "Postmortem on Claude Code Cursor extension hack",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+      "score": 6,
+      "comments": 1,
+      "author": "soundworlds",
+      "time": 1793587286,
+      "hn_url": "https://news.ycombinator.com/item?id=50332497",
+      "title_cn": "【Claude】Postmortem on Claude Code Cursor extension hack"
     }
   ]
 }
