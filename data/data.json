@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-03T05:59:46.616851",
+  "updated_at": "2026-11-04T05:39:22.851287",
   "github_projects": [
     {
       "name": "dsh-superagent-prototype",
       "full_name": "deepseek-ai/dsh-superagent-prototype",
       "description": "Towards a More Autonomous Agent System",
       "description_cn": "towards a more aut开启omous 智能体 系统",
-      "stars": 14279,
-      "forks": 1525,
+      "stars": 17400,
+      "forks": 1884,
       "language": "TypeScript",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "topics": [],
@@ -18,35 +18,19 @@
       }
     },
     {
-      "name": "ub-mode",
-      "full_name": "unclebob/ub-mode",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 6619,
-      "forks": 372,
-      "language": "Unknown",
-      "url": "https://github.com/unclebob/ub-mode",
+      "name": "craft-anything",
+      "full_name": "storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "description_cn": "Craft anything: understand how any software works, and Craft your own.",
+      "stars": 9074,
+      "forks": 1502,
+      "language": "Rust",
+      "url": "https://github.com/storytold/craft-anything",
       "topics": [],
-      "created_at": "2026-10-25T16:04:09Z",
+      "created_at": "2026-10-31T14:50:00Z",
       "owner": {
-        "login": "unclebob",
-        "avatar_url": "https://avatars.githubusercontent.com/u/36901?v=4"
-      }
-    },
-    {
-      "name": "unslop",
-      "full_name": "heydamir/unslop",
-      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "description_cn": "a Claude skill that turns vibeCoded, AI-looking ui into a designed inter面",
-      "stars": 6524,
-      "forks": 333,
-      "language": "JavaScript",
-      "url": "https://github.com/heydamir/unslop",
-      "topics": [],
-      "created_at": "2026-10-29T15:41:21Z",
-      "owner": {
-        "login": "heydamir",
-        "avatar_url": "https://avatars.githubusercontent.com/u/97800728?v=4"
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
       }
     },
     {
@@ -54,8 +38,8 @@
       "full_name": "ccch1mneyyy/dsh-Go",
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "description_cn": "",
-      "stars": 6216,
-      "forks": 309,
+      "stars": 8085,
+      "forks": 387,
       "language": "Dart",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
       "topics": [
@@ -72,25 +56,35 @@
       }
     },
     {
-      "name": "android-ad-cleaner",
-      "full_name": "rddmwmddr/android-ad-cleaner",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "description_cn": "",
-      "stars": 5956,
-      "forks": 537,
-      "language": "Python",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "topics": [
-        "adb",
-        "ai-agent",
-        "android",
-        "coloros",
-        "debloat"
-      ],
-      "created_at": "2026-10-24T05:35:47Z",
+      "name": "unslop",
+      "full_name": "heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "description_cn": "a Claude skill that turns vibeCoded, AI-looking ui into a designed inter面",
+      "stars": 7696,
+      "forks": 385,
+      "language": "JavaScript",
+      "url": "https://github.com/heydamir/unslop",
+      "topics": [],
+      "created_at": "2026-10-29T15:41:21Z",
       "owner": {
-        "login": "rddmwmddr",
-        "avatar_url": "https://avatars.githubusercontent.com/u/5119232?v=4"
+        "login": "heydamir",
+        "avatar_url": "https://avatars.githubusercontent.com/u/97800728?v=4"
+      }
+    },
+    {
+      "name": "ub-mode",
+      "full_name": "unclebob/ub-mode",
+      "description": "No description",
+      "description_cn": "",
+      "stars": 6825,
+      "forks": 382,
+      "language": "Unknown",
+      "url": "https://github.com/unclebob/ub-mode",
+      "topics": [],
+      "created_at": "2026-10-25T16:04:09Z",
+      "owner": {
+        "login": "unclebob",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36901?v=4"
       }
     },
     {
@@ -98,8 +92,8 @@
       "full_name": "wangzan101/Mika",
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "description_cn": "an 开启-dev内联缓存e AI 智能体 for android that operates apps and the 网页 to get things d开启e for you.",
-      "stars": 5589,
-      "forks": 1088,
+      "stars": 6182,
+      "forks": 1201,
       "language": "Kotlin",
       "url": "https://github.com/wangzan101/Mika",
       "topics": [
@@ -116,12 +110,34 @@
       }
     },
     {
+      "name": "android-ad-cleaner",
+      "full_name": "rddmwmddr/android-ad-cleaner",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "description_cn": "",
+      "stars": 6153,
+      "forks": 558,
+      "language": "Python",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "topics": [
+        "adb",
+        "ai-agent",
+        "android",
+        "coloros",
+        "debloat"
+      ],
+      "created_at": "2026-10-24T05:35:47Z",
+      "owner": {
+        "login": "rddmwmddr",
+        "avatar_url": "https://avatars.githubusercontent.com/u/5119232?v=4"
+      }
+    },
+    {
       "name": "ai-pose-gallery-zh",
       "full_name": "anhao/ai-pose-gallery-zh",
       "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "description_cn": "",
-      "stars": 5577,
-      "forks": 1418,
+      "stars": 5816,
+      "forks": 1486,
       "language": "TypeScript",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "topics": [
@@ -138,50 +154,12 @@
       }
     },
     {
-      "name": "openidea",
-      "full_name": "l0ng-ai/openidea",
-      "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
-      "description_cn": "the ide you k否w, rebuilt in Rust. intellij idea–style 键映射, 工具 windows and 搜索-everywhere in a 快速 native app: 编辑者, Code insight, 调试器, git, ter最小al, 数据库 and HTTP 客户端s for 60+ languages.",
-      "stars": 5197,
-      "forks": 415,
-      "language": "TypeScript",
-      "url": "https://github.com/l0ng-ai/openidea",
-      "topics": [
-        "code-editor",
-        "cross-platform",
-        "dap",
-        "database-client",
-        "debugger"
-      ],
-      "created_at": "2026-10-21T12:23:14Z",
-      "owner": {
-        "login": "l0ng-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/24760907?v=4"
-      }
-    },
-    {
-      "name": "craft-anything",
-      "full_name": "storytold/craft-anything",
-      "description": "Craft Anything: understand how any software works, and craft your own.",
-      "description_cn": "Craft anything: understand how any software works, and Craft your own.",
-      "stars": 5093,
-      "forks": 841,
-      "language": "Rust",
-      "url": "https://github.com/storytold/craft-anything",
-      "topics": [],
-      "created_at": "2026-10-31T14:50:00Z",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      }
-    },
-    {
       "name": "gpu-unlock-ada",
       "full_name": "JustAResearcher/gpu-unlock-ada",
       "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
       "description_cn": "gpu 张量 un锁 sourCe for rtx 4090 and experimental rtx 4070 ti super; f中间表示mware generated 本地ly",
-      "stars": 4714,
-      "forks": 603,
+      "stars": 4743,
+      "forks": 604,
       "language": "C",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
       "topics": [],
@@ -190,158 +168,180 @@
         "login": "JustAResearcher",
         "avatar_url": "https://avatars.githubusercontent.com/u/62031663?v=4"
       }
+    },
+    {
+      "name": "totk-pc-recomp",
+      "full_name": "valentderah/totk-pc-recomp",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+      "description_cn": "stat内联缓存 re编ilati开启 of the legend of zelda: tears of the kingdom to native windows and linux x86-64, with a vulkan renderer. game files 否t inCluded.",
+      "stars": 4586,
+      "forks": 368,
+      "language": "C",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "topics": [
+        "game",
+        "linux",
+        "port",
+        "recompilation",
+        "windows"
+      ],
+      "created_at": "2026-10-29T12:32:46Z",
+      "owner": {
+        "login": "valentderah",
+        "avatar_url": "https://avatars.githubusercontent.com/u/41872026?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "score": 815,
-      "comments": 484,
-      "author": "soheilpro",
-      "time": 1793410736,
-      "hn_url": "https://news.ycombinator.com/item?id=50312408",
-      "title_cn": "Postgres 19 is late because so many more bugs are being found now"
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "score": 1139,
+      "comments": 375,
+      "author": "sidgarimella",
+      "time": 1793726557,
+      "hn_url": "https://news.ycombinator.com/item?id=50354960",
+      "title_cn": "【AI, API】Postman silently auto-installs AI plugins and attempts to share all API data"
     },
     {
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "score": 339,
-      "comments": 341,
-      "author": "xoobdev",
-      "time": 1793637276,
-      "hn_url": "https://news.ycombinator.com/item?id=50339397",
-      "title_cn": "US boy names that became girl names and vice versa"
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "score": 698,
+      "comments": 290,
+      "author": "xx_ns",
+      "time": 1793636959,
+      "hn_url": "https://news.ycombinator.com/item?id=50339288",
+      "title_cn": "【AI】Jailbreaking my car's navigation system just so I can change the time"
     },
     {
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "score": 306,
-      "comments": 245,
-      "author": "entryleveljobsc",
-      "time": 1793637629,
-      "hn_url": "https://news.ycombinator.com/item?id=50339494",
-      "title_cn": "【AI, Anthropic】Anthropic's internal AI use, at retail prices, now exceeds its employee pay"
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "score": 543,
+      "comments": 171,
+      "author": "theanonymousone",
+      "time": 1793727600,
+      "hn_url": "https://news.ycombinator.com/item?id=50355251",
+      "title_cn": "【模型】Qwen 3.8 27B on my laptop can interpret model weights, too"
     },
     {
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "score": 278,
-      "comments": 217,
-      "author": "cdrnsf",
-      "time": 1793658647,
-      "hn_url": "https://news.ycombinator.com/item?id=50344919",
-      "title_cn": "【Anthropic】The SEC Should Block Anthropic's IPO to Protect the Public"
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "score": 479,
+      "comments": 167,
+      "author": "nharada",
+      "time": 1793724449,
+      "hn_url": "https://news.ycombinator.com/item?id=50354358",
+      "title_cn": "【机器人】Stringman, an $800 open-source room scale gripper robot"
     },
     {
-      "title": "Anthropic's growth just flattened",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "score": 193,
-      "comments": 223,
-      "author": "cdrnsf",
-      "time": 1793658800,
-      "hn_url": "https://news.ycombinator.com/item?id=50344958",
-      "title_cn": "【Anthropic】Anthropic's growth just flattened"
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "score": 427,
+      "comments": 181,
+      "author": "bookofjoe",
+      "time": 1793628162,
+      "hn_url": "https://news.ycombinator.com/item?id=50336918",
+      "title_cn": "【AI】Fujifilm to boost tape production 5x as AI fuels archiving demand"
     },
     {
-      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-      "score": 169,
-      "comments": 119,
-      "author": "entryleveljobsc",
-      "time": 1793664533,
-      "hn_url": "https://news.ycombinator.com/item?id=50346153",
-      "title_cn": "Intel stock collapse worsens as $3.5T chip rout spreads"
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
-      "score": 141,
-      "comments": 62,
-      "author": "makeramen",
-      "time": 1793663276,
-      "hn_url": "https://news.ycombinator.com/item?id=50345924",
-      "title_cn": "【AI, OpenAI】Scaling Git at OpenAI"
-    },
-    {
-      "title": "Egoless Mathematics in the AI Era",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "score": 139,
-      "comments": 94,
-      "author": "smilelamp",
-      "time": 1793645684,
-      "hn_url": "https://news.ycombinator.com/item?id=50341736",
-      "title_cn": "【AI】Egoless Mathematics in the AI Era"
-    },
-    {
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "score": 137,
-      "comments": 91,
-      "author": "wuweiweiwu",
-      "time": 1793639125,
-      "hn_url": "https://news.ycombinator.com/item?id=50339913",
-      "title_cn": "【推出】Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app"
-    },
-    {
-      "title": "Agentic backdoors via pretraining poisoning",
-      "url": "https://arxiv.org/abs/2610.37741",
-      "score": 94,
-      "comments": 29,
-      "author": "gmays",
-      "time": 1793644258,
-      "hn_url": "https://news.ycombinator.com/item?id=50341334",
-      "title_cn": "【AI, 训练】Agentic backdoors via pretraining poisoning"
-    },
-    {
-      "title": "Skill to Create Product Videos",
-      "url": "https://github.com/aaitor/skill-video-studio",
-      "score": 85,
-      "comments": 26,
-      "author": "aaitor",
-      "time": 1793643039,
-      "hn_url": "https://news.ycombinator.com/item?id=50340992",
-      "title_cn": "Skill to Create Product Videos"
-    },
-    {
-      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
-      "url": "https://longcat.ai/blog/longcat-2.5/",
-      "score": 81,
-      "comments": 22,
-      "author": "pretext",
-      "time": 1793631626,
-      "hn_url": "https://news.ycombinator.com/item?id=50337716",
-      "title_cn": "LongCat-2.5: Native Multimodality for Agentic Tasks"
-    },
-    {
-      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
-      "score": 71,
-      "comments": 11,
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "score": 288,
+      "comments": 48,
       "author": "ibobev",
-      "time": 1793631381,
-      "hn_url": "https://news.ycombinator.com/item?id=50337661",
-      "title_cn": "【AI】C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)"
+      "time": 1793742053,
+      "hn_url": "https://news.ycombinator.com/item?id=50358582",
+      "title_cn": "【AI】The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer"
     },
     {
-      "title": "LLMs are not superhuman at reading and writing neural network weights",
-      "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-      "score": 50,
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "score": 199,
+      "comments": 13,
+      "author": "ibobev",
+      "time": 1793742666,
+      "hn_url": "https://news.ycombinator.com/item?id=50358702",
+      "title_cn": "The Internals of PostgreSQL"
+    },
+    {
+      "title": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "score": 174,
+      "comments": 76,
+      "author": "thatxliner",
+      "time": 1793752402,
+      "hn_url": "https://news.ycombinator.com/item?id=50360164",
+      "title_cn": "C++26 Disapproved"
+    },
+    {
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "score": 119,
+      "comments": 104,
+      "author": "citelao",
+      "time": 1793729471,
+      "hn_url": "https://news.ycombinator.com/item?id=50355767",
+      "title_cn": "【AI】How I use AI (Oct 2026)"
+    },
+    {
+      "title": "We're training a Figma-fluent editing model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "score": 95,
+      "comments": 44,
+      "author": "gmays",
+      "time": 1793505923,
+      "hn_url": "https://news.ycombinator.com/item?id=50322603",
+      "title_cn": "【AI, 模型, 训练】We're training a Figma-fluent editing model"
+    },
+    {
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "url": "https://github.com/finic-ai/kairos",
+      "score": 80,
+      "comments": 17,
+      "author": "ayanb9440",
+      "time": 1793740608,
+      "hn_url": "https://news.ycombinator.com/item?id=50358314",
+      "title_cn": "【AI】Show HN: Kairos – Open-source risk and fraud decisioning platform"
+    },
+    {
+      "title": "Introduction to Programming in ATS",
+      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+      "score": 64,
+      "comments": 9,
+      "author": "ibobev",
+      "time": 1793733918,
+      "hn_url": "https://news.ycombinator.com/item?id=50356913",
+      "title_cn": "Introduction to Programming in ATS"
+    },
+    {
+      "title": "There is no posttraining data commons",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "score": 51,
+      "comments": 16,
+      "author": "lukasschwab",
+      "time": 1793717147,
+      "hn_url": "https://news.ycombinator.com/item?id=50352641",
+      "title_cn": "【AI, 训练】There is no posttraining data commons"
+    },
+    {
+      "title": "Union Types and Option Types (2025)",
+      "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
+      "score": 32,
+      "comments": 13,
+      "author": "g0xA52A2A",
+      "time": 1793650113,
+      "hn_url": "https://news.ycombinator.com/item?id=50342931",
+      "title_cn": "Union Types and Option Types (2025)"
+    },
+    {
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "score": 12,
       "comments": 4,
-      "author": "agrm",
-      "time": 1793658413,
-      "hn_url": "https://news.ycombinator.com/item?id=50344861",
-      "title_cn": "【神经网络, 大语言模型】LLMs are not superhuman at reading and writing neural network weights"
-    },
-    {
-      "title": "WiCi: Connecting GPUs over WiFi",
-      "url": "https://wici.ai",
-      "score": 4,
-      "comments": 3,
-      "author": "shubham0204",
-      "time": 1793496591,
-      "hn_url": "https://news.ycombinator.com/item?id=50321939",
-      "title_cn": "WiCi: Connecting GPUs over WiFi"
+      "author": "passkey1510",
+      "time": 1793740803,
+      "hn_url": "https://news.ycombinator.com/item?id=50358352",
+      "title_cn": "【大语言模型】Show HN: Uncracked City, detective game where you question LLM suspects that lie"
     }
   ]
 }
