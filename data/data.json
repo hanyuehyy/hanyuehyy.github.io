@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-04T05:39:22.851287",
+  "updated_at": "2026-11-05T05:57:17.904670",
   "github_projects": [
     {
       "name": "dsh-superagent-prototype",
       "full_name": "deepseek-ai/dsh-superagent-prototype",
       "description": "Towards a More Autonomous Agent System",
       "description_cn": "towards a more aut开启omous 智能体 系统",
-      "stars": 17400,
-      "forks": 1884,
+      "stars": 18822,
+      "forks": 2112,
       "language": "TypeScript",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "topics": [],
@@ -22,8 +22,8 @@
       "full_name": "storytold/craft-anything",
       "description": "Craft Anything: understand how any software works, and craft your own.",
       "description_cn": "Craft anything: understand how any software works, and Craft your own.",
-      "stars": 9074,
-      "forks": 1502,
+      "stars": 12786,
+      "forks": 2139,
       "language": "Rust",
       "url": "https://github.com/storytold/craft-anything",
       "topics": [],
@@ -38,8 +38,8 @@
       "full_name": "ccch1mneyyy/dsh-Go",
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "description_cn": "",
-      "stars": 8085,
-      "forks": 387,
+      "stars": 10090,
+      "forks": 455,
       "language": "Dart",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
       "topics": [
@@ -60,8 +60,8 @@
       "full_name": "heydamir/unslop",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "description_cn": "a Claude skill that turns vibeCoded, AI-looking ui into a designed inter面",
-      "stars": 7696,
-      "forks": 385,
+      "stars": 8875,
+      "forks": 438,
       "language": "JavaScript",
       "url": "https://github.com/heydamir/unslop",
       "topics": [],
@@ -76,8 +76,8 @@
       "full_name": "unclebob/ub-mode",
       "description": "No description",
       "description_cn": "",
-      "stars": 6825,
-      "forks": 382,
+      "stars": 7009,
+      "forks": 392,
       "language": "Unknown",
       "url": "https://github.com/unclebob/ub-mode",
       "topics": [],
@@ -92,8 +92,8 @@
       "full_name": "wangzan101/Mika",
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "description_cn": "an 开启-dev内联缓存e AI 智能体 for android that operates apps and the 网页 to get things d开启e for you.",
-      "stars": 6182,
-      "forks": 1201,
+      "stars": 6787,
+      "forks": 1483,
       "language": "Kotlin",
       "url": "https://github.com/wangzan101/Mika",
       "topics": [
@@ -114,8 +114,8 @@
       "full_name": "rddmwmddr/android-ad-cleaner",
       "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "description_cn": "",
-      "stars": 6153,
-      "forks": 558,
+      "stars": 6378,
+      "forks": 579,
       "language": "Python",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "topics": [
@@ -136,8 +136,8 @@
       "full_name": "anhao/ai-pose-gallery-zh",
       "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "description_cn": "",
-      "stars": 5816,
-      "forks": 1486,
+      "stars": 5986,
+      "forks": 1522,
       "language": "TypeScript",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "topics": [
@@ -154,28 +154,12 @@
       }
     },
     {
-      "name": "gpu-unlock-ada",
-      "full_name": "JustAResearcher/gpu-unlock-ada",
-      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-      "description_cn": "gpu 张量 un锁 sourCe for rtx 4090 and experimental rtx 4070 ti super; f中间表示mware generated 本地ly",
-      "stars": 4743,
-      "forks": 604,
-      "language": "C",
-      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "topics": [],
-      "created_at": "2026-10-23T21:00:53Z",
-      "owner": {
-        "login": "JustAResearcher",
-        "avatar_url": "https://avatars.githubusercontent.com/u/62031663?v=4"
-      }
-    },
-    {
       "name": "totk-pc-recomp",
       "full_name": "valentderah/totk-pc-recomp",
       "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
       "description_cn": "stat内联缓存 re编ilati开启 of the legend of zelda: tears of the kingdom to native windows and linux x86-64, with a vulkan renderer. game files 否t inCluded.",
-      "stars": 4586,
-      "forks": 368,
+      "stars": 4918,
+      "forks": 405,
       "language": "C",
       "url": "https://github.com/valentderah/totk-pc-recomp",
       "topics": [
@@ -190,158 +174,180 @@
         "login": "valentderah",
         "avatar_url": "https://avatars.githubusercontent.com/u/41872026?v=4"
       }
+    },
+    {
+      "name": "pixelfx",
+      "full_name": "patch-gg/pixelfx",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "description_cn": "244 像素 art effeCts, every 开启e a small 饼图Ce of Code. plus a Claude Code skill to make your own.",
+      "stars": 4853,
+      "forks": 651,
+      "language": "JavaScript",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "topics": [
+        "agent-skills",
+        "animation",
+        "canvas",
+        "claude-code-plugin",
+        "gamedev"
+      ],
+      "created_at": "2026-10-30T06:43:25Z",
+      "owner": {
+        "login": "patch-gg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/337959018?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "score": 1139,
-      "comments": 375,
-      "author": "sidgarimella",
-      "time": 1793726557,
-      "hn_url": "https://news.ycombinator.com/item?id=50354960",
-      "title_cn": "【AI, API】Postman silently auto-installs AI plugins and attempts to share all API data"
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "score": 1138,
+      "comments": 662,
+      "author": "pseudolus",
+      "time": 1793793137,
+      "hn_url": "https://news.ycombinator.com/item?id=50364336",
+      "title_cn": "【AI】AI is forcing us to pay off 40 years of technical debt"
     },
     {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "score": 698,
-      "comments": 290,
-      "author": "xx_ns",
-      "time": 1793636959,
-      "hn_url": "https://news.ycombinator.com/item?id=50339288",
-      "title_cn": "【AI】Jailbreaking my car's navigation system just so I can change the time"
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "score": 597,
+      "comments": 275,
+      "author": "novaRom",
+      "time": 1793781989,
+      "hn_url": "https://news.ycombinator.com/item?id=50362905",
+      "title_cn": "【推理】Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux"
     },
     {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "score": 543,
-      "comments": 171,
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "score": 450,
+      "comments": 131,
+      "author": "abrarthought",
+      "time": 1793806230,
+      "hn_url": "https://news.ycombinator.com/item?id=50366999",
+      "title_cn": "【模型】Kimi K3.1 Pro model weights are out"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "score": 245,
+      "comments": 138,
+      "author": "dangelosaurus",
+      "time": 1793835194,
+      "hn_url": "https://news.ycombinator.com/item?id=50372929",
+      "title_cn": "A thousand fewer paths to root"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "score": 218,
+      "comments": 68,
+      "author": "itunpredictable",
+      "time": 1793805681,
+      "hn_url": "https://news.ycombinator.com/item?id=50366863",
+      "title_cn": "【AI, OpenAI】OpenAI to acquire Pierre Computer Company"
+    },
+    {
+      "title": "Tencent Hy4",
+      "url": "https://hy.tencent.ai/research/hy4",
+      "score": 217,
+      "comments": 72,
+      "author": "Philpax",
+      "time": 1793801486,
+      "hn_url": "https://news.ycombinator.com/item?id=50365780",
+      "title_cn": "Tencent Hy4"
+    },
+    {
+      "title": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "score": 210,
+      "comments": 136,
+      "author": "davidbarker",
+      "time": 1793835344,
+      "hn_url": "https://news.ycombinator.com/item?id=50372945",
+      "title_cn": "Images 2.6"
+    },
+    {
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "score": 200,
+      "comments": 88,
+      "author": "ltononro",
+      "time": 1793812666,
+      "hn_url": "https://news.ycombinator.com/item?id=50368626",
+      "title_cn": "【模型, 推理】Progress on provable inference for large language models"
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "score": 129,
+      "comments": 53,
+      "author": "peter_d_sherman",
+      "time": 1793822114,
+      "hn_url": "https://news.ycombinator.com/item?id=50370654",
+      "title_cn": "【AI】Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s"
+    },
+    {
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "score": 107,
+      "comments": 201,
+      "author": "PaulHoule",
+      "time": 1793634525,
+      "hn_url": "https://news.ycombinator.com/item?id=50338474",
+      "title_cn": "【AI】Basically no one is using AI agents for their DoorDash orders"
+    },
+    {
+      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "score": 99,
+      "comments": 206,
       "author": "theanonymousone",
-      "time": 1793727600,
-      "hn_url": "https://news.ycombinator.com/item?id=50355251",
-      "title_cn": "【模型】Qwen 3.8 27B on my laptop can interpret model weights, too"
+      "time": 1793808693,
+      "hn_url": "https://news.ycombinator.com/item?id=50367653",
+      "title_cn": "【AI】'It's just vape, nail, charity shops': Can anything save UK high street?"
     },
     {
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "url": "https://neufangled.com/",
-      "score": 479,
-      "comments": 167,
-      "author": "nharada",
-      "time": 1793724449,
-      "hn_url": "https://news.ycombinator.com/item?id=50354358",
-      "title_cn": "【机器人】Stringman, an $800 open-source room scale gripper robot"
+      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "score": 76,
+      "comments": 93,
+      "author": "karakoram",
+      "time": 1793806111,
+      "hn_url": "https://news.ycombinator.com/item?id=50366971",
+      "title_cn": "【AI】YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens"
     },
     {
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "score": 427,
-      "comments": 181,
-      "author": "bookofjoe",
-      "time": 1793628162,
-      "hn_url": "https://news.ycombinator.com/item?id=50336918",
-      "title_cn": "【AI】Fujifilm to boost tape production 5x as AI fuels archiving demand"
-    },
-    {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "score": 288,
-      "comments": 48,
-      "author": "ibobev",
-      "time": 1793742053,
-      "hn_url": "https://news.ycombinator.com/item?id=50358582",
-      "title_cn": "【AI】The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer"
-    },
-    {
-      "title": "The Internals of PostgreSQL",
-      "url": "https://www.interdb.jp/pg/index.html",
-      "score": 199,
-      "comments": 13,
-      "author": "ibobev",
-      "time": 1793742666,
-      "hn_url": "https://news.ycombinator.com/item?id=50358702",
-      "title_cn": "The Internals of PostgreSQL"
-    },
-    {
-      "title": "C++26 Disapproved",
-      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-      "score": 174,
-      "comments": 76,
-      "author": "thatxliner",
-      "time": 1793752402,
-      "hn_url": "https://news.ycombinator.com/item?id=50360164",
-      "title_cn": "C++26 Disapproved"
-    },
-    {
-      "title": "How I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "score": 119,
-      "comments": 104,
-      "author": "citelao",
-      "time": 1793729471,
-      "hn_url": "https://news.ycombinator.com/item?id=50355767",
-      "title_cn": "【AI】How I use AI (Oct 2026)"
-    },
-    {
-      "title": "We're training a Figma-fluent editing model",
-      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-      "score": 95,
-      "comments": 44,
+      "title": "From wild to mild: Friendly foxes show changes in brain region",
+      "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
+      "score": 37,
+      "comments": 7,
       "author": "gmays",
-      "time": 1793505923,
-      "hn_url": "https://news.ycombinator.com/item?id=50322603",
-      "title_cn": "【AI, 模型, 训练】We're training a Figma-fluent editing model"
+      "time": 1793816656,
+      "hn_url": "https://news.ycombinator.com/item?id=50369527",
+      "title_cn": "【AI】From wild to mild: Friendly foxes show changes in brain region"
     },
     {
-      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-      "url": "https://github.com/finic-ai/kairos",
-      "score": 80,
-      "comments": 17,
-      "author": "ayanb9440",
-      "time": 1793740608,
-      "hn_url": "https://news.ycombinator.com/item?id=50358314",
-      "title_cn": "【AI】Show HN: Kairos – Open-source risk and fraud decisioning platform"
+      "title": "American Voters Overwhelmingly Reject AI Data Centers",
+      "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+      "score": 34,
+      "comments": 2,
+      "author": "latexr",
+      "time": 1793839393,
+      "hn_url": "https://news.ycombinator.com/item?id=50373505",
+      "title_cn": "【AI】American Voters Overwhelmingly Reject AI Data Centers"
     },
     {
-      "title": "Introduction to Programming in ATS",
-      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-      "score": 64,
-      "comments": 9,
-      "author": "ibobev",
-      "time": 1793733918,
-      "hn_url": "https://news.ycombinator.com/item?id=50356913",
-      "title_cn": "Introduction to Programming in ATS"
-    },
-    {
-      "title": "There is no posttraining data commons",
-      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
-      "score": 51,
-      "comments": 16,
-      "author": "lukasschwab",
-      "time": 1793717147,
-      "hn_url": "https://news.ycombinator.com/item?id=50352641",
-      "title_cn": "【AI, 训练】There is no posttraining data commons"
-    },
-    {
-      "title": "Union Types and Option Types (2025)",
-      "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
-      "score": 32,
-      "comments": 13,
-      "author": "g0xA52A2A",
-      "time": 1793650113,
-      "hn_url": "https://news.ycombinator.com/item?id=50342931",
-      "title_cn": "Union Types and Option Types (2025)"
-    },
-    {
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "url": "https://uncracked.city",
-      "score": 12,
-      "comments": 4,
-      "author": "passkey1510",
-      "time": 1793740803,
-      "hn_url": "https://news.ycombinator.com/item?id=50358352",
-      "title_cn": "【大语言模型】Show HN: Uncracked City, detective game where you question LLM suspects that lie"
+      "title": "PageScribe: Handwriting and offline dictionary audio for KOReader",
+      "url": "https://aspireai.kiranadimatyam.com/builds/pagescribe/",
+      "score": 18,
+      "comments": 1,
+      "author": "seshakiran",
+      "time": 1793647428,
+      "hn_url": "https://news.ycombinator.com/item?id=50342219",
+      "title_cn": "PageScribe: Handwriting and offline dictionary audio for KOReader"
     }
   ]
 }
