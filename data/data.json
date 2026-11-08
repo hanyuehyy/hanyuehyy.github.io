@@ -1,29 +1,13 @@
 {
-  "updated_at": "2026-11-07T05:25:18.691269",
+  "updated_at": "2026-11-08T05:24:46.833297",
   "github_projects": [
-    {
-      "name": "dsh-superagent-prototype",
-      "full_name": "deepseek-ai/dsh-superagent-prototype",
-      "description": "Towards a More Autonomous Agent System",
-      "description_cn": "towards a more aut开启omous 智能体 系统",
-      "stars": 20373,
-      "forks": 2371,
-      "language": "TypeScript",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "topics": [],
-      "created_at": "2026-10-31T09:32:46Z",
-      "owner": {
-        "login": "deepseek-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      }
-    },
     {
       "name": "craft-anything",
       "full_name": "storytold/craft-anything",
       "description": "Craft Anything: understand how any software works, and craft your own.",
       "description_cn": "Craft anything: understand how any software works, and Craft your own.",
-      "stars": 18571,
-      "forks": 3453,
+      "stars": 21100,
+      "forks": 4094,
       "language": "Rust",
       "url": "https://github.com/storytold/craft-anything",
       "topics": [],
@@ -34,25 +18,19 @@
       }
     },
     {
-      "name": "dsh-Go",
-      "full_name": "ccch1mneyyy/dsh-Go",
-      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "description_cn": "",
-      "stars": 13176,
-      "forks": 595,
-      "language": "Dart",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "topics": [
-        "ai-agent",
-        "android",
-        "android-app",
-        "coding-agent",
-        "deepseek"
-      ],
-      "created_at": "2026-10-25T08:09:52Z",
+      "name": "dsh-superagent-prototype",
+      "full_name": "deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "description_cn": "towards a more aut开启omous 智能体 系统",
+      "stars": 20911,
+      "forks": 2473,
+      "language": "TypeScript",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "topics": [],
+      "created_at": "2026-10-31T09:32:46Z",
       "owner": {
-        "login": "ccch1mneyyy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/268149062?v=4"
+        "login": "deepseek-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       }
     },
     {
@@ -60,8 +38,8 @@
       "full_name": "heydamir/unslop",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "description_cn": "a Claude skill that turns vibeCoded, AI-looking ui into a designed inter面",
-      "stars": 10854,
-      "forks": 594,
+      "stars": 11458,
+      "forks": 631,
       "language": "JavaScript",
       "url": "https://github.com/heydamir/unslop",
       "topics": [],
@@ -76,8 +54,8 @@
       "full_name": "wangzan101/Mika",
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "description_cn": "an 开启-dev内联缓存e AI 智能体 for android that operates apps and the 网页 to get things d开启e for you.",
-      "stars": 7445,
-      "forks": 1713,
+      "stars": 7638,
+      "forks": 1754,
       "language": "Kotlin",
       "url": "https://github.com/wangzan101/Mika",
       "topics": [
@@ -94,28 +72,12 @@
       }
     },
     {
-      "name": "ub-mode",
-      "full_name": "unclebob/ub-mode",
-      "description": "No description",
-      "description_cn": "",
-      "stars": 7217,
-      "forks": 405,
-      "language": "Unknown",
-      "url": "https://github.com/unclebob/ub-mode",
-      "topics": [],
-      "created_at": "2026-10-25T16:04:09Z",
-      "owner": {
-        "login": "unclebob",
-        "avatar_url": "https://avatars.githubusercontent.com/u/36901?v=4"
-      }
-    },
-    {
       "name": "ai-pose-gallery-zh",
       "full_name": "anhao/ai-pose-gallery-zh",
       "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "description_cn": "",
-      "stars": 6284,
-      "forks": 1599,
+      "stars": 6386,
+      "forks": 1615,
       "language": "TypeScript",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "topics": [
@@ -132,12 +94,28 @@
       }
     },
     {
+      "name": "Lichii",
+      "full_name": "zortos293/Lichii",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "description_cn": "very experimental nintendo switCh 2 emulator",
+      "stars": 5914,
+      "forks": 895,
+      "language": "C++",
+      "url": "https://github.com/zortos293/Lichii",
+      "topics": [],
+      "created_at": "2026-10-31T14:17:26Z",
+      "owner": {
+        "login": "zortos293",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777760?v=4"
+      }
+    },
+    {
       "name": "pixelfx",
       "full_name": "patch-gg/pixelfx",
       "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "description_cn": "244 像素 art effeCts, every 开启e a small 饼图Ce of Code. plus a Claude Code skill to make your own.",
-      "stars": 5649,
-      "forks": 743,
+      "stars": 5889,
+      "forks": 764,
       "language": "JavaScript",
       "url": "https://github.com/patch-gg/pixelfx",
       "topics": [
@@ -158,8 +136,8 @@
       "full_name": "valentderah/totk-pc-recomp",
       "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
       "description_cn": "stat内联缓存 re编ilati开启 of the legend of zelda: tears of the kingdom to native windows and linux x86-64, with a vulkan renderer. game files 否t inCluded.",
-      "stars": 5468,
-      "forks": 457,
+      "stars": 5731,
+      "forks": 472,
       "language": "C",
       "url": "https://github.com/valentderah/totk-pc-recomp",
       "topics": [
@@ -180,8 +158,8 @@
       "full_name": "Djihads80/Eglantine",
       "description": "VERY experimental Nintendo Switch 2 emulator",
       "description_cn": "very experimental nintendo switCh 2 emulator",
-      "stars": 4948,
-      "forks": 539,
+      "stars": 5249,
+      "forks": 575,
       "language": "C++",
       "url": "https://github.com/Djihads80/Eglantine",
       "topics": [],
@@ -190,158 +168,180 @@
         "login": "Djihads80",
         "avatar_url": "https://avatars.githubusercontent.com/u/76681596?v=4"
       }
+    },
+    {
+      "name": "RUN",
+      "full_name": "BryceYuuu/RUN",
+      "description": "RUN · 润：中国护照持有人的海外移居手册。欧洲 36 国 110 条移民路线 + 13 个主要移民地区：数字游民签证、欧盟蓝卡、技术移民、留学转工作、创业自雇、投资居留，每条附官方来源，持续更新。",
+      "description_cn": "",
+      "stars": 4192,
+      "forks": 302,
+      "language": "Python",
+      "url": "https://github.com/BryceYuuu/RUN",
+      "topics": [
+        "china",
+        "chinese",
+        "digital-nomad",
+        "digital-nomad-visa",
+        "emigration"
+      ],
+      "created_at": "2026-10-29T11:28:43Z",
+      "owner": {
+        "login": "BryceYuuu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/153735320?v=4"
+      }
     }
   ],
   "ai_news": [
     {
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "score": 1562,
-      "comments": 500,
-      "author": "motoroco",
-      "time": 1793917035,
-      "hn_url": "https://news.ycombinator.com/item?id=50385272",
-      "title_cn": "【AI, Claude】Claude Code sends your email address to websites"
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "score": 658,
+      "comments": 368,
+      "author": "infwhispers",
+      "time": 1794044763,
+      "hn_url": "https://news.ycombinator.com/item?id=50403097",
+      "title_cn": "Every Mac comes with an (undocumented) family member classifier"
     },
     {
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "score": 405,
-      "comments": 90,
-      "author": "theanomaly",
-      "time": 1793994531,
-      "hn_url": "https://news.ycombinator.com/item?id=50397429",
-      "title_cn": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost"
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "score": 430,
+      "comments": 254,
+      "author": "srean",
+      "time": 1794074537,
+      "hn_url": "https://news.ycombinator.com/item?id=50406563",
+      "title_cn": "【AI】The end of Microsoft Research's AI Frontiers group"
     },
     {
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "score": 308,
-      "comments": 223,
-      "author": "thisisauserid",
-      "time": 1793972127,
-      "hn_url": "https://news.ycombinator.com/item?id=50392118",
-      "title_cn": "Gemini Omni 1.2 Flash"
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "score": 278,
+      "comments": 190,
+      "author": "shmulc",
+      "time": 1794084332,
+      "hn_url": "https://news.ycombinator.com/item?id=50407882",
+      "title_cn": "【AI, Claude】Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files"
     },
     {
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "score": 306,
-      "comments": 246,
-      "author": "ChrisArchitect",
-      "time": 1793937628,
-      "hn_url": "https://news.ycombinator.com/item?id=50388001",
-      "title_cn": "【AI】US FAA says it will phase out floppy disks from air traffic control by 2028"
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "score": 247,
+      "comments": 72,
+      "author": "antiuniverse",
+      "time": 1794071940,
+      "hn_url": "https://news.ycombinator.com/item?id=50406222",
+      "title_cn": "MaxxBench – \"Nice DeepSWE score. But is it true?\""
     },
     {
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "score": 261,
-      "comments": 522,
-      "author": "dgellow",
-      "time": 1793984076,
-      "hn_url": "https://news.ycombinator.com/item?id=50394906",
-      "title_cn": "【Anthropic】Anthropic IPO buyers see valuation as low as $1.1T"
+      "title": "The $8 Linux Computer (2022)",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "score": 213,
+      "comments": 87,
+      "author": "zenincognito",
+      "time": 1794060020,
+      "hn_url": "https://news.ycombinator.com/item?id=50404599",
+      "title_cn": "The $8 Linux Computer (2022)"
     },
     {
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "score": 248,
-      "comments": 196,
-      "author": "yurivish",
-      "time": 1793996843,
-      "hn_url": "https://news.ycombinator.com/item?id=50397994",
-      "title_cn": "【AI】AI is dramatically accelerating AI research"
+      "title": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "score": 155,
+      "comments": 86,
+      "author": "geoffbp",
+      "time": 1794033544,
+      "hn_url": "https://news.ycombinator.com/item?id=50402212",
+      "title_cn": "The Components of Agent Memory"
     },
     {
-      "title": "First steps in bare-metal programming using UEFI",
-      "url": "https://kevinboone.me/efitest_index.html",
-      "score": 208,
-      "comments": 38,
-      "author": "LaSombra",
-      "time": 1793983829,
-      "hn_url": "https://news.ycombinator.com/item?id=50394855",
-      "title_cn": "First steps in bare-metal programming using UEFI"
+      "title": "How Long Can Life Wait?",
+      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "score": 133,
+      "comments": 85,
+      "author": "Ariarule",
+      "time": 1794068579,
+      "hn_url": "https://news.ycombinator.com/item?id=50405789",
+      "title_cn": "【AI】How Long Can Life Wait?"
     },
     {
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "url": "https://pwn.ai/blog/firecracker-escape",
-      "score": 203,
-      "comments": 99,
-      "author": "SerCe",
-      "time": 1793993618,
-      "hn_url": "https://news.ycombinator.com/item?id=50397219",
-      "title_cn": "Firecracker VM Escape: PwnEscape Part 2"
-    },
-    {
-      "title": "Chomsky and the two cultures of statistical learning (2011)",
-      "url": "https://www.norvig.com/chomsky.html",
-      "score": 116,
-      "comments": 92,
+      "title": "Five memorable books about programming (2008)",
+      "url": "https://prog21.dadgum.com/19.html",
+      "score": 100,
+      "comments": 62,
       "author": "andsoitis",
-      "time": 1793953116,
-      "hn_url": "https://news.ycombinator.com/item?id=50389570",
-      "title_cn": "Chomsky and the two cultures of statistical learning (2011)"
+      "time": 1794072649,
+      "hn_url": "https://news.ycombinator.com/item?id=50406319",
+      "title_cn": "Five memorable books about programming (2008)"
     },
     {
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "score": 107,
-      "comments": 56,
-      "author": "fiej",
-      "time": 1793992767,
-      "hn_url": "https://news.ycombinator.com/item?id=50397017",
-      "title_cn": "【AI】Restaurant Delivery Payment-Skimming Campaign"
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "score": 98,
+      "comments": 61,
+      "author": "rbanffy",
+      "time": 1793875924,
+      "hn_url": "https://news.ycombinator.com/item?id=50377661",
+      "title_cn": "【AI】Uranium cubes reveal why the German nuclear project failed"
     },
     {
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "url": "https://arxiv.org/abs/2610.21375",
-      "score": 101,
-      "comments": 10,
-      "author": "handfuloflight",
-      "time": 1793988213,
-      "hn_url": "https://news.ycombinator.com/item?id=50395919",
-      "title_cn": "【大语言模型】Memorilla: Latent Semantic Memory for LLMs"
+      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "score": 59,
+      "comments": 12,
+      "author": "jiant",
+      "time": 1794064561,
+      "hn_url": "https://news.ycombinator.com/item?id=50405263",
+      "title_cn": "【扩散模型, 模型】Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8"
     },
     {
-      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-      "score": 56,
-      "comments": 11,
-      "author": "rexbee",
-      "time": 1793995754,
-      "hn_url": "https://news.ycombinator.com/item?id=50397711",
-      "title_cn": "Google has acquired Crusoe's data center site in southeast Wyoming"
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "score": 39,
+      "comments": 20,
+      "author": "karagenit",
+      "time": 1794107508,
+      "hn_url": "https://news.ycombinator.com/item?id=50410107",
+      "title_cn": "【Claude】Goodbye Claude, Hello Pi"
     },
     {
-      "title": "The AI sell-off compared to well-known stock market crashes",
-      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-      "score": 35,
-      "comments": 24,
-      "author": "hubraumhugo",
-      "time": 1794018006,
-      "hn_url": "https://news.ycombinator.com/item?id=50401029",
-      "title_cn": "【AI】The AI sell-off compared to well-known stock market crashes"
+      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+      "url": "https://eyesrhythm.com/",
+      "score": 30,
+      "comments": 15,
+      "author": "prnysoni",
+      "time": 1794088067,
+      "hn_url": "https://news.ycombinator.com/item?id=50408350",
+      "title_cn": "【AI】Show HN: An offline desktop companion to help maintain a healthy blink rhythm"
     },
     {
-      "title": "Panthera: Ampere's CPU Performance Model",
-      "url": "https://github.com/AmpereComputing/panthera",
-      "score": 22,
-      "comments": 6,
-      "author": "mshockwave",
-      "time": 1793733137,
-      "hn_url": "https://news.ycombinator.com/item?id=50356722",
-      "title_cn": "【模型】Panthera: Ampere's CPU Performance Model"
-    },
-    {
-      "title": "Lighting the Skies",
-      "url": "https://computer.rip/2026-10-25-searchlights.html",
-      "score": 11,
+      "title": "Amsterdam School",
+      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+      "score": 14,
       "comments": 1,
-      "author": "dverlaeckt80",
-      "time": 1794022834,
-      "hn_url": "https://news.ycombinator.com/item?id=50401414",
-      "title_cn": "Lighting the Skies"
+      "author": "bondarchuk",
+      "time": 1793713819,
+      "hn_url": "https://news.ycombinator.com/item?id=50351954",
+      "title_cn": "Amsterdam School"
+    },
+    {
+      "title": "Consumer brain wave headsets threaten privacy",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "score": 7,
+      "comments": 1,
+      "author": "maxall4",
+      "time": 1794103358,
+      "hn_url": "https://news.ycombinator.com/item?id=50409856",
+      "title_cn": "【AI】Consumer brain wave headsets threaten privacy"
+    },
+    {
+      "title": "Kirlian Photography: Building Your Own Equipment",
+      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+      "score": 6,
+      "comments": 0,
+      "author": "joebig",
+      "time": 1794111252,
+      "hn_url": "https://news.ycombinator.com/item?id=50410359",
+      "title_cn": "Kirlian Photography: Building Your Own Equipment"
     }
   ]
 }
